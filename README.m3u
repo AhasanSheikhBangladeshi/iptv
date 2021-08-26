@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.urdu.news18.com/static-urdu/2020/03/Urdu1-1.png" group-title="خبریں",News18 Urdu
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
 #PLAYLIST:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="https://abbasrizvidev.github.io/LitreallyDataRepository/Images/zainabiachannel.png" group-title="Religious",Zainabia Channel
 http://zainabia2.livebox.co.in/Zainabiachannel2hls/live.m3u8
