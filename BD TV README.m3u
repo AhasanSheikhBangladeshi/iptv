@@ -290,6 +290,8 @@ http://jupiter.bdcabletv.com/JalshaMovies/index.m3u8
 https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/m8cS74j.png" tvg-country="PK" tvg-url="" group-title="",Minhaj TV
 https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://aryqtv.tv/wp-content/uploads/2018/04/ARY-QTV-Logo.jpg" group-title="مذہب",ARY QTV
+https://stream.arylive.com/QtvLive/index.m3u8
 #EXTINF:-1 tvg-id="IIPCTV.ca" tvg-name="IIPC TV" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="Religious",IIPC TV (480p)
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV.ir" tvg-name="Imam Hussein TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Religious",Imam Hussein TV (720p)
@@ -334,4 +336,3 @@ http://162.244.81.145:2215/live/livestream/playlist.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LdupRHi.jpg" group-title="RELIGIOUS",Ahlulbayt tv
 http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
-
