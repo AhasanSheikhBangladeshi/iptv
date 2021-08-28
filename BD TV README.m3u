@@ -336,3 +336,315 @@ http://162.244.81.145:2215/live/livestream/playlist.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LdupRHi.jpg" group-title="RELIGIOUS",Ahlulbayt tv
 http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nat_Geo_HD_Logo.svg/1280px-Nat_Geo_HD_Logo.svg.png" group-title="Documentary",National Geographic Bangla HD
+http://103.81.104.118/hls/stream13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Bangla HD" tvg-logo="https://cdn.imgbin.com/9/18/5/imgbin-discovery-channel-television-channel-discovery-hd-others-FMG1HDCEu5yeWjyk3QeXjf8W9.jpg" group-title="Documentary",Discovery Bangla HD
+http://103.81.104.118/hls/stream9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP Bangla HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="Documentary",Travel XP Bangla HD
+http://103.81.104.118/hls/stream37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Documentary",Sony BBC Earth HD
+http://103.81.104.118/hls/stream5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAT Geo Wild" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQIEnN4Ti5HbN7gcVm4vyfuH_6i9X89vYqL4-p_8VGH1S4wkVoA-xN-qXKlAu8Am24MI&usqp=CAU" group-title="Documentary",NAT Geo Wild
+http://103.81.104.118/hls/wild.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="Documentary",Animal Planet HD
+http://103.81.104.118/hls/stream6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Bangla HD Global" tvg-logo="https://cdn.imgbin.com/9/18/5/imgbin-discovery-channel-television-channel-discovery-hd-others-FMG1HDCEu5yeWjyk3QeXjf8W9.jpg" group-title="Documentary",Discovery Bangla HD Global
+http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26a6b1fbb4afd9b4d4f2393f1c64d7b6ac5564402c4bb535eb4642b959ca4cb7629983c53bbbd3fd119b10e1c56621772f6af77ea564e72027e60b2898a21c3a8cd31773d314d2239aa27e62a7fa2f29d&mac=http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:51:A2:B8&ip=27.96.95.31&magic_server=MAIN_MP&ip=103.121.220.147&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="Animel Planet HD Global" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="Documentary",Animel Planet HD Global
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e901782c5ad3f413434f76feba4126576823fdf44b34911850a0dc345c440cee76ee92138c664006a29d4792957a13ce9f386d0f81e4bad707c643dffddbb332a702f41eb8a4177934010da02cd85807927addfbee3fb015fe7846c156d439bd0f9899a593&mac=http://nwbz1u.ecm.tm/806B6CF/89181e/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26a6b1fbb4afd9b4d4f2393f1c64d7b6ac5564402c4bb535eb4642b959ca4cb7629983c53bbbd3fd119b10e1c56621772f6af77ea564e72027e60b2898a21c3a8cd31773d314d2239aa27e62a7fa2f29d&mac=http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:3A:6B:91&ip=27.96.95.31&magic_server=MAIN_MP&ip=103.121.220.147&magic_server=MAIN_MP:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="History TV 18 HD Global" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/History_tv18_hd.png/revision/latest/scale-to-width-down/250?cb=20210515171227" group-title="Documentary",History TV 18 HD Global
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-HISTORYTV18/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ef01782c497704995ee2d5d9f8c8b0ef53241df9281cf41545a5916413324b7ed48d67b5b450e865d76ec6e80dcad1ba8497eb901acd999791d4abfa48bd678de76c54f6a2b313d3baa3b38378f17e6068ced5ba5d28dfd061e9431a815786b1e0d7ad8c94d8f9&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQIEnN4Ti5HbN7gcVm4vyfuH_6i9X89vYqL4-p_8VGH1S4wkVoA-xN-qXKlAu8Am24MI&usqp=CAU" group-title="Documentary",NAT GEO WILD HD 4K
+http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Clarity 4K" tvg-logo="https://hd-report.com/wp-content/uploads/2016/01/4k-ultrahd-logo.jpg" group-title="Documentary",Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="" group-title="Documentary",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-bTviyeUdxZFhxevscUle_bOazWjTSFNMCga2-Hn-aIn0mrEfOZeHOnqqmGVYtrP1Pqo&usqp=CAU" group-title="Documentary",Discovery Bangla
+https://streamavi.ml/jio/live.php?c=Discovery_Channel_Bengali&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Documentary",Sony BBC Earth HD
+http://84.17.41.7/SONYEARTH/HD/HIN/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="https://avpn.asia/wp-content/uploads/2016/03/National-Geographic-logo-1024x768.png" group-title="Documentary",National Geographic HD
+http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic English" tvg-logo="" group-title="Documentary",National Geographic English
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dicovery Hindi SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89Lpopcj6CMTtHxs7dwjMFR3FnW4kcOBRN-4suUsVXvAS_fXVtVyir0NuPUs5tcP9cBo&usqp=CAU" group-title="Documentary",Dicovery Hindi SD
+https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery English SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89Lpopcj6CMTtHxs7dwjMFR3FnW4kcOBRN-4suUsVXvAS_fXVtVyir0NuPUs5tcP9cBo&usqp=CAU" group-title="Documentary",Discovery English SD
+https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science Hindi" tvg-logo="" group-title="Documentary",Discovery Science Hindi
+https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science ENG" tvg-logo="" group-title="Documentary",Discovery Science ENG
+https://idvd.multitvsolution.com/idvo/discoverscienceeng_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Tamil" tvg-logo="" group-title="Documentary",Discovery Tamil
+http://idvd.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="Documentary",Discovery Turbo
+https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="" group-title="Documentary",Investigation Discovery
+http://idvd.multitvsolution.com/idvo/investigationdiscovery_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD Bekup" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="Documentary",Animal Planet HD Bekup
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP HD Hindi" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="Documentary",Travel XP HD Hindi
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat GEO Wild HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQIEnN4Ti5HbN7gcVm4vyfuH_6i9X89vYqL4-p_8VGH1S4wkVoA-xN-qXKlAu8Am24MI&usqp=CAU" group-title="Documentary",Nat GEO Wild HD
+http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat GEO AD" tvg-logo="https://avpn.asia/wp-content/uploads/2016/03/National-Geographic-logo-1024x768.png" group-title="Documentary",Nat GEO AD
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="" group-title="Documentary",Love Nature
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor TV" tvg-logo="" group-title="Documentary",Outdoor TV
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="" group-title="Documentary",BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Documentary",TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation+" tvg-logo="" group-title="Documentary",Crime Investigation+
+http://203.154.243.31:15001
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="" group-title="Documentary",BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="" group-title="Documentary",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Realtime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89Lpopcj6CMTtHxs7dwjMFR3FnW4kcOBRN-4suUsVXvAS_fXVtVyir0NuPUs5tcP9cBo&usqp=CAU" group-title="Documentary",Discovery Realtime
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Giallo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89Lpopcj6CMTtHxs7dwjMFR3FnW4kcOBRN-4suUsVXvAS_fXVtVyir0NuPUs5tcP9cBo&usqp=CAU" group-title="Documentary",Discovery Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Nove" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89Lpopcj6CMTtHxs7dwjMFR3FnW4kcOBRN-4suUsVXvAS_fXVtVyir0NuPUs5tcP9cBo&usqp=CAU" group-title="Documentary",Discovery Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="Documentary",Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-id="" tvg-name="History TV" tvg-logo="" group-title="Documentary",History TV
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Documentary",Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngHSHGdqY3_lcnYemymaWjc807kOv_6DWOrWMV5UA=s900-c-k-c0x00ffffff-no-rj" group-title="Documentary",Travel XP
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet English" tvg-logo="" group-title="Documentary",Animal Planet English
+http://idvd.multitvsolution.com/idvo/animalplaneteng_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BD VS NZ LIVE" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2019/03/fc-big-1.png" group-title="Sports",BD VS NZ LIVE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628271752/ei/KCANYd_3F8rX3LUPlauiiA0/ip/123.253.65.153/id/aRmiV9lohMg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAO-rAju8aMZjtzEjFZ6deCNm2rWUpkm4643lphCU1DxQAiAHnK4TQOHU8UFtRcYymkpi-M31IxYIGnYa36ykFm8qZQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Live Sports FC 1" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2019/03/fc-big-1.png" group-title="Sports",Live Sports FC 1
+https://sonydaime.akamaized.net/hls/live/2022316/DAI12ME/master.m3u8?hdnea=st=1628876279~exp=1628876579~acl=*~id=d803b390-65b5-429c-ba4e-2935ac0b4be6~hmac=026693cde202b90c11f60119f4ae7ce2b3cc5e5b6134464179e8f5f3eebe3076&originpath=/linear/hls/pb/event/YdkvVYC9SWOpxSmk6DXUzQ/stream/b9fa8666-dba1-4a6f-b3a3-487fd07657a0:SIN2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Live Sports FC 2" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2019/03/fc-big-1.png" group-title="Sports",Live Sports FC 2
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628270679/ei/9xsNYcmEApGuz7sPoOG_WA/ip/103.217.111.141/id/iDYa48haPcw.1/source/yt_live_broadcast/requiressl/yes/tx/24047103/txs/24047098%2C24047099%2C24047100%2C24047101%2C24047102%2C24047103%2C24047104/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgDYS2NDk8EqswPwJ0YuJJ3uqORbl8AoHEx-lJ0kxfkscCIQDyM9qSOVRQiU-grpa38Y_FrF3M0ljb875XZ7faS3jpdw%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S Cricket" tvg-logo="https://stuff.co.za/wp-content/uploads/2020/08/placeholder.png" group-title="Sports",S Cricket
+http://nwbz1u.ecm.tm/806B6CF/89181e/SR_SS2_HD/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8d30e301782cfd952ef8d6f27fc7afe88f4fde17df92ea28974dd12502b0d750cccdbeb6977499fae4167e90e4b5c084705623a9c7cbcd376060ee03a5d239b0ad122479676cfcf71b5d712805a39860bfe2fc25d6c93ab47a&mac=00:1A:79:51:A2:B8&ip=202.134.8.137&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 501 Global" tvg-logo="" group-title="Sports",Fox Sports 501 Global
+http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:51:A2:B8&ip=202.134.10.142&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports HD Global" tvg-logo="" group-title="Sports",Sky Sports HD Global
+http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb48364dc6f3803029c84ed58a99bb56993ad53fb5d103eb54030890c8a99ff4d4ac3df2b32b6f274da890d382b30dbbaee94619c48122e2ce4f255bff964a5f91fa65450ec4f90d87a41a97b8e880ded9587fb15437c977&mac=00:1A:79:51:A2:B8&ip=202.134.10.142&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD 4K" tvg-logo="" group-title="Sports",Sony Six HD 4K
+http://84.17.41.7/sonysixhd/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 1" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Sports",Sony LIV 1
+https://dai.google.com/linear/hls/event/9RUnGSO8Tpq6hoLGEtnAyg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 2" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Sports",Sony LIV 2
+https://dai.google.com/linear/hls/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 3" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Sports",Sony LIV 3
+https://pubads.g.doubleclick.net/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 4" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Sports",Sony LIV 4
+https://pubads.g.doubleclick.net/ssai/event/OTz3QN8XQ7KzSvdh3uSfKw/master.m3u8?type=@29Rescheduled
+#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 5" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Sports",Sony LIV 5
+http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Willow HD" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Willow HD
+http://www.luckonline.eu:8080/live/KjPypddrq4/8p1pLrAVDh/517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports HD 1 Fast" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="Sports",Star Sports HD 1 Fast
+http://103.81.104.118/hls/stream15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD Fast" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/580754d3f297cb205707bb3a/1565806895477/61086ad65aa32aaf7fa609fef4dc5404.jpg" group-title="Sports",Star Sports 2 HD Fast
+http://103.81.104.118/hls/stream16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD Fast" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="Sports",Star Sports Select 1 HD Fast
+http://103.81.104.118/hls/stream12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2 HD Fast" tvg-logo="" group-title="Sports",Star Sports Select 2 HD Fast
+http://103.81.104.118/hls/select2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1 HD Fast" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5989b579420c3c1917b60396/1565808884193/b51668c42221dd2b383c1109aa95aad6.jpg" group-title="Sports",Sony Ten 1 HD Fast
+http://103.81.104.118/hls/stream40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2 HD Fast" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png" group-title="Sports",Sony Ten 2 HD Fast
+http://103.81.104.118/hls/stream39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 HD" tvg-logo="" group-title="Sports",Sony Ten 3 HD
+http://103.81.104.118/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD Fast" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="Sports",Sony Six HD Fast
+http://103.81.104.118/hls/stream10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ten Cricket Fast" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="Sports",Ten Cricket Fast
+http://103.81.104.118/hls/stream34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV Sports Fast" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports Fast
+http://103.81.104.118/hls/stream11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Geo Super" tvg-logo="" group-title="Sports",Geo Super
+http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?token=rk%F0%9F%8F%8F
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Bangla" tvg-logo="" group-title="Sports",Star Sports 1 Bangla
+http://103.157.237.18:8000/play/601
+#EXTINF:-1 tvg-id="" tvg-name="Euro Live 2020" tvg-logo="https://i.pinimg.com/originals/19/c5/e6/19c5e65086143d66c77a7cc34b0eafd9.png" group-title="Sports",Euro Live 2020
+http://134.19.182.131:8080/edg8_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV-SPORTS" tvg-logo="" group-title="Sports",PTV-SPORTS
+http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ten Sports" tvg-logo="" group-title="Sports",Ten Sports
+http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV Sports Bekup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports Bekup
+http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="https://www.daily-sun.com/assets/news_images/2021/02/08/T_Sports_logo.png" group-title="Sports",T Sports
+http://173.199.116.220/hls/tsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Sports HD" tvg-logo="https://www.daily-sun.com/assets/news_images/2021/02/08/T_Sports_logo.png" group-title="Sports",T Sports HD
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six Bekup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six Bekup
+http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports HD 2" tvg-logo="" group-title="Sports",Star Sports HD 2
+http://173.199.116.220/hls/chss2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="https://i.pinimg.com/474x/8a/a5/e1/8aa5e124922075d475bfb50f0102829e.jpg" group-title="Sports",Sony Ten 1
+http://173.199.116.220/hls/ten1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png" group-title="Sports",Sony Ten 2 HD
+http://173.199.116.220/hls/ten2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 HD" tvg-logo="http://likeetv.com/uploads/tv_image/sony-ten-3.jpg" group-title="Sports",Sony Ten 3 HD
+http://173.199.116.220/hls/ten3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="Sports",Sony Six HD
+http://173.199.116.220/hls/sonysix.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV_1" tvg-logo="" group-title="Sports",SPORTTV_1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV_2" tvg-logo="" group-title="Sports",SPORTTV_2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV_3" tvg-logo="" group-title="Sports",SPORTTV_3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV_4" tvg-logo="" group-title="Sports",SPORTTV_4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV_5" tvg-logo="" group-title="Sports",SPORTTV_5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="" group-title="Sports",Fox Sports 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="" group-title="Sports",Fox Sports 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="" group-title="Sports",Fox Sports 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DD Sports" tvg-logo="" group-title="Sports",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="Sports",Sky Sports Cricket
+http://31.220.41.88:8081/live/skysports-cricket1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports 1" tvg-logo="" group-title="Sports",AD Sports 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports 2" tvg-logo="" group-title="Sports",AD Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports 3" tvg-logo="" group-title="Sports",AD Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 504" tvg-logo="" group-title="Sports",Fox Sports 504
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sports 4" tvg-logo="" group-title="Sports",Astro Super Sports 4
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedBull" tvg-logo="" group-title="Sports",RedBull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports 2" tvg-logo="" group-title="Sports",Super Sports 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euro Sports 2" tvg-logo="" group-title="Sports",Euro Sports 2
+http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w622298732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Somos TV Max" tvg-logo="" group-title="Sports",Somos TV Max
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="Sports",Fox Sports
+http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD Bangla" tvg-logo="" group-title="Sports",Sony Six HD Bangla
+https://streamavi.ml/jio/live.php?c=Sony_Six_HD_Bengali&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six SD Bangla" tvg-logo="" group-title="Sports",Sony Six SD Bangla
+https://streamavi.ml/jio/live.php?c=Sony_Six_SD_Bengali&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 4 HD" tvg-logo="" group-title="Sports",Sony Ten 4 HD
+https://streamavi.ml/jio/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 HD LIV" tvg-logo="" group-title="Sports",Sony Ten 3 HD LIV
+https://streamavi.ml/jio/live.php?c=Ten3_HD&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2 HD LIV" tvg-logo="" group-title="Sports",Sony Ten 2 HD LIV
+https://streamavi.ml/jio/live.php?c=Ten2_HD&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD LIV" tvg-logo="" group-title="Sports",Sony Six HD LIV
+https://streamavi.ml/jio/live.php?c=Six_HD&q=800&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Hindi C" tvg-logo="" group-title="Sports",Star Sports 1 Hindi C
+http://dt1q9ova10xfm.cloudfront.net/hgdf32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 4 HD" tvg-logo="" group-title="Sports",Sony Ten 4 HD
+http://jupiter.bdcabletv.com/ten_4-pak/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DD Sports" tvg-logo="" group-title="Sports",DD Sports
+https://idvd.multitvsolution.com/idvo/ddsports_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Willow HD JP" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Willow HD JP
+http://jupiter.bdcabletv.com/willow_hd-sim/video.m3u8?token=rk
+#EXTINF:-1 tvg-id="" tvg-name="U Sports" tvg-logo="" group-title="Sports",U Sports
+http://51.210.227.143/hls/stream.m3u8?token=rk
+#EXTINF:-1 tvg-id="" tvg-name="Ten Sports" tvg-logo="" group-title="Sports",Ten Sports
+http://jupiter.bdcabletv.com/ten_sports-sim/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="" group-title="Sports",Tennis Channel
+http://164.68.124.111/acc.m3u8?token=tvflix.cf
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports 1" tvg-logo="" group-title="Sports",BT Sports 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S Premier League" tvg-logo="" group-title="Sports",S Premier League
+http://89.187.182.181:9090/SR_SS3_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 1" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 1
+https://pubads.g.doubleclick.net/ssai/event/xnt11g3ITBetU97WxbV3uw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 2" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 2
+https://pubads.g.doubleclick.net/ssai/event/JbFMr4I_ReyfFIwLjEaZZw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 3" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 3
+https://pubads.g.doubleclick.net/ssai/event/RyaJXCy0S621_J19LJC-aA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 4" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 4
+https://pubads.g.doubleclick.net/ssai/event/DMQqL8fcTMSuzlFPztxXtA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 5" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 5
+https://pubads.g.doubleclick.net/ssai/event/oVbzxnh5TEK_ssGRX5WZYw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 6" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 6
+https://pubads.g.doubleclick.net/ssai/event/Scoa8tpaTpC1qoXwFKefJQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 7" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 7
+https://pubads.g.doubleclick.net/ssai/event/WNjQSileSVirRXhWU3tFAw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 8" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 8
+https://pubads.g.doubleclick.net/ssai/event/cihN52epToSN20WqT8yygA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 9" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 9
+https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 10" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 10
+https://pubads.g.doubleclick.net/ssai/event/XnZGtdMrQFKtqtNjxHDo7Q/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 11" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 11
+https://pubads.g.doubleclick.net/ssai/event/9o6DQfRmS2evzn5gC2Xdzg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Infinity HD Global" tvg-logo="" group-title="English Tv Channel",Colors Infinity HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_COLORSINFINITY/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies Select HD Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRceWUo8_klwvQwX33uT80KbJFHDQzL2FuobJRS8vJ3NbClznj0vU_qoatAaAM60jEwpn8&usqp=CAU" group-title="English Tv Channel",Star Movies Select HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies HD Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="English Tv Channel",Star Movies HD Global
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:3A:6B:91&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="Star World HD Global" tvg-logo="" group-title="English Tv Channel",Star World HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_STARWORLD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix HD Global" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonypix_hd_masthead_logo.png" group-title="English Tv Channel",Sony Pix HD Global
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:3A:6B:91&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="&Prive HD Global" tvg-logo="" group-title="English Tv Channel",&Prive HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_ANDPRIVE/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&flix HD Global" tvg-logo="" group-title="English Tv Channel",&flix HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&Prive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Tv Channel",&Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&FLIX HD" tvg-logo="http://likeetv.com/uploads/tv_image/and-flix-hd.jpg" group-title="English Tv Channel",&FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix HD Fast" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonypix_hd_masthead_logo.png" group-title="English Tv Channel",Sony Pix HD Fast
+http://103.81.104.118/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="English Tv Channel",Star Movies
+http://103.81.104.118/hls/stream3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="English Tv Channel",AXN
+http://103.81.104.118/hls/stream2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies HD 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="English Tv Channel",Star Movies HD 4K
+http://84.17.41.7/StarMoviesHD-Hin/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star World 4K" tvg-logo="" group-title="English Tv Channel",Star World 4K
+http://84.17.41.7/StarWorldHD-Hin/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix HD BDIX" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonypix_hd_masthead_logo.png" group-title="English Tv Channel",Sony Pix HD BDIX
+http://173.199.116.220/hls/sonypix.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonypix_hd_masthead_logo.png" group-title="English Tv Channel",Sony Pix HD
+https://is.gd/ObFrpt
+#EXTINF:-1 tvg-id="" tvg-name="MAX HD" tvg-logo="" group-title="English Tv Channel",MAX HD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe" tvg-logo="" group-title="English Tv Channel",Zee Cafe
+http://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="" group-title="English Tv Channel",Zee Cafe HD
+http://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="English Tv Channel",HBO HD
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="" group-title="English Tv Channel",HBO Hits
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="" group-title="English Tv Channel",HBO Signature
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="English Tv Channel",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="English Tv Channel",TLC
+http://idvd.multitvsolution.com/idvo/tlceng_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="English Tv Channel",TLC HD
+http://idvd.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="English Tv Channel",FOX HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies HD" tvg-logo="" group-title="English Tv Channel",Fox Movies HD
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde" tvg-logo="" group-title="English Tv Channel",TV5 Monde
+https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="" group-title="English Tv Channel",Cinemax
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="" group-title="English Tv Channel",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="" group-title="English Tv Channel",Cinema World
+http://45.126.83.51/uq2663/h/h04/index.m3u8
