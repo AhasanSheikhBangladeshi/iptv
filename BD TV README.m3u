@@ -7,8 +7,6 @@ https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
 http://zainabia2.livebox.co.in/Zainabiachannel2hls/live.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://abbasrizvidev.github.io/LitreallyDataRepository/Images/wintv.png" group-title="Religious",Channel WIN
 http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunklist_w1848970713.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Aalami_Samay.jpeg/revision/latest?cb=20191228181716" group-title="News",Aalami Samay
-https://m-c08-j2apps.s.llnwi.net/hls/0375.AalamiSamay.in.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://india.mom-rsf.org/typo3temp/_processed_/9/2/csm_16552-1592_company_import_47d277c15d.jpg" group-title="News",NDTV
 https://dai.google.com/linear/hls/pb/event/cXpfjAMTR4OKnp9WJxHc9g/stream/d5177de9-d619-4cd2-9d93-1b9d5e588ec3:SIN2/master.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News",Aaj Tak
@@ -374,40 +372,12 @@ https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science Hindi" tvg-logo="" group-title="Documentary",Discovery Science Hindi
 https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science ENG" tvg-logo="" group-title="Documentary",Discovery Science ENG
-https://idvd.multitvsolution.com/idvo/discoverscienceeng_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Tamil" tvg-logo="" group-title="Documentary",Discovery Tamil
-http://idvd.multitvsolution.com/idvo/discoverytamil_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="Documentary",Discovery Turbo
-https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="" group-title="Documentary",Investigation Discovery
-http://idvd.multitvsolution.com/idvo/investigationdiscovery_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD Bekup" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="Documentary",Animal Planet HD Bekup
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Travel XP HD Hindi" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="Documentary",Travel XP HD Hindi
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nat GEO Wild HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQIEnN4Ti5HbN7gcVm4vyfuH_6i9X89vYqL4-p_8VGH1S4wkVoA-xN-qXKlAu8Am24MI&usqp=CAU" group-title="Documentary",Nat GEO Wild HD
 http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nat GEO AD" tvg-logo="https://avpn.asia/wp-content/uploads/2016/03/National-Geographic-logo-1024x768.png" group-title="Documentary",Nat GEO AD
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="" group-title="Documentary",Love Nature
-https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Outdoor TV" tvg-logo="" group-title="Documentary",Outdoor TV
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b450000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="" group-title="Documentary",BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Documentary",TLC
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation+" tvg-logo="" group-title="Documentary",Crime Investigation+
-http://203.154.243.31:15001
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="" group-title="Documentary",BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="" group-title="Documentary",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Realtime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89Lpopcj6CMTtHxs7dwjMFR3FnW4kcOBRN-4suUsVXvAS_fXVtVyir0NuPUs5tcP9cBo&usqp=CAU" group-title="Documentary",Discovery Realtime
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Giallo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89Lpopcj6CMTtHxs7dwjMFR3FnW4kcOBRN-4suUsVXvAS_fXVtVyir0NuPUs5tcP9cBo&usqp=CAU" group-title="Documentary",Discovery Giallo
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Nove" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89Lpopcj6CMTtHxs7dwjMFR3FnW4kcOBRN-4suUsVXvAS_fXVtVyir0NuPUs5tcP9cBo&usqp=CAU" group-title="Documentary",Discovery Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="Documentary",Discovery Asia
@@ -420,20 +390,7 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet English" tvg-logo="" group-title="Documentary",Animal Planet English
 http://idvd.multitvsolution.com/idvo/animalplaneteng_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BD VS NZ LIVE" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2019/03/fc-big-1.png" group-title="Sports",BD VS NZ LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628271752/ei/KCANYd_3F8rX3LUPlauiiA0/ip/123.253.65.153/id/aRmiV9lohMg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAO-rAju8aMZjtzEjFZ6deCNm2rWUpkm4643lphCU1DxQAiAHnK4TQOHU8UFtRcYymkpi-M31IxYIGnYa36ykFm8qZQ%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Sports FC 1" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2019/03/fc-big-1.png" group-title="Sports",Live Sports FC 1
-https://sonydaime.akamaized.net/hls/live/2022316/DAI12ME/master.m3u8?hdnea=st=1628876279~exp=1628876579~acl=*~id=d803b390-65b5-429c-ba4e-2935ac0b4be6~hmac=026693cde202b90c11f60119f4ae7ce2b3cc5e5b6134464179e8f5f3eebe3076&originpath=/linear/hls/pb/event/YdkvVYC9SWOpxSmk6DXUzQ/stream/b9fa8666-dba1-4a6f-b3a3-487fd07657a0:SIN2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Live Sports FC 2" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2019/03/fc-big-1.png" group-title="Sports",Live Sports FC 2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628270679/ei/9xsNYcmEApGuz7sPoOG_WA/ip/103.217.111.141/id/iDYa48haPcw.1/source/yt_live_broadcast/requiressl/yes/tx/24047103/txs/24047098%2C24047099%2C24047100%2C24047101%2C24047102%2C24047103%2C24047104/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgDYS2NDk8EqswPwJ0YuJJ3uqORbl8AoHEx-lJ0kxfkscCIQDyM9qSOVRQiU-grpa38Y_FrF3M0ljb875XZ7faS3jpdw%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="S Cricket" tvg-logo="https://stuff.co.za/wp-content/uploads/2020/08/placeholder.png" group-title="Sports",S Cricket
-http://nwbz1u.ecm.tm/806B6CF/89181e/SR_SS2_HD/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8d30e301782cfd952ef8d6f27fc7afe88f4fde17df92ea28974dd12502b0d750cccdbeb6977499fae4167e90e4b5c084705623a9c7cbcd376060ee03a5d239b0ad122479676cfcf71b5d712805a39860bfe2fc25d6c93ab47a&mac=00:1A:79:51:A2:B8&ip=202.134.8.137&magic_server=MAIN_MP
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 501 Global" tvg-logo="" group-title="Sports",Fox Sports 501 Global
-http://nwbz1u.ecm.tm/806B6CF/89181e/SK_AU_Fox_Sports_501/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf54ca92a57a759676626485e5874bf63894c2185a6aaf5dc2e24e8cb28eaf92e19c115c001a3e04ae108ccddd1c9e1e3d987bf3f19c96baa635670af3eea1262c962318d3b1a467e0b8126a01af07da71b2ccb3749&mac=00:1A:79:51:A2:B8&ip=202.134.10.142&magic_server=MAIN_MP
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports HD Global" tvg-logo="" group-title="Sports",Sky Sports HD Global
-http://nwbz1u.ecm.tm/806B6CF/89111e/GL_UK_SKY_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb48364dc6f3803029c84ed58a99bb56993ad53fb5d103eb54030890c8a99ff4d4ac3df2b32b6f274da890d382b30dbbaee94619c48122e2ce4f255bff964a5f91fa65450ec4f90d87a41a97b8e880ded9587fb15437c977&mac=00:1A:79:51:A2:B8&ip=202.134.10.142&magic_server=MAIN_MP
-#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD 4K" tvg-logo="" group-title="Sports",Sony Six HD 4K
-http://84.17.41.7/sonysixhd/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sony LIV 1" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Sports",Sony LIV 1
 https://dai.google.com/linear/hls/event/9RUnGSO8Tpq6hoLGEtnAyg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony LIV 2" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Sports",Sony LIV 2
@@ -507,7 +464,6 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="" group-title="Sports",Fox Sports 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="" group-title="Sports",Fox Sports 2
-
 #EXTINF:-1 tvg-id="" tvg-name="Sony Six HD Bangla" tvg-logo="" group-title="Sports",Sony Six HD Bangla
 https://streamavi.ml/jio/live.php?c=Sony_Six_HD_Bengali&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Six SD Bangla" tvg-logo="" group-title="Sports",Sony Six SD Bangla
@@ -526,40 +482,7 @@ http://dt1q9ova10xfm.cloudfront.net/hgdf32.m3u8
 http://jupiter.bdcabletv.com/ten_4-pak/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD Sports" tvg-logo="" group-title="Sports",DD Sports
 https://idvd.multitvsolution.com/idvo/ddsports_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Willow HD JP" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Willow HD JP
-http://jupiter.bdcabletv.com/willow_hd-sim/video.m3u8?token=rk
-#EXTINF:-1 tvg-id="" tvg-name="U Sports" tvg-logo="" group-title="Sports",U Sports
-http://51.210.227.143/hls/stream.m3u8?token=rk
-#EXTINF:-1 tvg-id="" tvg-name="Ten Sports" tvg-logo="" group-title="Sports",Ten Sports
-http://jupiter.bdcabletv.com/ten_sports-sim/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="" group-title="Sports",Tennis Channel
-http://164.68.124.111/acc.m3u8?token=tvflix.cf
-#EXTINF:-1 tvg-id="" tvg-name="BT Sports 1" tvg-logo="" group-title="Sports",BT Sports 1
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="S Premier League" tvg-logo="" group-title="Sports",S Premier League
-http://89.187.182.181:9090/SR_SS3_HD/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 1" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 1
-https://pubads.g.doubleclick.net/ssai/event/xnt11g3ITBetU97WxbV3uw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 2" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 2
-https://pubads.g.doubleclick.net/ssai/event/JbFMr4I_ReyfFIwLjEaZZw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 3" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 3
-https://pubads.g.doubleclick.net/ssai/event/RyaJXCy0S621_J19LJC-aA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 4" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 4
-https://pubads.g.doubleclick.net/ssai/event/DMQqL8fcTMSuzlFPztxXtA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 5" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 5
-https://pubads.g.doubleclick.net/ssai/event/oVbzxnh5TEK_ssGRX5WZYw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 6" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 6
-https://pubads.g.doubleclick.net/ssai/event/Scoa8tpaTpC1qoXwFKefJQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 7" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 7
-https://pubads.g.doubleclick.net/ssai/event/WNjQSileSVirRXhWU3tFAw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 8" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 8
-https://pubads.g.doubleclick.net/ssai/event/cihN52epToSN20WqT8yygA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 9" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 9
-https://pubads.g.doubleclick.net/ssai/event/YdkvVYC9SWOpxSmk6DXUzQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 10" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 10
-https://pubads.g.doubleclick.net/ssai/event/XnZGtdMrQFKtqtNjxHDo7Q/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 11" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Tokyo Olympic Live",Sony LIV 11
-https://pubads.g.doubleclick.net/ssai/event/9o6DQfRmS2evzn5gC2Xdzg/master.m3u8
+fRmS2evzn5gC2Xdzg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors Infinity HD Global" tvg-logo="" group-title="English Tv Channel",Colors Infinity HD Global
 http://89.187.182.181:9090/SM_FHD_ENG_COLORSINFINITY/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies Select HD Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRceWUo8_klwvQwX33uT80KbJFHDQzL2FuobJRS8vJ3NbClznj0vU_qoatAaAM60jEwpn8&usqp=CAU" group-title="English Tv Channel",Star Movies Select HD Global
@@ -590,8 +513,6 @@ http://84.17.41.7/StarMoviesHD-Hin/mono.m3u8
 http://84.17.41.7/StarWorldHD-Hin/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Pix HD BDIX" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonypix_hd_masthead_logo.png" group-title="English Tv Channel",Sony Pix HD BDIX
 http://173.199.116.220/hls/sonypix.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Pix HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonypix_hd_masthead_logo.png" group-title="English Tv Channel",Sony Pix HD
-https://is.gd/ObFrpt
 #EXTINF:-1 tvg-id="" tvg-name="MAX HD" tvg-logo="" group-title="English Tv Channel",MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cafe" tvg-logo="" group-title="English Tv Channel",Zee Cafe
