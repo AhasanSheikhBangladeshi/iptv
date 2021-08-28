@@ -21,10 +21,31 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
 http://edge-ind.inapcdn.in:1935/device2/camera2.stream/playlist.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/NDTV_24x7.svg/revision/latest?cb=20100420160719" group-title="News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/TNQKahI.png" tvg-country="IR" tvg-url="" group-title="News",Press TV
-https://bozztv.com/36bay2/gin/giniko_presstv_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/TNQKahI.png" tvg-country="IR" tvg-url="" group-title="News",Press TV
-https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News",Al Alam (576p)
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-id="AlKawtharTV.ir" tvg-name="Al Kawthar TV" tvg-country="IR" tvg-language="" tvg-logo="none" group-title="None",Al Kawthar TV (360p)
+http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
+#EXTINF:-1 tvg-id="ALBORZ.ir" tvg-name="ALBORZ" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",ALBORZ (576p)
+https://sdm.telewebion.com/live/alborz/playlist.m3u8
+#EXTINF:-1 tvg-id="TowheedTV.ae" tvg-name="Towheed TV" tvg-country="AE;IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/nsxrqta.jpg" group-title="Religious",Towheed TV (720p)
+http://51.210.199.1/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TV1.ir" tvg-name="TV1" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",TV1 (720p)
+https://sdm.telewebion.com/live/tv1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2.ir" tvg-name="TV2" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",TV2 (576p)
+https://sdm.telewebion.com/live/tv2/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3.ir" tvg-name="TV3" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",TV3 (480p)
+https://sdm.telewebion.com/live/tv3/playlist.m3u8
+#EXTINF:-1 tvg-id="TV4.ir" tvg-name="TV4" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",TV4 (576p)
+https://sdm.telewebion.com/live/tv4/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5.ir" tvg-name="TV5" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",TV5 (576p)
+https://sdm.telewebion.com/live/tehran/playlist.m3u8
+#EXTINF:-1 tvg-id="Varzesh.ir" tvg-name="Varzesh" tvg-country="IR" tvg-language="" tvg-logo="none" group-title="None",Varzesh (1080p)
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh/playlist.m3u8
+#EXTINF:-1 tvg-id="VARZESH.ir" tvg-name="VARZESH" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",VARZESH (720p)
+http://cdn1.live.irib.ir:1935/live-channels/smil:varzesh/playlist.m3u8
+#EXTINF:-1 tvg-id="YAZD.ir" tvg-name="YAZD" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",YAZD (576p)
+https://sdm.telewebion.com/live/taban/playlist.m3u8
+
 Server",Maasranga HD
 http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.assirat.tv/uploaded/HADIS.JPG" group-title="",Al-Sirat
