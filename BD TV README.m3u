@@ -507,33 +507,7 @@ http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="" group-title="Sports",Fox Sports 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="" group-title="Sports",Fox Sports 2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="" group-title="Sports",Fox Sports 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DD Sports" tvg-logo="" group-title="Sports",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="Sports",Sky Sports Cricket
-http://31.220.41.88:8081/live/skysports-cricket1.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AD Sports 1" tvg-logo="" group-title="Sports",AD Sports 1
-http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AD Sports 2" tvg-logo="" group-title="Sports",AD Sports 2
-http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AD Sports 3" tvg-logo="" group-title="Sports",AD Sports 3
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 504" tvg-logo="" group-title="Sports",Fox Sports 504
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sports 4" tvg-logo="" group-title="Sports",Astro Super Sports 4
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RedBull" tvg-logo="" group-title="Sports",RedBull
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super Sports 2" tvg-logo="" group-title="Sports",Super Sports 2
-http://93.157.62.180/Supersport2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euro Sports 2" tvg-logo="" group-title="Sports",Euro Sports 2
-http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w622298732.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Somos TV Max" tvg-logo="" group-title="Sports",Somos TV Max
-https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="Sports",Fox Sports
-http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sony Six HD Bangla" tvg-logo="" group-title="Sports",Sony Six HD Bangla
 https://streamavi.ml/jio/live.php?c=Sony_Six_HD_Bengali&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Six SD Bangla" tvg-logo="" group-title="Sports",Sony Six SD Bangla
@@ -632,19 +606,3 @@ http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="English Tv Channel",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="English Tv Channel",TLC
-http://idvd.multitvsolution.com/idvo/tlceng_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="" group-title="English Tv Channel",TLC HD
-http://idvd.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="English Tv Channel",FOX HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Movies HD" tvg-logo="" group-title="English Tv Channel",Fox Movies HD
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde" tvg-logo="" group-title="English Tv Channel",TV5 Monde
-https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="" group-title="English Tv Channel",Cinemax
-https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8?Live-TV™
-#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="" group-title="English Tv Channel",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="" group-title="English Tv Channel",Cinema World
-http://45.126.83.51/uq2663/h/h04/index.m3u8
