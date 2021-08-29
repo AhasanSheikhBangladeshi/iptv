@@ -11,6 +11,107 @@ http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunkl
 https://dai.google.com/linear/hls/pb/event/cXpfjAMTR4OKnp9WJxHc9g/stream/d5177de9-d619-4cd2-9d93-1b9d5e588ec3:SIN2/master.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News",Aaj Tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+ttps://tvstream.space/jtv/prrrrr.php?c=Sonic_Bangla&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hungama TV Bekup" tvg-logo="" group-title="Cartoon Channel",Hungama TV Bekup
+http://185.180.15.16:2200/R-EX/KIDS_Hungama_TV-in/tracks-v1a1/2021/06/18/11/11/30-10000.ts?token=
+#EXTINF:-1 tvg-id="" tvg-name="Nick HD+" tvg-logo="" group-title="Cartoon Channel",Nick HD+
+http://103.157.237.18:8000/play/413
+#EXTINF:-1 tvg-id="" tvg-name="Banglavision HD" tvg-logo="" group-title="RH Redoy Server",Banglavision HD
+https://rhridoy136.shortcm.li/banglavisiontv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="" group-title="RH Redoy Server",Independent TV
+https://rhridoy136.shortcm.li/independenttv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jumuna TV" tvg-logo="" group-title="RH Redoy Server",Jumuna TV
+https://rhridoy136.shortcm.li/jamunatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="" group-title="RH Redoy Server",Channel 24
+https://rhridoy136.shortcm.li/channel24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News 24 HD" tvg-logo="" group-title="RH Redoy Server",News 24 HD
+https://rhridoy136.shortcm.li/news24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="" group-title="RH Redoy Server",Somoy TV
+https://rhridoy136.shortcm.li/shomoytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC News HD" tvg-logo="" group-title="RH Redoy Server",DBC News HD
+https://rhridoy136.shortcm.li/dbcnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="" group-title="RH Redoy Server",Channel i HD
+https://rhridoy136.shortcm.li/channeli.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="RH Redoy Server",NTV
+https://rhridoy136.shortcm.li/ntv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="RH Redoy Server",RTV
+https://rhridoy136.shortcm.li/rtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maasranga TV HD" tvg-logo="" group-title="RH Redoy Server",Maasranga TV HD
+https://rhridoy136.shortcm.li/maasrangatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="" group-title="RH Redoy Server",Desh TV
+https://rhridoy136.shortcm.li/deshtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GaanBangla TV" tvg-logo="" group-title="RH Redoy Server",GaanBangla TV
+https://rhridoy136.shortcm.li/gaanbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="" group-title="RH Redoy Server",ATN News
+https://rhridoy136.shortcm.li/atnnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="" group-title="RH Redoy Server",ATN Bangla
+https://rhridoy136.shortcm.li/atnbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My TV HD" tvg-logo="" group-title="RH Redoy Server",My TV HD
+https://rhridoy136.shortcm.li/mytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SATV HD" tvg-logo="" group-title="RH Redoy Server",SATV HD
+https://rhridoy136.shortcm.li/satv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="" group-title="RH Redoy Server",Deepto TV
+https://rhridoy136.shortcm.li/deeptotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="" group-title="RH Redoy Server",BTV World
+https://rhridoy136.shortcm.li/btvworld.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="" group-title="RH Redoy Server",Ekushey TV
+https://rhridoy136.shortcm.li/ekusheytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bijoy TV" tvg-logo="" group-title="RH Redoy Server",Bijoy TV
+https://rhridoy136.shortcm.li/bijoytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="" group-title="RH Redoy Server",Mohona TV
+https://rhridoy136.shortcm.li/mohonatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="" group-title="RH Redoy Server",Boishakhi TV
+https://rhridoy136.shortcm.li/boishakhitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="" group-title="RH Redoy Server",Channel 9
+https://piratesiptv.shortcm.li/channel9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9 2" tvg-logo="" group-title="RH Redoy Server",Channel 9 2
+https://rhridoy136.shortcm.li/channel9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COLORS_CINEPLEX_HD 178.62" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/LANDSCAPE_43/hLnucnRV.png" group-title="Test Channel",COLORS_CINEPLEX_HD 178.62
+http://178.62.107.180/woh/index.m3u8?id=48141
+#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV TLBD" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngS8bfoUuVMSeuMMMYNBcT3wxxfUu8rvlg6ldqBKg=s900-c-k-c0x00ffffff-no-rj" group-title="Test Channel",Ekattor TV TLBD
+https://probashibangla-tv.telelivebd.com/live/ekattor/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My TV HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Test Channel",My TV HD 2
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports HD1 BDIX" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="Test Channel",Star Sports HD1 BDIX
+http://175.41.46.16:8081/hls/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD Z5" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png?o=production" group-title="Test Channel",Zee Bangla HD Z5
+http://cv.khushitv.xyz/channels.php?c=zeebanglahd&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DCB HD" tvg-logo="" group-title="Test Channel",DCB HD
+http://103.153.175.254:8080/hls/stream9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" tvg-logo="" group-title="Test Channel",Zee Bangla Cinema
+http://cdn.ihub.live:8080/j-Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="" group-title="Test Channel",Nat Geo Wild HD
+http://103.153.39.34:8000/play/a047/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD Hindi" tvg-logo="" group-title="Test Channel",Discovery HD Hindi
+http://103.153.39.34:8000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Hindi HD" tvg-logo="" group-title="Test Channel",Nat Geo Hindi HD
+http://103.153.39.34:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD multivision" tvg-logo="" group-title="Test Channel",Discovery HD multivision
+https://idvd.multitvsolution.com/idvo/discoveryhd_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD" tvg-logo="" group-title="Test Channel",Star Sports 1 HD
+http://103.153.39.34:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV Radiant TEst 21" tvg-logo="" group-title="Test Channel",Desh TV Radiant TEst 21
+http://103.205.133.21/hls/deshtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Test" tvg-logo="" group-title="Test Channel",Rakuten TV Test
+https://cutt.ly/gnSYIrX
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24 RH Redoy" tvg-logo="" group-title="Test Channel",Channel 24 RH Redoy
+https://rhridoy136.shortcm.li/channel24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekattor HD Toffe Link-2" tvg-logo="" group-title="Test Channel",Ekattor HD Toffe Link-2
+https://streamer-1.toffeelive.com/?bitrate=1024000&channel=ekattor_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb\
+#EXTINF:-1 tvg-id="" tvg-name="Euro Sports 1" tvg-logo="" group-title="Test Channel",Euro Sports 1
+http://178.62.107.180/woh/index.m3u8?id=49019
+#EXTINF:-1 tvg-id="" tvg-name="Bongo BD Test" tvg-logo="" group-title="Test Channel",Bongo BD Test
+https://live.bongobd.com/hls/j8CzVYGlH8A02LoironrFA/1624560470/bongo_movies_mid/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath Radiant" tvg-logo="" group-title="Test Channel",Sony Aath Radiant
+http://103.205.133.19/hls/sony8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Soudi Quran TV" tvg-logo="" group-title="Test Channel",Soudi Quran TV
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Naturabd Test" tvg-logo="" group-title="Test Channel",Naturabd Test
+http://103.213.238.70/j-DeeptoTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UTV MOVIES" tvg-logo="" group-title="Test Channel",UTV MOVIES
+http://103.153.39.34:8000/play/a06n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="utv action" tvg-logo="" group-title="Test Channel",utv action
+http://103.153.39.34:8000/play/a06o/index.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/78/CNBC_Bajar.svg/revision/latest?cb=20171105181209" group-title="News",CNBC Bajar
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f2/CNBC_TV18_II.svg/revision/latest?cb=20160508092735" group-title="News",CNBC TV18
