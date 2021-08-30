@@ -70,6 +70,13 @@ https://probashibangla-tv.telelivebd.com/live/ekattor/chunks.m3u8
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports HD1 BDIX" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="Test Channel",Star Sports HD1 BDIX
 http://175.41.46.16:8081/hls/3.m3u8
+http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
+http://yayin.netradyom.com:1935/live/on4/chunklist_w738595972.m3u8
+http://nl.livekadeh.com/hls2/velayattv.m3u8
+http://nl.livekadeh.com/hls2/alwilayah.tv.hausa_src.m3u8
+http://nl.livekadeh.com/hls2/alwilayah.tv_src.m3u8
+http://stream.arylive.com/aryqtv/myStream/tracks-v3a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="EkattorTV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngS8bfoUuVMSeuMMMYNBcT3wxxfUu8rvlg6ldqBKg=s900-c-k-c0x00ffffff-no-rj" group-title="CinemaBazz Server",EkattorTV
 https://cdn.cinemabaaz.live/EkattorTV/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TSports" tvg-logo="https://www.daily-sun.com/assets/news_images/2021/02/08/T_Sports_logo.png" group-title="CinemaBazz Server",TSports
