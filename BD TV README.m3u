@@ -12,10 +12,6 @@ https://dai.google.com/linear/hls/pb/event/cXpfjAMTR4OKnp9WJxHc9g/stream/d5177de
 #EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News",Aaj Tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 ttps://tvstream.space/jtv/prrrrr.php?c=Sonic_Bangla&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hungama TV Bekup" tvg-logo="" group-title="Cartoon Channel",Hungama TV Bekup
-http://185.180.15.16:2200/R-EX/KIDS_Hungama_TV-in/tracks-v1a1/2021/06/18/11/11/30-10000.ts?token=
-#EXTINF:-1 tvg-id="" tvg-name="Nick HD+" tvg-logo="" group-title="Cartoon Channel",Nick HD+
-http://103.157.237.18:8000/play/413
 #EXTINF:-1 tvg-id="" tvg-name="Banglavision HD" tvg-logo="" group-title="RH Redoy Server",Banglavision HD
 https://rhridoy136.shortcm.li/banglavisiontv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="" group-title="RH Redoy Server",Independent TV
@@ -36,6 +32,87 @@ https://rhridoy136.shortcm.li/channeli.m3u8
 https://rhridoy136.shortcm.li/ntv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="RH Redoy Server",RTV
 https://rhridoy136.shortcm.li/rtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maasranga TV HD" tvg-logo="" group-title="RH Redoy Server",Maasranga TV HD
+https://rhridoy136.shortcm.li/maasrangatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="" group-title="RH Redoy Server",Desh TV
+https://rhridoy136.shortcm.li/deshtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GaanBangla TV" tvg-logo="" group-title="RH Redoy Server",GaanBangla TV
+https://rhridoy136.shortcm.li/gaanbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="" group-title="RH Redoy Server",ATN News
+https://rhridoy136.shortcm.li/atnnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="" group-title="RH Redoy Server",ATN Bangla
+https://rhridoy136.shortcm.li/atnbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My TV HD" tvg-logo="" group-title="RH Redoy Server",My TV HD
+https://rhridoy136.shortcm.li/mytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SATV HD" tvg-logo="" group-title="RH Redoy Server",SATV HD
+https://rhridoy136.shortcm.li/satv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="" group-title="RH Redoy Server",Deepto TV
+https://rhridoy136.shortcm.li/deeptotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="" group-title="RH Redoy Server",BTV World
+https://rhridoy136.shortcm.li/btvworld.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="" group-title="RH Redoy Server",Ekushey TV
+https://rhridoy136.shortcm.li/ekusheytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bijoy TV" tvg-logo="" group-title="RH Redoy Server",Bijoy TV
+https://rhridoy136.shortcm.li/bijoytv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="" group-title="RH Redoy Server",Mohona TV
+https://rhridoy136.shortcm.li/mohonatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="" group-title="RH Redoy Server",Boishakhi TV
+https://rhridoy136.shortcm.li/boishakhitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="" group-title="RH Redoy Server",Channel 9
+https://piratesiptv.shortcm.li/channel9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="" group-title="RH Redoy Server",Gazi TV
+https://piratesiptv.shortcm.li/gazi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9 2" tvg-logo="" group-title="RH Redoy Server",Channel 9 2
+https://rhridoy136.shortcm.li/channel9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV TLBD" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngS8bfoUuVMSeuMMMYNBcT3wxxfUu8rvlg6ldqBKg=s900-c-k-c0x00ffffff-no-rj" group-title="Test Channel",Ekattor TV TLBD
+https://probashibangla-tv.telelivebd.com/live/ekattor/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My TV HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Test Channel",My TV HD 2
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports HD1 BDIX" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="Test Channel",Star Sports HD1 BDIX
+http://175.41.46.16:8081/hls/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EkattorTV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngS8bfoUuVMSeuMMMYNBcT3wxxfUu8rvlg6ldqBKg=s900-c-k-c0x00ffffff-no-rj" group-title="CinemaBazz Server",EkattorTV
+https://cdn.cinemabaaz.live/EkattorTV/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TSports" tvg-logo="https://www.daily-sun.com/assets/news_images/2021/02/08/T_Sports_logo.png" group-title="CinemaBazz Server",TSports
+https://cdn.cinemabaaz.live/j-TSports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MohonaTV" tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_2/public/feature/images/mohona-tv-bangladesh-logo.jpg?itok=jQMnDhKo" group-title="CinemaBazz Server",MohonaTV
+https://cdn.cinemabaaz.live/MohonaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://www.cyber-islam.university/wp-content/uploads/2019/06/Rtv.jpg" group-title="CinemaBazz Server",RTV
+https://cdn.cinemabaaz.live/RTV/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/images/ntv-facebook.jpg" group-title="CinemaBazz Server",NTV
+https://cdn.cinemabaaz.live/NTV/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV HD" tvg-logo="https://www.tbsnews.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2020/04/17/deepto_tv_logo.jpg?itok=yfQDOJ5b" group-title="CinemaBazz Server",Deepto TV HD
+https://cdn.cinemabaaz.live/j-DeeptoTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhGxqPPcaTkb1du60x4Ik9L-5v43KPp6gqxBKb4f82i4MpBcrJLIM63JdJnXgWFC23Ic&usqp=CAU" group-title="CinemaBazz Server",Channel 24
+https://cdn.cinemabaaz.live/j-Channel24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nagorik TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdUJs1hi5VuS58Mb9zqOyEPG54EkQwljcfNjXr6phz9Z8SUmf3Gi8AaU5ng9-H2MNXMfo&usqp=CAU" group-title="CinemaBazz Server",Nagorik TV
+https://cdn.cinemabaaz.live/NagorikTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/Sony_Max_HD.png" group-title="CinemaBazz Server",Sony Max HD
+https://cdn.cinemabaaz.live/j-Sony-MAX-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Gold HD" tvg-logo="" group-title="CinemaBazz Server",Star Gold HD
+https://cdn.cinemabaaz.live/j-star-gold-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ananda Tv" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/ananda-tv.link" group-title="CinemaBazz Server",Ananda Tv
+https://cdn.cinemabaaz.live/j-AnandaTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="CinemaBazz Server",ATN Bangla
+https://cdn.cinemabaaz.live/ATNBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/d/d2/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="CinemaBazz Server",ATN News
+https://cdn.cinemabaaz.live/ATNNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BanglaVision" tvg-logo="https://2.bp.blogspot.com/-F2OnFmGiaec/VkF-kMn37wI/AAAAAAAACHU/GNdh7SToWjQ/s1600/bangla-vision.jpg" group-title="CinemaBazz Server",BanglaVision
+https://cdn.cinemabaaz.live/j-BanglaVision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BijoyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="CinemaBazz Server",BijoyTV
+https://cdn.cinemabaaz.live/j-BijoyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BoishakhiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" group-title="CinemaBazz Server",BoishakhiTV
+https://cdn.cinemabaaz.live/BoishakhiTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="CinemaBazz Server",Channel i HD
+https://cdn.cinemabaaz.live/j-ChannelI/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBCNews HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAk6lM0eRdtK0H_AYaqhujaosqN3nMr7aefVXQbBvxkQ3C4rV75kxr9NCwCszz1fUSBH8&usqp=CAU" group-title="CinemaBazz Server",DBCNews HD
+https://cdn.cinemabaaz.live/DBCNews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BanglaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="CinemaBazz Server",BanglaTV
+https://cdn.cinemabaaz.live/j-BanglaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GaanBangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTNBTlK-SFyRRNK0DnONN1NYrYhY9E2p9uEpRjoOk2bYn2bFaVshvCIXWTcpYWfOfJ_OA&usqp=CAU" group-title="CinemaBazz Server",GaanBangla
+https://cdn.cinemabaaz.live/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maasranga TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTntHOCD1LAZZCjyI1OVDLEJoLrnB-paZpAZPafSlVbNORJgRMAZgrjOZWnEt2rKKlrySU&usqp=CAU" group-title="CinemaBazz Server",Maasranga TV HD
+https://cdn.cinemabaaz.live/j-Maasranga/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Maasranga TV HD" tvg-logo="" group-title="RH Redoy Server",Maasranga TV HD
 https://rhridoy136.shortcm.li/maasrangatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="" group-title="RH Redoy Server",Desh TV
@@ -105,23 +182,7 @@ https://live.bongobd.com/hls/j8CzVYGlH8A02LoironrFA/1624560470/bongo_movies_mid/
 #EXTINF:-1 tvg-id="" tvg-name="Sony Aath Radiant" tvg-logo="" group-title="Test Channel",Sony Aath Radiant
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Soudi Quran TV" tvg-logo="" group-title="Test Channel",Soudi Quran TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Naturabd Test" tvg-logo="" group-title="Test Channel",Naturabd Test
-http://103.213.238.70/j-DeeptoTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UTV MOVIES" tvg-logo="" group-title="Test Channel",UTV MOVIES
-http://103.153.39.34:8000/play/a06n/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="utv action" tvg-logo="" group-title="Test Channel",utv action
-http://103.153.39.34:8000/play/a06o/index.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/78/CNBC_Bajar.svg/revision/latest?cb=20171105181209" group-title="News",CNBC Bajar
-https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f2/CNBC_TV18_II.svg/revision/latest?cb=20160508092735" group-title="News",CNBC TV18
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/India_TV-0.jpg/revision/latest?cb=20180603162805" group-title="News",India TV
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/JK_24%C3%977_News.jpeg/revision/latest?cb=20191229061012" group-title="News",JK 24x7 News
-http://edge-ind.inapcdn.in:1935/device2/camera2.stream/playlist.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/NDTV_24x7.svg/revision/latest?cb=20100420160719" group-title="News",NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qur
 #EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="IRIB Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News",Al Alam (576p)
 https://live2.alalam.ir/alalam.m3u8
 EXTINF:-1 tvg-id="Sahar Urdu.ir" tvg-name="Sahar Urdu" tvg-country="IR" tvg-language="urdu" tvg-logo="none" group-title="None",Sahar Urdu (240p)
