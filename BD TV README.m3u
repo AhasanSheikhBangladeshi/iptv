@@ -70,8 +70,9 @@ https://probashibangla-tv.telelivebd.com/live/ekattor/chunks.m3u8
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports HD1 BDIX" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="Test Channel",Star Sports HD1 BDIX
 http://175.41.46.16:8081/hls/3.m3u8
-#EXTINF:1 tvg-country="IN" tvg-logo="" group-title="Religious",IBN TV 1
-http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
+#EXTINF:1 tvg-country="IN" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/cf/09/f8/cf09f8aa-178a-3b1e-6908-6af894e03835/source/60x60bb.jpg" group-title="Religious",IBN TV 1
+http://138.68.138.119:8080/low/5a8993709ea19/index.m3u
+#EXTINF:1 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/On4_tv_Logo.jpg/800px-On4_tv_Logo.jpg" group-title="Religious",ON4TV 
 http://yayin.netradyom.com:1935/live/on4/chunklist_w738595972.m3u8
 #EXTINF:1 tvg-country="IR" tvg-logo="" group-title="Religious",Al Velayat TV
 http://nl.livekadeh.com/hls2/velayattv.m3u8
@@ -79,6 +80,7 @@ http://nl.livekadeh.com/hls2/velayattv.m3u8
 http://nl.livekadeh.com/hls2/alwilayah.tv.hausa_src.m3u8
 #EXTINF:1 tvg-country="IR" tvg-logo=""group-title="Religious",Alwilayah Velayat Tv Hausa
 http://nl.livekadeh.com/hls2/alwilayah.tv_src.m3u8
+EXTINF:1 tvg-country="PK" tvg-logo=" " group-title="Religious",ARY QTV
 http://stream.arylive.com/aryqtv/myStream/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EkattorTV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngS8bfoUuVMSeuMMMYNBcT3wxxfUu8rvlg6ldqBKg=s900-c-k-c0x00ffffff-no-rj" group-title="CinemaBazz Server",EkattorTV
