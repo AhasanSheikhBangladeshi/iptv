@@ -52,14 +52,6 @@ https://rhridoy136.shortcm.li/deeptotv.m3u8
 https://rhridoy136.shortcm.li/btvworld.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="" group-title="RH Redoy Server",Ekushey TV
 https://rhridoy136.shortcm.li/ekusheytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bijoy TV" tvg-logo="" group-title="RH Redoy Server",Bijoy TV
-https://rhridoy136.shortcm.li/bijoytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="" group-title="RH Redoy Server",Mohona TV
-https://rhridoy136.shortcm.li/mohonatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="" group-title="RH Redoy Server",Boishakhi TV
-https://rhridoy136.shortcm.li/boishakhitv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="" group-title="RH Redoy Server",Channel 9
-https://piratesiptv.shortcm.li/channel9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="" group-title="RH Redoy Server",Gazi TV
 https://piratesiptv.shortcm.li/gazi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 9 2" tvg-logo="" group-title="RH Redoy Server",Channel 9 2
@@ -80,10 +72,8 @@ http://nl.livekadeh.com/hls2/velayattv.m3u8
 http://nl.livekadeh.com/hls2/alwilayah.tv.hausa_src.m3u8
 #EXTINF:1 tvg-country="IR" tvg-logo=""group-title="Religious",Alwilayah Velayat Tv Hausa
 http://nl.livekadeh.com/hls2/alwilayah.tv_src.m3u8
-
 #EXTINF:1 tvg-country="PK" tvg-logo="" group-title="Religious",ARY QTV
 http://stream.arylive.com/aryqtv/myStream/tracks-v3a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="EkattorTV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngS8bfoUuVMSeuMMMYNBcT3wxxfUu8rvlg6ldqBKg=s900-c-k-c0x00ffffff-no-rj" group-title="CinemaBazz Server",EkattorTV
 https://cdn.cinemabaaz.live/EkattorTV/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TSports" tvg-logo="https://www.daily-sun.com/assets/news_images/2021/02/08/T_Sports_logo.png" group-title="CinemaBazz Server",TSports
@@ -159,10 +149,6 @@ https://piratesiptv.shortcm.li/channel9.m3u8
 https://rhridoy136.shortcm.li/channel9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS_CINEPLEX_HD 178.62" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/LANDSCAPE_43/hLnucnRV.png" group-title="Test Channel",COLORS_CINEPLEX_HD 178.62
 http://178.62.107.180/woh/index.m3u8?id=48141
-#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV TLBD" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngS8bfoUuVMSeuMMMYNBcT3wxxfUu8rvlg6ldqBKg=s900-c-k-c0x00ffffff-no-rj" group-title="Test Channel",Ekattor TV TLBD
-https://probashibangla-tv.telelivebd.com/live/ekattor/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="My TV HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Test Channel",My TV HD 2
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports HD1 BDIX" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="Test Channel",Star Sports HD1 BDIX
 http://175.41.46.16:8081/hls/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD Z5" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png?o=production" group-title="Test Channel",Zee Bangla HD Z5
@@ -181,8 +167,6 @@ http://103.153.39.34:8000/play/a04h/index.m3u8
 https://idvd.multitvsolution.com/idvo/discoveryhd_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD" tvg-logo="" group-title="Test Channel",Star Sports 1 HD
 http://103.153.39.34:8000/play/a040/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Desh TV Radiant TEst 21" tvg-logo="" group-title="Test Channel",Desh TV Radiant TEst 21
-http://103.205.133.21/hls/deshtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Test" tvg-logo="" group-title="Test Channel",Rakuten TV Test
 https://cutt.ly/gnSYIrX
 #EXTINF:-1 tvg-id="" tvg-name="Channel 24 RH Redoy" tvg-logo="" group-title="Test Channel",Channel 24 RH Redoy
@@ -191,16 +175,12 @@ https://rhridoy136.shortcm.li/channel24.m3u8
 https://streamer-1.toffeelive.com/?bitrate=1024000&channel=ekattor_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb\
 #EXTINF:-1 tvg-id="" tvg-name="Euro Sports 1" tvg-logo="" group-title="Test Channel",Euro Sports 1
 http://178.62.107.180/woh/index.m3u8?id=49019
-#EXTINF:-1 tvg-id="" tvg-name="Bongo BD Test" tvg-logo="" group-title="Test Channel",Bongo BD Test
-https://live.bongobd.com/hls/j8CzVYGlH8A02LoironrFA/1624560470/bongo_movies_mid/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Aath Radiant" tvg-logo="" group-title="Test Channel",Sony Aath Radiant
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Soudi Quran TV" tvg-logo="" group-title="Test Channel",Soudi Quran TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qur
 #EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="IRIB Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News",Al Alam (576p)
 https://live2.alalam.ir/alalam.m3u8
-EXTINF:-1 tvg-id="Sahar Urdu.ir" tvg-name="Sahar Urdu" tvg-country="IR" tvg-language="urdu" tvg-logo="none" group-title="None",Sahar Urdu (240p)
-http://cdn1.live.irib.ir:1935/epg-live/smil:saharurdu/playlist.m3u8
 #EXTINF:-1 tvg-id="AlKawtharTV.ir" tvg-name="IRIB Al Kawthar TV" tvg-country="IR" tvg-language="" tvg-logo="none" group-title="None",Al Kawthar TV (360p)
 http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
 #EXTINF:-1 tvg-id="ALBORZ.ir" tvg-name="IRIB ALBORZ" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",ALBORZ (576p)
