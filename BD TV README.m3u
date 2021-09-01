@@ -76,6 +76,8 @@ http://nl.livekadeh.com/hls2/alwilayah.tv_src.m3u8
 http://stream.arylive.com/aryqtv/myStream/tracks-v3a1/mono.m3u8
 #EXTINF:1 tvg-country="ID" tvg-logo=" " group-title="Religious",Wesal TV 2
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w2106987031.m3u8
+#EXTINF:1 tvg-country="Arab" tvg-logo=" " group-title="Religious",AlErth Nabawi TV
+http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:1 tvg-country="ID" tvg-logo=" " group-title="Religious",Al Nabawi TV
 http://stream1.ninmedia.tv:1935/nabawitv/nabawitv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EkattorTV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngS8bfoUuVMSeuMMMYNBcT3wxxfUu8rvlg6ldqBKg=s900-c-k-c0x00ffffff-no-rj" group-title="CinemaBazz Server",EkattorTV
@@ -120,7 +122,8 @@ https://cdn.cinemabaaz.live/j-BanglaTV/tracks-v1a1/mono.m3u8
 https://cdn.cinemabaaz.live/GaanBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Maasranga TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTntHOCD1LAZZCjyI1OVDLEJoLrnB-paZpAZPafSlVbNORJgRMAZgrjOZWnEt2rKKlrySU&usqp=CAU" group-title="CinemaBazz Server",Maasranga TV HD
 https://cdn.cinemabaaz.live/j-Maasranga/tracks-v1a1/mono.m3u8
-
+#EXTINF:1 tvg-country="PK" tvg-logo=" " group-title="Pakistani",PK 92News TV
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
 #EXTINF:-1 tvg-id="" tvg-name="Maasranga TV HD" tvg-logo="" group-title="RH Redoy Server",Maasranga TV HD
 https://rhridoy136.shortcm.li/maasrangatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="" group-title="RH Redoy Server",Desh TV
