@@ -186,6 +186,9 @@ http://178.62.107.180/woh/index.m3u8?id=49019
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Soudi Quran TV" tvg-logo="" group-title="Test Channel",Soudi Quran TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qur
+#EXTINF:1 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg"
+group-title="Pakistani",ARY News
+https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="IRIB Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News",Al Alam (576p)
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="AlKawtharTV.ir" tvg-name="IRIB Al Kawthar TV" tvg-country="IR" tvg-language="" tvg-logo="none" group-title="None",Al Kawthar TV (360p)
