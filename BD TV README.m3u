@@ -72,7 +72,7 @@ http://nl.livekadeh.com/hls2/velayattv.m3u8
 http://nl.livekadeh.com/hls2/alwilayah.tv.hausa_src.m3u8
 #EXTINF:1 tvg-country="IR" tvg-logo="https://www.altkia.com/wp-content/uploads/2015/04/Al-Wilayah-TV.jpg"group-title="Religious",Alwilayah Velayat Tv Arabic
 http://nl.livekadeh.com/hls2/alwilayah.tv_src.m3u8
-#EXTINF:1 tvg-country="PK" tvg-logo="" group-title="Religious",ARY QTV
+#EXTINF:1 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png"https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png group-title="Religious",ARY QTV
 http://stream.arylive.com/aryqtv/myStream/tracks-v3a1/mono.m3u8
 #EXTINF:1 tvg-country="ID" tvg-logo=" " group-title="Religious",Wesal TV 2
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w2106987031.m3u8
