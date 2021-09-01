@@ -66,7 +66,7 @@ http://175.41.46.16:8081/hls/3.m3u8
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u
 #EXTINF:1 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/On4_tv_Logo.jpg/800px-On4_tv_Logo.jpg" group-title="Religious",ON4TV 
 http://yayin.netradyom.com:1935/live/on4/chunklist_w738595972.m3u8
-#EXTINF:1 tvg-country="IR" tvg-logo="" group-title="Religious",Al Velayat TV
+#EXTINF:1 tvg-country="IR" tvg-logo="https://shialivetv.com/shialive/assets/img/velayatiran.jpg"group-title="Religiouhttps://shialivetv.com/shialive/assets/img/velayatiran.jpg" group-title="Relegious",Al Velayat TV
 http://nl.livekadeh.com/hls2/velayattv.m3u8
 #EXTINF:1 tvg-country="IR" tvg-logo="https://www.altkia.com/wp-content/uploads/2015/04/Al-Wilayah-TV.jpg"group-title="Religious",Alwilayah Velayat Tv AR
 http://nl.livekadeh.com/hls2/alwilayah.tv.hausa_src.m3u8
