@@ -110,6 +110,12 @@ https://cdn.cinemabaaz.live/ATNNews/tracks-v1a1/mono.m3u8
 https://cdn.cinemabaaz.live/j-BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BijoyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="CinemaBazz Server",BijoyTV
 https://cdn.cinemabaaz.live/j-BijoyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="EmanChannel.uk" tvg-name="Eman Channel" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/NWljgKa.png" group-title="Religious",Eman Channel (576p)
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 tvg-id="AlimanTV.lb" tvg-name="Aliman TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/817xRPg.png" group-title="Religious",Aliman TV (240p) [Not 24/7]
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkafeelThewindowofAlKafeel.iq" tvg-name="Alkafeel: The window of Al-Kafeel" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://alkafeel.net/src/svg/logo_stripped.svg" group-title="Religious",Alkafeel: The window of Al-Kafeel (720p) [Not 24/7]
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BoishakhiTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" group-title="CinemaBazz Server",BoishakhiTV
 https://cdn.cinemabaaz.live/BoishakhiTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="CinemaBazz Server",Channel i HD
