@@ -134,7 +134,7 @@ https://rhridoy136.shortcm.li/atnbangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="My TV HD" tvg-logo="" group-title="RH Redoy Server",My TV HD
 https://rhridoy136.shortcm.li/mytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SATV HD" tvg-logo="" group-title="RH Redoy Server",SATV HD
-https://rhridoy136.shortcm.li/satv.m3u8
+https://rhridoy136.shortcm.li/satv.m3gu8
 #EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="" group-title="RH Redoy Server",Deepto TV
 https://rhridoy136.shortcm.li/deeptotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="" group-title="RH Redoy Server",BTV World
@@ -457,7 +457,6 @@ http://103.81.104.118/hls/stream30.m3u8
 http://103.81.104.118/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colors Bangla HD" tvg-logo="https://durbinlive.com/uploads/tv_image/colors-bangla-hd.png" group-title="Kolkata Tv Channel",Colors Bangla HD
 http://103.81.104.118/hls/stream28.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Colors Bangla HD DL" tvg-logo="" group-title="Kolkata Tv Channel",Colors Bangla HD DL
 https://jio.instream.ml/jio.php?c=Colors_Bengali_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema Z5" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjyaZ7wUCDEHCqccSAJWD3PQ4ilJIsIUWMhcNl8zQ=s900-c-k-c0x00ffffff-no-rj" group-title="Kolkata Tv Channel",Zee Bangla Cinema Z5
@@ -473,6 +472,14 @@ https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
 https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="IIPCTV.ca" tvg-name="IIPC TV" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="Religious",IIPC TV (480p)
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AhlulbaytTV.uk" tvg-name="Ahlulbayt TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/qLqHPhK.png" group-title="Religious",Ahlulbayt TV (404p)
+http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Iqraa.sa" tvg-name="Iqraa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa (576p) [Not 24/7]
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="IqraaEuropeAfrica.sa" tvg-name="Iqraa Europe Africa" tvg-country="SA" tvg-language="English" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa Europe Africa (576p) [Not 24/7]
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al-Resalah" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/resala.png" group-title="Religious",Al-Resalah (1080p) [Geo-blocked]
+https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV.ir" tvg-name="Imam Hussein TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Religious",Imam Hussein TV (720p)
 https://fa.imamhusseintv.com/live/ih1.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV.ir" tvg-name="Imam Hussein TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/FPfq4O5.png" group-title="Religious",Imam Hussein TV 1 (360p)
