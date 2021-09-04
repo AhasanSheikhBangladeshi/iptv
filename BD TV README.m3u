@@ -563,19 +563,6 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet English" tvg-logo="" group-title="Documentary",Animal Planet English
 http://idvd.multitvsolution.com/idvo/animalplaneteng_540p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 1" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Sports",Sony LIV 1
-https://dai.google.com/linear/hls/event/9RUnGSO8Tpq6hoLGEtnAyg/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 2" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Sports",Sony LIV 2
-https://dai.google.com/linear/hls/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 3" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Sports",Sony LIV 3
-https://pubads.g.doubleclick.net/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 4" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Sports",Sony LIV 4
-https://pubads.g.doubleclick.net/ssai/event/OTz3QN8XQ7KzSvdh3uSfKw/master.m3u8?type=@29Rescheduled
-#EXTINF:-1 tvg-id="" tvg-name="Sony LIV 5" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="Sports",Sony LIV 5
-http://goiptv.co:8080/live/Ziouiahmed/ldfqcx8bvm/3381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Willow HD" tvg-logo="https://www.airtv.net/images/logos/hindi/Willow-HD.png" group-title="Sports",Willow HD
-http://www.luckonline.eu:8080/live/KjPypddrq4/8p1pLrAVDh/517.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports HD 1 Fast" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="Sports",Star Sports HD 1 Fast
 http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD Fast" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/580754d3f297cb205707bb3a/1565806895477/61086ad65aa32aaf7fa609fef4dc5404.jpg" group-title="Sports",Star Sports 2 HD Fast
@@ -624,16 +611,6 @@ http://173.199.116.220/hls/ten2.m3u8
 http://173.199.116.220/hls/ten3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Six HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="Sports",Sony Six HD
 http://173.199.116.220/hls/sonysix.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV_1" tvg-logo="" group-title="Sports",SPORTTV_1
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV_2" tvg-logo="" group-title="Sports",SPORTTV_2
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV_3" tvg-logo="" group-title="Sports",SPORTTV_3
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV_4" tvg-logo="" group-title="Sports",SPORTTV_4
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV_5" tvg-logo="" group-title="Sports",SPORTTV_5
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="" group-title="Sports",Fox Sports 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="" group-title="Sports",Fox Sports 2
