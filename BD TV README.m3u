@@ -187,6 +187,14 @@ http://103.205.133.19/hls/sony8.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qur
 #EXTINF:1 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg"
 group-title="Pakistani",ARY News
+#EXTINF:-1 tvg-id="MakkahTV.sa" tvg-name="Makkah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Religious",Makkah TV (480p)
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="KalemehTV.us" tvg-name="Kalemeh TV" tvg-country="US" tvg-language="Farsi" tvg-logo="https://i.imgur.com/j4VjHWN.jpg" group-title="Religious",Kalemeh TV (1080p) [Not 24/7]
+http://184.75.208.98:1935/live/kalemeh/playlist.m3u8
+#EXTINF:-1 tvg-id="KalemehTV.uk" tvg-name="Kalemeh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="Religious",Kalemeh TV (576p) [Not 24/7]
+http://51.210.199.37/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KalemehTV.ir" tvg-name="Kalemeh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/HQjLbwm.png" group-title="Religious",Kalemeh TV (1080p) [Not 24/7]
+https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="IRIB Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News",Al Alam (576p)
 https://live2.alalam.ir/alalam.m3u8
@@ -220,8 +228,6 @@ https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 https://sdm.telewebion.com/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/TNQKahI.png" group-title="News",Press TV English (720p)
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
-#EXTINF:-1 tvg-id="PressTV.ir" tvg-name="Press TV" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/TNQKahI.png" group-title="News",Press TV French (720p)
-https://live1.presstv.ir/live/presstvfr/index.m3u8
 #EXTINF:-1 tvg-id="ESFAHAN.ir" tvg-name="IRIB ESFAHAN" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",ESFAHAN (576p)
 https://sdm.telewebion.com/live/esfahan/playlist.m3u8
 #EXTINF:-1 tvg-id="ESHRAGH.ir" tvg-name="IRIB ESHRAGH" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",ESHRAGH (576p)
