@@ -17,32 +17,13 @@ https://rhridoy136.shortcm.li/banglavisiontv.m3u8
 https://rhridoy136.shortcm.li/independenttv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jumuna TV" tvg-logo="" group-title="RH Redoy Server",Jumuna TV
 https://rhridoy136.shortcm.li/jamunatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="" group-title="RH Redoy Server",Channel 24
-https://rhridoy136.shortcm.li/channel24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News 24 HD" tvg-logo="" group-title="RH Redoy Server",News 24 HD
-https://rhridoy136.shortcm.li/news24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="" group-title="RH Redoy Server",Somoy TV
 https://rhridoy136.shortcm.li/shomoytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="" group-title="RH Redoy Server",Channel i HD
 https://rhridoy136.shortcm.li/channeli.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="RH Redoy Server",NTV
 https://rhridoy136.shortcm.li/ntv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="RH Redoy Server",RTV
-https://rhridoy136.shortcm.li/rtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Maasranga TV HD" tvg-logo="" group-title="RH Redoy Server",Maasranga TV HD
-https://rhridoy136.shortcm.li/maasrangatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="" group-title="RH Redoy Server",Desh TV
-https://rhridoy136.shortcm.li/deshtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GaanBangla TV" tvg-logo="" group-title="RH Redoy Server",GaanBangla TV
-https://rhridoy136.shortcm.li/gaanbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="" group-title="RH Redoy Server",ATN News
-https://rhridoy136.shortcm.li/atnnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="" group-title="RH Redoy Server",ATN Bangla
-https://rhridoy136.shortcm.li/atnbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="My TV HD" tvg-logo="" group-title="RH Redoy Server",My TV HD
-https://rhridoy136.shortcm.li/mytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SATV HD" tvg-logo="" group-title="RH Redoy Server",SATV HD
-https://rhridoy136.shortcm.li/satv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="" group-title="RH Redoy Server",Deepto TV
 https://rhridoy136.shortcm.li/deeptotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="" group-title="RH Redoy Server",BTV World
@@ -73,7 +54,7 @@ http://nl.livekadeh.com/hls2/alwilayah.tv_src.m3u8
 http://stream.arylive.com/aryqtv/myStream/tracks-v3a1/mono.m3u8
 #EXTINF:1 tvg-country="ID" tvg-logo=" " group-title="Religious",Wesal TV 2
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w2106987031.m3u8
-#EXTINF:1 tvg-country="Arab" tvg-logo=" " group-title="Religious",AlErth Nabawi TV
+#EXTINF:-1 tvg-id="AlerthAlnabawi.ye" tvg-name="Alerth Alnabawi" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="Religious",Alerth Alnabawi (576p) [Not 24/7]
 http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:1 tvg-country="ID" tvg-logo=" " group-title="Religious",Al Nabawi TV
 http://stream1.ninmedia.tv:1935/nabawitv/nabawitv/chunklist.m3u8
@@ -107,6 +88,36 @@ https://cdn.cinemabaaz.live/ATNNews/tracks-v1a1/mono.m3u8
 https://cdn.cinemabaaz.live/j-BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BijoyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="CinemaBazz Server",BijoyTV
 https://cdn.cinemabaaz.live/j-BijoyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="News",CNN Indonesia (720p)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KTV1.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="None",KTV 1 (1080p) [Not 24/7]
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
+#EXTINF:-1 tvg-id="KTV2.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg" group-title="None",KTV 2 (1080p) [Not 24/7]
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8
+#EXTINF:-1 tvg-id="KTVEthraa.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif" group-title="None",KTV Ethraa (1080p) [Not 24/7]
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
+#EXTINF:-1 tvg-id="KTVSport.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="Sports",KTV Sport (1080p) [Not 24/7]
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+#EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" group-title="None",KTV Sport Plus (1080p) [Not 24/7]
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
+#EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-country="MY" tvg-language="" tvg-logo="none" group-title="None",TV Alhijrah (480p) [Not 24/7]
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="General",Al Aoula Laayoune (360p)
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV1-May21-JPG.jpg" group-title="None",TV1 (720p)
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="None",TV2 (720p)
+http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="None",TV2 (1080p)
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3.my" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="None",TV3 (720p)
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 tvg-id="TV6.my" tvg-country="MY" tvg-language="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="None",TV6 (1080p)
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+#EXTINF:-1 tvg-id="OmanTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C7kfubs.png" group-title="General",Oman TV (1080p)
+https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EmanChannel.uk" tvg-name="Eman Channel" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/NWljgKa.png" group-title="Religious",Eman Channel (576p)
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:-1 tvg-id="AlimanTV.lb" tvg-name="Aliman TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/817xRPg.png" group-title="Religious",Aliman TV (240p) [Not 24/7]
