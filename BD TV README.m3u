@@ -21,6 +21,48 @@ https://rhridoy136.shortcm.li/jamunatv.m3u8
 https://rhridoy136.shortcm.li/shomoytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="" group-title="RH Redoy Server",Channel i HD
 https://rhridoy136.shortcm.li/channeli.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOCaXU1aQbQluYjgVjxOvwFmCyMsKIeOmVinzBqWIFRgrjLnv4_7x2sgyVUY1MdaKlXY&usqp=CAU" group-title="BDIX Server",RTV HD
+http://103.205.133.19/hls/rtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T Sports HD" tvg-logo="https://www.daily-sun.com/assets/news_images/2021/02/08/T_Sports_logo.png" group-title="BDIX Server",T Sports HD
+http://103.81.104.118/hls/t-sports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Maasranga TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTntHOCD1LAZZCjyI1OVDLEJoLrnB-paZpAZPafSlVbNORJgRMAZgrjOZWnEt2rKKlrySU&usqp=CAU" group-title="BDIX Server",Maasranga TV HD
+http://103.81.104.118/hls/stream20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gazi TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BDIX Server",Gazi TV HD
+http://103.81.104.118/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Duronto TV" tvg-logo="none" group-title="BDIX Server",Duronto TV
+http://103.81.104.118/hls/duronto.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Digi Bangla HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/digibangla24update.jpg" group-title="BDIX Server",Digi Bangla HD
+http://103.205.133.44:1935/extban/chdigihd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian TV HD" tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/Asian-TV-Logo.jpg" group-title="BDIX Server",Asian TV HD
+http://103.205.133.19/hls/asiantv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="BDIX Server",Bangla TV HD
+http://103.205.133.19/hls/banglatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj3fFdlaxsoc4rvY12trMXDfWQUE4WQshWX-dHmMA=s900-c-k-c0x00ffffff-no-rj" group-title="BDIX Server",Jamuna TV
+http://103.205.133.19/hls/jamunatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nagorik TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdUJs1hi5VuS58Mb9zqOyEPG54EkQwljcfNjXr6phz9Z8SUmf3Gi8AaU5ng9-H2MNXMfo&usqp=CAU" group-title="BDIX Server",Nagorik TV
+http://103.205.133.19/hls/nagorik.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9 HD" tvg-logo="https://4.bp.blogspot.com/-WBfphs9y5EU/V_n8vp8EWlI/AAAAAAAAEz8/c3Iy9VEgU0g2eVKYvdqzR0IZ2NoyN6ivwCLcB/s1600/channel-9.jpg" group-title="BDIX Server",Channel 9 HD
+http://103.205.133.19/hls/ninechannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsF7FRQfcw5TeMa8Z7psgXbhNMssFO4U6zPbyO7rTkmiO7pHRd33pIYvZJZqIDEk5Ajbc&usqp=CAU" group-title="BDIX Server",Ekushey TV
+http://103.205.133.19/hls/ekushey.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhGxqPPcaTkb1du60x4Ik9L-5v43KPp6gqxBKb4f82i4MpBcrJLIM63JdJnXgWFC23Ic&usqp=CAU" group-title="BDIX Server",Channel 24
+http://103.205.133.19/hls/channel24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/12/somoy_tv_logo.png" group-title="BDIX Server",Somoy TV
+http://103.205.133.19/hls/somoy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC News HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAk6lM0eRdtK0H_AYaqhujaosqN3nMr7aefVXQbBvxkQ3C4rV75kxr9NCwCszz1fUSBH8&usqp=CAU" group-title="BDIX Server",DBC News HD
+http://103.205.133.19/hls/dbcnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV HD" tvg-logo="https://www.tbsnews.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2020/04/17/deepto_tv_logo.jpg?itok=yfQDOJ5b" group-title="BDIX Server",Deepto TV HD
+http://103.205.133.19/hls/deeptotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/d/d2/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BDIX Server",ATN News
+http://103.205.133.19/hls/atnnews.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="BDIX Server",ATN Bangla
+http://103.205.133.19/hls/atnbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="BDIX Server",Peace TV Bangla HD
+http://103.205.133.19/hls/peacetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Madani TV Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg" group-title="BDIX Server",Madani TV Bangla
+http://103.205.133.19/hls/madanitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekattor HD" tvg-logo="none" group-title="BDIX Server",Ekattor HD
+http://103.205.133.19/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports HD1 BDIX" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="Test Channel",Star Sports HD1 BDIX
 http://175.41.46.16:8081/hls/3.m3u8
 #EXTINF:-1 tvg-id=Madani Urdu tv.pk" tvg-name="Madani TV Urdu" tvg-country="PK" tvg-language="Urdu" tvg-logo=" " group-title="Religious",Madani Channel Urdu
