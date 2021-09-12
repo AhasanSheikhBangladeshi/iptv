@@ -97,6 +97,14 @@ http://stream.arylive.com/aryqtv/myStream/tracks-v3a1/mono.m3u8
 http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w2106987031.m3u8
 #EXTINF:-1 tvg-id="AlerthAlnabawi.ye" tvg-name="Alerth Alnabawi" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="Religious",Alerth Alnabawi (576p) [Not 24/7]
 http://82.212.74.2:8000/live/7307.m3u8
+#EXTINF:-1 tvg-id="AryNews.pk" tvg-name="Ary News" tvg-country="PK" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg"group-title="Pakistani",ARY NEWS
+https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="None",TRT 1 (720p)
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="AlMajdQuranTV.sa" tvg-name="AlMajd Quran TV" tvg-country="SA" tvg-language="Arabic" tvg-logo=" "group-title="Relegious",Al Majd Quran TV
+http://185.9.2.25/MCNC_AL_MAJD_QURAN/index.m3u8
+#EXTINF:-1 tvg-id="AlMajdTV.sa" tvg-name="AlMajd TV" tvg-country="SA" tvg-language="Arabic" tvg-logo=" "group-title="Relegious",Al Majd TV
+http://185.9.2.25/MCNC_AL_MAJD_SCIENTIFIC/index.m3u8
 #EXTINF:1 tvg-country="ID" tvg-logo=" " group-title="Religious",Al Nabawi TV
 http://stream1.ninmedia.tv:1935/nabawitv/nabawitv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EkattorTV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngS8bfoUuVMSeuMMMYNBcT3wxxfUu8rvlg6ldqBKg=s900-c-k-c0x00ffffff-no-rj" group-title="CinemaBazz Server",EkattorTV
@@ -278,9 +286,6 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 http://184.75.208.98:1935/live/kalemeh/playlist.m3u8
 #EXTINF:-1 tvg-id="KalemehTV.uk" tvg-name="Kalemeh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="Religious",Kalemeh TV (576p) [Not 24/7]
 http://51.210.199.37/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KalemehTV.ir" tvg-name="Kalemeh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/HQjLbwm.png" group-title="Religious",Kalemeh TV (1080p) [Not 24/7]
-https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8
-https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="IRIB Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News",Al Alam (576p)
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="AlKawtharTV.ir" tvg-name="IRIB Al Kawthar TV" tvg-country="IR" tvg-language="" tvg-logo="none" group-title="None",Al Kawthar TV (360p)
