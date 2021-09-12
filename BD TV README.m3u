@@ -21,17 +21,6 @@ https://rhridoy136.shortcm.li/jamunatv.m3u8
 https://rhridoy136.shortcm.li/shomoytv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="" group-title="RH Redoy Server",Channel i HD
 https://rhridoy136.shortcm.li/channeli.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" group-title="RH Redoy Server",NTV
-https://rhridoy136.shortcm.li/ntv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="" group-title="RH Redoy Server",Deepto TV
-https://rhridoy136.shortcm.li/deeptotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="" group-title="RH Redoy Server",BTV World
-https://rhridoy136.shortcm.li/btvworld.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="" group-title="RH Redoy Server",Ekushey TV
-https://rhridoy136.shortcm.li/ekusheytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="" group-title="RH Redoy Server",Gazi TV
-https://piratesiptv.shortcm.li/gazi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports HD1 BDIX" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="Test Channel",Star Sports HD1 BDIX
 http://175.41.46.16:8081/hls/3.m3u8
 #EXTINF:-1 tvg-id=Madani Urdu tv.pk" tvg-name="Madani TV Urdu" tvg-country="PK" tvg-language="Urdu" tvg-logo=" " group-title="Religious",Madani Channel Urdu
@@ -238,8 +227,7 @@ http://178.62.107.180/woh/index.m3u8?id=49019
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Soudi Quran TV" tvg-logo="" group-title="Test Channel",Soudi Quran TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qur
-#EXTINF:1 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg"
-group-title="Pakistani",ARY News
+
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-name="Makkah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Religious",Makkah TV (480p)
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="KalemehTV.us" tvg-name="Kalemeh TV" tvg-country="US" tvg-language="Farsi" tvg-logo="https://i.imgur.com/j4VjHWN.jpg" group-title="Religious",Kalemeh TV (1080p) [Not 24/7]
