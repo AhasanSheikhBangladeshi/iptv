@@ -39,8 +39,8 @@ http://103.81.104.118/hls/stream20.m3u8
 http://103.81.104.118/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Duronto TV" tvg-logo="none" group-title="BDIX Server",Duronto TV
 http://103.81.104.118/hls/duronto.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Digi Bangla HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/digibangla24update.jpg" group-title="BDIX Server",Digi Bangla HD
-http://103.205.133.44:1935/extban/chdigihd/playlist.m3u8
+#EXTINF:-1 tvg-id="AryNews.pk" tvg-name="Ary News" tvg-country="PK" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg"group-title="Pakistani",ARY NEWS
+https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Asian TV HD" tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/Asian-TV-Logo.jpg" group-title="BDIX Server",Asian TV HD
 http://103.205.133.19/hls/asiantv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bangla TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="BDIX Server",Bangla TV HD
@@ -149,14 +149,8 @@ http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV2.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="None",TV2 (720p)
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
-#EXTINF:-1 tvg-id="TV2.my" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="None",TV2 (1080p)
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.my" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="None",TV3 (720p)
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-#EXTINF:-1 tvg-id="TV6.my" tvg-country="MY" tvg-language="" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="None",TV6 (1080p)
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF:-1 tvg-id="OmanTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C7kfubs.png" group-title="General",Oman TV (1080p)
 https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EmanChannel.uk" tvg-name="Eman Channel" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/NWljgKa.png" group-title="Religious",Eman Channel (576p)
@@ -425,12 +419,7 @@ http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="" group-title="JagoBD Server",Aljazeera
 http://iptvbd.jagobd.com:1931/boishakhi/aljazeera.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Falguni TV HD" tvg-logo="http://www.jagobd.com/wp-content/uploads/2021/03/falgunitv.jpg" group-title="BD IPTV",Falguni TV HD
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/falgunitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Magic Bangla" tvg-logo="https://pbs.twimg.com/profile_images/1037326822327771137/3kMT-9Go.jpg" group-title="BD IPTV",Magic Bangla
-http://103.108.145.94:1935/magicbangla/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nakshi IPTV" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/eRdA7FckAyD.png" group-title="BD IPTV",Nakshi IPTV
-http://iptvbd.jagobd.com:1931/boishakhi/nakshitv.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="DesheBideshe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFM_It5WYKbSFnDwODEyfy7jQ0oQxfsg_dlmAfL1EsmhOySFkmvFQfnOzHRDbPsXdAyI&usqp=CAU" group-title="BD IPTV",DesheBideshe
 http://iptvbd.jagobd.com:1931/boishakhi/deshebideshe.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Voice TV" tvg-logo="https://bn.voicetv.tv/assets/logo.png" group-title="BD IPTV",Voice TV
@@ -463,10 +452,6 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://iptvbd.jagobd.com:1931/boishakhi/dawah-eu.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alpona TV" tvg-logo="" group-title="BD IPTV",Alpona TV
 http://iptvbd.jagobd.com:1931/boishakhi/alponatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Joyjatra HD" tvg-logo="" group-title="BD IPTV",Joyjatra HD
-http://iptvbd.jagobd.com:1931/boishakhi/joyjatratv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nandan IPTV" tvg-logo="" group-title="BD IPTV",Nandan IPTV
-http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dhaka TV" tvg-logo="" group-title="BD IPTV",Dhaka TV
 http://103.108.140.164:1009/dhakatv/livestream/chunklist_w1266388776.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KTV Bangla HD" tvg-logo="" group-title="BD IPTV",KTV Bangla HD
