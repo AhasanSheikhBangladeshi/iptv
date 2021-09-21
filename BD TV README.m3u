@@ -19,6 +19,16 @@ https://dai.google.com/linear/hls/pb/event/cXpfjAMTR4OKnp9WJxHc9g/stream/d5177de
 #EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News",Aaj Tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 ttps://tvstream.space/jtv/prrrrr.php?c=Sonic_Bangla&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="IRIBJameJamTV.ir" tvg-name="IRIB JameJam TV" tvg-country="IR" tvg-language="Farsi,English" tvg-logo=" " group-title="None ",IRIB Jamejam TV (480p)
+http://cdn1.live.irib.ir:1935/channel-live/smil:jjtvn1/chunklist_b307200_slFa.m3u8
+#EXTINF:-1 tvg-id="BD NTV.bd" tvg-name="BD NTV" tvg-country="BD" tvg-language="Bangla" tvg-logo=" " group-title="None",BD NTV (480p)
+https://edge4.bioscopelive.com/hls/anonymous/IBWK0-_yqxYkEecLrMn3zQ/1632159273/ntv.m3u8
+#EXTINF:-1 tvg-id="Iqra Bangla TV.uk" tvg-name="Iqra Bangla tv" tvg-country="UK" tvg-language="Bangla" tvg-logo=" " group-title="None",Iqra Bangla tv
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
+#EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" tvg-country="IN" tvg-language="English" tvg-logo=" " group-title="News",NDTV(480p)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 tvg-id="NDTV India.in" tvg-name="NDTV India" tvg-country="IN" tvg-language="Hindi" tvg-logo=" " group-title="News",NDTV India (480p)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Banglavision HD" tvg-logo="" group-title="RH Redoy Server",Banglavision HD
 https://rhridoy136.shortcm.li/banglavisiontv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="" group-title="RH Redoy Server",Independent TV
