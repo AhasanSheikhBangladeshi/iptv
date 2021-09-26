@@ -59,6 +59,11 @@ http://103.205.133.19/hls/jamunatv.m3u8
 http://103.205.133.19/hls/nagorik.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 9 HD" tvg-logo="https://4.bp.blogspot.com/-WBfphs9y5EU/V_n8vp8EWlI/AAAAAAAAEz8/c3Iy9VEgU0g2eVKYvdqzR0IZ2NoyN6ivwCLcB/s1600/channel-9.jpg" group-title="BDIX Server",Channel 9 HD
 http://103.205.133.19/hls/ninechannel.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s23/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsF7FRQfcw5TeMa8Z7psgXbhNMssFO4U6zPbyO7rTkmiO7pHRd33pIYvZJZqIDEk5Ajbc&usqp=CAU" group-title="BDIX Server",Ekushey TV
 http://103.205.133.19/hls/ekushey.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhGxqPPcaTkb1du60x4Ik9L-5v43KPp6gqxBKb4f82i4MpBcrJLIM63JdJnXgWFC23Ic&usqp=CAU" group-title="BDIX Server",Channel 24
@@ -322,7 +327,6 @@ http://178.62.107.180/woh/index.m3u8?id=49019
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Soudi Quran TV" tvg-logo="" group-title="Test Channel",Soudi Quran TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qur
-
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-name="Makkah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Religious",Makkah TV (480p)
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="KalemehTV.us" tvg-name="Kalemeh TV" tvg-country="US" tvg-language="Farsi" tvg-logo="https://i.imgur.com/j4VjHWN.jpg" group-title="Religious",Kalemeh TV (1080p) [Not 24/7]
@@ -345,8 +349,6 @@ https://sdm.telewebion.com/live/tv2/playlist.m3u8
 https://sdm.telewebion.com/live/tv3/playlist.m3u8
 #EXTINF:-1 tvg-id="TV4.ir" tvg-name="IRIB TV4" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",TV4 (576p)
 https://sdm.telewebion.com/live/tv4/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5.ir" tvg-name="IRIB TV5" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",TV5 (576p)
-https://sdm.telewebion.com/live/tehran/playlist.m3u8
 #EXTINF:-1 tvg-id="Varzesh.ir" tvg-name="IRIB Varzesh" tvg-country="IR" tvg-language="" tvg-logo="none" group-title="None",Varzesh (1080p)
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh/playlist.m3u8
 #EXTINF:-1 tvg-id="VARZESH.ir" tvg-name="IRIB VARZESH" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",VARZESH (720p)
@@ -369,7 +371,6 @@ https://sdm.telewebion.com/live/eshragh/playlist.m3u8
 http://cdn1.live.irib.ir:1935/epg-live/smil:fars/playlist.m3u8
 #EXTINF:-1 tvg-id="FARS.ir" tvg-name="IRIB FARS" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",FARS (576p)
 https://sdm.telewebion.com/live/fars/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Jalsha Movies Global" tvg-logo="https://toppng.com/uploads/preview/star-gold-logo-png-115527365832hkce9p3cc.png" group-title="Kolkata Tv Channel",Jalsha Movies Global
 http://178.79.161.66/woh/index.m3u8?id=47903
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD Global" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Kolkata Tv Channel",Star Jalsha HD Global
