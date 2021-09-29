@@ -61,6 +61,20 @@ http://103.205.133.19/hls/jamunatv.m3u8
 http://103.205.133.19/hls/nagorik.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 9 HD" tvg-logo="https://4.bp.blogspot.com/-WBfphs9y5EU/V_n8vp8EWlI/AAAAAAAAEz8/c3Iy9VEgU0g2eVKYvdqzR0IZ2NoyN6ivwCLcB/s1600/channel-9.jpg" group-title="BDIX Server",Channel 9 HD
 http://103.205.133.19/hls/ninechannel.m3u8
+#EXTINF:-1 tvg-id="32" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Ahlulbayt TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ahlulbayt.jpg",Ahlulbayt TV (1080)
+https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="118" tvg-country="Iran" tvg-language="Farsi" group-title="Religious" tvg-name="IRIB Quran" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/quran-irib.jpg",IRIB Quran (1080)
+https://s-cloud.irib.ir/live/quran/quran.m3u8
+#EXTINF:-1 tvg-id="69" tvg-country="Iran" tvg-language="English" group-title="News" tvg-name="Press TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/press-tv.jpg",Press TV (1080)
+https://live1.presstv.ir/live/presstv.m3u8
+#EXTINF:-1 tvg-id="118" tvg-country="Iran" tvg-language="Farsi" group-title="News" tvg-name="PressTv" tvg-logo=" ",PRESS TV (1080)
+https://s-cloud.irib.ir/live/presstv/presstv.m3u8
+#EXTINF:-1 tvg-id="112" tvg-country="Africa" tvg-language="Hausa" group-title="News" tvg-name="Hausa TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/hausa.jpg",Hausa TV (1080)
+https://live1.presstv.ir/live/hausatvha/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Safeer TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/safeer-tv.jpg",Safeer TV (1080)
+https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="44" tvg-country="Iraq" tvg-language="Arabic" group-title="Relegious" tvg-name="Dua Channel" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/dua-channel.jpg",Dua Channel (1080)
+https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
