@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="News 24 HD" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/07/28/thumbnails/News24-ds.jpg" group-title="BDIX Server",News 24 HD
-http://103.205.133.19/hls/news24.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV National" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjaRMs4KsOgKKyAkvnePFgD-GcZrXPGFUXkHZisYbJxjPFqZ7ECDmwxHiOjOWPQTLybWs&usqp=CAU" group-title="BDIX Server",BTV National
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/99ZKMd4mWYM.png" group-title="BDIX Server",BTV World
 http://103.106.2.149:13456/btv_world.m3u8
-EXTINF:-1 tvg-id="" tvg-name="Saudi Sunnah" tvg-logo="none" group-title="BDIX Server",Saudi Sunnah
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Sunnah" tvg-logo="none" group-title="BDIX Server",Saudi Sunnah
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=5-mp4a_97200=2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.urdu.news18.com/static-urdu/2020/03/Urdu1-1.png" group-title="India-pakistani",News18 Urdu
 https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
@@ -23,6 +23,8 @@ http://cdn1.live.irib.ir:1935/channel-live/smil:jjtvn1/chunklist_b307200_slFa.m3
 https://edge4.bioscopelive.com/hls/anonymous/IBWK0-_yqxYkEecLrMn3zQ/1632159273/ntv.m3u8
 #EXTINF:-1 tvg-id="Iqra Bangla TV.uk" tvg-name="Iqra Bangla tv" tvg-country="UK" tvg-language="Bangla" tvg-logo=" " group-title="None",Iqra Bangla tv
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MujATAg.png" group-title="Bangladeshi", Madani TV
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" tvg-country="IN" tvg-language="English" tvg-logo=" " group-title="News",NDTV(480p)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-id="NDTV India.in" tvg-name="NDTV India" tvg-country="IN" tvg-language="Hindi" tvg-logo=" " group-title="News",NDTV India (480p)
@@ -120,8 +122,6 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU" group-title="Bangladeshi",24.Nagorik TV
 http://103.205.133.21/hls/nagorik.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi",25.News 24
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bangladeshi",26.NTV
 http://103.205.133.21/hls/ntv.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangladeshi",27.RTV
