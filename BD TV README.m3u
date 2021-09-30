@@ -203,6 +203,74 @@ http://82.212.74.2:8000/live/7307.m3u8
 https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="None",TRT 1 (720p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+EXTINF:-1 tvg-id="" tvg-name="RTV HD" tvg-logo="https://www.cyber-islam.university/wp-content/uploads/2019/06/Rtv.jpg" group-title="JagoBD Server",RTV HD
+http://iptvbd.jagobd.com:1931/boishakhi/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC News HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAk6lM0eRdtK0H_AYaqhujaosqN3nMr7aefVXQbBvxkQ3C4rV75kxr9NCwCszz1fUSBH8&usqp=CAU" group-title="JagoBD Server",DBC News HD
+http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="JagoBD Server",ATN Bangla
+http://iptvbd.jagobd.com:1931/boishakhi/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/d/d2/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="JagoBD Server",ATN News
+http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bangla TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="JagoBD Server",Bangla TV HD
+http://iptvbd.jagobd.com:1931/boishakhi/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" group-title="JagoBD Server",Boishakhi TV
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-id="" tvg-name="SATV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMLspYeuzE5Ry-JILQIu5nHjgNzttqjglnc5sE80r4PdyuvwJwsk_hSHyiBNjOQ0oUmqY&usqp=CAU" group-title="JagoBD Server",SATV HD
+http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsF7FRQfcw5TeMa8Z7psgXbhNMssFO4U6zPbyO7rTkmiO7pHRd33pIYvZJZqIDEk5Ajbc&usqp=CAU" group-title="JagoBD Server",Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Banglavision HD" tvg-logo="https://2.bp.blogspot.com/-F2OnFmGiaec/VkF-kMn37wI/AAAAAAAACHU/GNdh7SToWjQ/s1600/bangla-vision.jpg" group-title="JagoBD Server",Banglavision HD
+http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MyTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="JagoBD Server",MyTV HD
+http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News24 HD" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/07/28/thumbnails/News24-ds.jpg" group-title="JagoBD Server",News24 HD
+http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV HD" tvg-logo="https://www.tbsnews.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2020/04/17/deepto_tv_logo.jpg?itok=yfQDOJ5b" group-title="JagoBD Server",Deepto TV HD
+http://10.16.100.203:8082/bangla/deeptotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/99ZKMd4mWYM.png" group-title="JagoBD Server",BTV World
+https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhGxqPPcaTkb1du60x4Ik9L-5v43KPp6gqxBKb4f82i4MpBcrJLIM63JdJnXgWFC23Ic&usqp=CAU" group-title="JagoBD Server",Channel 24
+http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mohona TV HD" tvg-logo="none" group-title="JagoBD Server",Mohona TV HD
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ananda TV" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/ananda-tv.link" group-title="JagoBD Server",Ananda TV
+http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sangsad Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGWN9FtLccWXAbQ2fBYqhLTx0Yk988HkGT5plDoXyN6iPtu3QQz8lpDCpyS-eFFIw_5Y0&usqp=CAU" group-title="JagoBD Server",Sangsad Bangladesh
+http://iptvbd.jagobd.com:1931/boishakhi/songsodtv-world.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla UK" tvg-logo="none" group-title="JagoBD Server",ATN Bangla UK
+http://23.106.120.42:1932/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/chunks.m3u8?bdtv
+#EXTINF:-1 tvg-id="" tvg-name="Bijoy TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="JagoBD Server",Bijoy TV HD
+http://iptvbd.jagobd.com:1931/boishakhi/bijoy00.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel 9 HD" tvg-logo="https://4.bp.blogspot.com/-WBfphs9y5EU/V_n8vp8EWlI/AAAAAAAAEz8/c3Iy9VEgU0g2eVKYvdqzR0IZ2NoyN6ivwCLcB/s1600/channel-9.jpg" group-title="JagoBD Server",Channel 9 HD
+http://iptvbd.jagobd.com:1931/boishakhi/channel9hd.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DBC News HD 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAk6lM0eRdtK0H_AYaqhujaosqN3nMr7aefVXQbBvxkQ3C4rV75kxr9NCwCszz1fUSBH8&usqp=CAU" group-title="JagoBD Server",DBC News HD 2
+https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIxIDM6MzQ6MjQgUE0maGFzaF92YWx1ZT1mdVdtWlhUaVZpZEZwbjg1cWQzZXRnPT0mdmFsaWRtaW51dGVzPTYw
+#EXTINF:-1 tvg-id="" tvg-name="Mohona TV HD" tvg-logo="https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/big_2/public/feature/images/mohona-tv-bangladesh-logo.jpg?itok=jQMnDhKo" group-title="JagoBD Server",Mohona TV HD
+http://iptvbd.jagobd.com:1931/boishakhi/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/12/somoy_tv_logo.png" group-title="JagoBD Server",Somoy TV
+http://103.43.148.202:1931/iptv/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="none" group-title="JagoBD Server",Jamuna TV
+http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN Islamic TV" tvg-logo="https://lh3.googleusercontent.com/B3ziYGuRlgUtI32LzFvG862YxFdpQGAzRVxawBT0fN3dd2B7Vl8t7u4ckXH3h-gAdg=s180-rw" group-title="JagoBD Server",ATN Islamic TV
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Madani TV Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg" group-title="JagoBD Server",Madani TV Bangla
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="JagoBD Server",Channel i HD
+http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV Plus" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg" group-title="JagoBD Server",Boishakhi TV Plus
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhiplus.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoZMzH7j1MZTmFM3jGMG-tMrMHIuvvXAKiGsEiPANAdcIhcakx6w21aVSQRXUwH2p1MI&usqp=CAU" group-title="JagoBD Server",BTV
+http://iptvbd.jagobd.com:1931/boishakhi/btvnational-ctg.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera TV" tvg-logo="none" group-title="JagoBD Server",Al Jazeera TV
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/aljazeera.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SATV HD 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMLspYeuzE5Ry-JILQIu5nHjgNzttqjglnc5sE80r4PdyuvwJwsk_hSHyiBNjOQ0oUmqY&usqp=CAU" group-title="JagoBD Server",SATV HD 2
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GaanBangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTNBTlK-SFyRRNK0DnONN1NYrYhY9E2p9uEpRjoOk2bYn2bFaVshvCIXWTcpYWfOfJ_OA&usqp=CAU" group-title="JagoBD Server",GaanBangla
+http://iptvbd.jagobd.com:1931/boishakhi/gaanbangla-8-orgd.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="none" group-title="JagoBD Server",France 24
+http://iptvbd.jagobd.com:1931/boishakhi/fr24.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjJGQIYrLXIr_D26JVCZh0O_ZDvlSQ4dpZijMTgpg=s900-c-k-c0x00ffffff-no-rj" group-title="JagoBD Server",Independent TV
+http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News (480p)
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 #EXTINF:-1 tvg-id="ToloTV.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://pbs.twimg.com/profile_images/579001245697908737/bSnXEBFo_400x400.jpeg" group-title="None",Tolo TV (720p)
