@@ -73,8 +73,6 @@ https://s-cloud.irib.ir/live/presstv/presstv.m3u8
 https://live1.presstv.ir/live/hausatvha/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Safeer TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/safeer-tv.jpg",Safeer TV (1080)
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="44" tvg-country="Iraq" tvg-language="Arabic" group-title="Relegious" tvg-name="Dua Channel" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/dua-channel.jpg",Dua Channel (1080)
-https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
@@ -86,6 +84,18 @@ http://103.205.133.19/hls/ekushey.m3u8
 http://103.205.133.19/hls/channel24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/12/somoy_tv_logo.png" group-title="BDIX Server",Somoy TV
 http://103.205.133.19/hls/somoy.m3u8
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
+http://173.199.120.51/hls/ntv.m3u8
+#EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"  group-title="India-Pakistani",ARY NEWS (PK)
+http://173.199.120.51/hls/arynews.m3u8
+#EXTINF:-1 ch-id="ARY DIGITAL (PK)" tvg-logo="https://1.bp.blogspot.com/--wDE2l82PT0/YRepmImjWvI/AAAAAAAAA4g/QfuH2Q9yP_I7D6RrkC5IiaEGRLRvPg6JwCLcBGAsYHQ/s200/PicsArt_08-14-05.01.13.jpg"  group-title="India-Pakistani",ARY DIGITAL (PK)
+http://173.199.120.51/hls/arydigital.m3u8
+#EXTINF:-1 ch-id="GEO HD (PK)" tvg-logo="https://1.bp.blogspot.com/-fktS4IURByc/YO43k9xSajI/AAAAAAAAAbM/gex7jop3fIQ62kO64RiVFEmqfg8439VTQCLcBGAsYHQ/s200/PicsArt_07-14-06.29.55.jpg"  group-title="India-Pakistani",GEO HD (PK)
+http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="RELIGIOUS",Madani TV
+http://45.249.187.238:8081/hls/new9.m3u8
+#EXTINF:-1 tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="Relegious",Madani TV Bangla
+https://tempe.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madanitvbangla.stream/live-orgin/madanitvbangla.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Bangladeshi",1.Anando TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="Bangladeshi",2.Asian TV
@@ -148,28 +158,7 @@ http://103.205.133.21/hls/satv.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ekattor HD" tvg-logo="none" group-title="BDIX Server",Ekattor HD
 http://103.205.133.19/hls/ekatoortv.m3u8
-#EXTINF:-1 tvg-id="92" tvg-country="Turkey" tvg-language="Turkish" group-title="Relegious" tvg-name="Hadi TV Turkish" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Turkish (1080)
-https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
-#EXTINF:-1 tvg-id="93" tvg-country="Azerbaijan" tvg-language="Azeri" group-title="Relegious" tvg-name="Hadi TV Azeri" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Azeri (1080)
-https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
-#EXTINF:-1 tvg-id="94" tvg-country="Iran" tvg-language="Farsi" group-title="Religious" tvg-name="Hadi TV Farsi" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Farsi (1080)
-https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
-#EXTINF:-1 tvg-id="96" tvg-country="Pakistan" tvg-language="Urdu English" group-title="Relegious" tvg-name="Hadi TV Urdu English" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Urdu (1080)
-https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
-#EXTINF:-1 tvg-id="97" tvg-country="Africa" tvg-language="Swahili" group-title="Relegioud" tvg-name="Hadi TV Swahili" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Swahili (1080)
-https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
-#EXTINF:-1 tvg-id="98" tvg-country="Indonesia" tvg-language="Bahasa" group-title="Relegious" tvg-name="Hadi TV Bahasa" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Bahasa (1080)
-https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
-#EXTINF:-1 tvg-id="99" tvg-country="Afghanistan" tvg-language="Pashto" group-title="Relegious" tvg-name="Hadi TV Pashto" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Pashto (1080)
-https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8
-#EXTINF:-1 tvg-id="101" tvg-country="Thailand" tvg-language="Thai" group-title="Relegious" tvg-name="Hadi TV Thai" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Thai (1080)
-https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
-#EXTINF:-1 tvg-id="100" tvg-country="France" tvg-language="French" group-title="Relegious" tvg-name="Hadi TV French" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV French (1080)
-https://live.ishiacloud.com/haditv.co.uk/haditv8.m3u8
-#EXTINF:-1 tvg-id="102" tvg-country="Africa" tvg-language="Hausa" group-title="Relegious" tvg-name="Hadi TV Hausa" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Hausa (1080)
-https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
-#EXTINF:-1 tvg-id="103" tvg-country="Afghanistan" tvg-language="Dari" group-title="Relegious" tvg-name="Hadi TV Dari" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Dari (1080)
-https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports HD1 BDIX" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="Test Channel",Star Sports HD1 BDIX
 http://175.41.46.16:8081/hls/3.m3u8
 #EXTM3U
