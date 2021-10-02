@@ -20,7 +20,7 @@ ttps://tvstream.space/jtv/prrrrr.php?c=Sonic_Bangla&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="IRIBJameJamTV.ir" tvg-name="IRIB JameJam TV" tvg-country="IR" tvg-language="Farsi,English" tvg-logo=" " group-title="None ",IRIB Jamejam TV (480p)
 http://cdn1.live.irib.ir:1935/channel-live/smil:jjtvn1/chunklist_b307200_slFa.m3u8
 #EXTINF:-1 tvg-id="BD NTV.bd" tvg-name="BD NTV" tvg-country="BD" tvg-language="Bangla" tvg-logo=" " group-title="None",BD NTV (480p)
-https://edge4.bioscopelive.com/hls/anonymous/IBWK0-_yqxYkEecLrMn3zQ/1632159273/ntv.m3u8
+http://173.199.120.51/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="Iqra Bangla TV.uk" tvg-name="Iqra Bangla tv" tvg-country="UK" tvg-language="Bangla" tvg-logo=" " group-title="None",Iqra Bangla tv
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MujATAg.png" group-title="Bangladeshi", Madani TV
@@ -209,36 +209,6 @@ http://iptvbd.jagobd.com:1931/boishakhi/rtv-sg.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="JagoBD Server",ATN Bangla
 http://iptvbd.jagobd.com:1931/boishakhi/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/d/d2/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="JagoBD Server",ATN News
-http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bangla TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="JagoBD Server",Bangla TV HD
-http://iptvbd.jagobd.com:1931/boishakhi/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png" group-title="JagoBD Server",Boishakhi TV
-http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="SATV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMLspYeuzE5Ry-JILQIu5nHjgNzttqjglnc5sE80r4PdyuvwJwsk_hSHyiBNjOQ0oUmqY&usqp=CAU" group-title="JagoBD Server",SATV HD
-http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsF7FRQfcw5TeMa8Z7psgXbhNMssFO4U6zPbyO7rTkmiO7pHRd33pIYvZJZqIDEk5Ajbc&usqp=CAU" group-title="JagoBD Server",Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Banglavision HD" tvg-logo="https://2.bp.blogspot.com/-F2OnFmGiaec/VkF-kMn37wI/AAAAAAAACHU/GNdh7SToWjQ/s1600/bangla-vision.jpg" group-title="JagoBD Server",Banglavision HD
-http://iptvbd.jagobd.com:1931/boishakhi/banglav000.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MyTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="JagoBD Server",MyTV HD
-http://iptvbd.jagobd.com:1931/boishakhi/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News24 HD" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/07/28/thumbnails/News24-ds.jpg" group-title="JagoBD Server",News24 HD
-http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deepto TV HD" tvg-logo="https://www.tbsnews.net/sites/default/files/styles/amp_metadata_content_image_min_696px_wide/public/images/2020/04/17/deepto_tv_logo.jpg?itok=yfQDOJ5b" group-title="JagoBD Server",Deepto TV HD
-http://10.16.100.203:8082/bangla/deeptotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/99ZKMd4mWYM.png" group-title="JagoBD Server",BTV World
-https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhGxqPPcaTkb1du60x4Ik9L-5v43KPp6gqxBKb4f82i4MpBcrJLIM63JdJnXgWFC23Ic&usqp=CAU" group-title="JagoBD Server",Channel 24
-http://iptvbd.jagobd.com:1931/boishakhi/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mohona TV HD" tvg-logo="none" group-title="JagoBD Server",Mohona TV HD
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ananda TV" tvg-logo="http://tv.bdtype.com/uploads/tv_image/sm/ananda-tv.link" group-title="JagoBD Server",Ananda TV
-http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sangsad Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGWN9FtLccWXAbQ2fBYqhLTx0Yk988HkGT5plDoXyN6iPtu3QQz8lpDCpyS-eFFIw_5Y0&usqp=CAU" group-title="JagoBD Server",Sangsad Bangladesh
-http://iptvbd.jagobd.com:1931/boishakhi/songsodtv-world.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla UK" tvg-logo="none" group-title="JagoBD Server",ATN Bangla UK
-http://23.106.120.42:1932/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/chunks.m3u8?bdtv
 #EXTINF:-1 tvg-id="" tvg-name="Bijoy TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="JagoBD Server",Bijoy TV HD
 http://iptvbd.jagobd.com:1931/boishakhi/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 9 HD" tvg-logo="https://4.bp.blogspot.com/-WBfphs9y5EU/V_n8vp8EWlI/AAAAAAAAEz8/c3Iy9VEgU0g2eVKYvdqzR0IZ2NoyN6ivwCLcB/s1600/channel-9.jpg" group-title="JagoBD Server",Channel 9 HD
