@@ -174,7 +174,16 @@ http://103.205.133.21/hls/satv.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ekattor HD" tvg-logo="none" group-title="BDIX Server",Ekattor HD
 http://103.205.133.19/hls/ekatoortv.m3u8
-
+#EXTINF:-1 tvg-id="EmanChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/NWljgKa.png" group-title="Religious",Eman Channel (576p)
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainTV.bh" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="General",Bahrain TV (720p)
+http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8
+#EXTINF:-1 tvg-id="Huda.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dnjDgw.jpg" group-title="Relegious",Huda (720p)
+https://cdn.videoevent.live:19360/elfaro2/elfaro2.m3u8
+#EXTINF:-1 tvg-id="TenTV.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/8ff99681-4dd8-4e97-aa18-de4a866ef0fd/poster-image" group-title="None",Ten TV (720p) [Not 24/7]
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+#EXTINF:-1 tvg-id="AlAqsaChannel.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" group-title="Religious",Al Aqsa Channel (480p)
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports HD1 BDIX" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="Test Channel",Star Sports HD1 BDIX
 http://175.41.46.16:8081/hls/3.m3u8
 #EXTM3U
