@@ -49,6 +49,10 @@ http://ott-cdn.ucom.am/s23/index.m3u8
 http://103.205.133.19/hls/ekushey.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhGxqPPcaTkb1du60x4Ik9L-5v43KPp6gqxBKb4f82i4MpBcrJLIM63JdJnXgWFC23Ic&usqp=CAU" group-title="BDIX Server",Channel 24
 http://103.205.133.19/hls/channel24.m3u8
+#EXTINF:-1 tvg-id="IqraTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="Religious",Iqra TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
+#EXTINF:-1 tvg-id="IqraaTV.uk" tvg-country="UK" tvg-language="" tvg-logo="none" group-title="None",Iqraa TV (576p)
+http://wowzaprod3-lh.akamaihd.net/i/83372732_1@141298/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/12/somoy_tv_logo.png" group-title="BDIX Server",Somoy TV
 http://103.205.133.19/hls/somoy.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
