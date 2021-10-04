@@ -16,7 +16,6 @@ http://zainabia2.livebox.co.in/Zainabiachannel2hls/live.m3u8
 http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunklist_w1848970713.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News",Aaj Tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-ttps://tvstream.space/jtv/prrrrr.php?c=Sonic_Bangla&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="IRIBJameJamTV.ir" tvg-name="IRIB JameJam TV" tvg-country="IR" tvg-language="Farsi,English" tvg-logo=" " group-title="None ",IRIB Jamejam TV (480p)
 http://cdn1.live.irib.ir:1935/channel-live/smil:jjtvn1/chunklist_b307200_slFa.m3u8
 #EXTINF:-1 tvg-id="BD NTV.bd" tvg-name="BD NTV" tvg-country="BD" tvg-language="Bangla" tvg-logo=" " group-title="None",BD NTV (480p)
@@ -29,38 +28,8 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-id="NDTV India.in" tvg-name="NDTV India" tvg-country="IN" tvg-language="Hindi" tvg-logo=" " group-title="News",NDTV India (480p)
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Banglavision HD" tvg-logo="" group-title="RH Redoy Server",Banglavision HD
-https://rhridoy136.shortcm.li/banglavisiontv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="" group-title="RH Redoy Server",Independent TV
-https://rhridoy136.shortcm.li/independenttv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jumuna TV" tvg-logo="" group-title="RH Redoy Server",Jumuna TV
-https://rhridoy136.shortcm.li/jamunatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="" group-title="RH Redoy Server",Somoy TV
-https://rhridoy136.shortcm.li/shomoytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="" group-title="RH Redoy Server",Channel i HD
-https://rhridoy136.shortcm.li/channeli.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOCaXU1aQbQluYjgVjxOvwFmCyMsKIeOmVinzBqWIFRgrjLnv4_7x2sgyVUY1MdaKlXY&usqp=CAU" group-title="BDIX Server",RTV HD
-http://103.205.133.19/hls/rtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T Sports HD" tvg-logo="https://www.daily-sun.com/assets/news_images/2021/02/08/T_Sports_logo.png" group-title="BDIX Server",T Sports HD
-http://103.81.104.118/hls/t-sports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Maasranga TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTntHOCD1LAZZCjyI1OVDLEJoLrnB-paZpAZPafSlVbNORJgRMAZgrjOZWnEt2rKKlrySU&usqp=CAU" group-title="BDIX Server",Maasranga TV HD
-http://103.81.104.118/hls/stream20.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gazi TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BDIX Server",Gazi TV HD
-http://103.81.104.118/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Duronto TV" tvg-logo="none" group-title="BDIX Server",Duronto TV
-http://103.81.104.118/hls/duronto.m3u8
-#EXTINF:-1 tvg-id="AryNews.pk" tvg-name="Ary News" tvg-country="PK" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg"group-title="Pakistani",ARY NEWS
-https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Asian TV HD" tvg-logo="http://www.chonnochara.com/wp-content/uploads/2017/05/Asian-TV-Logo.jpg" group-title="BDIX Server",Asian TV HD
-http://103.205.133.19/hls/asiantv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bangla TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="BDIX Server",Bangla TV HD
-http://103.205.133.19/hls/banglatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj3fFdlaxsoc4rvY12trMXDfWQUE4WQshWX-dHmMA=s900-c-k-c0x00ffffff-no-rj" group-title="BDIX Server",Jamuna TV
-http://103.205.133.19/hls/jamunatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nagorik TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdUJs1hi5VuS58Mb9zqOyEPG54EkQwljcfNjXr6phz9Z8SUmf3Gi8AaU5ng9-H2MNXMfo&usqp=CAU" group-title="BDIX Server",Nagorik TV
-http://103.205.133.19/hls/nagorik.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel 9 HD" tvg-logo="https://4.bp.blogspot.com/-WBfphs9y5EU/V_n8vp8EWlI/AAAAAAAAEz8/c3Iy9VEgU0g2eVKYvdqzR0IZ2NoyN6ivwCLcB/s1600/channel-9.jpg" group-title="BDIX Server",Channel 9 HD
-http://103.205.133.19/hls/ninechannel.m3u8
+
+
 #EXTINF:-1 tvg-id="32" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Ahlulbayt TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ahlulbayt.jpg",Ahlulbayt TV (1080)
 https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="118" tvg-country="Iran" tvg-language="Farsi" group-title="Religious" tvg-name="IRIB Quran" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/quran-irib.jpg",IRIB Quran (1080)
@@ -94,8 +63,6 @@ http://173.199.120.51/hls/arydigital.m3u8
 http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="RELIGIOUS",Madani TV
 http://45.249.187.238:8081/hls/new9.m3u8
-#EXTINF:-1 tvg-name="Ariana Afghan" tvg-logo="https://i.imgur.com/N8dPVxT.jpg" group-title="AFGHANISTAN",Ariana Afghan
-http://iptv.arianaafgtv.com/ariana/playlist.m3u8
 #EXTINF:-1 tvg-name="RTA News" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA News
 http://ip133.ip-51-210-227.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Ariana News" tvg-logo="https://i.imgur.com/vxGnJvI.png" group-title="AFGHANISTAN",Ariana News
