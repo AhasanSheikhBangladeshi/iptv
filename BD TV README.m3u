@@ -20,15 +20,13 @@ http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.sm
 http://cdn1.live.irib.ir:1935/channel-live/smil:jjtvn1/chunklist_b307200_slFa.m3u8
 #EXTINF:-1 tvg-id="BD NTV.bd" tvg-name="BD NTV" tvg-country="BD" tvg-language="Bangla" tvg-logo=" " group-title="None",BD NTV (480p)
 http://173.199.120.51/hls/ntv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MujATAg.png" group-title="Bangladeshi", Madani TV
-https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" tvg-country="IN" tvg-language="English" tvg-logo=" " group-title="News",NDTV(480p)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-id="NDTV India.in" tvg-name="NDTV India" tvg-country="IN" tvg-language="Hindi" tvg-logo=" " group-title="News",NDTV India (480p)
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:-1 tvg-id="IqraBangla.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/GK5BlnN.jpg" group-title="Religious",Iqra Bangla (576p)
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
-EXTINF:-1 tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="RELIGIOUS",Madani TV Bangla
+#EXTINF:-1 tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="RELIGIOUS",Madani TV Bangla
 https://tempe.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madanitvbangla.stream/live-orgin/madanitvbangla.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="32" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Ahlulbayt TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ahlulbayt.jpg",Ahlulbayt TV (1080)
 https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8
@@ -49,8 +47,6 @@ http://ott-cdn.ucom.am/s23/index.m3u8
 http://103.205.133.19/hls/ekushey.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhGxqPPcaTkb1du60x4Ik9L-5v43KPp6gqxBKb4f82i4MpBcrJLIM63JdJnXgWFC23Ic&usqp=CAU" group-title="BDIX Server",Channel 24
 http://103.205.133.19/hls/channel24.m3u8
-#EXTINF:-1 tvg-id="IqraTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="Religious",Iqra TV (576p)
-https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraaTV.uk" tvg-country="UK" tvg-language="" tvg-logo="none" group-title="None",Iqraa TV (576p)
 http://wowzaprod3-lh.akamaihd.net/i/83372732_1@141298/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/12/somoy_tv_logo.png" group-title="BDIX Server",Somoy TV
@@ -131,6 +127,14 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU" group-title="Bangladeshi",24.Nagorik TV
 http://103.205.133.21/hls/nagorik.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Madani TV Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg" group-title="JagoBD Server",Madani TV Bangla
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MujATAg.png" group-title="Bangladeshi", Madani TV
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Madani TV Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg" group-title="BDIX Server",Madani TV Bangla
+http://103.205.133.19/hls/madanitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Madani Bangla TV" tvg-logo="none" group-title="BDIX Server",Madani Bangla TV
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="Bangladeshi",26.NTV
 http://103.205.133.21/hls/ntv.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="Bangladeshi",27.RTV
@@ -206,8 +210,6 @@ http://103.43.148.202:1931/iptv/somoyt000011226615544544.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN Islamic TV" tvg-logo="https://lh3.googleusercontent.com/B3ziYGuRlgUtI32LzFvG862YxFdpQGAzRVxawBT0fN3dd2B7Vl8t7u4ckXH3h-gAdg=s180-rw" group-title="JagoBD Server",ATN Islamic TV
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Madani TV Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg" group-title="JagoBD Server",Madani TV Bangla
-https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel i HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="JagoBD Server",Channel i HD
 http://iptvbd.jagobd.com:1931/boishakhi/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV Plus" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg" group-title="JagoBD Server",Boishakhi TV Plus
@@ -230,12 +232,6 @@ http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg",Al Iraqiya News
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Madani Bangla" tvg-logo="none" group-title="BDIX Server",Madani Bangla
-http://103.81.104.118/hls/madani.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Madani TV Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla.jpg" group-title="BDIX Server",Madani TV Bangla
-http://103.205.133.19/hls/madanitv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Madani Bangla TV" tvg-logo="none" group-title="BDIX Server",Madani Bangla TV
-https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTM3U
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="Pakistani",PTV World
 https://live.ptv.com.pk/live/ptvworld/playlist.m3u8?checkedby:iptvcat.com
