@@ -24,6 +24,42 @@ http://173.199.120.51/hls/ntv.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-id="NDTV India.in" tvg-name="NDTV India" tvg-country="IN" tvg-language="Hindi" tvg-logo=" " group-title="News",NDTV India (480p)
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Bangladeshi",Jamuna TV
+http://103.205.133.40/hls/jamunatv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Bangladeshi",Channel 24
+http://103.205.133.40/hls/channel24.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="Bangladeshi",News 24
+http://103.205.133.40/hls/news24.m3u8
+#EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangladeshi",Somoy News
+http://103.205.133.40/hls/somoy.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="Bangladeshi",DBC News
+http://103.205.133.40/hls/dbcnews.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="Bangladeshi",Maasranga
+https://tempx.jagobd.com:441/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mass.stream/live-orgin/mass.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangladeshi",Independent
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="Bangladeshi",Channel I
+http://103.205.133.40/hls/ichannel.m3u8
+#EXTINF:0 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/images/ntv-facebook.jpg" group-title="Bangladeshi",NTV
+http://103.205.133.40/hls/ntv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="Bangladeshi",RTV
+http://103.205.133.40/hls/rtv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Bangladeshi",Boishakhi
+http://103.205.133.40/hls/boisakhi.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangladeshi",My TV
+http://103.205.133.40/hls/mytv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="Bangladeshi",Ekushey TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangladeshi",Mohona Tv
+http://103.205.133.40/hls/mohonatv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="Bangladeshi",SATV
+http://103.205.133.40/hls/satv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="Bangladeshi",Asian TV
+http://103.205.133.40/hls/asiantv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/cIqG0pA.png" group-title="Bangladeshi",Nagorik
+http://103.205.133.40/hls/nagorik.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="Bangladeshi",Deepto TV
+http://103.205.133.40/hls/deeptotv.m3u
 #EXTINF:-1 tvg-id="IqraBangla.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/GK5BlnN.jpg" group-title="Religious",Iqra Bangla (576p)
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="RELIGIOUS",Madani TV Bangla
@@ -43,14 +79,8 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s23/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekushey TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsF7FRQfcw5TeMa8Z7psgXbhNMssFO4U6zPbyO7rTkmiO7pHRd33pIYvZJZqIDEk5Ajbc&usqp=CAU" group-title="BDIX Server",Ekushey TV
-http://103.205.133.19/hls/ekushey.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBhGxqPPcaTkb1du60x4Ik9L-5v43KPp6gqxBKb4f82i4MpBcrJLIM63JdJnXgWFC23Ic&usqp=CAU" group-title="BDIX Server",Channel 24
-http://103.205.133.19/hls/channel24.m3u8
 #EXTINF:-1 tvg-id="IqraaTV.uk" tvg-country="UK" tvg-language="" tvg-logo="none" group-title="None",Iqraa TV (576p)
 http://wowzaprod3-lh.akamaihd.net/i/83372732_1@141298/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2018/12/somoy_tv_logo.png" group-title="BDIX Server",Somoy TV
-http://103.205.133.19/hls/somoy.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
 http://173.199.120.51/hls/ntv.m3u8
 #EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"  group-title="India-Pakistani",ARY NEWS (PK)
@@ -301,18 +331,6 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 http://103.153.39.34:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Hindi HD" tvg-logo="" group-title="Test Channel",Nat Geo Hindi HD
 http://103.153.39.34:8000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery HD multivision" tvg-logo="" group-title="Test Channel",Discovery HD multivision
-https://idvd.multitvsolution.com/idvo/discoveryhd_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD" tvg-logo="" group-title="Test Channel",Star Sports 1 HD
-http://103.153.39.34:8000/play/a040/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Channel 24 RH Redoy" tvg-logo="" group-title="Test Channel",Channel 24 RH Redoy
-https://rhridoy136.shortcm.li/channel24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ekattor HD Toffe Link-2" tvg-logo="" group-title="Test Channel",Ekattor HD Toffe Link-2
-https://streamer-1.toffeelive.com/?bitrate=1024000&channel=ekattor_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb\
-#EXTINF:-1 tvg-id="" tvg-name="Euro Sports 1" tvg-logo="" group-title="Test Channel",Euro Sports 1
-http://178.62.107.180/woh/index.m3u8?id=49019
-#EXTINF:-1 tvg-id="" tvg-name="Sony Aath Radiant" tvg-logo="" group-title="Test Channel",Sony Aath Radiant
-http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Soudi Quran TV" tvg-logo="" group-title="Test Channel",Soudi Quran TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qur
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-name="Makkah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Religious",Makkah TV (480p)
@@ -337,14 +355,6 @@ https://sdm.telewebion.com/live/tv2/playlist.m3u8
 https://sdm.telewebion.com/live/tv3/playlist.m3u8
 #EXTINF:-1 tvg-id="TV4.ir" tvg-name="IRIB TV4" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",TV4 (576p)
 https://sdm.telewebion.com/live/tv4/playlist.m3u8
-#EXTINF:-1 tvg-id="Varzesh.ir" tvg-name="IRIB Varzesh" tvg-country="IR" tvg-language="" tvg-logo="none" group-title="None",Varzesh (1080p)
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh/playlist.m3u8
-#EXTINF:-1 tvg-id="VARZESH.ir" tvg-name="IRIB VARZESH" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",VARZESH (720p)
-http://cdn1.live.irib.ir:1935/live-channels/smil:varzesh/playlist.m3u8
-#EXTINF:-1 tvg-id="YAZD.ir" tvg-name="YAZD" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",YAZD (576p)
-https://sdm.telewebion.com/live/taban/playlist.m3u8
-Server",Maasranga HD
-http://iptvbd.jagobd.com:1931/boishakhi/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.assirat.tv/uploaded/HADIS.JPG" group-title="",Al-Sirat
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-id="QURAN.ir" tvg-name="IRIB QURAN" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",QURAN (576p)
