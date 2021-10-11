@@ -398,16 +398,12 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlResalah.sa" tvg-name="Al-Resalah" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/resala.png" group-title="Religious",Al-Resalah (1080p) [Geo-blocked]
 https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8
-#EXTINF:-1 tvg-id="ImamHusseinTV.ir" tvg-name="Imam Hussein TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Religious",Imam Hussein TV (720p)
-https://fa.imamhusseintv.com/live/ih1.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV.ir" tvg-name="Imam Hussein TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/FPfq4O5.png" group-title="Religious",Imam Hussein TV 1 (360p)
 https://live.imamhossaintv.com/live/ih103/index.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV1Farsi.iq" tvg-name="Imam Hussein TV 1 Farsi" tvg-country="IQ" tvg-language="Persian" tvg-logo="https://ihttps://www.dijlah.tv/templates/default-2/images/dlogo.png.imgur.com/ocyh4DD.jpg" group-title="Religious",Imam Hussein TV 1 Farsi (720p)
 https://live.imamhossaintv.com/live/ih1.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV2Arabic.iq" tvg-name="Imam Hussein TV 2 Arabic" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Religious",Imam Hussein TV 2 Arabic (360p)
 https://ar.imamhusseintv.com/live/ih201/index.m3u8
-#EXTINF:-1 tvg-id="ImamHusseinTV2Arabic.iq" tvg-name="Imam Hussein TV 2 Arabic" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Religious",Imam Hussein TV 2 Arabic (720p)
-https://live.imamhossaintv.com/live/ih2.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV3English.iq" tvg-name="Imam Hussein TV 3 English" tvg-country="IQ" tvg-language="English" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Religious",Imam Hussein TV 3 English (720p)
 https://live.imamhossaintv.com/live/ih3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-country="IQ" tvg-url="" group-title="Religious",Imam Hussein TV 4 Urdu
