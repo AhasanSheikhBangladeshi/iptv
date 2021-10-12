@@ -187,6 +187,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://103.205.133.19/hls/ekatoortv.m3u8
 #EXTINF:-1 tvg-id="EmanChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/NWljgKa.png" group-title="Religious",Eman Channel (576p)
 https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/playlist.m3u8
+https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainTV.bh" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="General",Bahrain TV (720p)
 http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8
 #EXTINF:-1 tvg-id="Huda.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dnjDgw.jpg" group-title="Relegious",Huda (720p)
