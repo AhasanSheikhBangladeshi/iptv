@@ -95,8 +95,6 @@ http://173.199.120.51/hls/arydigital.m3u8
 http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="RELIGIOUS",Madani TV
 http://45.249.187.238:8081/hls/new9.m3u8
-#EXTINF:-1 tvg-id="ExpressNewsPakistan.pk" tvg-country="PK" tvg-language="" tvg-logo="" group-title="News",Express News Pakistan (720p) [Not 24/7]
-https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/master.m3u8
 #EXTINF:-1 ch-id="SUCH NEWS TV (PK)" tvg-logo=" "  group-title="Pakistani",SUCH TV (PK)
 http://221.120.204.4/SUCH-NEWS-LOCKLE/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="RTA News" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA News
@@ -246,6 +244,8 @@ https://live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5RvV_LtR1dxPCVFGw6dxXA/live
 #EXTINF:-1 tvg-id="SuchTV.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/WlxWJm1.png" group-title="News",Such TV (720p) [Not 24/7]
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x72hrde
+#EXTINF:-1 tvg-id="PTVWorld.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/eeDFRgN.png" group-title="",PTV World (360p)
+https://live.ptv.com.pk/live/ptvworld/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber (720p)
 https://tv-trthaber.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (1080p)
