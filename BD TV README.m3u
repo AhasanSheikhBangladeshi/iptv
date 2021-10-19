@@ -85,6 +85,12 @@ http://ott-cdn.ucom.am/s23/index.m3u8
 http://wowzaprod3-lh.akamaihd.net/i/83372732_1@141298/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
 http://173.199.120.51/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="General" tvg-name="IRIB Kordestan" tvg-logo=" ",IRIB Kordestan(1080)
+https://s-cloud.irib.ir/live/kordestan/kordestan.m3u8
+#EXTINF:-1 tvg-id="130" tvg-country="Iran" tvg-language="Farsi" group-title="General" tvg-name="Hamoon Zahedan" tvg-logo=" ",IRIB Hamoon Zahedan(1080)
+https://s-cloud.irib.ir/live/hamoon/hamoon.m3u8
+#EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="General" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
+https://s-cloud.irib.ir/live/tv1/tv1.m3u8
 #EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"  group-title="India-Pakistani",ARY NEWS (PK)
 http://173.199.120.51/hls/arynews.m3u8
 #EXTINF:-1 ch-id="ARY DIGITAL (PK)" tvg-logo="https://1.bp.blogspot.com/--wDE2l82PT0/YRepmImjWvI/AAAAAAAAA4g/QfuH2Q9yP_I7D6RrkC5IiaEGRLRvPg6JwCLcBGAsYHQ/s200/PicsArt_08-14-05.01.13.jpg"  group-title="India-Pakistani",ARY DIGITAL (PK)
