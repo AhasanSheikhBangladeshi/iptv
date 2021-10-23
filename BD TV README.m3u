@@ -78,8 +78,6 @@ https://s-cloud.irib.ir/live/presstv/presstv.m3u8
 https://live1.presstv.ir/live/hausatvha/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Safeer TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/safeer-tv.jpg",Safeer TV (1080)
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (1080p)
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s23/index.m3u8
@@ -88,11 +86,11 @@ http://wowzaprod3-lh.akamaihd.net/i/83372732_1@141298/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
 http://173.199.120.51/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="General" tvg-name="IRIB Kordestan" tvg-logo=" ",IRIB Kordestan(1080)
-https://s-cloud.irib.ir/live/kordestan/kordestan.m3u8
-#EXTINF:-1 tvg-id="130" tvg-country="Iran" tvg-language="Farsi" group-title="General" tvg-name="Hamoon Zahedan" tvg-logo=" ",IRIB Hamoon Zahedan(1080)
-https://s-cloud.irib.ir/live/hamoon/hamoon.m3u8
+https://sdm.telewebion.com/live/kordestan/playlist.m3u8
+#EXTINF:-1 tvg-id="27" tvg-country="Iran" tvg-language="Farsi" group-title="General" tvg-name="Hamoon Zahedan" tvg-logo=" ",IRIB Hamoon Zahedan(1080)
+https://sdm.telewebion.com/live/hamoon/playlist.m3u8
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="General" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
-https://s-cloud.irib.ir/live/tv1/tv1.m3u8
+https://sdm.telewebion.com/live/tv1/playlist.m3u8
 #EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"  group-title="India-Pakistani",ARY NEWS (PK)
 http://173.199.120.51/hls/arynews.m3u8
 #EXTINF:-1 ch-id="ARY DIGITAL (PK)" tvg-logo="https://1.bp.blogspot.com/--wDE2l82PT0/YRepmImjWvI/AAAAAAAAA4g/QfuH2Q9yP_I7D6RrkC5IiaEGRLRvPg6JwCLcBGAsYHQ/s200/PicsArt_08-14-05.01.13.jpg"  group-title="India-Pakistani",ARY DIGITAL (PK)
@@ -124,10 +122,6 @@ https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/lemartv.m3u8
 #EXTINF:-1 tvg-name="ATN National" tvg-logo="https://i.imgur.com/m6tBPia.png" group-title="AFGHANISTAN",ATN National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="ATN USA" tvg-logo="https://i.imgur.com/m6tBPia.png" group-title="AFGHANISTAN",ATN USA
-https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="Shamshad TV" tvg-logo="https://i.imgur.com/ugRoN0t.jpg" group-title="AFGHANISTAN",Shamshad TV
-https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
 #EXTINF:1 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png"https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png group-title="Religious",ARY QTV
 http://stream.arylive.com/aryqtv/myStream/index.m3u8
 #EXTINF:-1 tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="Relegious",Madani TV Bangla
@@ -220,7 +214,7 @@ https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/playlist.m3u8
 #EXTINF:-1 tvg-id=Madani English tv.uk" tvg-name="Madani TV English " tvg-country="UK" tvg-language="English" tvg-logo=" " group-title="Religious",Madani Channel English 
 https://madnitv.vdn.dstreamone.net/madnitvenglish/madnienglishabr/playlist.m3u8
 #EXTINF:-1 tvg-id=Geo News.pk" tvg-name="Geo news TV" tvg-country="PK" tvg-language="Urdu" tvg-logo=" " group-title="India-Pakistani",GEO news
-https://bcovlive-a.akamaihd.net/rbd6e9dea9cdf43f0a79ac20d1f78a388/ap-southeast-1/6100381078001/playlist_dvr.m3u8
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream2/chunks_dvr.m3u8
 #EXTINF:1 tvg-country="IN" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/cf/09/f8/cf09f8aa-178a-3b1e-6908-6af894e03835/source/60x60bb.jpg" group-title="Religious",IBN TV 1
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 #EXTINF:-1 tvg-id="AfghanImanTv.af" tvg-country="AF" tvg-language="Dari,Pashto" tvg-logo=" " group-title="Religious",Afghan Iman TV (480p)
@@ -272,12 +266,6 @@ https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
 https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
 #EXTINF:-1 tvg-id="IslamChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png" group-title="Religious",Islam Channel (576p) [Not 24/7]
 https://live.islamchannel.tv/islamtv/islamtv_english/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="PressTV.ir" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/TNQKahI.png" group-title="News",Press TV English (720p)
-https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
-#EXTINF:-1 tvg-id="AlMajdQuranTV.sa" tvg-name="AlMajd Quran TV" tvg-country="SA" tvg-language="Arabic" tvg-logo=" "group-title="Relegious",Al Majd Quran TV
-http://185.9.2.25/MCNC_AL_MAJD_QURAN/index.m3u8
-#EXTINF:-1 tvg-id="AlMajdTV.sa" tvg-name="AlMajd TV" tvg-country="SA" tvg-language="Arabic" tvg-logo=" "group-title="Relegious",Al Majd TV
-http://185.9.2.25/MCNC_AL_MAJD_SCIENTIFIC/index.m3u8
 #EXTINF:1 tvg-country="ID" tvg-logo=" " group-title="Religious",Al Nabawi TV
 http://stream1.ninmedia.tv:1935/nabawitv/nabawitv/chunklist.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT Arabi (1080p)
