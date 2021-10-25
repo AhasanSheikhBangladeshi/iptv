@@ -108,8 +108,14 @@ http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 #https://f8e7y4c6.ssl.hwcdn.net/cinemauk/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Salaam_2017.jpg" group-title="India-pakistani",Zee Salaam
 http://103.205.133.40/hls/zeesalaam.m3u8
-#EXTINF:-1 tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="RELIGIOUS",Madani TV
-http://45.249.187.238:8081/hls/new9.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCaxR-D8FjZ-2otbU0_Y2grg/live&quality=480p
+https://cdn.ta.tapmad.com/dawnnews/811c56dd105be0350728279af7d6be77.sdp/dawnnews/dawnnew2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCJekW1Vj5fCVEGdye_mBN6Q/live&quality=480p
+#https://cdn.ta.tapmad.com/tapmadpak/162fb5557ed6ce73e04fe3588b2b0ed5.sdp/tapmadpak/tensports1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/such-tv-pk.png" group-title="News",Such News
+http://free.fullspeed.tv/query?url=https://dai.ly/x72hrde
 #EXTINF:-1 ch-id="SUCH NEWS TV (PK)" tvg-logo=" "  group-title="Pakistani",SUCH TV (PK)
 http://221.120.204.4/SUCH-NEWS-LOCKLE/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="RTA News" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA News
