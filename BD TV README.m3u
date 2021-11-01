@@ -92,7 +92,7 @@ https://sdm.telewebion.com/live/hamoon/playlist.m3u8
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="General" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
 https://sdm.telewebion.com/live/tv1/playlist.m3u8
 #EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"  group-title="India-Pakistani",ARY NEWS (PK)
-http://173.199.120.51/hls/arynews.m3u8
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87319
 #EXTINF:-1 ch-id="ARY DIGITAL (PK)" tvg-logo="https://1.bp.blogspot.com/--wDE2l82PT0/YRepmImjWvI/AAAAAAAAA4g/QfuH2Q9yP_I7D6RrkC5IiaEGRLRvPg6JwCLcBGAsYHQ/s200/PicsArt_08-14-05.01.13.jpg"  group-title="India-Pakistani",ARY DIGITAL (PK)
 http://173.199.120.51/hls/arydigital.m3u8
 #EXTINF:-1 ch-id="GEO HD (PK)" tvg-logo="https://1.bp.blogspot.com/-fktS4IURByc/YO43k9xSajI/AAAAAAAAAbM/gex7jop3fIQ62kO64RiVFEmqfg8439VTQCLcBGAsYHQ/s200/PicsArt_07-14-06.29.55.jpg"  group-title="India-Pakistani",GEO HD (PK)
@@ -116,8 +116,6 @@ http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCJekW1Vj5fCV
 https://cdn.ta.tapmad.com/tapmadpak/162fb5557ed6ce73e04fe3588b2b0ed5.sdp/tapmadpak/tensports1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/such-tv-pk.png" group-title="News",Such News
 http://free.fullspeed.tv/query?url=https://dai.ly/x72hrde
-#EXTINF:-1 ch-id="SUCH NEWS TV (PK)" tvg-logo=" "  group-title="Pakistani",SUCH TV (PK)
-http://221.120.204.4/SUCH-NEWS-LOCKLE/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="RTA News" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA News
 http://ip133.ip-51-210-227.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Ariana News" tvg-logo="https://i.imgur.com/vxGnJvI.png" group-title="AFGHANISTAN",Ariana News
