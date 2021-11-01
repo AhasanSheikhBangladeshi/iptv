@@ -235,8 +235,8 @@ http://nl.livekadeh.com/hls2/alwilayah.tv.hausa_src.m3u8
 http://nl.livekadeh.com/hls2/alwilayah.tv_src.m3u8
 #EXTINF:1 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png"https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png group-title="Religious",ARY QTV
 http://stream.arylive.com/aryqtv/myStream/tracks-v3a1/mono.m3u8
-#EXTINF:1 tvg-country="ID" tvg-logo=" " group-title="Religious",Wesal TV 2
-http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w2106987031.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" group-title="Relegious", Tehzeeb TV India
+http://jo123.biz/jweb/m3u8.php?c=Tehzeeb_TV&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="None",TRT 1 (720p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News (480p)
