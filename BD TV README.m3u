@@ -441,10 +441,8 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
 http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nat_Geo_HD_Logo.svg/1280px-Nat_Geo_HD_Logo.svg.png" group-title="Documentary",National Geographic Bangla HD
 http://103.81.104.118/hls/stream13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Bangla HD" tvg-logo="https://cdn.imgbin.com/9/18/5/imgbin-discovery-channel-television-channel-discovery-hd-others-FMG1HDCEu5yeWjyk3QeXjf8W9.jpg" group-title="Documentary",Discovery Bangla HD
-http://103.81.104.118/hls/stream9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP Bangla HD" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="Documentary",Travel XP Bangla HD
-http://103.81.104.118/hls/stream37.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="Documentary", Discovery Channel Bengali
+http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Documentary",Sony BBC Earth HD
 http://103.81.104.118/hls/stream5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NAT Geo Wild" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQIEnN4Ti5HbN7gcVm4vyfuH_6i9X89vYqL4-p_8VGH1S4wkVoA-xN-qXKlAu8Am24MI&usqp=CAU" group-title="Documentary",NAT Geo Wild
