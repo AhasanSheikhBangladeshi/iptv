@@ -7,9 +7,8 @@ http://103.106.2.149:13456/btv.m3u8
 http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Saudi Sunnah" tvg-logo="none" group-title="BDIX Server",Saudi Sunnah
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="https://abbasrizvidev.github.io/LitreallyDataRepository/Images/zainabiachannel.png" group-title="Religious",Zainabia Channel
-http://zainabia2.livebox.co.in/Zainabiachannel2hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla", Bangladesh Television CTG
+http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://abbasrizvidev.github.io/LitreallyDataRepository/Images/wintv.png" group-title="Religious",Channel WIN
 http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunklist_w1848970713.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="News",Aaj Tak
@@ -99,11 +98,9 @@ http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87316
 http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.urdu.news18.com/static-urdu/2020/03/Urdu1-1.png" group-title="India-pakistani",News18 Urdu
 https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
-#EXTINF:0 tvg-logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png" group-title="India-pakistani",Zee Cinema
-https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/index.m3u8
-#EXTINF:0 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="India-pakistani",Zee Cinema HD
-http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
-#http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://abbasrizvidev.github.io/LitreallyDataRepository/Images/zainabiachannel.png" group-title="Religious",Zainabia Channel
+http://zainabia2.livebox.co.in/Zainabiachannel2hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/12/Zee-CINEMA.png" group-title="India-pakistani",Zee Cinema (UK)
 #https://f8e7y4c6.ssl.hwcdn.net/cinemauk/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Salaam_2017.jpg" group-title="India-pakistani",Zee Salaam
