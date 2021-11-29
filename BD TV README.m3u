@@ -175,12 +175,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU" group-title="Bangladeshi",24.Nagorik TV
 http://103.205.133.21/hls/nagorik.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MujATAg.png" group-title="Bangladeshi", Madani TV
-https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladeshi",28.Sangsad TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangladeshi",29.SATV
-http://103.205.133.21/hls/satv.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangladeshi",30.Somoy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="OmanTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C7kfubs.png" group-title="General",Oman TV (1080p)
@@ -193,10 +189,6 @@ https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8
 https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
 #EXTINF:-1 tvg-id="BahrainTV.bh" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="General",Bahrain TV (720p)
 http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8
-#EXTINF:-1 tvg-id="Huda.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dnjDgw.jpg" group-title="Relegious",Huda (720p)
-https://cdn.videoevent.live:19360/elfaro2/elfaro2.m3u8
-#EXTINF:-1 tvg-id="TenTV.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/8ff99681-4dd8-4e97-aa18-de4a866ef0fd/poster-image" group-title="None",Ten TV (720p) [Not 24/7]
-https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PK| Bol TV HD " tvg-logo="none" group-title="India-Pakistani",PK| Bol TV HD 
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87353
 #EXTINF:-1 tvg-ID="" tvg-name="PK| Bol TV News HD " tvg-logo="none" group-title="India-Pakistani",PK| Bol News HD 
@@ -209,7 +201,7 @@ http://58.65.194.14:1935/live/Madani-Channel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=Madani English tv.uk" tvg-name="Madani TV English " tvg-country="UK" tvg-language="English" tvg-logo=" " group-title="Religious",Madani Channel English 
 https://madnitv.vdn.dstreamone.net/madnitvenglish/madnienglishabr/playlist.m3u8
 #EXTINF:-1 tvg-id=Geo News.pk" tvg-name="Geo news TV" tvg-country="PK" tvg-language="Urdu" tvg-logo=" " group-title="India-Pakistani",GEO news
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream2/chunks_dvr.m3u8
+http://58.65.194.14:1935/live/Geo-news.stream/playlist.m3u8
 #EXTINF:1 tvg-country="IN" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/cf/09/f8/cf09f8aa-178a-3b1e-6908-6af894e03835/source/60x60bb.jpg" group-title="Religious",IBN TV 1
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 #EXTINF:-1 tvg-id="AfghanImanTv.af" tvg-country="AF" tvg-language="Dari,Pashto" tvg-logo=" " group-title="Religious",Afghan Iman TV (480p)
@@ -544,71 +536,3 @@ http://173.199.116.220/hls/ten1.m3u8
 http://173.199.116.220/hls/ten2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 HD" tvg-logo="http://likeetv.com/uploads/tv_image/sony-ten-3.jpg" group-title="Sports",Sony Ten 3 HD
 http://173.199.116.220/hls/ten3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="Sports",Sony Six HD
-http://173.199.116.220/hls/sonysix.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1" tvg-logo="" group-title="Sports",Fox Sports 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="" group-title="Sports",Fox Sports 2
-#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD Bangla" tvg-logo="" group-title="Sports",Sony Six HD Bangla
-https://streamavi.ml/jio/live.php?c=Sony_Six_HD_Bengali&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Six SD Bangla" tvg-logo="" group-title="Sports",Sony Six SD Bangla
-https://streamavi.ml/jio/live.php?c=Sony_Six_SD_Bengali&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 4 HD" tvg-logo="" group-title="Sports",Sony Ten 4 HD
-https://streamavi.ml/jio/live.php?c=Ten_4_HD_Tamil&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 HD LIV" tvg-logo="" group-title="Sports",Sony Ten 3 HD LIV
-https://streamavi.ml/jio/live.php?c=Ten3_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2 HD LIV" tvg-logo="" group-title="Sports",Sony Ten 2 HD LIV
-https://streamavi.ml/jio/live.php?c=Ten2_HD&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD LIV" tvg-logo="" group-title="Sports",Sony Six HD LIV
-https://streamavi.ml/jio/live.php?c=Six_HD&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Hindi C" tvg-logo="" group-title="Sports",Star Sports 1 Hindi C
-http://dt1q9ova10xfm.cloudfront.net/hgdf32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 4 HD" tvg-logo="" group-title="Sports",Sony Ten 4 HD
-http://jupiter.bdcabletv.com/ten_4-pak/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DD Sports" tvg-logo="" group-title="Sports",DD Sports
-https://idvd.multitvsolution.com/idvo/ddsports_540p/index.m3u8
-fRmS2evzn5gC2Xdzg/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colors Infinity HD Global" tvg-logo="" group-title="English Tv Channel",Colors Infinity HD Global
-http://89.187.182.181:9090/SM_FHD_ENG_COLORSINFINITY/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies Select HD Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRceWUo8_klwvQwX33uT80KbJFHDQzL2FuobJRS8vJ3NbClznj0vU_qoatAaAM60jEwpn8&usqp=CAU" group-title="English Tv Channel",Star Movies Select HD Global
-http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies HD Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="English Tv Channel",Star Movies HD Global
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:3A:6B:91&ip=27.96.95.31&magic_server=MAIN_MP
-#EXTINF:-1 tvg-id="" tvg-name="Star World HD Global" tvg-logo="" group-title="English Tv Channel",Star World HD Global
-http://89.187.182.181:9090/SM_FHD_ENG_STARWORLD/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Pix HD Global" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonypix_hd_masthead_logo.png" group-title="English Tv Channel",Sony Pix HD Global
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:3A:6B:91&ip=27.96.95.31&magic_server=MAIN_MP
-#EXTINF:-1 tvg-id="" tvg-name="&Prive HD Global" tvg-logo="" group-title="English Tv Channel",&Prive HD Global
-http://89.187.182.181:9090/SM_FHD_ENG_ANDPRIVE/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="&flix HD Global" tvg-logo="" group-title="English Tv Channel",&flix HD Global
-http://89.187.182.181:9090/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="&Prive HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Tv Channel",&Prive HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="&FLIX HD" tvg-logo="http://likeetv.com/uploads/tv_image/and-flix-hd.jpg" group-title="English Tv Channel",&FLIX HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Pix HD Fast" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonypix_hd_masthead_logo.png" group-title="English Tv Channel",Sony Pix HD Fast
-http://103.81.104.118/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="English Tv Channel",Star Movies
-http://103.81.104.118/hls/stream3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="English Tv Channel",AXN
-http://103.81.104.118/hls/stream2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies HD 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="English Tv Channel",Star Movies HD 4K
-http://84.17.41.7/StarMoviesHD-Hin/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star World 4K" tvg-logo="" group-title="English Tv Channel",Star World 4K
-http://84.17.41.7/StarWorldHD-Hin/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Pix HD BDIX" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/sonypix_hd_masthead_logo.png" group-title="English Tv Channel",Sony Pix HD BDIX
-http://173.199.116.220/hls/sonypix.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAX HD" tvg-logo="" group-title="English Tv Channel",MAX HD
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe" tvg-logo="" group-title="English Tv Channel",Zee Cafe
-http://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="" group-title="English Tv Channel",Zee Cafe HD
-http://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="English Tv Channel",HBO HD
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="" group-title="English Tv Channel",HBO Hits
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="" group-title="English Tv Channel",HBO Signature
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="English Tv Channel",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
