@@ -191,7 +191,7 @@ https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
 http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PK| Bol TV HD " tvg-logo="none" group-title="India-Pakistani",PK| Bol TV HD 
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87353
-#EXTINF:-1 tvg-ID="" tvg-name="PK| Bol TV News HD " tvg-logo="none" group-title="India-Pakistani",PK| Bol News HD 
+#EXTINF:-1 tvg-ID="" tvg-name="PK| Bol TV News HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuULAnYN991Hp0t9NCV-1WGxC4Wn5x5Y_Y0Q&usqp=CAU" group-title="India-Pakistani",PK| Bol News HD 
 http://58.65.194.14:1935/live/BOL-TV.stream/playlist.m3u8
 #EXTM3U
 #EXTINF:0 tvg-country="SA" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="None",Saudi TV 1
