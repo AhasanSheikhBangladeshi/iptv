@@ -200,7 +200,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m
 http://58.65.194.14:1935/live/Madani-Channel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id=Madani English tv.uk" tvg-name="Madani TV English " tvg-country="UK" tvg-language="English" tvg-logo=" " group-title="Religious",Madani Channel English 
 https://madnitv.vdn.dstreamone.net/madnitvenglish/madnienglishabr/playlist.m3u8
-#EXTINF:-1 tvg-id=Geo News.pk" tvg-name="Geo news TV" tvg-country="PK" tvg-language="Urdu" tvg-logo=" " group-title="India-Pakistani",GEO news
+#EXTINF:-1 tvg-id=Geo News.pk" tvg-name="Geo news TV" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxIh867bKcUB8cv6XjDukmXVucCwwIhEnTQQ&usqp=CAU" group-title="India-Pakistani",GEO news
 http://58.65.194.14:1935/live/Geo-news.stream/playlist.m3u8
 #EXTINF:1 tvg-country="IN" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/cf/09/f8/cf09f8aa-178a-3b1e-6908-6af894e03835/source/60x60bb.jpg" group-title="Religious",IBN TV 1
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
