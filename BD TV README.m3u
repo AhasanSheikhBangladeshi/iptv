@@ -189,6 +189,8 @@ https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8
 https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
 #EXTINF:-1 tvg-id="BahrainTV.bh" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="General",Bahrain TV (720p)
 http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8
+EXTINF:-1,Neo Tv News
+http://58.65.194.14:1935/live/NeoNewsHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PK| Bol TV HD " tvg-logo="none" group-title="India-Pakistani",PK| Bol TV HD 
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87353
 #EXTINF:-1 tvg-ID="" tvg-name="PK| Bol TV News HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuULAnYN991Hp0t9NCV-1WGxC4Wn5x5Y_Y0Q&usqp=CAU" group-title="India-Pakistani",PK| Bol News HD 
