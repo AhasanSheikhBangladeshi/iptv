@@ -233,6 +233,7 @@ https://live.ptv.com.pk/live/ptvworld/playlist.m3u8?checkedby:iptvcat.com
 https://live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/LyqGxwv.jpg" group-title="News",PTV News (1080p) [Not 24/7]
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5RvV_LtR1dxPCVFGw6dxXA/live
+http://58.65.194.14:1935/live/PTV-News.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SuchTV.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/WlxWJm1.png" group-title="News",Such TV (720p) [Not 24/7]
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x72hrde
 #EXTINF:-1 tvg-id="PTVWorld.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/eeDFRgN.png" group-title="",PTV World (360p)
