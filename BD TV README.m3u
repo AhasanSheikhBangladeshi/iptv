@@ -80,6 +80,12 @@ http://wowzaprod3-lh.akamaihd.net/i/83372732_1@141298/master.m3u8
 http://173.199.120.51/hls/ntv.m3u8
 #EXTINF:-1,Hadi TV
 http://125.209.88.166:45793/BRN/HadiTv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="97" tvg-country="Africa" tvg-language="Swahili" group-title="Relegious" tvg-name="Hadi TV Swahili" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Swahili (1080)
+https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
+#EXTINF:-1 tvg-id="98" tvg-country="Indonesia" tvg-language="Bahasa" group-title="Relegious" tvg-name="Hadi TV Bahasa" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Bahasa (1080)
+https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
+#EXTINF:-1 tvg-id="99" tvg-country="Afghanistan" tvg-language="Pashto" group-title="Relegious" tvg-name="Hadi TV Pashto" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Pashto (1080)
+https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="General" tvg-name="IRIB Kordestan" tvg-logo=" ",IRIB Kordestan(1080)
 https://sdm.telewebion.com/live/kordestan/playlist.m3u8
 #EXTINF:-1 tvg-id="MAHABAD.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="",MAHABAD (576p)
