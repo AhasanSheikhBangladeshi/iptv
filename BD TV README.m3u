@@ -82,6 +82,10 @@ http://173.199.120.51/hls/ntv.m3u8
 http://125.209.88.166:45793/BRN/HadiTv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="General" tvg-name="IRIB Kordestan" tvg-logo=" ",IRIB Kordestan(1080)
 https://sdm.telewebion.com/live/kordestan/playlist.m3u8
+#EXTINF:-1 tvg-id="MAHABAD.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="",MAHABAD (576p)
+https://sdm.telewebion.com/live/mahabad/playlist.m3u8
+#EXTINF:-1 tvg-id="KHOOZESTAN.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="",KHOOZESTAN (576p)
+https://sdm.telewebion.com/live/khoozestan/playlist.m3u8
 #EXTINF:-1 tvg-id="27" tvg-country="Iran" tvg-language="Farsi" group-title="General" tvg-name="Hamoon Zahedan" tvg-logo=" ",IRIB Hamoon Zahedan(1080)
 https://sdm.telewebion.com/live/hamoon/playlist.m3u8
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="General" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
