@@ -425,6 +425,16 @@ http://103.81.104.118/hls/stream13.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Documentary",Sony BBC Earth HD
 http://103.81.104.118/hls/stream5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Sahar Urdu TV IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Sahar Urdu TV IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296243
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Sahar Francophone IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Sahar Francophone IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296242
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Sahar FR-BIH IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Sahar FR-BIH IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296241
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Sahar Bosnian IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Sahar Bosnian IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296240
+#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Sahar Azari IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Sahar Azari IR
+http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296239
 #EXTINF:-1 tvg-id="" tvg-name="NAT Geo Wild" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQIEnN4Ti5HbN7gcVm4vyfuH_6i9X89vYqL4-p_8VGH1S4wkVoA-xN-qXKlAu8Am24MI&usqp=CAU" group-title="Documentary",NAT Geo Wild
 http://103.81.104.118/hls/wild.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="Documentary",Animal Planet HD
