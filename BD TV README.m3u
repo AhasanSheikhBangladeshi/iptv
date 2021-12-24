@@ -95,7 +95,7 @@ https://sdm.telewebion.com/live/tv1/playlist.m3u8
 #EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"  group-title="India-Pakistani",ARY NEWS (PK)
 http://14.199.164.20:4001/play/a0vo/index.m3u8
 #EXTINF:-1 ch-id="ARY DIGITAL (PK)" tvg-logo="https://1.bp.blogspot.com/--wDE2l82PT0/YRepmImjWvI/AAAAAAAAA4g/QfuH2Q9yP_I7D6RrkC5IiaEGRLRvPg6JwCLcBGAsYHQ/s200/PicsArt_08-14-05.01.13.jpg"  group-title="India-Pakistani",ARY DIGITAL (PK)
-http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87316
+http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
 #EXTINF:-1 ch-id="GEO HD (PK)" tvg-logo="https://1.bp.blogspot.com/-fktS4IURByc/YO43k9xSajI/AAAAAAAAAbM/gex7jop3fIQ62kO64RiVFEmqfg8439VTQCLcBGAsYHQ/s200/PicsArt_07-14-06.29.55.jpg"  group-title="India-Pakistani",GEO HD (PK)
 http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.urdu.news18.com/static-urdu/2020/03/Urdu1-1.png" group-title="India-pakistani",News18 Urdu
@@ -110,7 +110,7 @@ https://snehz5tv.herokuapp.com/?c=0-9-zeesalaam
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCaxR-D8FjZ-2otbU0_Y2grg/live&quality=480p
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News
-http://58.65.194.14:1935/live/Samaa.stream/playlist.m3u8
+http://125.209.88.166:45793/BRN/Sama.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/such-tv-pk.png" group-title="News",Such News
 http://58.65.194.14:1935/live/SuchTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="RTA News" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA News
@@ -207,7 +207,7 @@ https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/playlist.m3u8
 #EXTINF:-1 tvg-id=Madani English tv.uk" tvg-name="Madani TV English " tvg-country="UK" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAzFVLqhKKCdWobnntFvWDjVjjMjoUVvdHpw&usqp=CAU " group-title="Religious",Madani Channel English 
 https://madnitv.vdn.dstreamone.net/madnitvenglish/madnienglishabr/playlist.m3u8
 #EXTINF:-1 tvg-id=Geo News.pk" tvg-name="Geo news TV" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="India-Pakistani",GEO news
-http://58.65.194.14:1935/live/Geo-news.stream/playlist.m3u8
+http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
 #EXTINF:1 tvg-country="IN" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/cf/09/f8/cf09f8aa-178a-3b1e-6908-6af894e03835/source/60x60bb.jpg" group-title="Religious",IBN TV 1
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 #EXTINF:-1 tvg-id="AfghanImanTv.af" tvg-country="AF" tvg-language="Dari,Pashto" tvg-logo=" " group-title="Religious",Afghan Iman TV (480p)
@@ -238,8 +238,7 @@ https://live.ptv.com.pk/live/ptvworld/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="PTVHome.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/mJxpdBU.png" group-title="Pakistani",PTV Home (238p)
 https://live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/LyqGxwv.jpg" group-title="News",PTV News (1080p) [Not 24/7]
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5RvV_LtR1dxPCVFGw6dxXA/live
-http://58.65.194.14:1935/live/PTV-News.stream/playlist.m3u8
+http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SuchTV.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/WlxWJm1.png" group-title="News",Such TV (720p) [Not 24/7]
 https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x72hrde
 #EXTINF:-1 tvg-id="PTVWorld.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/eeDFRgN.png" group-title="",PTV World (360p)
