@@ -256,6 +256,8 @@ https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
 https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
 #EXTINF:-1 tvg-id="IslamChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png" group-title="Religious",Islam Channel (576p) [Not 24/7]
 https://live.islamchannel.tv/islamtv/islamtv_english/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="AlerthAlnabawi.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="Religious",Alerth Alnabawi (576p) [Not 24/7]
+http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:1 tvg-country="ID" tvg-logo=" " group-title="Religious",Al Nabawi TV
 http://stream1.ninmedia.tv:1935/nabawitv/nabawitv/chunklist.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT Arabi (1080p)
@@ -425,18 +427,6 @@ http://103.81.104.118/hls/stream13.m3u8
 http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Documentary",Sony BBC Earth HD
 http://103.81.104.118/hls/stream5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Sahar Urdu TV IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Sahar Urdu TV IR
-http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296243
-#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Sahar Francophone IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Sahar Francophone IR
-http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296242
-#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Sahar FR-BIH IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Sahar FR-BIH IR
-http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296241
-#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Sahar Bosnian IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Sahar Bosnian IR
-http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296240
-#EXTINF:-1 tvg-id="" tvg-name="|IR|  IRIB Sahar Azari IR" tvg-logo="" group-title="AS| IRAN",|IR|  IRIB Sahar Azari IR
-http://net.azers.online:2082/jzao2q6rd3/7zlvez3tp7/296239
-#EXTINF:-1 tvg-id="" tvg-name="NAT Geo Wild" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQIEnN4Ti5HbN7gcVm4vyfuH_6i9X89vYqL4-p_8VGH1S4wkVoA-xN-qXKlAu8Am24MI&usqp=CAU" group-title="Documentary",NAT Geo Wild
-http://103.81.104.118/hls/wild.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="Documentary",Animal Planet HD
 http://103.81.104.118/hls/stream6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Bangla HD Global" tvg-logo="https://cdn.imgbin.com/9/18/5/imgbin-discovery-channel-television-channel-discovery-hd-others-FMG1HDCEu5yeWjyk3QeXjf8W9.jpg" group-title="Documentary",Discovery Bangla HD Global
