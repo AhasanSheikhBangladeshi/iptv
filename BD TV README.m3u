@@ -269,6 +269,14 @@ http://82.212.74.98:8000/live/hls/7726.m3u8?checkedby:iptvcat.com
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News (720p)
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
+#EXTINF:-1 tvg-id= "Karbala Tv" group-title="Relegious",Karbala Tv Channel
+http://190.115.29.22:8080/carter/GUV1bMq2VK/23259
+#EXTINF:-1 group-title="News",AR: Nile News
+http://190.115.29.22:8080/carter/GUV1bMq2VK/6575
+#EXTINF:-1 group-title="General"AR: Nile TV
+http://190.115.29.22:8080/carter/GUV1bMq2VK/6573
+#EXTINF:-1,AR: PALESTINE-TODAY
+http://190.115.29.22:8080/carter/GUV1bMq2VK/6563
 #EXTINF:-1 tvg-id="AlMasirah.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="News",Al Masirah (720p) [Not 24/7]
 https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIraqiyaAl3ama.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya Al 3ama (720p) [Not 24/7]
@@ -357,33 +365,6 @@ https://sdm.telewebion.com/live/tv4/playlist.m3u8
 https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-id="QURAN.ir" tvg-name="IRIB QURAN" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",QURAN (576p)
 https://sdm.telewebion.com/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jalsha Movies Global" tvg-logo="https://toppng.com/uploads/preview/star-gold-logo-png-115527365832hkce9p3cc.png" group-title="Kolkata Tv Channel",Jalsha Movies Global
-http://178.79.161.66/woh/index.m3u8?id=47903
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD Global" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Kolkata Tv Channel",Star Jalsha HD Global
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-STARJALSHA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ee01782c2004b379eaf8866c106ffb4d3542cbf30d724fa6561bd0947080961b6fa69e3a83eb23f8ffafd052d1b3c4a5f057b38f58f813dfef64dcc1badbab96cb990fae3873c3950a164a6865b945abf540163988cb3c61a2c8a0a51a158b7a1b445f6313e9&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla HD Global" tvg-logo="https://durbinlive.com/uploads/tv_image/colors-bangla-hd.png" group-title="Kolkata Tv Channel",Colors Bangla HD Global
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_SD-BANG-COLORS/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa26f6812ba48a2cfcbf1db217571cb1fd89017e3a0479dee6441491941c17d496da61a5992ce34f2760eccc4421fd34f899e39f853818ba54f0169f5b73dc53695118a2c538d51bd85c35b717cf6d68123&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD Global" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png?o=production" group-title="Kolkata Tv Channel",Zee Bangla HD Global
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-BANG-ZEEBANGLA/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae4a394155cad0d3fb6590a4994ad08d77346bc38e60e12e23d1e4c475b50b48f09950198e189a4b5a10ac74d1bd01ed0ad7cfe9fe35b93d1b3962912dfc9efa50066fb3a87e338845a44e7a813af5fa5d111e8be9802b&mac=00:1A:79:55:D4:8B&ip=103.121.220.147&magic_server=MAIN_MP
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha Movies HD" tvg-logo="https://toppng.com/uploads/preview/star-gold-logo-png-115527365832hkce9p3cc.png" group-title="Kolkata Tv Channel",Star Jalsha Movies HD
-http://103.81.104.118/hls/stream27.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Kolkata Tv Channel",Star Jalsha HD
-http://103.81.104.118/hls/stream31.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png?o=production" group-title="Kolkata Tv Channel",Zee Bangla HD
-http://103.81.104.118/hls/stream30.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sun Bangla" tvg-logo="" group-title="Kolkata Tv Channel",Sun Bangla
-http://103.81.104.118/hls/sunbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla HD" tvg-logo="https://durbinlive.com/uploads/tv_image/colors-bangla-hd.png" group-title="Kolkata Tv Channel",Colors Bangla HD
-http://103.81.104.118/hls/stream28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla HD DL" tvg-logo="" group-title="Kolkata Tv Channel",Colors Bangla HD DL
-https://jio.instream.ml/jio.php?c=Colors_Bengali_HD&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema Z5" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjyaZ7wUCDEHCqccSAJWD3PQ4ilJIsIUWMhcNl8zQ=s900-c-k-c0x00ffffff-no-rj" group-title="Kolkata Tv Channel",Zee Bangla Cinema Z5
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha Movies HD JP" tvg-logo="https://toppng.com/uploads/preview/star-gold-logo-png-115527365832hkce9p3cc.png" group-title="Kolkata Tv Channel",Star Jalsha Movies HD JP
-http://jupiter.bdcabletv.com/JalshaMovies/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla HD JP" tvg-logo="https://durbinlive.com/uploads/tv_image/colors-bangla-hd.png" group-title="Kolkata Tv Channel",Colors Bangla HD Jp
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ksp29FD.jpg" group-title="RELIGIOUS",Iqra Bangla
-https://ap01.iqplay.tv:81/iqb8002/iq53la.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/m8cS74j.png" tvg-country="PK" tvg-url="" group-title="",Minhaj TV
 https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
 #EXTINF:-1 tvg-id="IIPCTV.ca" tvg-name="IIPC TV" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="Religious",IIPC TV (480p)
