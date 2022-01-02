@@ -62,7 +62,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-id="IqraBangla.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/GK5BlnN.jpg" group-title="Religious",Iqra Bangla (576p)
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="RELIGIOUS",Madani TV Bangla
-http://103.161.2.142/hls/madani.m3u8
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="32" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Ahlulbayt TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ahlulbayt.jpg",Ahlulbayt TV (1080)
 https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="118" tvg-country="Iran" tvg-language="Farsi" group-title="Religious" tvg-name="IRIB Quran" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/quran-irib.jpg",IRIB Quran (1080)
@@ -226,10 +226,6 @@ http://stream.arylive.com/aryqtv/myStream/tracks-v3a1/mono.m3u8
 http://14.199.164.20:4001/play/a0p5/index.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="None",TRT 1 (720p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,group-title="General",Qatar Tv Today
-http://190.115.29.22:8080/carter/GUV1bMq2VK/23232
-#EXTINF:-1,group-title="General",Saudi tv 1
-http://190.115.29.22:8080/carter/GUV1bMq2VK/6538
 #EXTINF:-1 tvg-id="ToloTV.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://pbs.twimg.com/profile_images/579001245697908737/bSnXEBFo_400x400.jpeg" group-title="None",Tolo TV (720p)
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg",Al Iraqiya News
@@ -259,6 +255,10 @@ https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
 https://live.islamchannel.tv/islamtv/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="AlerthAlnabawi.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="Religious",Alerth Alnabawi (576p) [Not 24/7]
 http://82.212.74.2:8000/live/7307.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
+http://103.153.39.34:8000/play/a04x/index.m3u8
 #EXTINF:1 tvg-country="ID" tvg-logo=" " group-title="Religious",Al Nabawi TV
 http://stream1.ninmedia.tv:1935/nabawitv/nabawitv/chunklist.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT Arabi (1080p)
@@ -273,10 +273,6 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 #EXTINF:-1 tvg-id= "Karbala Tv" group-title="Relegious",Karbala Tv Channel
 http://190.115.29.22:8080/carter/GUV1bMq2VK/23259
-#EXTINF:-1 group-title="News",AR: Nile News
-http://190.115.29.22:8080/carter/GUV1bMq2VK/6575
-#EXTINF:-1 group-title="General"AR: Nile TV
-http://190.115.29.22:8080/carter/GUV1bMq2VK/6573
 #EXTINF:-1,AR: PALESTINE-TODAY
 http://190.115.29.22:8080/carter/GUV1bMq2VK/6563
 #EXTINF:-1 tvg-id="AlMasirah.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="News",Al Masirah (720p) [Not 24/7]
