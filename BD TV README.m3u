@@ -226,8 +226,10 @@ http://stream.arylive.com/aryqtv/myStream/tracks-v3a1/mono.m3u8
 http://14.199.164.20:4001/play/a0p5/index.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="None",TRT 1 (720p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News (480p)
-http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+#EXTINF:-1,group-title="General",Qatar Tv Today
+http://190.115.29.22:8080/carter/GUV1bMq2VK/23232
+#EXTINF:-1,group-title="General",Saudi tv 1
+http://190.115.29.22:8080/carter/GUV1bMq2VK/6538
 #EXTINF:-1 tvg-id="ToloTV.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://pbs.twimg.com/profile_images/579001245697908737/bSnXEBFo_400x400.jpeg" group-title="None",Tolo TV (720p)
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg",Al Iraqiya News
@@ -293,8 +295,22 @@ https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvethraa.m3u8
 #EXTINF:-1 tvg-id="KTVSport.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="Sports",KTV Sport (1080p) [Not 24/7]
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom & Jerry" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzE3ODhiNzAtOWY4MS00NTdiLThmNDctNDM4NjRiNGFmYjI1XkEyXkFqcGdeQXVyMTI2ODM1ODUw._V1_UY268_CR16,0,182,268_AL_.jpg" group-title="Drive 2 (Animation)",Tom & Jerry
-https://cdn81.turkakisi.tv/content/stream/indfilms/Tom.and.Jerry.2021.720p.WEBRip.TAM.DUB.1XBET.mp4
+#EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious " tvg-name="Hadi TV 1" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 1
+https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
+#EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious " tvg-name="Hadi TV 2" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 2 
+https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
+#EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious " tvg-name="Hadi TV 3" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 3
+https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
+#EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious " tvg-name="Hadi TV 4" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 4
+https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
+#EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious " tvg-name="Hadi TV 5" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 5
+https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
+#EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious" tvg-name="Hadi TV 6" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 6
+https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8
+#EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious" tvg-name="Hadi TV 7" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 7
+https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
+#EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious" tvg-name="Hadi TV 8" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 8
+https://live.ishiacloud.com/haditv.co.uk/haditv8.m3u8
 #EXTINF:-1 tvg-id="IRIBJameJamTV.ir" tvg-name="IRIB JameJam TV" tvg-country="IR" tvg-language="Farsi,English" tvg-logo=" " group-title="None ",IRIB Jamejam TV (480p)
 http://cdn1.live.irib.ir:1935/channel-live/smil:jjtvn1/chunklist_b307200_slFa.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SATV HD" tvg-logo="" group-title="RH Redoy Server",SATV HD
