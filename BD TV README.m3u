@@ -95,7 +95,7 @@ https://sdm.telewebion.com/live/tv1/playlist.m3u8
 #EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"  group-title="India-Pakistani",ARY NEWS (PK)
 http://14.199.164.20:4001/play/a0vo/index.m3u8
 #EXTINF:-1 ch-id="ARY DIGITAL (PK)" tvg-logo="https://1.bp.blogspot.com/--wDE2l82PT0/YRepmImjWvI/AAAAAAAAA4g/QfuH2Q9yP_I7D6RrkC5IiaEGRLRvPg6JwCLcBGAsYHQ/s200/PicsArt_08-14-05.01.13.jpg"  group-title="India-Pakistani",ARY DIGITAL (PK)
-http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
+http://190.115.29.22:8080/carter/GUV1bMq2VK/3455
 #EXTINF:-1 ch-id="GEO HD (PK)" tvg-logo="https://1.bp.blogspot.com/-fktS4IURByc/YO43k9xSajI/AAAAAAAAAbM/gex7jop3fIQ62kO64RiVFEmqfg8439VTQCLcBGAsYHQ/s200/PicsArt_07-14-06.29.55.jpg"  group-title="India-Pakistani",GEO HD (PK)
 http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.urdu.news18.com/static-urdu/2020/03/Urdu1-1.png" group-title="India-pakistani",News18 Urdu
@@ -198,7 +198,7 @@ http://58.65.194.14:1935/live/NeoNewsHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PK| Bol TV HD " tvg-logo="none" group-title="India-Pakistani",PK| Bol TV HD 
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/87353
 #EXTINF:-1 tvg-ID="" tvg-name="PK| Bol TV News HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuULAnYN991Hp0t9NCV-1WGxC4Wn5x5Y_Y0Q&usqp=CAU" group-title="India-Pakistani",PK| Bol News HD 
-http://58.65.194.14:1935/live/BOL-TV.stream/playlist.m3u8
+http://190.115.29.22:8080/carter/GUV1bMq2VK/9127
 #EXTM3U
 #EXTINF:0 tvg-country="SA" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="None",Saudi TV 1
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8?checkedby:iptvcat.com
@@ -207,7 +207,7 @@ https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/playlist.m3u8
 #EXTINF:-1 tvg-id=Madani English tv.uk" tvg-name="Madani TV English " tvg-country="UK" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAzFVLqhKKCdWobnntFvWDjVjjMjoUVvdHpw&usqp=CAU " group-title="Religious",Madani Channel English 
 https://madnitv.vdn.dstreamone.net/madnitvenglish/madnienglishabr/playlist.m3u8
 #EXTINF:-1 tvg-id=Geo News.pk" tvg-name="Geo news TV" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="India-Pakistani",GEO news
-http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
+http://190.115.29.22:8080/carter/GUV1bMq2VK/7997
 #EXTINF:1 tvg-country="IN" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/cf/09/f8/cf09f8aa-178a-3b1e-6908-6af894e03835/source/60x60bb.jpg" group-title="Religious",IBN TV 1
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 #EXTINF:-1 tvg-name="Tolo News" tvg-logo="https://www.allfreepng.com/storage/images/Tolo%20News-medium.png" group-title="AFGHANISTAN",Tolo News
