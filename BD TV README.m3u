@@ -129,7 +129,12 @@ http://stream.arylive.com/aryqtv/myStream/index.m3u8
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/NWljgKa.png",Eman Channel (576p)
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
-
+#EXTINF:-1 tvg-id="ALRAI.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="" group-title="General",Al Rai TV(Kuwait) (1080p) 
+https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
+#EXTINF:0,Rotana Khalijia HD (1080p)[Saudi Arab]
+https://hiplayer.hibridcdn.net/t/rotana-khaleejiya.m3u8
+#EXTINF:0,Rotana Khalijia HD (1080p)[saudi arab]
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladeshi",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladeshi",18.Gaan Bangla HD
