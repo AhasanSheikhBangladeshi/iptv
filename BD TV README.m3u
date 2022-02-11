@@ -205,7 +205,7 @@ https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTM3U
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="Pakistani",PTV World
-https://live.ptv.com.pk/live/ptvworld/playlist.m3u8?checkedby:iptvcat.com
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644616095/ei/P4UGYvO8NpecgAfmgIWQDw/ip/92.205.11.109/id/bRu24WTfhWw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAILL79J_A9d9wmc4QE2Hi2cqwdRfPBV-T-xG4owkvmPFAiBgDyBn2Prt4sEl4rJSL83Hl4W8xURVTlMExGVT890mbg%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="PTVHome.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/mJxpdBU.png" group-title="Pakistani",PTV Home (238p)
 https://live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/LyqGxwv.jpg" group-title="News",PTV News (1080p) [Not 24/7]
