@@ -363,7 +363,7 @@ https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV.ir" tvg-name="Imam Hussein TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/FPfq4O5.png" group-title="Religious",Imam Hussein TV 1 (360p)
 https://live.imamhossaintv.com/live/ih1.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV2Arabic.iq" tvg-name="Imam Hussein TV 2 Arabic" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Religious",Imam Hussein TV 2 Arabic (360p)
-https://ar.imamhusseintv.com/live/ih201/index.m3u8
+https://live.imamhossaintv.com/live/ih2.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV3English.iq" tvg-name="Imam Hussein TV 3 English" tvg-country="IQ" tvg-language="English" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Religious",Imam Hussein TV 3 English (720p)
 https://live.imamhossaintv.com/live/ih3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-country="IQ" tvg-url="" group-title="Religious",Imam Hussein TV 4 Urdu
