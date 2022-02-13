@@ -210,7 +210,7 @@ http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id" tvg-country="ID" tvg-language="Indonesian;Javanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="Local",TVRI World (720p)
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
-#EXTINF:-1 tvg-id "Yemen tv.ye" tvg-country="ID" tvg-language="Indonesian;Javanese" tvg-logo="" group-title="Local" Yemen tV (420p)
+#EXTINF:-1 tvg-id="YemenTV.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="" group-title="",Yemen TV 
 http://149.62.183.198:8000/play/a0cd/index.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber (720p)
 https://tv-trthaber.live.trt.com.tr/master.m3u8
