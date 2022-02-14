@@ -207,6 +207,7 @@ http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #EXTINF:-1 tvg-id="YemenTV.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.elwekalanews.net/UploadCache/libfiles/7/9/600x338o/857.png" group-title="",Yemen TV 
 http://149.62.183.198:8000/play/a0cd/index.m3u8
+http://45.94.31.195:7002/play/a0fr
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber (720p)
 https://tv-trthaber.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (1080p)
@@ -327,14 +328,8 @@ http://51.210.199.37/hls/stream.m3u8
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="AlKawtharTV.ir" tvg-name="IRIB Al Kawthar TV" tvg-country="IR" tvg-language="" tvg-logo="none" group-title="None",Al Kawthar TV (360p)
 http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
-#EXTINF:-1 tvg-id="ALBORZ.ir" tvg-name="IRIB ALBORZ" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",ALBORZ (576p)
-https://sdm.telewebion.com/live/alborz/playlist.m3u8
 #EXTINF:-1 tvg-id="TowheedTV.ae" tvg-name="Towheed TV" tvg-country="AE;IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/nsxrqta.jpg" group-title="Religious",Towheed TV (720p)
 http://51.210.199.1/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TV1.ir" tvg-name="IRIB TV1" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",TV1 (720p)
-https://sdm.telewebion.com/live/tv1/playlist.m3u8
-#EXTINF:-1 tvg-id="TV2.ir" tvg-name="IRIB TV2" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",TV2 (576p)
-https://sdm.telewebion.com/live/tv2/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.ir" tvg-name="IRIB TV3" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",TV3 (480p)
 https://sdm.telewebion.com/live/tv3/playlist.m3u8
 #EXTINF:-1 tvg-id="TV4.ir" tvg-name="IRIB TV4" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",TV4 (576p)
@@ -347,8 +342,6 @@ https://sdm.telewebion.com/live/quran/playlist.m3u8
 https://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
 #EXTINF:-1 tvg-id="IIPCTV.ca" tvg-name="IIPC TV" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="Religious",IIPC TV (480p)
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AhlulbaytTV.uk" tvg-name="Ahlulbayt TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/qLqHPhK.png" group-title="Religious",Ahlulbayt TV (404p)
-http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Iqraa.sa" tvg-name="Iqraa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa (576p) [Not 24/7]
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraaEuropeAfrica.sa" tvg-name="Iqraa Europe Africa" tvg-country="SA" tvg-language="English" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa Europe Africa (576p) [Not 24/7]
