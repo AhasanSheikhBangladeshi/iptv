@@ -160,10 +160,10 @@ https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="AVTKhyber.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/uh8HAPY.jpg" group-title="",AVT Khyber (404p) [Not 24/7]
 https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8
+#EXTINF:-1 tvg-name="Al Majd TV" tvg-logo="https://cdn.dribbble.com/users/2577708/screenshots/11585878/media/d96e40ca882560b9aa3639df8f2361b9.jpg" group-title="Relegious",Almajd TV
+http://red.ipfox.org:8080/1234/12345678/35119?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="BahrainTV.bh" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="General",Bahrain TV (720p)
 http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8
-#EXTINF:-1,Neo Tv News
-http://58.65.194.14:1935/live/NeoNewsHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="PK| Bol TV News HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuULAnYN991Hp0t9NCV-1WGxC4Wn5x5Y_Y0Q&usqp=CAU" group-title="India-Pakistani",PK| Bol News HD 
 http://190.115.29.22:8080/carter/GUV1bMq2VK/9127
 #EXTM3U
