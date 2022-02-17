@@ -137,12 +137,6 @@ https://hiplayer.hibridcdn.net/t/rotana-khaleejiya.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladeshi",18.Gaan Bangla HD
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="Al Iraqiya Syriac" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9_%D8%AC%D8%AF%D9%8A%D8%AF.jpg" group-title="",AlIraqiya SyriacTV
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/49501?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="Al Iraqiya Kurdish TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imn-kurdish-iq.png" group-title="",Al Iraqiya Kurdish TV
-http://red.ipfox.org:8080/1234/12345678/33075?checkedby:iptvcat.com
-#EXTINF:-1 tvg-name="Al Iraqiya Turkmen TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imn-turkmen-iq.png" group-title="",Al Iraqiya Turkmen TV
-http://red.ipfox.org:8080/1234/12345678/33073?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladeshi",Sangsad TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangladeshi",Somoy TV
@@ -163,7 +157,7 @@ http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8
 http://190.115.29.22:8080/carter/GUV1bMq2VK/9127
 #EXTM3U
 #EXTINF:0 tvg-country="SA" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="None",Saudi TV 1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/1290?checkedby:iptvcat.com
+ttp://45.94.31.190:7003/play/a0ca
 #EXTINF:-1 tvg-id=Madani Urdu tv.pk" tvg-name="Madani TV Urdu" tvg-country="PK" tvg-language="Urdu" tvg-logo= "data:image/jpeg;base64,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" group-title="Religious",Madani Channel Urdu
 https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dawateislamimidlands.net/wp-content/uploads/2020/01/Madani-Channel-Section-1.png" group-title="Religious",Madani Channel English 
@@ -239,7 +233,7 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News (720p)
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 #EXTINF:-1 tvg-id= "Karbala Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Relegious",Karbala Tv Channel
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/14532?checkedby:iptvcat.com
+http://197.13.13.82:8000/play/a0p3/index.m3u8?HasBahCa.m3u8
 #EXTINF:-1,AR: PALESTINE-TODAY
 http://190.115.29.22:8080/carter/GUV1bMq2VK/6563
 #EXTINF:-1 tvg-id="AlMasirah.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="News",Al Masirah (720p) [Not 24/7]
