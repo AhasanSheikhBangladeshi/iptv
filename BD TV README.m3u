@@ -236,9 +236,9 @@ http://stream1.ninmedia.tv:1935/nabawitv/nabawitv/chunklist.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT Arabi (1080p)
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="" group-title="",Yemen Shabab [100]
-https://master.starmena-cloud.com/hls/yemenshabab.m3u8?checkedby:iptvcat.com
-#EXTINF: group-title="News" tvg-id="SuhailTV.ye" tvg-name="Suhail TV" tvg-logo="" ,Suhail tv 2
-http://82.212.74.98:8000/live/hls/7726.m3u8?checkedby:iptvcat.com
+http://red.ipfox.org:8080/1234/12345678/35108?checkedby:iptvcat.com
+#EXTINF: group-title="News" tvg-id="SuhailTV.ye" tvg-name="Suhail TV" tvg-logo="" ,Suhail tv
+http://red.ipfox.org:8080/1234/12345678/35116?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="News",BBC News (720p)
