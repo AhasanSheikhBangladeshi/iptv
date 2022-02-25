@@ -256,7 +256,7 @@ https://media.streambrothers.com:1936/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="none" group-title="General",Al Sharqiya (1080p)
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV1.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="",KTV 1 (1080p) [Not 24/7]
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
+http://www.elahmad.com/tv/m3u8/kuwait_tv_1.php?id=kwtv1
 #EXTINF:-1 tvg-id="KTV2.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg" group-title="",KTV 2 (1080p) [Not 24/7]
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtv2.m3u8
 #EXTINF:-1 tvg-id="KTVEthraa.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif" group-title="",KTV Ethraa (1080p) [Not 24/7]
