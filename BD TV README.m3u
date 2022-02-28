@@ -204,7 +204,7 @@ https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTM3U
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="Pakistani",PTV World
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/87345?checkedby:iptvcat.com
+https://rr5---sn-npoeenlk.googlevideo.com/videoplayback?expire=1646048985&ei=eWIcYomSHPWoz7sPh_eNkAU&ip=103.218.189.20&id=7nnqF3QhuME.1&itag=243&aitags=133%2C134%2C135%2C160%2C242%2C243%2C244%2C278&source=yt_live_broadcast&requiressl=yes&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=zwvtSEUGn8jiFpjmeB7ppkMG&gir=yes&keepalive=yes&fexp=24001373,24007246&c=WEB&n=ZgnrR5XygNzmUQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgRRudwHeM4QEKdVjOIM8Zy3w2rsLzo2Wgp7wVdlvKyVwCIQDzWppVZ2zW4yr4WJIUZw0a1ClUAIPmdytWBC0CPTMkKA%3D%3D&alr=yes&cpn=TDmf1-v1qqZ1_KX-&cver=2.20220224.07.00&sq=124511&rn=15&rbuf=9759&redirect_counter=1&cm2rm=sn-hxqp5voapoxcq-q5je7e&req_id=fd0196205313a3ee&cms_redirect=yes&cmsv=e&mh=I8&mm=29&mn=sn-npoeenlk&ms=rdu&mt=1646027355&mv=m&mvi=5&pl=24&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgOOG_DtlyC2tpcnl2lOB_Soiz4__AeauMJKx2GSmaAgwCIBVDIBVvVjVb_bsdLnunTIojz0pUG_-5Y-5-mwD8bJnk
 #EXTINF:-1 tvg-id="PTVHome.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/mJxpdBU.png" group-title="Pakistani",PTV Home (238p)
 http://125.209.88.166:45793/BRN/PtvHome.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/LyqGxwv.jpg" group-title="News",PTV News (1080p) [Not 24/7]
