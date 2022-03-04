@@ -251,13 +251,11 @@ http://190.115.29.22:8080/carter/GUV1bMq2VK/6563
 https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIraqiyaAl3ama.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya Al 3ama (720p) [Not 24/7]
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
-#EXTINF:-1 tvg-id="AmozhgaryTV.iq" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/SRotZrm.png" group-title="Religious",Amozhgary TV (1080p)
-https://media.streambrothers.com:1936/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-id="AmozhgaryTV.iq" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/SRotZrm.png" group-title="Religious",Amozhgary TV (1080p)https://media.streambrothers.com:1936/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="none" group-title="General",Al Sharqiya (1080p)
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="KTV1.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="",KTV 1 (1080p) [Not 24/7]
-https://hiplayer.hibridcdn.net/t/kwmedia- kwtv1.m3u8?checkedby:iptvcat.com
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_480p/chunks.m3u8?p=48&s=1646398275&e=1646484675&cf=1646484675&h=d0c7eff4f500b38a9bb69a56d6feaf60
 #EXTINF:-1 tvg-id="KTV2.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg" group-title="",KTV 2 (1080p) [Not 24/7]
 https://hiplayer.hibridcdn.net/t/kwmedia- kwtv2.m3u8?checkedby: iptvcat.com
 #EXTINF:-1 tvg-id="KTVEthraa.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif" group-title="",KTV Ethraa (1080p) [Not 24/7]
