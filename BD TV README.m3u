@@ -244,7 +244,7 @@ http://red.ipfox.org:8080/1234/12345678/35116?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id= "Karbala Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Relegious",Karbala Tv Channel
-http://red.ipfox.org:8080/1234/12345678/33135?checkedby:iptvcat.com
+http://stariptv.org:8080/wael2021/123456/112623
 #EXTINF:-1,AR: PALESTINE-TODAY
 http://190.115.29.22:8080/carter/GUV1bMq2VK/6563
 #EXTINF:-1 tvg-id="AlMasirah.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="News",Al Masirah (720p) [Not 24/7]
