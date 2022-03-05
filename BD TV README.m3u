@@ -84,6 +84,8 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 http://45.94.31.195:7001/play/a0ck
 #EXTINF:-1 tvg-name="Imam Ali Najaf HD Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Imam_Ali_shrine_-_1_May_2015_19.jpg" group-title="Relegious",Imam Ali Najaf Live HD
 http://red.ipfox.org:8080/1234/12345678/33117?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="Iqra TV" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="UK-Religious",BT- Iqra Tv
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
 #EXTINF:-1,Hadi TV
 http://125.209.88.166:45793/BRN/HadiTv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="General" tvg-name="IRIB Kordestan" tvg-logo=" ",IRIB Kordestan(1080)
@@ -145,9 +147,9 @@ http://red.ipfox.org:8080/1234/12345678/33075?checkedby:iptvcat.com
 http://stariptv.org:8080/wael2021/123456/112687
 #EXTINF:-1 tvg-id="Jordan TV" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="General",Jordan TV (1080p)
 http://red.ipfox.org:8080/1234/12345678/33758?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="IPlus Tv" tvg-logo="" group-title="Religious",In- IPlus Tv
+#EXTINF:-1 tvg-id="" tvg-name="IPlus Tv" tvg-logo="https://logos.fandom.com/wiki/IPlus_TV?file=IPlus.jpeg" group-title="Religious",In- IPlus Tv
 https://5c75277727cd1.streamlock.net/iplustv/iplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Huda Tv" tvg-logo="" group-title="En-Religious",EN- Huda Tv
+#EXTINF:-1 tvg-id="" tvg-name="Huda Tv" tvg-logo="http://2.bp.blogspot.com/-cSfP2QGNX28/VYv3Az7jdqI/AAAAAAAAARo/IfXNZKE0_Fk/s1600/Huda%2BLogo%2BSMALL.jpg" group-title="En-Religious",EN- Huda Tv
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladeshi",Sangsad TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
