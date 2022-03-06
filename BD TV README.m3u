@@ -451,13 +451,7 @@ http://103.157.237.18:8000/play/601
 #EXTINF:-1 tvg-id="" tvg-name="Euro Live 2020" tvg-logo="https://i.pinimg.com/originals/19/c5/e6/19c5e65086143d66c77a7cc34b0eafd9.png" group-title="Sports",Euro Live 2020
 http://134.19.182.131:8080/edg8_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTV-SPORTS" tvg-logo="" group-title="Sports",PTV-SPORTS
-http://221.120.204.4/PTV-SPORTS-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ten Sports" tvg-logo="" group-title="Sports",Ten Sports
-http://221.120.204.4/TEN-SPORTS-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTV Sports Bekup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports Bekup
-http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T Sports" tvg-logo="https://www.daily-sun.com/assets/news_images/2021/02/08/T_Sports_logo.png" group-title="Sports",T Sports
-http://173.199.116.220/hls/tsports.m3u8
+http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports 1 HD 
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14981
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="Sports", Bein Sports 2 HD 
@@ -474,10 +468,6 @@ http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14989
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14991
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7KTVtHK.png" group-title="Sports", Bein Sports 7
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14993
-#EXTINF:-1 tvg-id="" tvg-name="T Sports HD" tvg-logo="https://www.daily-sun.com/assets/news_images/2021/02/08/T_Sports_logo.png" group-title="Sports",T Sports HD
-http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Six Bekup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six Bekup
-http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports HD 2" tvg-logo="" group-title="Sports",Star Sports HD 2
 http://173.199.116.220/hls/chss2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="https://i.pinimg.com/474x/8a/a5/e1/8aa5e124922075d475bfb50f0102829e.jpg" group-title="Sports",Sony Ten 1
