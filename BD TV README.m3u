@@ -198,8 +198,8 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" group-title="Relegious", Tehzeeb TV India
 http://14.199.164.20:4001/play/a0p5/index.m3u8
-#EXTINF:-1 tvg-id="Rotana Atfal kids.ksa" tvg-country="KSA" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids_Logo.png"",Rotana Atfal/Kids (1080p)
-http://red.ipfox.org:8080/1234/12345678/25057?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="PTV-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV-SPORTS
+http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="None",TRT 1 (720p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ToloTV.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://pbs.twimg.com/profile_images/579001245697908737/bSnXEBFo_400x400.jpeg" group-title="None",Tolo TV (720p)
@@ -438,19 +438,11 @@ http://103.81.104.118/hls/stream40.m3u8
 http://103.81.104.118/hls/stream39.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 HD" tvg-logo="" group-title="Sports",Sony Ten 3 HD
 http://103.81.104.118/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD Fast" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="Sports",Sony Six HD Fast
-http://103.81.104.118/hls/stream10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ten Cricket Fast" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="Sports",Ten Cricket Fast
-http://103.81.104.118/hls/stream34.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTV Sports Fast" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports Fast
-http://103.81.104.118/hls/stream11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Geo Super" tvg-logo="" group-title="Sports",Geo Super
-http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8?token=rk%F0%9F%8F%8F
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Bangla" tvg-logo="" group-title="Sports",Star Sports 1 Bangla
 http://103.157.237.18:8000/play/601
 #EXTINF:-1 tvg-id="" tvg-name="Euro Live 2020" tvg-logo="https://i.pinimg.com/originals/19/c5/e6/19c5e65086143d66c77a7cc34b0eafd9.png" group-title="Sports",Euro Live 2020
 http://134.19.182.131:8080/edg8_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTV-SPORTS" tvg-logo="" group-title="Sports",PTV-SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="PTV-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV-SPORTS
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports 1 HD 
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14981
