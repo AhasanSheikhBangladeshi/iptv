@@ -52,7 +52,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangladeshi",Mohona Tv
 http://103.205.133.40/hls/mohonatv.m3u8
 #EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
-http://ooyalahd2-f.akamaihd.net/i/mtaben_delivery@348475/index_1400_av-p.m3u8
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist_400.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="Bangladeshi",SATV
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="Bangladeshi",Asian TV
@@ -225,6 +225,8 @@ http://84.22.33.214/TRTHaber/index.m3u8
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1,CBC
 http://149.62.183.214:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
+http://ooyalahd2-f.akamaihd.net/i/mtaben_delivery@348475/index_1400_av-p.m3u8
 #EXTINF:-1 tvg-id="IslamChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png" group-title="Religious",Islam Channel (576p) [Not 24/7]
 https://live.islamchannel.tv/islamtv/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="AlerthAlnabawi.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="Religious",Alerth Alnabawi (576p) [Not 24/7]
