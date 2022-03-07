@@ -81,9 +81,7 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-id="YemenTV.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://althawra-news.net/user_images/news/23-04-20-426827176.jpg" group-title="",Yemen TV 
 http://45.94.31.195:7001/play/a0ck
 #EXTINF:-1 tvg-name="Imam Ali Najaf HD Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Imam_Ali_shrine_-_1_May_2015_19.jpg" group-title="Relegious",Imam Ali Najaf Live HD
-http://red.ipfox.org:8080/1234/12345678/33117?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="Iqra TV" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="UK-Religious",BT- Iqra Tv
-https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
+http://stariptv.org:8080/wael2021/123456/112607
 #EXTINF:-1,Hadi TV
 http://125.209.88.166:45793/BRN/HadiTv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="General" tvg-name="IRIB Kordestan" tvg-logo=" ",IRIB Kordestan(1080)
@@ -167,8 +165,8 @@ http://stariptv.org:8080/wael2021/123456/150153
 http://45.94.31.190:7003/play/a0ca
 #EXTINF:-1 tvg-id="BahrainTV.bh" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="General",Bahrain TV (720p)
 http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="PK| Bol TV News HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuULAnYN991Hp0t9NCV-1WGxC4Wn5x5Y_Y0Q&usqp=CAU" group-title="India-Pakistani",PK| Bol News HD 
-http://190.115.29.22:8080/carter/GUV1bMq2VK/9127
+#EXTINF:-1 tvg-id="" tvg-name="Iqra TV" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="UK-Religious",BT- Iqra Tv
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
 #EXTM3U
 #EXTINF:0 tvg-country="SA" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="None",Saudi TV 1
 https://cllive.itworkscdn.net/ksa1live/token=nva=1646567312~dirs=1~hash=061ecd9ea6b5109949b39/ksa1.smil/ksa1_360p_l_85208573_21263.ts
@@ -254,11 +252,11 @@ http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV1.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="",KTV 1 (1080p) [Not 24/7]
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtv1.m3u8
-#EXTINF:-1 tvg-id="KTV2.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg" group-title="",KTV 2 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="KTV2.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg"  group-title="",KTV 2 (1080p) [Not 24/7]
 https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_480p/chunks.m3u8?p=48&s=1646485646&e=1646572046&cf=1646572046&h=88656f1a86dd5dfc4fe22c3ec812da1e
-#EXTINF:-1 tvg-id="KTVEthraa.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif" group-title="",KTV Ethraa (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="KTVEthraa.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif"  group-title="",KTV Ethraa (1080p) [Not 24/7]
 https://kwmedia.hibridcdn.net/kwmedia/kwtvethraa_abr/kwmedia/kwtvethraa_480p/chunks.m3u8?p=53&s=1646485413&e=1646571813&cf=1646571813&h=5a65e7059db0c16bf1c378e6cd729d63
-#EXTINF:-1 tvg-id="KTVSport.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="Sports",KTV Sport (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="KTVSport.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg"  group-title="Sports",KTV Sport (1080p) [Not 24/7]
 https://hiplayer.hibridcdn.net/t/kwmedia- kwtvsport.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious " tvg-name="Hadi TV 1" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 1
 https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
