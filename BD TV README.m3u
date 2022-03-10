@@ -182,6 +182,8 @@ http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
 #EXTINF:1 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/On4_tv_Logo.jpg/800px-On4_tv_Logo.jpg" group-title="Religious",ON4TV 
 http://yayin.netradyom.com:1935/live/on4/chunklist_w738595972.m3u8
+#EXTINF:-1 tvg-name="Rotana Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Kids_Logo.png/1200px-Rotana_Kids_Logo.png" group-title="Kids",Rotana Kids
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_2.m3u8
 #EXTINF:1 tvg-country="IR" tvg-logo="https://shialivetv.com/shialive/assets/img/velayatiran.jpg"group-title="Religiouhttps://shialivetv.com/shialive/assets/img/velayatiran.jpg" group-title="Relegious",Al Velayat TV
 http://nl.livekadeh.com/hls2/velayattv.m3u8
 #EXTINF:1 tvg-country="IR" tvg-logo="https://shialivetv.com/shialive/assets/img/hausa.jpg"group-title="Religious",Alwilayah Velayat Tv Hausa
