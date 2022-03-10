@@ -34,7 +34,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:0 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangladeshi",Independent
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="Bangladeshi",Channel I
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
+http://tv2.ebox.live:8080/live/chi.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
 http://103.159.4.38:8080/BD-BANGLA-18/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="Bangladeshi",RTV
@@ -55,13 +55,12 @@ https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist_400.m3u8
 https://bdcast-live2.b-cdn.net/jago/1/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="Bangladeshi",Asian TV+Ye-mn-yem
 https://gintna100.tulix.tv/gin_live/yementv/1cdbadf9f130e74f3a1a08b379bde4ff/6228ae35/index.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/cIqG0pA.png" group-title="Bangladeshi",Nagorik
 http://stream.amrbd.com:8082/Nagorik-TV/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="Bangladeshi",Deepto TV
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ai5p9BP.jpg" group-title="Bangladeshi", Nexus TV [1]
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/live-orgin/nexustv.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraBangla.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/GK5BlnN.jpg" group-title="Religious",Iqra Bangla (576p)
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="RELIGIOUS",Madani TV Bangla
