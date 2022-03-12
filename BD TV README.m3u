@@ -72,7 +72,7 @@ https://sdm.telewebion.com/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="30" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Safeer TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/safeer-tv.jpg",Safeer TV (1080)
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/TNQKahI.png" group-title="News",Press TV English (720p)
-https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
+https://s-cloud.irib.ir/presstv/hausatvha/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s23/index.m3u8
