@@ -105,8 +105,6 @@ https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
 #PLAYLIST:hlscat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="https://abbasrizvidev.github.io/LitreallyDataRepository/Images/zainabiachannel.png" group-title="Religious",Zainabia Channel
 http://zainabia2.livebox.co.in/Zainabiachannel2hls/live.m3u8
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/12/Zee-CINEMA.png" group-title="India-pakistani",Zee Cinema (UK)
-#https://f8e7y4c6.ssl.hwcdn.net/cinemauk/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Salaam_2017.jpg" group-title="India-pakistani",Zee Salaam
 http://45.86.190.64:25461/69Vqm4YyPKqfyhqB/q5n4NjUa3qkHzEc8/34218?play_token=g42IbO7llO&token=TURYAhZYEAwSB1VRWVAEVVEBUFBQWAFQV1UFBQAJAABSUQFbVVYFBQBGTxBLF0AGVA9uD1IbCQUFAVUNShsTFlMUbwoBEggUAVZaCgFSC0EZQEUPW1wRDAAFUAZeCVdVAVEcQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
@@ -135,8 +133,8 @@ https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
 #EXTINF:0,Rotana Khalijia HD (1080p)[Saudi Arab]
 https://hiplayer.hibridcdn.net/t/rotana-khaleejiya.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladeshi",Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Afghanistan",Maarif TV
+http://51.210.199.51/hls/stream.m3u8
 https://bds.jagobd.com:444/c2VydmVyX6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tvoneuksni.stream/chunks.m3u8?nimblesessionid=297382299&wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIyIDU6NDA6MTkgQU0maGFzaF92YWx1ZT1qc0RRVTRKaFRUZWdjeTBCbXpyQU1BPT0mdmFsaWRtaW51dGVzPTEw
 #EXTINF:-1 tvg-name="Al Iraqiya Kurdish TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imn-kurdish-iq.png" group-title="",Al Iraqiya Kurdish TV
 http://red.ipfox.org:8080/1234/12345678/33075?checkedby:iptvcat.com
