@@ -102,7 +102,7 @@ http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
 http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.urdu.news18.com/static-urdu/2020/03/Urdu1-1.png" group-title="India-pakistani",News18 Urdu
 https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
-#PLAYLIST:hlscat.com
+
 #EXTINF:0 tvg-country="IN" tvg-logo="https://abbasrizvidev.github.io/LitreallyDataRepository/Images/zainabiachannel.png" group-title="Religious",Zainabia Channel
 http://zainabia2.livebox.co.in/Zainabiachannel2hls/live.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Salaam_2017.jpg" group-title="India-pakistani",Zee Salaam
@@ -112,7 +112,7 @@ http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCaxR-D8FjZ-2
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News
 http://125.209.88.166:45793/BRN/Sama.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/such-tv-pk.png" group-title="News",Such News
-https://bds.jagobd.com:444/c2VydmVyX6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deentv.stream/chunks.m3u8?nimblesessionid=297404692&wmsAuthSign=c2VydmVyX3RpbWU9My8xMi8yMDIyIDU6NTk6NDggQU0maGFzaF92YWx1ZT1yd1EzYXpENjcwMWdpenpaSjVvN2NBPT0mdmFsaWRtaW51dGVzPTEw
+https://gintna100.tulix.tv/gin_live/yementv/04c533a9f45c373a842740d491d693c0/622f3ff9/index.m3u8
 #EXTINF:-1 tvg-name="RTA News" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA News
 http://ip133.ip-51-210-227.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Ariana News" tvg-logo="https://i.imgur.com/vxGnJvI.png" group-title="AFGHANISTAN",Ariana News
