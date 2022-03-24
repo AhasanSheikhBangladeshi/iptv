@@ -239,9 +239,9 @@ http://red.ipfox.org:8080/1234/12345678/35116?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id= "Karbala Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Relegious",Karbala Tv Channel
-http://stariptv.org:8080/wael2021/123456/112623
+http://stariptv.org:8080/wael2021/123456/107050
 #EXTINF:-1,AR: PALESTINE-TODAY
-http://190.115.29.22:8080/carter/GUV1bMq2VK/6563
+http://stariptv.org:8080/wael2021/123456/14823
 #EXTINF:-1 tvg-id="AlMasirah.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="News",Al Masirah (720p) [Not 24/7]
 https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIraqiyaAl3ama.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya Al 3ama (720p) [Not 24/7]
@@ -316,7 +316,7 @@ http://yayin.netradyom.com:1935/live/on4/chunklist_w738595972.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Soudi Quran TV" tvg-logo="" group-title="Test Channel",Soudi Quran TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qur
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-name="Makkah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Religious",Makkah TV (480p)
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+http://stariptv.org:8080/wael2021/123456/97890
 #EXTINF:-1 tvg-id="KalemehTV.us" tvg-name="Kalemeh TV" tvg-country="US" tvg-language="Farsi" tvg-logo="https://i.imgur.com/j4VjHWN.jpg" group-title="Religious",Kalemeh TV (1080p) [Not 24/7]
 http://51.210.199.37/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="IRIB Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News",Al Alam (576p)
