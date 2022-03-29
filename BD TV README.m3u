@@ -134,6 +134,7 @@ https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Afghanistan",Maarif TV
 http://51.210.199.51/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Nour TV Farsi" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nour_tv_ae.png"group-title="Relegious",Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 #EXTINF:-1 tvg-name="Al Iraqiya Kurdish TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imn-kurdish-iq.png" group-title="",Al Iraqiya Kurdish TV
 http://red.ipfox.org:8080/1234/12345678/33075?checkedby:iptvcat.com
