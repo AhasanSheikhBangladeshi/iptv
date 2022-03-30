@@ -236,7 +236,7 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="" group-title="",Yemen Shabab [100]
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF: group-title="News" tvg-id="SuhailTV.ye" tvg-name="Suhail TV" tvg-logo="" ,Suhail tv
-http://red.ipfox.org:8080/1234/12345678/35116?checkedby:iptvcat.com
+http://82.212.74.98:8000/live/7726.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id= "Karbala Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Relegious",Karbala Tv Channel
