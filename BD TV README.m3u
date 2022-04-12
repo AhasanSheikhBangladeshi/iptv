@@ -329,7 +329,7 @@ https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 #EXTINF:-1 tvg-id="QURAN.ir" tvg-name="IRIB QURAN" tvg-country="IR" tvg-language="Persian" tvg-logo="none" group-title="None",QURAN (576p)
 https://sdm.telewebion.com/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/m8cS74j.png" tvg-country="PK" tvg-url="" group-title="",Minhaj TV
-
+https://playback2.akamaized.net/streams/263040_10099734_lsi9h68hsfa2gnjerkc_1/exp=1649832175~acl=%2f*~data=hdntl~hmac=219c2d325f72e7a38728de106e5913a51168067dba8b5cb0f425347704d6f96a/media/263040_10099734_lsi9h68hsfa2gnjerkc_1@248000bb.m3u8?dw=80&ts=1649743200
 #EXTINF:-1 tvg-id="IIPCTV.ca" tvg-name="IIPC TV" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="Religious",IIPC TV (480p)
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Iqraa.sa" tvg-name="Iqraa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa (576p) [Not 24/7]
