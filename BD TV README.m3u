@@ -157,7 +157,7 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-name="Paigham TV.pk" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1362d353158267.592a758924700.jpg"group-title="Religious",Paigham TV
 http://162.250.201.58:8032/pk/paighamtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Al Majd TV" tvg-logo="https://cdn.dribbble.com/users/2577708/screenshots/11585878/media/d96e40ca882560b9aa3639df8f2361b9.jpg" group-title="Relegious",Almajd TV
-http://stariptv.org:8080/wael2021/123456/150153
+http://red.ipfox.org:8080/amr/123456789/35120
 #EXTINF:-1 tvg-name="Zad TV" tvg-logo="https://static10.tgstat.ru/channels/_0/bf/bfac19a765483d6c7a6200919a0aa76c.jpg"group-title="Relegious",Zad TV(96)
 http://45.94.31.190:7003/play/a0ca
 #EXTINF:-1 tvg-id="BahrainTV.bh" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="General",Bahrain TV (720p)
@@ -240,7 +240,9 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic
 #EXTINF:-1 tvg-id= "Karbala Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Relegious",Karbala Tv Channel
 http://red.ipfox.org:8080/amer/amer1234/33135
 #EXTINF:-1,AR: PALESTINE-TODAY
-http://red.ipfox.org:8080/amer/amer1234/33745
+http://red.ipfox.org:8080/amer/amer1234/3374
+#EXTINF:-1 tvg-id= "Al Resalah Tv" tvg-logo="https://www.thematv.com/images/channels/al-resalah.png" group-title="Relegious",Al Resalah TV
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_1080p/chunks.m3u8?p=50&s=1650879918&e=1650966318&cf=1650966318&h=d8ccb4158cf5121f8ce5858482111cc9
 #EXTINF:-1 tvg-id="AlMasirah.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="News",Al Masirah (720p) [Not 24/7]
 https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIraqiyaAl3ama.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya Al 3ama (720p) [Not 24/7]
@@ -311,7 +313,7 @@ https://live-1.linuxway.info/aqsatv/live/tv/media_w2024893562_45332.m3u8
 #EXTINF:1 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/On4_tv_Logo.jpg/800px-On4_tv_Logo.jpg" group-title="Religious",ON4TV 
 http://yayin.netradyom.com:1935/live/on4/chunklist_w738595972.m3u8
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-name="Makkah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Religious",Makkah TV (480p)
-http://stariptv.org:8080/wael2021/123456/97890
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="KalemehTV.us" tvg-name="Kalemeh TV" tvg-country="US" tvg-language="Farsi" tvg-logo="https://i.imgur.com/j4VjHWN.jpg" group-title="Religious",Kalemeh TV (1080p) [Not 24/7]
 http://51.210.199.37/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="IRIB Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News",Al Alam (576p)
