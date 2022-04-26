@@ -213,6 +213,8 @@ http://125.209.88.166:45793/BRN/PTVNews.stream/playlist.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w637025924_b744100_sleng.m3u8
 #EXTINF:-1 tvg-id="YemenTV.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.elwekalanews.net/UploadCache/libfiles/7/9/600x338o/857.png" group-title="",Yemen TV 
 http://new-pro.tv:8080/Fernando/123321/2573
+#EXTINF:-1 tvg-id="BahrainInternational.BH" tvg-country="BAH" tvg-language="Arabic" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/bahrain_int.jpg" Bahrain International TV
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w1446657044_b1700000.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber (720p)
 http://84.22.33.214/TRTHaber/index.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (1080p)
