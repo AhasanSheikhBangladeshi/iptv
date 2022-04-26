@@ -55,6 +55,8 @@ https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
 https://bdcast-live2.b-cdn.net/jago/1/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="Bangladeshi",Asian TV+Ye-mn-yem
 https://gintna100.tulix.tv/gin_live/yementv/f2f9807385c91bbdab0a877ec78d5423/624c1d53/index.m3u8
+#EXTINF:0 tvg-logo="https://sawahhost.com/wp-content/uploads/2020/11/MBC.jpg" group-title="Arabic",MBC Channel HD TV
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/cIqG0pA.png" group-title="Bangladeshi",Nagorik
 http://stream.amrbd.com:8082/Nagorik-TV/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="Bangladeshi",Deepto TV
@@ -82,8 +84,6 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 http://45.94.31.195:7001/play/a0ck
 #EXTINF:-1 tvg-name="Imam Ali Najaf HD Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Imam_Ali_shrine_-_1_May_2015_19.jpg" group-title="Relegious",Imam Ali Najaf Live HD
 http://new-pro.tv:8080/Fernando/123321/105052
-#EXTINF:0 tvg-logo="https://sawahhost.com/wp-content/uploads/2020/11/MBC.jpg" group-title="Arabic",MBC Channel HD TV
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB Kordestan" tvg-logo=" ",IRIB Kordestan(1080)
 https://cdnw.telewebion.com/kordestan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MAHABAD.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran Fars",MAHABAD (576p)
@@ -133,8 +133,6 @@ https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
 #EXTINF:0,Rotana Khalijia HD (1080p)[Saudi Arab]
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
 #EXTINF:0 tvg-logo="https://sawahhost.com/wp-content/uploads/2020/11/MBC.jpg" group-title="Arabic",MBC Channel HD TV
-http://51.210.199.51/hls/stream.m3u8
-#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png
 http://new-pro.tv:8080/Fernando/123321/46
 #EXTINF:-1 tvg-name="Nour TV Farsi" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nour_tv_ae.png"group-title="Relegious",Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
