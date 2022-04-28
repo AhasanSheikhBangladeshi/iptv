@@ -89,7 +89,7 @@ https://cdnw.telewebion.com/kordestan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MAHABAD.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran Fars",MAHABAD (576p)
 https://cdnw.telewebion.com/mahabad/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Yemen Today.Ye" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title=" ",Yemen.Today (576p)
-https://video.yementdy.tv/live/yementoday/index.m3u8
+https://video.yementdy.tv:443/hls/yementoday_src.m3u8
 #EXTINF:-1 tvg-id="27" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="Hamoon Zahedan" tvg-logo=" ",IRIB Hamoon Zahedan(1080)
 https://cdnw.telewebion.com/hamoon/live/playlist.m3u8
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
