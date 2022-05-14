@@ -297,8 +297,8 @@ http://stariptv.org:8080/wael2021/123456/21185
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="none" group-title="None",Abu Dhabi Emirates (1080p)
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Ajman.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://mk0ajmantvb4ih3ifdec.kinstacdn.com/wp-content/uploads/2019/07/logo_header_2-1.png" group-title="None",Ajman (480p) [Not 24/7]
-https://iptv-all.lanesh4d0w.codes/emirates/ajman
+#EXTINF:-1 tvg-id="PalestineTv.PS" tvg-country="PS" tvg-language="Arabic" tvg-logo="" group-title="General" Palestine TV (480p) [Not 24/7]
+http://new-pro.tv:8080/Fernando/123321/64978
 #EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="General",Al Sharqiya Min Kabla (1080p)
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DubaiTV.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dWueFIE.png" group-title="General",Dubai TV (1080p)
