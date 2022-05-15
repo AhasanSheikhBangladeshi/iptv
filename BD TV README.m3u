@@ -155,7 +155,7 @@ https://gintna100.tulix.tv/gin_live/yementv/4934e0aa4649084ad39c4bcb09be44bb/627
 #EXTINF:-1 tvg-id="OmanTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C7kfubs.png" group-title="General",Oman TV (1080p)
 https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlraiTV-200x150.png" ,Al Rai 
-https://media.streambrothers.com:1936/8724/8724/HasBahCa.m3u8
+https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="92News.pk" tvg-name="92 News" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News (720p)
 https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-name="Paigham TV.pk" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1362d353158267.592a758924700.jpg"group-title="Religious",Paigham TV
@@ -217,7 +217,7 @@ http://103.153.39.36:9981/stream/channelid/964627116?profile=pass
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="Indonesia Channel",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w637025924_b744100_sleng.m3u8
 #EXTINF:-1 tvg-id="YemenTV.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.elwekalanews.net/UploadCache/libfiles/7/9/600x338o/857.png" group-title="",Yemen TV 
-https://usher.ttvnw.net/api/channel/hls/yemen_tv.m3u8?allow_source=true&fast_bread=true&p=688572&play_session_id=7a0f4a1d9dea577f666b956c2b3c8fea&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=76525fcc484c31941757a5bdf10fe1a7a57755b0&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22yemen_tv%22%2C%22channel_id%22%3A628338951%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2216c23f0d48c08d33%22%2C%22expires%22%3A1652550914%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22103.218.189.22%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.10.0
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CpwE0qqRdWid6uN1-Ft7KHkGhrGq45r-nW_mMO00H-fuHmj081naF0z38XYa7nWkFVq70031NnXh6_6wPmvDQukWD-xU_dFNO8F7c2K5e-esODZfkEsQGR9igchIS3cKoaqjLMxlUXjEH-LM3SXsdpE7ChG4s-jzYa2fjMNZUB5JYwrAinBWifT2JdGJvJbbcla1QPZDQ4VAHGu_my5Fd37Kt_wwNCunZc1SDU8b1qwctU-vZB-qz9j4xHE1seB0D1YBjL-emSbiwP5j7bKXMdSYSXm37N3ORV3cgrt7MP0iHyFVqdLSVZDKi_8ejuQV2_r3lpcWSlIRS6jv21kGavicyvJhfuU4shpFonQ2yrV-Khha5ytnpQbE42xofR-Uud0clc8QhVHXIKw5-vJiBIfdVCbq7-2UXx6H4RF5by-rc7cQl1sURI3B0cE60RhY_Y6M21o12NEWswLLMMbIl3wEMUeu4EWx-BV068iKFi-zJFUO5JEkZFKKh7jBhuIm3OfCH63AELdwJL4HyWCtQ2pxSV_HHV18OETh5TnfSPBD1okCrwExkcpfmJBvxA5U0Y0-gWiv8uv0Y7n-vXGu5joCD72orJbFaRaN2kZ5DcUNiuaNvpCoL2nQcOXvdaIzgOMg3Ktoz_72dcedQoE79LIfZ8_K5h6kZ53v4RY64O-iE_rBwxBqaNJqR3N5yJAiomQ2TdU0SQ5T_gsFNGhIGgyytcafOSzTiXsUu9YgASoJZXUtd2VzdC0yMNwD.m3u8
 #EXTINF:-1 tvg-id="BahrainInternational.BH" tvg-country="BAH" tvg-language="Arabic" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/bahrain_int.jpg" Bahrain International TV
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w1446657044_b1700000.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber (720p)
@@ -257,7 +257,7 @@ http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV1.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="",KTV 1 (1080p)
 https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8?p=48&s=1652595900&e=1652682300&cf=1652682300&h=8362279dc8e3860e937fa2e0243728bf
 #EXTINF:-1 tvg-id="KTV2.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg"  group-title="",KTV 2 (1080p)
-https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_1080p/chunks.m3u8?p=48&s=1652595704&e=1652682104&cf=1652682104&h=d8871e7403849b654fa12d05d96bc685
+http://www.elahmad.com/tv/m3u8/kuwait_tv_5.m3u8?id=kwtv2
 #EXTINF:-1 tvg-id="KTVEthraa.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif"  group-title="",KTV Ethraa (1080p) 
 https://kwmedia.hibridcdn.net/kwmedia/kwtvethraa_abr/kwmedia/kwtvethraa_720p/chunks.m3u8?p=53&s=1652474387&e=1652560787&cf=1652560787&h=21639b55790f2a4a0dcfbea0b5c46743
 #EXTINF:-1 tvg-id="KTVSport.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg"  group-title="Sports",KTV Sport (1080p)
