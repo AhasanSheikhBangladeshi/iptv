@@ -107,7 +107,7 @@ https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://abbasrizvidev.github.io/LitreallyDataRepository/Images/zainabiachannel.png" group-title="Religious",Zainabia Channel
 http://zainabia2.livebox.co.in/Zainabiachannel2hls/live.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Salaam_2017.jpg" group-title="India-pakistani",Zee Salaam
-https://z5ams.akamaized.net/out/v1/1e2f27f6316f479d8ff83752091d7ab4/index.m3u8?hdnts=st=1652532536~exp=1652535536~acl=/*~hmac=3340141db5dd9cbe2c00a166fb0740be8b95f0a33bce50173ad6e2b22e19c322
+http://techmaxpro-id01.in1.bitmana.io/live.php?c=Zee_Salaam&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCaxR-D8FjZ-2otbU0_Y2grg/live&quality=480p
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News
@@ -255,13 +255,13 @@ https://media.streambrothers.com:1936/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="none" group-title="General",Al Sharqiya (1080p)
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV1.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="",KTV 1 (1080p)
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8?p=48&s=1652595900&e=1652682300&cf=1652682300&h=8362279dc8e3860e937fa2e0243728bf
+http://www.elahmad.com/tv/m3u8/kuwait_tv_5.m3u8?id=kwtv1
 #EXTINF:-1 tvg-id="KTV2.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg"  group-title="",KTV 2 (1080p)
 http://www.elahmad.com/tv/m3u8/kuwait_tv_5.m3u8?id=kwtv2
 #EXTINF:-1 tvg-id="KTVEthraa.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif"  group-title="",KTV Ethraa (1080p) 
-https://kwmedia.hibridcdn.net/kwmedia/kwtvethraa_abr/kwmedia/kwtvethraa_720p/chunks.m3u8?p=53&s=1652474387&e=1652560787&cf=1652560787&h=21639b55790f2a4a0dcfbea0b5c46743
+http://www.elahmad.com/tv/m3u8/kuwait_tv_5.m3u8?id=kwtvethraa
 #EXTINF:-1 tvg-id="KTVSport.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg"  group-title="Sports",KTV Sport (1080p)
-https://hiplayer.hibridcdn.net/t/kwmedia- kwtvsport.m3u8?checkedby:iptvcat.com
+http://www.elahmad.com/tv/m3u8/kuwait_tv_5.m3u8?id=kwtvsports
 EXTINF:-1 tvg-id="44" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Dua Channel Hadi TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/dua-channel.jpg",Dua Channel (1080)
 https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
 #EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious " tvg-name="Hadi TV 1" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 1
