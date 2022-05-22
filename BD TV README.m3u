@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="News 24 HD" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/07/28/thumbnails/News24-ds.jpg" group-title="BDIX Server",News 24 HD
-http://tv.ebox.live:8081/thunderbd/18/chunks.m3u8?nimblesessionid=28135693&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDIyIDEyOjQwOjM3IFBNJmhhc2hfdmFsdWU9L2hIdG9laEZ3UGt2OVQ1VEs5Q3Vpdz09JnZhbGlkbWludXRlcz02MCZpZD01
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8?nimblesessionid=922512959&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDIyIDEyOjU3OjUyIFBNJmhhc2hfdmFsdWU9V1Z1TnhHaEZqTjdoRkJ6c0V2WDZxQT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-id="" tvg-name="BTV National" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjaRMs4KsOgKKyAkvnePFgD-GcZrXPGFUXkHZisYbJxjPFqZ7ECDmwxHiOjOWPQTLybWs&usqp=CAU" group-title="BDIX Server",BTV National
 http://tvserver.aliflailabd.com:8989/btv/index.m3u8?token=21fd933119d44ea0be25be3a128beaf9f1be97f4-7d2dc71dcd2c93e3fb0cbb3dd7dd7953-1653072761-1653061961&amp;remote=103.218.189.21
 #EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/99ZKMd4mWYM.png" group-title="BDIX Server",BTV World
