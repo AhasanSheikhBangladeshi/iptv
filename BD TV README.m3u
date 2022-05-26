@@ -74,7 +74,7 @@ https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/TNQKahI.png" group-title="News",Press TV English (720p)
 https://live1.presstv.ir/live/presstv.m3u8
 #EXTINF:-1 tvg-id="SaharUrdu.ir" tvg-country="IR" tvg-language="English" tvg-logo="https://shialivetv.com/shialive/assets/img/saharurdu.jpg" group-title="News",Sahar Urdu 
-http://45.94.31.195:7001/play/a0bq
+https://cdn1live.irib.ir/live-channels/smil:sahar2/playlist.m3u8?s=vsf8RjumQG3iMPNZAVrxKQ&t=1653598150
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s23/index.m3u8
