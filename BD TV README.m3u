@@ -64,7 +64,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraBangla.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/GK5BlnN.jpg" group-title="Religious",Iqra Bangla (576p)
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="RELIGIOUS",Madani TV Bangla
-http://103.167.190.250/hls/madani.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MadaniChannelBanglaLive
 #EXTINF:-1 tvg-id="32" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Ahlulbayt TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ahlulbayt.jpg",Ahlulbayt TV (1080)
 https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="118" tvg-country="Iran" tvg-language="Farsi" group-title="Religious" tvg-name="IRIB Quran" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/quran-irib.jpg",IRIB Quran (1080)
@@ -217,7 +217,7 @@ http://103.153.39.36:9981/stream/channelid/964627116?profile=pass
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="Indonesia Channel",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w637025924_b744100_sleng.m3u8
 #EXTINF:-1 tvg-id="YemenTV.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.elwekalanews.net/UploadCache/libfiles/7/9/600x338o/857.png" group-title="",Yemen TV 
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CpwE0qqRdWid6uN1-Ft7KHkGhrGq45r-nW_mMO00H-fuHmj081naF0z38XYa7nWkFVq70031NnXh6_6wPmvDQukWD-xU_dFNO8F7c2K5e-esODZfkEsQGR9igchIS3cKoaqjLMxlUXjEH-LM3SXsdpE7ChG4s-jzYa2fjMNZUB5JYwrAinBWifT2JdGJvJbbcla1QPZDQ4VAHGu_my5Fd37Kt_wwNCunZc1SDU8b1qwctU-vZB-qz9j4xHE1seB0D1YBjL-emSbiwP5j7bKXMdSYSXm37N3ORV3cgrt7MP0iHyFVqdLSVZDKi_8ejuQV2_r3lpcWSlIRS6jv21kGavicyvJhfuU4shpFonQ2yrV-Khha5ytnpQbE42xofR-Uud0clc8QhVHXIKw5-vJiBIfdVCbq7-2UXx6H4RF5by-rc7cQl1sURI3B0cE60RhY_Y6M21o12NEWswLLMMbIl3wEMUeu4EWx-BV068iKFi-zJFUO5JEkZFKKh7jBhuIm3OfCH63AELdwJL4HyWCtQ2pxSV_HHV18OETh5TnfSPBD1okCrwExkcpfmJBvxA5U0Y0-gWiv8uv0Y7n-vXGu5joCD72orJbFaRaN2kZ5DcUNiuaNvpCoL2nQcOXvdaIzgOMg3Ktoz_72dcedQoE79LIfZ8_K5h6kZ53v4RY64O-iE_rBwxBqaNJqR3N5yJAiomQ2TdU0SQ5T_gsFNGhIGgyytcafOSzTiXsUu9YgASoJZXUtd2VzdC0yMNwD.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/yemen_tv
 #EXTINF:-1 tvg-id="BahrainInternational.BH" tvg-country="BAH" tvg-language="Arabic" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/bahrain_int.jpg" Bahrain International TV
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w1446657044_b1700000.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber (720p)
