@@ -104,8 +104,6 @@ http://42.200.67.163:8090/play/a0qc
 http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.urdu.news18.com/static-urdu/2020/03/Urdu1-1.png" group-title="India-pakistani",News18 Urdu
 https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://abbasrizvidev.github.io/LitreallyDataRepository/Images/zainabiachannel.png" group-title="Religious",Zainabia Channel
-http://zainabia2.livebox.co.in/Zainabiachannel2hls/live.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Salaam_2017.jpg" group-title="India-pakistani",Zee Salaam
 http://techmaxpro-id01.in1.bitmana.io/live.php?c=Zee_Salaam&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
