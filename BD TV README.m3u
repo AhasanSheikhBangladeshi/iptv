@@ -50,7 +50,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangladeshi",Mohona Tv
 http://103.205.133.40/hls/mohonatv.m3u8
 #EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
-https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=nVKf-Tfw5LA
 #EXTINF:0 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="Bangladeshi",SATV
 https://bdcast-live2.b-cdn.net/jago/1/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="Bangladeshi",Asian TV+Ye-mn-yem
@@ -92,10 +92,10 @@ https://cdnw.telewebion.com/kordestan/live/playlist.m3u8
 https://cdnw.telewebion.com/mahabad/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Yemen Today.Ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="" group-title=" ",Yemen.Today (576p)
 https://video.yementdy.tv:443/hls/yementoday_src.m3u8
-#EXTINF:-1 tvg-id="27" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="Hamoon Zahedan" tvg-logo=" ",IRIB Hamoon Zahedan(1080)
-https://cdnw.telewebion.com/hamoon/live/playlist.m3u8
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
 https://cdnw.telewebion.com/tv1/live/1080p/index.m3u8
+#EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"  group-title="India-Pakistani",ARY NEWS (PK)
 http://42.200.67.163:8090/play/a0od
 #EXTINF:-1 ch-id="ARY DIGITAL (PK)" tvg-logo="https://1.bp.blogspot.com/--wDE2l82PT0/YRepmImjWvI/AAAAAAAAA4g/QfuH2Q9yP_I7D6RrkC5IiaEGRLRvPg6JwCLcBGAsYHQ/s200/PicsArt_08-14-05.01.13.jpg"  group-title="India-Pakistani",ARY DIGITAL (PK)
@@ -175,7 +175,7 @@ https://edge.taghtia.com/sa/2.m3u8
 #EXTINF:-1 tvg-id=Madani Urdu tv.pk" tvg-name="Madani TV Urdu" tvg-country="PK" tvg-language="Urdu" tvg-logo= "data:image/jpeg;base64,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" group-title="Religious",Madani Channel Urdu
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MadaniChannelUrduLive
 #EXTINF:-1 tvg-logo="https://dawateislamimidlands.net/wp-content/uploads/2020/01/Madani-Channel-Section-1.png" group-title="Religious",Madani Channel English 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MadaniChannelEnglishLive
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=S7dunyITKMk
 #EXTINF:-1 tvg-id=Geo News.pk" tvg-name="Geo news TV" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="India-Pakistani",GEO news
 http://182.176.149.106:9100/play/a06y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="NEWS", CGTN
@@ -255,13 +255,13 @@ https://media.streambrothers.com:1936/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="none" group-title="General",Al Sharqiya (1080p)
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV1.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="",KTV 1 (1080p)
-http://www.elahmad.com/tv/m3u8/kuwait_tv_5.m3u8?id=kwtv1
+http://www.elahmad.com/tv/m3u8/kuwait_tv_5.php?id=kwtv1&t=5bbbb162ef91968f61634abb344fb78b
 #EXTINF:-1 tvg-id="KTV2.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg"  group-title="",KTV 2 (1080p)
 http://www.elahmad.com/tv/m3u8/kuwait_tv_5.m3u8?id=kwtv2
 #EXTINF:-1 tvg-id="KTVEthraa.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif"  group-title="",KTV Ethraa (1080p) 
-http://www.elahmad.com/tv/m3u8/kuwait_tv_5.m3u8?id=kwtvethraa
+http://www.elahmad.com/tv/m3u8/kuwait_tv_5.php?id=kwtvethraa&t=5bbbb162ef91968f61634abb344fb78b
 #EXTINF:-1 tvg-id="KTVSport.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg"  group-title="Sports",KTV Sport (1080p)
-http://www.elahmad.com/tv/m3u8/kuwait_tv_5.m3u8?id=kwtvsports
+http://www.elahmad.com/tv/m3u8/kuwait_tv_5.php?id=kwtvsports&t=5bbbb162ef91968f61634abb344fb78b
 EXTINF:-1 tvg-id="44" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Dua Channel Hadi TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/dua-channel.jpg",Dua Channel (1080)
 https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
 #EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious " tvg-name="Hadi TV 1" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 1
