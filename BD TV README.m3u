@@ -76,8 +76,7 @@ https://live1.presstv.ir/live/presstv.m3u8
 #EXTINF:-1 tvg-id="SaharUrdu.ir" tvg-country="IR" tvg-language="English" tvg-logo="https://shialivetv.com/shialive/assets/img/saharurdu.jpg" group-title="News",Sahar Urdu 
 https://cdn1live.irib.ir/live-channels/smil:sahar2/playlist.m3u8?s=vsf8RjumQG3iMPNZAVrxKQ&t=1653598150
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s23/index.m3u8
+http://tvserver.aliflailabd.com:8989/aljazeera-hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangladeshi",T sports HD (BDIX2)
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-id="YemenTV.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://althawra-news.net/user_images/news/23-04-20-426827176.jpg" group-title="",Yemen Aden TV 
