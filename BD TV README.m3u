@@ -34,7 +34,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:0 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangladeshi",Independent
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="Bangladeshi",Channel I
-http://tvserver.aliflailabd.com:8989/channel-i/index.m3u8?token=2d093b7a0815162f8efec26f4bc262d33ea4a573-9b0b42c47444373a942beedfca02c12b-1653148131-1653137331&amp;remote=45.249.185.20
+http://10.16.100.203:8082/bangla/chenel_I.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
 http://10.16.100.245/hindi/ntv_1sT0p.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="Bangladeshi",RTV
