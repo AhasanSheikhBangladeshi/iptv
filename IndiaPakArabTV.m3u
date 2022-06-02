@@ -1,3 +1,5 @@
+#EXTINF:0,Rotana Khalijia HD (1080p)[Saudi Arab]
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
 #EXTINF:-1,Alafasy Quran[24×7]
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/42965
 #EXTINF:-1,Maher Muaqily Quran[24×7]
@@ -128,8 +130,6 @@ http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1700
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1714
 #EXTINF:-1 tvg-id="Soubi" tvg-name="IRAQIA FHD
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/1692
-#EXTINF:0,Rotana Khalijia HD (1080p)[Saudi Arab]
-https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
 #EXTINF:0 tvg-logo="https://sawahhost.com/wp-content/uploads/2020/11/MBC.jpg" group-title="Arabic",MBC Channel HD TV
 http://new-pro.tv:8080/Fernando/123321/46
 #EXTINF:-1 tvg-name="Nour TV Farsi" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nour_tv_ae.png"group-title="Relegious",Nour TV
