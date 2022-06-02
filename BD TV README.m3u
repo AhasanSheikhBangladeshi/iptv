@@ -113,6 +113,8 @@ http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCaxR-D8FjZ-2
 http://172.107.95.6:8070/9RccM1lToK/XURfvfLBEB/1377
 #EXTINF:-1 tvg-id="" status="online",Sama Dubai (1080p)
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="Documentary", Discovery Channel Bengali
+https://durbinlive.com/live3/live/jio/guvugggufuuf.php?l0=Discovery_Channel_Bengali
 #EXTINF:-1 tvg-name="RTA News" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA News
 http://ip133.ip-51-210-227.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-name="ATN Europe" tvg-logo="https://i.imgur.com/m6tBPia.png" group-title="AFGHANISTAN",ATN Europe
@@ -361,8 +363,6 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
 http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic Bangla HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nat_Geo_HD_Logo.svg/1280px-Nat_Geo_HD_Logo.svg.png" group-title="Documentary",National Geographic Bangla HD
 http://103.81.104.118/hls/stream13.m3u8
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="Documentary", Discovery Channel Bengali
-http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Documentary",Sony BBC Earth HD
 http://103.81.104.118/hls/stream5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="Documentary",Animal Planet HD
