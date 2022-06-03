@@ -92,6 +92,10 @@ http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/81238
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/81239
 #EXTINF:-1,SHARYYAH HD(soubi)
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/81240
+#EXTINF:-1,tvg-id="Soubi" tvg-name="AL IMAN
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/5665
+#EXTINF:-1,tvg-id="Soubi" tvg-name="ALIMAN TV
+http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/42876
 #EXTINF:-1,SUHAIL TV HD(soubi)
 http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/81241
 #EXTINF:-1,YEMEN TODAY HD(soubi)
@@ -162,16 +166,6 @@ http://89.187.162.109/SONYHD/mono.m3u8
 http://103.136.200.246:8082/Sony_Sab/index.m3u8 
 #Colors 
 http://103.136.200.246:8082/colorsindia/index.m3u8 
-#Star Barath(bd) 
-http://89.187.162.109/STARBHARATHD/mono.m3u8 
-#And TV(bd) 
-http://89.187.162.109/ANDTVHD/mono.m3u8
-#&flix HD-Rs 19
-http://182.176.149.106:9100/play/a05s
-#EXTINF:-1,&pictures HD -Rs 19
-http://182.176.149.106:9100/play/a05d
-#EXTINF:-1,ANIMAL PLAN HD-Rs 3
-http://182.176.149.106:9100/play/a059
 #EXTINF:-1,ARYDigitalAsia HD
 http://182.176.149.106:9100/play/a067
 #EXTINF:-1,ARYMusik
