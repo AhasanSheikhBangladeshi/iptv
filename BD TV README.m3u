@@ -9,8 +9,7 @@ http://10.16.100.203:8082/bangla/btb_w0rld_1stOp.m3u8
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla", Bangladesh Television CTG
 http://103.106.2.149:13456/btv_ctg.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://abbasrizvidev.github.io/LitreallyDataRepository/Images/wintv.png" group-title="Religious",Channel WIN
-http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunklist_w1848970713.m3u8
+
 #EXTINF:-1 tvg-name="RTA Afghan" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA Afghan
 http://51.210.227.133/hls/stream.m3u8
 EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision  (BDIX0)
@@ -68,8 +67,6 @@ https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MadaniChannelBanglaLive
 #EXTINF:-1 tvg-id="32" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Ahlulbayt TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ahlulbayt.jpg",Ahlulbayt TV (1080)
 https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="118" tvg-country="Iran" tvg-language="Farsi" group-title="Religious" tvg-name="IRIB Quran" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/quran-irib.jpg",IRIB Quran (1080)
-https://cdnw.telewebion.com/quran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="30" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Safeer TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/safeer-tv.jpg",Safeer TV (1080)
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/TNQKahI.png" group-title="News",Press TV English (720p)
@@ -168,9 +165,6 @@ http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28956
 http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Iqra TV" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="Religious",BT- Iqra Tv
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Yemen TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_4PgOom7RmAqIfKoFM703YZ2jjb5hWNyjzA&usqp=CAU" group-title="Religious",Yemen Tv2
-https://gintna100.tulix.tv/gin_live/yementv/520c846cc1f52b3a627f630edf171419/629e06d2/index.m3u8
-#https://gintna100.tulix.tv/gin_live/yementv/eff4786a5275956613463d3ed92482f8/629e06be/index.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="None",Saudi TV 1
 https://edge.taghtia.com/sa/2.m3u8
 #EXTINF:-1 tvg-id=Madani Urdu tv.pk" tvg-name="Madani TV Urdu" tvg-country="PK" tvg-language="Urdu" tvg-logo= "data:image/jpeg;base64,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" group-title="Religious",Madani Channel Urdu
@@ -181,8 +175,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 http://182.176.149.106:9100/play/a06y
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="NEWS", CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:1 tvg-country="IN" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/cf/09/f8/cf09f8aa-178a-3b1e-6908-6af894e03835/source/60x60bb.jpg" group-title="Religious",IBN TV 1
-http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 #EXTINF:-1 tvg-name="Tolo News" tvg-logo="https://www.allfreepng.com/storage/images/Tolo%20News-medium.png" group-title="AFGHANISTAN",Tolo News
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
 #EXTINF:-1 tvg-name="Rotana Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Kids_Logo.png/1200px-Rotana_Kids_Logo.png" group-title="Kids",Rotana Kids
@@ -247,8 +239,6 @@ http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/5670
 http://185.5.222.146:8081/live/habbq18/chunks.m3u8
 #EXTINF:-1 tvg-id= "Al Resalah Tv" tvg-logo="https://www.thematv.com/images/channels/al-resalah.png" group-title="Relegious",Al Resalah TV
 https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_720p/chunks.m3u8?p=50&s=1651518868&e=1651605268&cf=1651605268&h=8a633fbcbbbbaa690c9d079502598ec6
-#EXTINF:-1 tvg-id="AlMasirah.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="News",Al Masirah (720p) [Not 24/7]
-https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlIraqiyaAl3ama.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya Al 3ama (720p) [Not 24/7]
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-id="AmozhgaryTV.iq" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/SRotZrm.png" group-title="Religious",Amozhgary TV (1080p)
