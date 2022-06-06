@@ -9,8 +9,6 @@ http://10.16.100.203:8082/bangla/btb_w0rld_1stOp.m3u8
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla", Bangladesh Television CTG
 http://103.106.2.149:13456/btv_ctg.m3u8
-https://imgur.com/1GuSyCr.png",&Pictures HD
-http://103.55.144.46:80/hls/andpictures.m3u8
 #EXTINF:-1 group-title="India-Pakistani" tvg-logo="https://imgur.com/dn923Mf.png",Zee Cinema HD
 http://103.55.144.46:80/hls/zeecinemahd.m3u
 #EXTINF:-1 tvg-name="RTA Afghan" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA Afghan
