@@ -9,8 +9,6 @@ http://10.16.100.203:8082/bangla/btb_w0rld_1stOp.m3u8
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla", Bangladesh Television CTG
 http://103.106.2.149:13456/btv_ctg.m3u8
-#EXTINF:-1 group-title="India-Pakistani" tvg-logo="https://imgur.com/dn923Mf.png",Zee Cinema HD
-http://103.55.144.46:80/hls/zeecinemahd.m3u
 #EXTINF:-1 tvg-name="RTA Afghan" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA Afghan
 http://51.210.227.133/hls/stream.m3u8
 EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision  (BDIX0)
@@ -134,8 +132,8 @@ https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
 #EXTINF:0,Rotana Khalijia HD (1080p)[Saudi Arab]
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
-#EXTINF:0 tvg-logo="https://sawahhost.com/wp-content/uploads/2020/11/MBC.jpg" group-title="Arabic",MBC Channel HD TV
-http://new-pro.tv:8080/Fernando/123321/46
+#EXTINF:-1 group-title="India-Pakistani" tvg-logo="https://imgur.com/dn923Mf.png",Zee Cinema HD
+http://103.55.144.46:80/hls/zeecinemahd.m3u
 #EXTINF:-1 tvg-name="Nour TV Farsi" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nour_tv_ae.png"group-title="Relegious",Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 #EXTINF:-1 tvg-name="Al Iraqiya Kurdish TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imn-kurdish-iq.png" group-title="",Al Iraqiya Kurdish TV
