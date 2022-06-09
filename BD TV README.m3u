@@ -8,7 +8,7 @@ http://10.16.100.203:8082/bangla/btb_w0rld_1stOp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Saudi Sunnah" tvg-logo="none" group-title="BDIX Server",Saudi Sunnah
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla", Bangladesh Television BTV CTG Chattogram
-http://iptvbd.jagobd.com:1931/live-orgin/btvnational-ctg.stream/chunks.m3u8
+http://103.106.2.152:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-name="RTA Afghan" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA Afghan
 http://51.210.227.133/hls/stream.m3u8
 EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision  (BDIX0)
@@ -16,8 +16,8 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #http://tv2.ebox.live:8080/live/banae3.m3u8
 #EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" tvg-country="IN" tvg-language="English" tvg-logo=" " group-title="News",NDTV(480p)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-id="NDTV India.in" tvg-name="NDTV India" tvg-country="IN" tvg-language="Urdu,Hindi" tvg-logo=" " group-title="News",NDTV India (480p)
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="General",BTV Sangsad
+http://103.106.2.152:13456/sangsad.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Bangladeshi",Jamuna TV
 http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Bangladeshi",Channel 24
@@ -88,8 +88,6 @@ http://new-pro.tv:8080/Fernando/123321/105052
 https://cdnw.telewebion.com/kordestan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MAHABAD.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran Fars",MAHABAD (576p)
 https://cdnw.telewebion.com/mahabad/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Yemen Today.Ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="" group-title=" ",Yemen.Today (576p)
-https://video.yementdy.tv:443/hls/yementoday_src.m3u8
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
 https://cdnw.telewebion.com/tv1/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
@@ -138,14 +136,14 @@ http://103.55.144.46:80/hls/zeecinemahd.m3u
 http://217.74.16.155:8082/local//ar-s/bein-1-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Nour TV Farsi" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nour_tv_ae.png"group-title="Relegious",Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+#EXTINF:-1 tvg-id="NDTV India.in" tvg-name="NDTV India" tvg-country="IN" tvg-language="Urdu,Hindi" tvg-logo=" " group-title="News",NDTV India (480p)
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:-1 tvg-id="Jordan TV" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="General",Jordan TV (1080p)
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IPlus Tv" tvg-logo="https://logos.fandom.com/wiki/IPlus_TV?file=IPlus.jpeg" group-title="Religious",In- IPlus Tv
 https://5c75277727cd1.streamlock.net/iplustv/iplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Huda Tv" tvg-logo="http://2.bp.blogspot.com/-cSfP2QGNX28/VYv3Az7jdqI/AAAAAAAAARo/IfXNZKE0_Fk/s1600/Huda%2BLogo%2BSMALL.jpg" group-title="En-Religious",EN- Huda Tv
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="General",Sangsad TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxGY7_yuYYzSh1-EAbphivlU-EFuxe3bO6jQ&usqp=CAU" group-title="General",Yemen TV
 http://ipc.proipciptv.com:8000/live/PZwDAJTDXA/K5aEPBLxTt/37738.m3u8
 #EXTINF:-1 tvg-id="OmanTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C7kfubs.png" group-title="General",Oman TV (1080p)
@@ -238,8 +236,8 @@ http://185.5.222.146:8081/live/habbq18/chunks.m3u8
 https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_720p/chunks.m3u8?p=50&s=1651518868&e=1651605268&cf=1651605268&h=8a633fbcbbbbaa690c9d079502598ec6
 #EXTINF:-1 tvg-id="AlIraqiyaAl3ama.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya Al 3ama (720p) [Not 24/7]
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
-#EXTINF:-1 tvg-id="AmozhgaryTV.iq" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/SRotZrm.png" group-title="Religious",Amozhgary TV (1080p)
-https://media.streambrothers.com:1936/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-id="Yemen Today.Ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="" group-title=" ",Yemen.Today (576p)
+https://video.yementdy.tv:443/hls/yementoday_src.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="none" group-title="General",Al Sharqiya (1080p)
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV1.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="",KTV 1 (1080p)
