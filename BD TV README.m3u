@@ -25,7 +25,7 @@ http://10.16.100.245/hindi/channeL24_1st0p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangladeshi",Somoy News
-http://tv.ebox.live:8081/thunderbd/17/chunks.m3u8?nimblesessionid=29742847&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIyIDQ6NTk6NTggUE0maGFzaF92YWx1ZT1lMmZkR3VMakxDSHJkYXZicGtpNmlBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://103.55.144.46/hls/somoy.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="Bangladeshi",DBC News
 http://103.55.144.46/hls/dbc.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="Bangladeshi",Maasranga
