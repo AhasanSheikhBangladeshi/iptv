@@ -37,7 +37,7 @@ http://103.55.144.46/hls/channeli.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
 http://10.16.100.245/hindi/ntv_1sT0p.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="Bangladeshi",RTV
-https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Bangladeshi",Boishakhi
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangladeshi",My TV
@@ -223,7 +223,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT Arabi (1080p)
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="" group-title="",Yemen Shabab [100]
-https://master.starmena-cloud.com/hls/yemenshabab.m3u8
+http://ipc.proipciptv.com:8000/live/PZwDAJTDXA/K5aEPBLxTt/37740.m3u8
 #EXTINF: group-title="News" tvg-id="SuhailTV.ye" tvg-name="Suhail TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtJwlD-ms5DKPuh6PAu45IK9_H5-vN-oPpxg&usqp=CAU" group-tile="Relegious",Suhail TV
 http://82.212.74.98:8000/live/7726.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
