@@ -145,30 +145,6 @@ https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc2.jpg" group-title="Movies",MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
-#EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc3.jpg" group-title="",MBC 3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc4.jpg" group-title="",MBC 4
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-id="MBC 5 ARB" tvg-name="MBC 5 ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc5.jpg" group-title="",MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_action.jpg" group-title="Movies",MBC Action
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
-#EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="Entertainment",MBC Bollywood
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_drama.jpg" group-title="Movies",MBC Drama
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="MBC Drama Plus ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg" group-title="Movies",MBC Drama PLUS
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Iraq" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg" group-title="",MBC Iraq
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Masr 1" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr.jpg" group-title="",MBC Masr 1
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC Masr 2" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg" group-title="",MBC Masr 2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc-max.jpg" group-title="Movies",MBC Max
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
-#EXTINF:-1 tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="",MBC Persia
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/national_geographic.jpg" group-title="",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/yastv.jpg" group-title="",Yas
@@ -2164,52 +2140,6 @@ https://www.youtube.com/embed/live_stream?channel=UCdvWVsmQBROkgcGzVep73oA&autop
 
 #EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/watania2.jpg" group-title="tunisia",Watania 2
 https://www.youtube.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&autoplay=1
-#EXTM3U
-#EXTINF:-1,MBC 1 FHD
-http://46.249.33.108:8000/live/22-5-MBc1-Eg-Iq/xv4WqX0MRJ/105.m3u8
-#EXTINF:-1,MBC Masr 1 FHD
-http://46.249.33.108:8000/live/22-5-MBc1-Eg-Iq/xv4WqX0MRJ/115.m3u8
-#EXTINF:-1,MBC Masr 2 FHD
-http://46.249.33.108:8000/live/22-5-MBc1-Eg-Iq/xv4WqX0MRJ/116.m3u8
-#EXTINF:-1,MBC Iraq FHD
-http://46.249.33.108:8000/live/22-5-MBc1-Eg-Iq/xv4WqX0MRJ/117.m3u8
-#EXTINF:-1,MBC 1 FHD +1
-http://46.249.33.108:8000/live/22-5-MBc1-Eg-Iq/xv4WqX0MRJ/1505.m3u8
-#EXTINF:-1,MBC 1 FHD +2
-http://46.249.33.108:8000/live/22-5-MBc1-Eg-Iq/xv4WqX0MRJ/1506.m3u8
-
-#EXTINF:-1,MBC 2 FHD
-http://46.249.33.108:8000/live/22-5-MbC2-Mx-AcT/G8bwyFcnsM/106.m3u8
-#EXTINF:-1,MBC Action FHD
-http://46.249.33.108:8000/live/22-5-MbC2-Mx-AcT/G8bwyFcnsM/110.m3u8
-#EXTINF:-1,MBC Max FHD
-http://46.249.33.108:8000/live/22-5-MbC2-Mx-AcT/G8bwyFcnsM/111.m3u8
-#EXTINF:-1,MBC Action FHD + 1
-http://46.249.33.108:8000/live/22-5-MbC2-Mx-AcT/G8bwyFcnsM/1311.m3u8
-#EXTINF:-1,MBC Action FHD + 2
-http://46.249.33.108:8000/live/22-5-MbC2-Mx-AcT/G8bwyFcnsM/1312.m3u8
-
-
-#EXTINF:-1,MBC 3 FHD
-http://46.249.33.108:8000/live/22-5-Mbc3-4-5-Dr-Bw-Pr-ResT/RMTySBlLjD/107.m3u8
-#EXTINF:-1,MBC 4 FHD
-http://46.249.33.108:8000/live/22-5-Mbc3-4-5-Dr-Bw-Pr-ResT/RMTySBlLjD/108.m3u8
-#EXTINF:-1,MBC 5 FHD
-http://46.249.33.108:8000/live/22-5-Mbc3-4-5-Dr-Bw-Pr-ResT/RMTySBlLjD/109.m3u8
-#EXTINF:-1,MBC Drama FHD
-http://46.249.33.108:8000/live/22-5-Mbc3-4-5-Dr-Bw-Pr-ResT/RMTySBlLjD/112.m3u8
-#EXTINF:-1,MBC Plus Drama FHD
-http://46.249.33.108:8000/live/22-5-Mbc3-4-5-Dr-Bw-Pr-ResT/RMTySBlLjD/113.m3u8
-#EXTINF:-1,MBC Bollywood FHD
-http://46.249.33.108:8000/live/22-5-Mbc3-4-5-Dr-Bw-Pr-ResT/RMTySBlLjD/114.m3u8
-#EXTINF:-1,MBC Persian FHD
-http://46.249.33.108:8000/live/22-5-Mbc3-4-5-Dr-Bw-Pr-ResT/RMTySBlLjD/118.m3u8
-#EXTINF:-1,MBC WANASA FHD
-http://46.249.33.108:8000/live/22-5-Mbc3-4-5-Dr-Bw-Pr-ResT/RMTySBlLjD/119.m3u8
-#EXTINF:-1,MBC PANORAMA FM FHD
-http://46.249.33.108:8000/live/22-5-Mbc3-4-5-Dr-Bw-Pr-ResT/RMTySBlLjD/120.m3u8
-#EXTINF:-1,MBC Variety FHD
-http://46.249.33.108:8000/live/22-5-Mbc3-4-5-Dr-Bw-Pr-ResT/RMTySBlLjD/121.m3u8
 
 #EXTINF:-1,LB : Al Manar
 http://46.249.33.108:8000/live/22-5-LeBaNon/ZTbgfdzv4n/1.m3u8
