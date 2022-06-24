@@ -82,8 +82,8 @@ http://ipc.proipciptv.com:8000/live/PZwDAJTDXA/K5aEPBLxTt/44162.m3u8
 http://ipc.proipciptv.com:8000/live/PZwDAJTDXA/K5aEPBLxTt/44165.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEMEN TV" tvg-logo="" group-title="yemen - Ø§Ù„ÙŠÙ…Ù†",YEMEN Today
 http://149.62.183.214:8000/play/a0g9/index.m3u8
-EXTINF:-1 tvg-id="" tvg-name="YEMEN TV" tvg-logo="" group-title="yemen - Ø§Ù„ÙŠÙ…Ù†",YEMEN Sheba/Saba Tv
-http://149.62.183.214:8000/play/a0ga/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN TV" tvg-logo="" group-title="yemen - Ø§Ù„ÙŠÙ…Ù†",YEMEN Sheba/Saba Tv
+http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1284
 #EXTINF:-1 tvg-id="" tvg-name="YEMEN SHABAB HD" tvg-logo="" group-title="yemen - Ø§Ù„ÙŠÙ…Ù†",YEMEN SHABAB HD
 http://ipc.proipciptv.com:8000/live/PZwDAJTDXA/K5aEPBLxTt/81233.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HADRMOUT HD" tvg-logo="" group-title="yemen - Ø§Ù„ÙŠÙ…Ù†",HADRMOUT HD
