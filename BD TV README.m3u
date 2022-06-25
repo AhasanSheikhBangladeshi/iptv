@@ -19,7 +19,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="General",BTV Sangsad
 http://103.106.2.152:13456/sangsad.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Bangladeshi",Jamuna TV
-http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
+http://tv.ebox.live:8081/thunderbd/13/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDIyIDE6MTk6MDYgUE0maGFzaF92YWx1ZT01MUZXanBUS2tZNTQyYmFYcC9qc2JRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:0 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Bangladeshi",Channel 24
 https://cdn.rangdhanu.live/Channel24/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla (BDIX0)
