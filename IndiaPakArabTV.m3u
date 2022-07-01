@@ -1,5 +1,6 @@
-#EXTINF:-1 group-title="PAK ENT." tvg-logo="https://i.imgur.com/DXn57cB.jpg",Samaa TV
+#EXTINF:-1 group-title="PAK ENT" tvg-logo="https://i.imgur.com/DXn57cB.jpg",Samaa TV
 http://208.86.19.13:81/641.stream/index.m3u8
+#EXTM3U
 #EXTINF:-1,Ar: Almahriah HD
 http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1282
 #EXTINF:-1,Ar: Suhail TV
