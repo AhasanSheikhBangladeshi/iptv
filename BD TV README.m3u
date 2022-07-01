@@ -63,7 +63,7 @@ http://103.55.144.46:80/hls/nexus.m3u8
 #EXTINF:-1 tvg-id="IqraBangla.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/GK5BlnN.jpg" group-title="Religious",Iqra Bangla (576p)
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="RELIGIOUS",Madani TV Bangla
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MadaniChannelBanglaLive
+http://103.55.144.46/hls/madani.m3u8
 #EXTINF:-1 tvg-id="32" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Ahlulbayt TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ahlulbayt.jpg",Ahlulbayt TV (1080)
 https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="30" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Safeer TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/safeer-tv.jpg",Safeer TV (1080)
