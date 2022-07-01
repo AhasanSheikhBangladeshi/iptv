@@ -11,9 +11,8 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 http://103.106.2.152:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-name="RTA Afghan" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA Afghan
 http://51.210.227.133/hls/stream.m3u8
-EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision  (BDIX0)
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8
-#http://tv2.ebox.live:8080/live/banae3.m3u8
+#EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision  (BDIX0)
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" tvg-country="IN" tvg-language="English" tvg-logo=" " group-title="News",NDTV(480p)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="General",BTV Sangsad
@@ -48,7 +47,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bangla",ATN News (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/live-orgin/atnws-sg.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangladeshi",Mohona Tv
-
+http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=nVKf-Tfw5LA
 #EXTINF:0 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="Bangladeshi",SATV
