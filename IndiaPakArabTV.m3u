@@ -1911,24 +1911,6 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Ten_2&q=800&e=.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=Ten_3&q=800&e=.m3u8
 #EXTINF:-1 group-title="Jio Server LIVE",Sony_Six_SD
 http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Six_SD&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png",Colors_Cineplex SD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Cineplex&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-pictures-hd-logo-300x300.jpg",And_Pictures_HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=And_Pictures_HD&q=1200&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Rishtey_Cineplex.png/revision/latest/scale-to-width-down/2000?cb=20190308001642",Rishtey_Cineplex
-http://103.139.171.5:5001/jiotvplus/live.php?c=Rishtey_Cineplex&q=800&e=junk.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Colors_Cineplex_Bollywood
-http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Cineplex_Bollywood&q=1200&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Colors-infinity.jpg/revision/latest?cb=20171125165019",Colors_Infinity_SD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Infinity_SD&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE" tvg-logo="https://nettv.com.np/storage/app/uploads/public/5da/558/fae/5da558fae6acf376045704.jpg",Colors_Infinity_HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Infinity_HD&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-beats-hd-logo-300x300.jpg",Mtv_Beats_HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=MTV_Beats_HD&q=800&e=junk.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE" tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/22130353/mtv_beats.png",MTV_Beats_SD
-http://103.139.171.5:5001/jiotvplus/live.php?c=MTV_Beats_SD&q=800&e=junk.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",MTV_HD_Plus
-http://103.139.171.5:5001/jiotvplus/live.php?c=MTV_HD_Plus&q=800&e=.m3u8
 #EXTINF:-1 group-title="Jio Server LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee_Cinema SD
 http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_Cinema&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Jio Server LIVE" tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_580/PORTRAIT/sjM1MbFR.png?o=production",Zee_Cinema_HD
@@ -1985,126 +1967,16 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_SAB_HD&q=800&e=.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_SD&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Jio Server LIVE",Colors HD
 http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_HD&q=800&e=junk.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Sony SD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_SD&q=800&e=junk.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Sony_HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_HD&q=800&e=junk.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",And_TV_HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=And_TV_HD&q=800&e=junk.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Zee_TV_HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_TV_HD&q=800&e=junk.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",9XM
-http://103.139.171.5:5001/jiotvplus/live.php?c=9XM&q=800&e=junk.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",9X_Jalwa
-http://103.139.171.5:5001/jiotvplus/live.php?c=9X_Jalwa&q=800&e=junk.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",B4U_Music
-http://103.139.171.5:5001/jiotvplus/live.php?c=B4U_Music&q=800&e=junk.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Music India
-http://103.139.171.5:5001/jiotvplus/live.php?c=Music_India&q=800&e=junk.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Sangeet_Bangla
-http://103.139.171.5:5001/jiotvplus/live.php?c=Sangeet_Bangla&q=800&e=junk.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Dangal
-http://103.139.171.5:5001/jiotvplus/live.php?c=Dangal&q=1200&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Colors_Kannada_HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Kannada_HD&q=1200&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Colors Rishtey
-http://103.139.171.5:5001/jiotvplus/live.php?c=Rishtey&q=1200&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Sony Pal
-http://103.139.171.5:5001/jiotvplus/live.php?c=Sony_Pal&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Colors_Tamil_HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Tamil_HD&q=1200&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Arre
-http://103.139.171.5:5001/jiotvplus/live.php?c=Arre&q=800&e=.m3u8
 #EXTINF:-1 group-title="Jio Server LIVE",Comedy_Central_SD
 http://103.139.171.5:5001/jiotvplus/live.php?c=Comedy_Central_SD&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Comedy_Central_HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Comedy_Central_HD&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Bflix_Movies
-http://103.139.171.5:5001/jiotvplus/live.php?c=Bflix_Movies&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",India_Science
-http://103.139.171.5:5001/jiotvplus/live.php?c=India_Science&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Bhojpuri_Cinema
-http://103.139.171.5:5001/jiotvplus/live.php?c=Bhojpuri_Cinema&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Oscar_Movies
-http://103.139.171.5:5001/jiotvplus/live.php?c=Oscar_Movies&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Surya_Bhojpuri
-http://103.139.171.5:5001/jiotvplus/live.php?c=Surya_Bhojpuri&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",iLove
-http://103.139.171.5:5001/jiotvplus/live.php?c=iLove&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Orange_TV
-http://103.139.171.5:5001/jiotvplus/live.php?c=Orange_TV&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",MI_TV
-http://103.139.171.5:5001/jiotvplus/live.php?c=MI_TV&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Amaar_Cinema
-http://103.139.171.5:5001/jiotvplus/live.php?c=Amaar_Cinema&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Manoranjan_TV
-http://103.139.171.5:5001/jiotvplus/live.php?c=Manoranjan_TV&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Aakaash_bangla
-http://103.139.171.5:5001/jiotvplus/live.php?c=Aakaash_bangla&q=800&e=.m3u8
 #EXTINF:-1 group-title="Jio Server LIVE",Animal_Planet_Hindi
 http://103.139.171.5:5001/jiotvplus/live.php?c=Animal_Planet_Hindi&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Zing
-http://103.139.171.5:5001/jiotvplus/live.php?c=Zing&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Mastiii
-http://103.139.171.5:5001/jiotvplus/live.php?c=Mastiii&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",MTV
-http://103.139.171.5:5001/jiotvplus/live.php?c=MTV&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Jio_Exclusive
-http://103.139.171.5:5001/jiotvplus/live.php?c=Jio_Exclusive&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",B4U_Bhojpuri
-https://api.mp4.to/static/downloads/060faaa911e04a29858ce5911e402688/New%20video%201.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Manoranjan_Movies
-http://103.139.171.5:5001/jiotvplus/live.php?c=Manoranjan_Movies&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",ABZY_Cool
-http://103.139.171.5:5001/jiotvplus/live.php?c=ABZY_Cool&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",ABZY_Dhakad
-http://103.139.171.5:5001/jiotvplus/live.php?c=ABZY_Dhakad&q=800&e=.m3u8
 #EXTINF:-1 group-title="Jio Server LIVE",Jalsa_Movies_HD
 http://103.139.171.5:5001/jiotvplus/live.php?c=Jalsa_Movies_HD&q=800&e=.m3u8
 #EXTINF:-1 group-title="Jio Server LIVE",Surya_Cinema
 http://103.139.171.5:5001/jiotvplus/live.php?c=Surya_Cinema&q=800&e=.m3u8
 #EXTINF:-1 group-title="Jio Server LIVE",Kolkata_Live
 http://103.139.171.5:5001/jiotvplus/live.php?c=Kolkata_Live&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Jonack
-http://103.139.171.5:5001/jiotvplus/live.php?c=Jonack&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",9x_Jhakaas
-http://103.139.171.5:5001/jiotvplus/live.php?c=9x_Jhakaas&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Khusboo_TV
-http://103.139.171.5:5001/jiotvplus/live.php?c=Khusboo_TV&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Food_Food
-http://103.139.171.5:5001/jiotvplus/live.php?c=Food_Food&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Manoranjan_Grand
-http://103.139.171.5:5001/jiotvplus/live.php?c=Manoranjan_Grand&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Dhamaal_TV
-http://103.139.171.5:5001/jiotvplus/live.php?c=Dhamaal_TV&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Dillagi_TV
-http://103.139.171.5:5001/jiotvplus/live.php?c=Dillagi_TV&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Colors_Super
-http://103.139.171.5:5001/jiotvplus/live.php?c=Colors_Super&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Zee_Cinemalu
-http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_Cinemalu&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Jaya_TV_HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Jaya_TV_HD&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Studio_One
-http://103.139.171.5:5001/jiotvplus/live.php?c=Studio_One&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",24_Ghanta_TV
-http://103.139.171.5:5001/jiotvplus/live.php?c=24_Ghanta_TV&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Rang
-http://103.139.171.5:5001/jiotvplus/live.php?c=Rang&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",TV_5_Monde
-http://103.139.171.5:5001/jiotvplus/live.php?c=TV_5_Monde&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Manjari_TV
-http://103.139.171.5:5001/jiotvplus/live.php?c=Manjari_TV&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",CN_HD_Tamil
-http://103.139.171.5:5001/jiotvplus/live.php?c=CN_HD_Tamil&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Hi_Dost
-http://103.139.171.5:5001/jiotvplus/live.php?c=Hi_Dost&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Maha_Movies
-http://103.139.171.5:5001/jiotvplus/live.php?c=Maha_Movies&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Box_Cinema
-http://103.139.171.5:5001/jiotvplus/live.php?c=Box_Cinema&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",ABZY_Movies
-http://103.139.171.5:5001/jiotvplus/live.php?c=ABZY_Movies&q=800&e=.m3u8
 #EXTINF:-1 group-title="Jio Server LIVE",Animal_Planet SD
 http://103.139.171.5:5001/jiotvplus/live.php?c=Animal_Planet_English&q=800&e=.m3u8
 #EXTINF:-1 group-title="Jio Server LIVE",Travel_XP
@@ -2115,34 +1987,6 @@ http://103.139.171.5:5001/jiotvplus/live.php?c=Travel_XP_HD&q=800&e=.m3u8
 http://103.139.171.5:5001/jiotvplus/live.php?c=TLC_Hindi&q=800&e=.m3u8
 #EXTINF:-1 group-title="Jio Server LIVE",TLC_English
 http://103.139.171.5:5001/jiotvplus/live.php?c=TLC_English&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",TLC_HD_World
-http://103.139.171.5:5001/jiotvplus/live.php?c=TLC_HD_World&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Epic_HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Epic_HD&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Discovery_Kids_2
-http://103.139.171.5:5001/jiotvplus/live.php?c=Discovery_Kids_2&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Nick_Bangla
-http://103.139.171.5:5001/jiotvplus/live.php?c=Nick_Bangla&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Animal_Planet_HD
-http://103.139.171.5:5001/jiotvplus/live.php?c=Animal_Planet_HD&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Discovery
-http://103.139.171.5:5001/jiotvplus/live.php?c=Discovery&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Discovery_HD_World
-http://103.139.171.5:5001/jiotvplus/live.php?c=Discovery_HD_World&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Nickelodeon_Jr
-http://103.139.171.5:5001/jiotvplus/live.php?c=Nickelodeon_Jr&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Nick_Junior
-http://103.139.171.5:5001/jiotvplus/live.php?c=Nick_Junior&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Sonic_Bangla
-http://103.139.171.5:5001/jiotvplus/live.php?c=Sonic_Bangla&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",CN_HD_English
-http://103.139.171.5:5001/jiotvplus/live.php?c=CN_HD_English&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Care_World
-http://103.139.171.5:5001/jiotvplus/live.php?c=Care_World&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Discovery_Science
-http://103.139.171.5:5001/jiotvplus/live.php?c=Discovery_Science&q=800&e=.m3u8
-#EXTINF:-1 group-title="Jio Server LIVE",Discovery_Turbo
-http://103.139.171.5:5001/jiotvplus/live.php?c=Discovery_Turbo&q=800&e=.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/w7rO6yI.jpg",STAR SPORTS HINDI 1 HD
 http://appleiptv.com:80/good/good/42947
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/RR0Iv6V.png",BTV World
