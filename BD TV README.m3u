@@ -18,7 +18,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="General",BTV Sangsad
 http://103.106.2.152:13456/sangsad.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Bangladeshi",Jamuna TV
-http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Bangladeshi",Channel 24
 #EXTVLCOPT:http-referrer=http://www.jagobd.com
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
@@ -45,7 +45,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="Bangladeshi",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bangla",ATN News (BDIX0)
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangladeshi",Mohona Tv
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
