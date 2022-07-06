@@ -35,7 +35,7 @@ http://103.55.144.46:80/hls/indepen.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="Bangladeshi",Channel I
 http://103.55.144.46/hls/channeli.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
-http://tv.ebox.live:8081/thunderbd/54/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMTozNTo0NSBQTSZoYXNoX3ZhbHVlPVgwbG1jblhpd1Z6dzI3VU91WnhkQVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+http://tv.ebox.live:8081/thunderbd/54/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDo0MjoxMCBQTSZoYXNoX3ZhbHVlPUpQcHRtRTlEK3lHSEFOWG5UUTRHWXc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:0 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="Bangladeshi",RTV
 http://10.16.100.204:8082/hls/rtv_local.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Bangladeshi",Boishakhi
