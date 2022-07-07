@@ -85,7 +85,7 @@ https://shls-mbc1na-prod-dub.shahid.net:443/out/v1/84ab37e99d6e4b16b33c6600f94f6
 #EXTINF:-1 tvg-name="Imam Ali Najaf HD Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Imam_Ali_shrine_-_1_May_2015_19.jpg" group-title="Relegious",Imam Ali Najaf Live HD
 http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/936
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
-https://s1-cloud.irib.ir/securelive3/tv1hd/tv1hd.m3u8?s=a-DMI_16GrnfARNjdRky0A&t=1657216150
+http://184.104.200.40:7777/IRIBChannel1_HD/IRIBChannel1_High.m3u8?user=sgls540839&session=11d50929da1f04e839c546726aaf6b6c12dbc2fe621cab5223bee30a0dd60b0e7aefc8e5873b13bb79dad3d6b43fbae9&hlsid=HTTP_ID_10
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB Kordestan" tvg-logo=" ",IRIB Kordestan(1080)
 
 #EXTINF:-1 tvg-id="MAHABAD.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran Fars",MAHABAD (576p)
