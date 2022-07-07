@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="News 24 HD" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/07/28/thumbnails/News24-ds.jpg" group-title="BDIX Server",News 24 HD
-http://tv.ebox.live:8081/thunderbd/18/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjIgMTA6NTA6MjIgQU0maGFzaF92YWx1ZT12S245bFE3T2FDL21zdjJ6dEhDQm1BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV National" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjaRMs4KsOgKKyAkvnePFgD-GcZrXPGFUXkHZisYbJxjPFqZ7ECDmwxHiOjOWPQTLybWs&usqp=CAU" group-title="BDIX Server",BTV National
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/99ZKMd4mWYM.png" group-title="BDIX Server",BTV World
@@ -27,7 +27,7 @@ https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdE
 #EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangladeshi",Somoy News
 http://103.55.144.46/hls/somoy.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="Bangladeshi",DBC News
-http://103.55.144.46/hls/dbc.m3u8
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="Bangladeshi",Maasranga
 http://sultan-iptv.com:80/102030405060/605040302010/73580
 #EXTINF:0 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangladeshi",Independent
@@ -36,16 +36,18 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:0 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="Bangladeshi",Channel I
 http://103.55.144.46/hls/channeli.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
-http://tv.ebox.live:8081/thunderbd/54/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgNDo0MjoxMCBQTSZoYXNoX3ZhbHVlPUpQcHRtRTlEK3lHSEFOWG5UUTRHWXc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+http://208.86.19.13:80/652.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="Bangladeshi",RTV
-http://10.16.100.204:8082/hls/rtv_local.m3u8
+https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Bangladeshi",Boishakhi
-http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
+http://sultan-iptv.com:80/102030405060/605040302010/73602
 #EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="Bangladeshi",My TV
-http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/playlist.m3u8
+http://103.136.200.246:8082/MyTV/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="Bangladeshi",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bangla",ATN News (BDIX0)
+#EXTGRP:Bangla News
+http://sultan-iptv.com:80/102030405060/605040302010/73609
 #EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangladeshi",Mohona Tv
 http://iptvbd.jagobd.com:1931/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
@@ -57,7 +59,7 @@ http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/cIqG0pA.png" group-title="Bangladeshi",Nagorik
 http://103.136.200.246:8089/Nagorik-TV/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="Bangladeshi",Deepto TV
-https://nbn.chowdhury-shaheb.com/live/nk-deepto2/chunks.m3u8
+http://45.86.190.64:25461/FZarG1henw/5ehp5gpMht/34393?play_token=O3ewlRqRvM&token=TURYAhZYEAwSVwABXQZQWwxVBFBXWANXVFECU1AJUAQGB1RQBglUUwlGTxBLF0AGVA9uD1IbCQUFBlUAShsTFlMUbwoBEggUAVJaCgBQCkEZQEUPW1wRDAAFUAZeAVBXB14cQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ai5p9BP.jpg" group-title="Bangladeshi", Nexus TV [1]
 http://103.55.144.46:80/hls/nexus.m3u8
 #EXTINF:-1 tvg-id="IqraBangla.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/GK5BlnN.jpg" group-title="Religious",Iqra Bangla (576p)
@@ -86,8 +88,8 @@ https://shls-mbc1na-prod-dub.shahid.net:443/out/v1/84ab37e99d6e4b16b33c6600f94f6
 http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/936
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
 http://184.104.200.40:7777/IRIBChannel1_HD/IRIBChannel1_High.m3u8?user=sgls540839&session=11d50929da1f04e839c546726aaf6b6c12dbc2fe621cab5223bee30a0dd60b0e7aefc8e5873b13bb79dad3d6b43fbae9&hlsid=HTTP_ID_10
-#EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB Kordestan" tvg-logo=" ",IRIB Kordestan(1080)
-
+#EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
+http://184.104.200.40:7777/IRINN_HD/IRINN_High.m3u8?user=sgls540839&session=fefefa94da9af71c3ee1425fb1da86b919c6aef31ea565dfe2c43bdf87a93dc70412b8d55803f734&hlsid=HTTP_ID_10
 #EXTINF:-1 tvg-id="MAHABAD.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran Fars",MAHABAD (576p)
 
 #EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
