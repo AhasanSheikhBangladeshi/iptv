@@ -84,12 +84,12 @@ http://95.216.180.111:1935/live/46/chunklist_w593337899.m3u8?user=sgls540839&ses
 https://shls-mbc1na-prod-dub.shahid.net:443/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_2.m3u8
 #EXTINF:-1 tvg-name="Imam Ali Najaf HD Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Imam_Ali_shrine_-_1_May_2015_19.jpg" group-title="Relegious",Imam Ali Najaf Live HD
 http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/936
-#EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB Kordestan" tvg-logo=" ",IRIB Kordestan(1080)
-https://cdnw.telewebion.com/kordestan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MAHABAD.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran Fars",MAHABAD (576p)
-https://cdnw.telewebion.com/mahabad/live/playlist.m3u8
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
-https://cdnw.telewebion.com/tv1/live/1080p/index.m3u8
+https://s1-cloud.irib.ir/securelive3/tv1hd/tv1hd.m3u8?s=a-DMI_16GrnfARNjdRky0A&t=1657216150
+#EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB Kordestan" tvg-logo=" ",IRIB Kordestan(1080)
+
+#EXTINF:-1 tvg-id="MAHABAD.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran Fars",MAHABAD (576p)
+
 #EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"  group-title="India-Pakistani",ARY NEWS (PK)
