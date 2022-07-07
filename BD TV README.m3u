@@ -18,20 +18,21 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="General",BTV Sangsad
 http://103.106.2.152:13456/sangsad.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Bangladeshi",Jamuna TV
-http://tv.ebox.live:8081/thunderbd/13/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjIgODowMDo1NSBBTSZoYXNoX3ZhbHVlPW03S1ZsemFydTR1Q2I0cGNyMzVvU1E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Bangladeshi",Channel 24
 #EXTVLCOPT:http-referrer=http://www.jagobd.com
-http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla (BDIX0)
-https://nbn.chowdhury-shaheb.com/live/nk-atnbd/chunks.m3u8
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangladeshi",Somoy News
 http://103.55.144.46/hls/somoy.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="Bangladeshi",DBC News
 http://103.55.144.46/hls/dbc.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="Bangladeshi",Maasranga
-http://tv2.ebox.live:8080/live/maasranga.m3u8
+http://sultan-iptv.com:80/102030405060/605040302010/73580
 #EXTINF:0 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangladeshi",Independent
-http://103.55.144.46:80/hls/indepen.m3u8
+#EXTGRP:Bangla News
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="Bangladeshi",Channel I
 http://103.55.144.46/hls/channeli.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
