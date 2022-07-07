@@ -931,6 +931,8 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 https://5c75277727cd1.streamlock.net/iplustv/iplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Huda Tv" tvg-logo="http://2.bp.blogspot.com/-cSfP2QGNX28/VYv3Az7jdqI/AAAAAAAAARo/IfXNZKE0_Fk/s1600/Huda%2BLogo%2BSMALL.jpg" group-title="En-Religious",EN- Huda Tv
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1,AFG:Tamadon TV
+http://184.104.200.40:7777/Tamadon_HD/Tamadon_High.m3u8?user=sgls540839&session=fb55ef8107ff3eb34ea698e1bcb459008e0689e712349a234257b002e805caca140b148cb6ec0d91&hlsid=HTTP_ID_10
 #Sony Six 
 http://103.136.200.246:8082/SonySix/index.m3u8 
 #SONY Ten 1 
