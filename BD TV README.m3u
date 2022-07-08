@@ -299,7 +299,7 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 #EXTINF:-1 tvg-id="Syriantv.sy" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Syria_tv_logo.webp" group-title="General",Syrian TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AlAqsaChannel.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" group-title="Religious",Al Aqsa Channel (416p) [Not 24/7]
-https://live-1.linuxway.info/aqsatv/live/tv/media_w2024893562_45332.m3u8
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/284411
 #EXTINF:1 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/On4_tv_Logo.jpg/800px-On4_tv_Logo.jpg" group-title="Religious",ON4TV 
 http://yayin.netradyom.com:1935/live/on4/chunklist_w738595972.m3u8
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-name="Makkah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Religious",Makkah TV (480p)
@@ -328,8 +328,6 @@ https://live.imamhossaintv.com/live/ih4.m3u8
 https://mn-nl.mncdn.com/arbaeen/arbaeen_sd.smil/chunklist_b2096000.m3u8
 #EXTINF:-1 tvg-id="AlZahraTVTurkic.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png" group-title="Relegious",Al-Zahra TV Turkic (1080p)
 https://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="KaifaTV.sa" tvg-name="Kaifa TV" tvg-country="SA" tvg-language="Arabic" tvg-logo=" "group-title="Relegious",Kaifa TV
-http://82.212.74.2:8000/live/hls/7311.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International Europe (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.us" tvg-country="TR" tvg-language="Turkish" tvg-logo="http://haber.sol.org.tr/sites/default/files/styles/newsimagestyle_615x410/public/20110201141238cnn_turk_logosu.png" group-title="News",CNN Türk (480p) [Not 24/7]
