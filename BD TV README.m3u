@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="News 24 HD" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/07/28/thumbnails/News24-ds.jpg" group-title="BDIX Server",News 24 HD
-https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+https://tv.kotha.im/News_24_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV National" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjaRMs4KsOgKKyAkvnePFgD-GcZrXPGFUXkHZisYbJxjPFqZ7ECDmwxHiOjOWPQTLybWs&usqp=CAU" group-title="BDIX Server",BTV National
 http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/99ZKMd4mWYM.png" group-title="BDIX Server",BTV World
@@ -106,8 +106,8 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Salaam_2017.jpg" group-title="India-pakistani",Zee Salaam
 http://techmaxpro-id01.in1.bitmana.io/live.php?c=Zee_Salaam&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="News",Dawn News
-http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCaxR-D8FjZ-2otbU0_Y2grg/live&quality=480p
+#EXTINF:-1 tvg-logo="" group-title="General",Saudi TV English 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChIhClGNG1JJcYoptiKQN6w
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News
 http://208.86.19.13:81/641.stream/index.m3u8
 #EXTINF:-1 tvg-id="" status="online",Sama Dubai (1080p)
