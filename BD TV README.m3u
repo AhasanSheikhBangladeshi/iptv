@@ -85,7 +85,7 @@ http://95.216.180.111:1935/live/46/chunklist_w593337899.m3u8?user=sgls540839&ses
 #EXTINF:0 tvg-logo="https://sawahhost.com/wp-content/uploads/2020/11/MBC.jpg" group-title="Arabic",MBC Channel 1
 https://shls-mbc1na-prod-dub.shahid.net:443/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_2.m3u8
 #EXTINF:-1 tvg-name="Imam Ali Najaf HD Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Imam_Ali_shrine_-_1_May_2015_19.jpg" group-title="Relegious",Imam Ali Najaf Live HD
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/936
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/283123
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
 http://184.104.200.40:7777/IRIBChannel1_HD/IRIBChannel1_High.m3u8?user=sgls540839&session=11d50929da1f04e839c546726aaf6b6c12dbc2fe621cab5223bee30a0dd60b0e7aefc8e5873b13bb79dad3d6b43fbae9&hlsid=HTTP_ID_10
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
@@ -157,9 +157,9 @@ https://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-name="Paigham TV.pk" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1362d353158267.592a758924700.jpg"group-title="Religious",Paigham TV
 http://162.250.201.58:8032/pk/paighamtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Al Majd TV" tvg-logo="https://cdn.dribbble.com/users/2577708/screenshots/11585878/media/d96e40ca882560b9aa3639df8f2361b9.jpg" group-title="Relegious",Almajd TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/963
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/225298
 #EXTINF:-1 tvg-name="Zad TV" tvg-logo="https://static10.tgstat.ru/channels/_0/bf/bfac19a765483d6c7a6200919a0aa76c.jpg"group-title="Relegious",Zad TV(96)
-http://ipc.proipciptv.com:8000/PZwDAJTDXA/K5aEPBLxTt/28956
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/21441
 #EXTINF:-1 tvg-id="BahrainTV.bh" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="General",Bahrain TV (720p)
 http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Iqra TV" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="Religious",BT- Iqra Tv
@@ -231,7 +231,7 @@ http://82.212.74.98:8000/live/7726.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id= "Karbala Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Relegious",Karbala Tv Channel
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/940
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/266526
 #EXTINF:-1,AR: PALESTINE+Quds-TODAY
 http://185.5.222.146:8081/live/habbq18/chunks.m3u8
 #EXTINF:-1 tvg-id= "Al Resalah Tv" tvg-logo="https://www.thematv.com/images/channels/al-resalah.png" group-title="Relegious",Al Resalah TV
@@ -243,9 +243,9 @@ https://video.yementdy.tv:443/hls/yementoday_src.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="none" group-title="General",Al Sharqiya (1080p)
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV1.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="",KTV 1 (1080p)
-http://www.elahmad.com/tv/m3u8/kuwait_tv_5.php?id=kwtv1&t=187042e78242fe74dab045c882c3cd96
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/3747
 #EXTINF:-1 tvg-id="KTV2.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg"  group-title="",KTV 2 (1080p)
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1018
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/3748
 #EXTINF:-1 tvg-id="KTVEthraa.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif"  group-title="",KTV Ethraa (1080p) 
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/11321
 #EXTINF:-1 tvg-id="KTVSport.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg"  group-title="Sports",KTV Sport (1080p)
