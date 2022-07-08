@@ -129,7 +129,7 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/NWljgKa.png",Eman Channel (576p)
 http://45.86.190.64:25461/FZarG1henw/5ehp5gpMht/34398?play_token=O3ewlRqRvM&token=TURYAhZYEAwSVwABXQZQWwxVBFBXWANXVFECU1AJUAQGB1RQBglUUwlGTxBLF0AGVA9uD1IbCQUFBlUAShsTFlMUbwoBEggUAVJaCgBQCkEZQEUPW1wRDAAFUAZeAVBXB14cQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
 #EXTINF:-1 tvg-id="AlMaaliTV.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="https://i.imgur.com/l7zer94.png" group-title="Arabic",Al Maali TV (1080p)
-https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8
+http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/970
 #EXTINF:0,Rotana Khalijia HD (1080p)[Saudi Arab]
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
 #EXTINF:-1 group-title="India-Pakistani" tvg-logo="https://imgur.com/dn923Mf.png",Zee Cinema HD
@@ -145,7 +145,7 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IPlus Tv" tvg-logo="https://logos.fandom.com/wiki/IPlus_TV?file=IPlus.jpeg" group-title="Religious",In- IPlus Tv
 https://5c75277727cd1.streamlock.net/iplustv/iplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Huda Tv" tvg-logo="http://2.bp.blogspot.com/-cSfP2QGNX28/VYv3Az7jdqI/AAAAAAAAARo/IfXNZKE0_Fk/s1600/Huda%2BLogo%2BSMALL.jpg" group-title="En-Religious",EN- Huda Tv
-https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/971
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxGY7_yuYYzSh1-EAbphivlU-EFuxe3bO6jQ&usqp=CAU" group-title="General",Yemen TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/yemen_tv
 #EXTINF:-1 tvg-id="OmanTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C7kfubs.png" group-title="General",Oman TV (1080p)
