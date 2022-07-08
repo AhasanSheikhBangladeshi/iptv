@@ -1,6 +1,7 @@
 #EXTINF:-1 group-title="PAK ENT" tvg-logo="https://i.imgur.com/DXn57cB.jpg",Samaa TV
 http://208.86.19.13:81/641.stream/index.m3u8
 #EXTM3U
+214/1281
 #EXTINF:-1,Ar: Almahriah HD
 http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1282
 #EXTINF:-1,Ar: Suhail TV
@@ -1361,42 +1362,6 @@ http://103.136.200.246:8082/SonyTVHD/index.m3u8
 http://89.187.162.109/SONYHD/mono.m3u8 
 #Sony Sab 
 http://103.136.200.246:8082/Sony_Sab/index.m3u8 
-#EXTINF:-1,Ar: Almahriah HD
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1282
-#EXTINF:-1,Ar: Suhail TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1283
-#EXTINF:-1,Ar: Sheba TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1284
-#EXTINF:-1,Ar: Yemen Shabab HD
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1285
-#EXTINF:-1,Ar: Yemen TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1286
-#EXTINF:-1,Ar: Yemen Education TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1287
-#EXTINF:-1,Ar: Yemen Documentary
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1288
-#EXTINF:-1,Ar: Yemen Today
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1289
-#EXTINF:-1,Ar: Aden TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1290
-#EXTINF:-1,Ar: Belqees
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1291
-#EXTINF:-1,Ar: AIC
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1292
-#EXTINF:-1,Ar: AL Shareyyah
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1293
-#EXTINF:-1,Ar: Hadramout TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1294
-#EXTINF:-1,Ar: HADRAMAUT
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1295
-#EXTINF:-1,Ar: AL Masirah TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1296
-#EXTINF:-1,Ar: Al Maserah Mubasher
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1297
-#EXTINF:-1,Ar: AL Ghad AL Mushreq
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1298
-#EXTINF:-1,Ar: AL Hawyah TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1299
 #Colors 
 http://103.136.200.246:8082/colorsindia/index.m3u8 
 #EXTINF:-1,ARYDigitalAsia HD
