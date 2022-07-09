@@ -1080,6 +1080,8 @@ http://77.69.131.177:5600/play/a09j/index.m3u8
 http://77.69.131.177:5600/play/a09n/index.m3u8
 #EXTINF:-1,IribSaharAzeri" tvg-logo="" group-title="Iran"Sahar Azeri
 http://212.18.115.193:3599/play/a00a/index.m3u8
+#EXTINF:-1,IribSaharAzeri" tvg-logo="" group-title="Iran"Sahar Kurd
+http://185.236.229.31:9981/play/a02n
 #EXTINF:-1 tvg-name="Al Iraqiya Kurdish TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imn-kurdish-iq.png" group-title="",Al Iraqiya Kurdish TV
 https://137840.global.ssl.fastly.net/6007ebae6349fb1839321e09/live_0f21e9d07bc411ec9940a1f551f87644/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Al Iraqiya Turkmen TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imn-turkmen-iq.png" group-title="",Al Iraqiya Turkmen TV
