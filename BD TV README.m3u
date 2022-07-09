@@ -277,7 +277,7 @@ https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="None", Saudi TV 1,Saudi TV 1
 https://edge.taghtia.com/sa/2.m3u8
 #EXTINF:-1 tvg-id="AlArabiya.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",Al Arabiya (1080p)
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1133
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1291
 #EXTINF:-1 tvg-id="AlEkhbariya.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NciF5rO.png" group-title="News",Al Ekhbariya (1080p) [Not 24/7]
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/295075
 #EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="none" group-title="None",Abu Dhabi Aloula (1080p)
