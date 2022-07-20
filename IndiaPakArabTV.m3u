@@ -92,6 +92,24 @@ http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/926
 http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/927
 #EXTINF:-1,Ar: Dijlah TV
 http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/928
+#EXTINF:-1,QA: Outdoor
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/295064
+#EXTINF:-1,QA: Qatar TV
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1227
+#EXTINF:-1,QA: Qatar TV 2
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/275952
+#EXTINF:-1,QA: Smash Arabia
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/284464
+#EXTINF:-1,QA: Star Movies
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/280254
+#EXTINF:-1,QA: Star World
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/225567
+#EXTINF:-1,SA: Al Ekhbaria
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/295075
+#EXTINF:-1,SA: Al Majd Holy Quran
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/17224
+#EXTINF:-1,SA: Al Majd Public Channel
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/225298
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
 http://77.69.131.177:5600/play/a09h/index.m3u8
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
