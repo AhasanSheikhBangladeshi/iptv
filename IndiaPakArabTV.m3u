@@ -136,7 +136,7 @@ http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/266320
 #EXTINF:-1,YE: Yemen TV
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/266322
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
-http://77.69.131.177:5600/play/a09h/index.m3u8
+https://cdnw.telewebion.com/tv1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
 http://185.236.229.31:9981/play/a02d
 #EXTINF:-1,Irib TV3" tvg-logo="" group-title="Iran"IRIB TV3
