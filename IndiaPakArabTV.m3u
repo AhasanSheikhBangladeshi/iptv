@@ -2,68 +2,7 @@
 http://208.86.19.13:81/641.stream/index.m3u8
 #EXTM3U
 
-#EXTINF:-1,Ar: Almahriah HD
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1282
-#EXTINF:-1,Ar: Suhail TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1283
-#EXTINF:-1,Ar: Sheba TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1284
-#EXTINF:-1,Ar: Yemen Shabab HD
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1285
-#EXTINF:-1,Ar: Yemen TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1286
-#EXTINF:-1,Ar: Yemen Education TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1287
-#EXTINF:-1,Ar: Yemen Documentary
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1288
-#EXTINF:-1,Ar: Yemen Today
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1289
-#EXTINF:-1,Ar: Aden TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1290
-#EXTINF:-1,Ar: Belqees
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1291
-#EXTINF:-1,YE: AlSaeedah
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/266327
-#EXTINF:-1,Ar: AIC
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1292
-#EXTINF:-1,Ar: AL Shareyyah
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1293
-#EXTINF:-1,Ar: Hadramout TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1294
-#EXTINF:-1,Ar: HADRAMAUT
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1295
-#EXTINF:-1,Ar: AL Masirah TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1296
-#EXTINF:-1,Ar: Al Maserah Mubasher
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1297
-#EXTINF:-1,Ar: AL Ghad AL Mushreq
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1298
-#EXTINF:-1,Ar: AL Hawyah TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1299
-#EXTINF:-1,Ar: Ifilm Arabic
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/902
-#EXTINF:-1,Ar: Al Jazeera Documentary HD
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/903
-#EXTINF:-1,Ar: AD Nat Geo HD
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/904
-#EXTINF:-1,Ar: Al Jazeera Documentary FHD (H.265)
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/905
-#EXTINF:-1,Ar: Iraq News FHD
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/907
-#EXTINF:-1,Ar: Al Forat
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/908
-#EXTINF:-1,Ar: Al Hurra HD
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/910
-#EXTINF:-1,Ar: AL Hurra Iraq HD
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/911
-#EXTINF:-1,Ar: AL Sharqiya HD
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/912
-#EXTINF:-1,Ar: Al Iraqia HD
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/914
-#EXTINF:-1,Ar: Al Iraqia News HD
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/915
-#EXTINF:-1,Ar: Al Iraqia Sport HD
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/916
+
 #EXTINF:-1,Ar: Iraqia Kurdish
 http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/917
 #EXTINF:-1,IQ: Iraqia Sport
@@ -136,13 +75,13 @@ http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/266320
 #EXTINF:-1,YE: Yemen TV
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/266322
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
-https://cdnw.telewebion.com/tv1/live/playlist.m3u8
+https://cdnw.telewebion.com:443/tv1/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
 http://185.236.229.31:9981/play/a02d
 #EXTINF:-1,Irib TV3" tvg-logo="" group-title="Iran"IRIB TV3
-http://77.69.131.177:5600/play/a09j/index.m3u8
+https://cdnw.telewebion.com:443/tv3/live/480p/index.m3u8
 #EXTINF:-1,Irib Quran tvg-logo="" group-title="Iran"IRIB Quran
-http://77.69.131.177:5600/play/a09n/index.m3u8
+https://cdnw.telewebion.com:443/quran/live/576p/index.m3u8
 #EXTINF:-1,IribSaharAzeri" tvg-logo="" group-title="Iran"Sahar Azeri
 http://212.18.115.193:3599/play/a00a/index.m3u8
 #EXTINF:-1,IribSaharAzeri" tvg-logo="" group-title="Iran"Sahar Kurd
