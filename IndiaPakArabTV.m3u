@@ -118,6 +118,12 @@ http://185.236.229.31:9981/play/a02d
 https://cdnw.telewebion.com:443/tv3/live/480p/index.m3u8
 #EXTINF:-1,Irib Quran tvg-logo="" group-title="Iran"IRIB Quran
 https://cdnw.telewebion.com:443/quran/live/576p/index.m3u8
+EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB Noor/Qom TV" tvg-logo=" ",IRIB Noor/Qom TV
+https://cdnw.telewebion.com:443/noor/live/576p/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB Kordestan TV" tvg-logo=" ",IRIB Kordestan TV
+https://cdnw.telewebion.com:443/kordestan/live/576p/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB Mahabad TV" tvg-logo=" ",IRIB Mahabad TV
+https://cdnw.telewebion.com:443/mahabad/live/576p/index.m3u8
 #EXTINF:-1,IribSaharAzeri" tvg-logo="" group-title="Iran"Sahar Azeri
 http://212.18.115.193:3599/play/a00a/index.m3u8
 #EXTINF:-1,IribSaharAzeri" tvg-logo="" group-title="Iran"Sahar Kurd
