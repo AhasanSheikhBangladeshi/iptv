@@ -1,5 +1,3 @@
-#EXTINF:-1 group-title="PAK ENT" tvg-logo="https://i.imgur.com/DXn57cB.jpg",Samaa TV
-http://208.86.19.13:81/641.stream/index.m3u8
 #EXTM3U
 #EXTINF:-1,##### |AR| YEMEN #####
 http://txm.flysat.live:80/152004513386895/152049585430977/204929
@@ -148,6 +146,59 @@ https://zainabia2.livebox.co.in/Zainabiachannel2hls/live.m3u8
 http://5k8q87xzdy4v-hls-live.wmncdn.net/hctv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="17" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Ali TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/alitv.jpg",Ali TV (1080)
 https://alitv.livebox.co.in/alitvhls/live.m3u8
+HUM TV FHD
+http://1tv1.net:8080/nazha2021/123456/158282
+#EXTINF:-1,PK | HUM TV HD
+http://1tv1.net:8080/nazha2021/123456/158283
+#EXTINF:-1,PK | HUM TV SD
+http://1tv1.net:8080/nazha2021/123456/158284
+#EXTINF:-1,PK | HUM SITARY
+http://1tv1.net:8080/nazha2021/123456/158285
+#EXTINF:-1,PK | Hum Masala TV
+http://1tv1.net:8080/nazha2021/123456/158286
+#EXTINF:-1,PK | HUM PASHTOO 1
+http://1tv1.net:8080/nazha2021/123456/158287
+#EXTINF:-1,PK | A SPORTS HD-1
+http://1tv1.net:8080/nazha2021/123456/158288
+#EXTINF:-1,PK | ARY DIGITAL FHD
+http://1tv1.net:8080/nazha2021/123456/158289
+#EXTINF:-1,PK | ARY DIGITAL SD
+http://1tv1.net:8080/nazha2021/123456/158290
+#EXTINF:-1,PK | ARY ZINDAGI
+http://1tv1.net:8080/nazha2021/123456/158291
+#EXTINF:-1,PK | GEO ENT FHD
+http://1tv1.net:8080/nazha2021/123456/158292
+#EXTINF:-1,PK | GEO ENTERTAINMENT SD
+http://1tv1.net:8080/nazha2021/123456/158293
+#EXTINF:-1,PK | GEO KAHANI FHD
+http://1tv1.net:8080/nazha2021/123456/158294
+#EXTINF:-1,PK | SAB ENTERTAINMENT HD
+http://1tv1.net:8080/nazha2021/123456/158295
+#EXTINF:-1,PK | LTN FAMILY
+http://1tv1.net:8080/nazha2021/123456/158296
+#EXTINF:-1,PK | BOL ENTERTAINMENT FHD
+http://1tv1.net:8080/nazha2021/123456/158297
+#EXTINF:-1,PK | A PLUS
+http://1tv1.net:8080/nazha2021/123456/158298
+#EXTINF:-1,PK | URDU 1 HD
+http://1tv1.net:8080/nazha2021/123456/158299
+#EXTINF:-1,PK | EXPRESS ENTERTAINMENT
+http://1tv1.net:8080/nazha2021/123456/158300
+#EXTINF:-1,PK | TV ONE
+http://1tv1.net:8080/nazha2021/123456/158301
+#EXTINF:-1,PK | AAJ ENTERTAINMENT
+http://1tv1.net:8080/nazha2021/123456/158302
+#EXTINF:-1,PK | APNA CHANNEL
+http://1tv1.net:8080/nazha2021/123456/158303
+#EXTINF:-1,PK | PTV HOME
+http://1tv1.net:8080/nazha2021/123456/158304
+#EXTINF:-1,PK | PTV WORLD
+http://1tv1.net:8080/nazha2021/123456/158305
+#EXTINF:-1,PK | PTV TELESCHOOL
+http://1tv1.net:8080/nazha2021/123456/158306
+#EXTINF:-1,PK | PLAY TV
+http://1tv1.net:8080/nazha2021/123456/158307
+#EXTINF:-1,PK | SEE TV HD
 #EXTINF:-1 group-title="HINDI ENT." tvg-logo="https://i.imgur.com/RxR0qdJ.png",COLORS
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
 #EXTINF:-1 group-title="HINDI ENT." tvg-logo="https://i.imgur.com/Kpd1qL1.png",Colors
