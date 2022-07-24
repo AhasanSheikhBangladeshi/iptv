@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1,##### |AR| YEMEN #####
 http://txm.flysat.live:80/152004513386895/152049585430977/204929
 #EXTINF:-1,|AR| YEMEN TV
@@ -67,6 +68,14 @@ http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/925
 http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/928
 #EXTINF:-1,KW: Alanwar TV
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/225970
+#EXTINF:-1,KTV 1 HD ARB
+http://megatv.me:5890/ali/12345/296
+#EXTINF:-1,KTV 2 ARB
+http://megatv.me:5890/ali/12345/297
+#EXTINF:-1,KTV Ethraa ARB
+http://megatv.me:5890/ali/12345/298
+#EXTINF:-1,KTV Khallik Bilbait ARB
+http://megatv.me:5890/ali/12345/300
 #EXTINF:-1,QA: Qatar TV
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1227
 #EXTINF:-1,QA: Qatar TV 2
