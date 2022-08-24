@@ -1,28 +1,20 @@
 #EXTM3U
-#EXTINF:-1,YEM.BELQEES
-http://1tv1.net:8080/nazha2021/123456/66528
-#EXTINF:-1,YEM.Sheba TV
-http://1tv1.net:8080/nazha2021/123456/66529
-#EXTINF:-1,YEM.Al Erth Alnabawi TV
-http://1tv1.net:8080/nazha2021/123456/14910
-#EXTINF:-1,YEM.ADEN TV
-http://1tv1.net:8080/nazha2021/123456/66527
-#EXTINF:-1,YEM.AL Hawyah TV
-http://1tv1.net:8080/nazha2021/123456/66530
-#EXTINF:-1,YEM.YEMEN
-http://1tv1.net:8080/nazha2021/123456/14864
-#EXTINF:-1,YEM.Al Masirah Mubasher TV
-http://1tv1.net:8080/nazha2021/123456/14790
-#EXTINF:-1,YEM.SHABAB
-http://1tv1.net:8080/nazha2021/123456/14865
-#EXTINF:-1,YEM.YEMEN TODAY
-http://1tv1.net:8080/nazha2021/123456/14866
-#EXTINF:-1,YEM.Al Saeedah TV
-http://1tv1.net:8080/nazha2021/123456/21172
-#EXTINF:-1,YEM.HADRAMOOT
-http://1tv1.net:8080/nazha2021/123456/21216
-#EXTINF:-1,YEM.SUHAIL TV
-http://1tv1.net:8080/nazha2021/123456/21181
+#EXTINF:-1,YEMEN TV
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/241628
+#EXTINF:-1,YEMEN TODAY
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/241630
+#EXTINF:-1,YEMEN SHABAB
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/241629
+#EXTINF:-1,BELQEES
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/241627
+#EXTINF:-1,ADEN TV
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/241626
+#EXTINF:-1,ALMAHRIAH
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/241625
+#EXTINF:-1,ALSAEEDAH
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/241624
+#EXTINF:-1,HADRAMOOT
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/241623
 #EXTINF:-1,LBN.Al Jadeed -7H HD
 http://1tv1.net:8080/nazha2021/123456/112485
 #EXTINF:-1,LBN.MTV Lebanon- 7H HD
