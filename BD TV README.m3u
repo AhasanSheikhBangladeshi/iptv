@@ -104,7 +104,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.urdu.news18.com/static-urdu/2020/03/Urdu1-1.png" group-title="India-pakistani",News18 Urdu
 https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Salaam_2017.jpg" group-title="India-pakistani",Zee Salaam
-http://103.139.171.5:5001/live.php?c=Zee_Salaam&q=800&e=junk.m3u8
+http://tv.googledrivelinks.com:8088/live.php?c=Zee_Salaam&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",Saudi TV English 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChIhClGNG1JJcYoptiKQN6w
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News
