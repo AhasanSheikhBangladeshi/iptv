@@ -86,404 +86,155 @@ https://zainabia2.livebox.co.in/Zainabiachannel2hls/live.m3u8
 http://5k8q87xzdy4v-hls-live.wmncdn.net/hctv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="17" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Ali TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/alitv.jpg",Ali TV (1080)
 https://alitv.livebox.co.in/alitvhls/live.m3u8
-#EXTINF:-1,PK : 92 NEWS-HD
-http://starshare.live:8080/live/usman007/usman007/141.ts
-#EXTINF:-1,PK : GNN NEWS-HD
-http://starshare.live:8080/live/usman007/usman007/139.ts
-#EXTINF:-1,PK : ARY NEWS-HD
-http://starshare.live:8080/live/usman007/usman007/143.ts
-#EXTINF:-1,PK : GEO NEWS-HD
-http://starshare.live:8080/live/usman007/usman007/129.ts
-#EXTINF:-1,PK : GEO TEZ-HD
-http://starshare.live:8080/live/usman007/usman007/128.ts
-#EXTINF:-1,PK : HUM NEWS-HD
-http://starshare.live:8080/live/usman007/usman007/103.ts
-#EXTINF:-1,UK: HUM NEWS
-http://starshare.live:8080/live/usman007/usman007/4087.ts
-#EXTINF:-1,PK : SAMAA NEWS
-http://starshare.live:8080/live/usman007/usman007/140.ts
-#EXTINF:-1,PK : BOL NEWS-HD
-http://starshare.live:8080/live/usman007/usman007/135.ts
-#EXTINF:-1,PK : DUNYA NEWS
-http://starshare.live:8080/live/usman007/usman007/134.ts
-#EXTINF:-1,PK : 24 NEWS HD
-http://starshare.live:8080/live/usman007/usman007/138.ts
-#EXTINF:-1,PK: 24 NEWS-HD
-http://starshare.live:8080/live/usman007/usman007/6626.ts
-#EXTINF:-1,PK : DAWN NEWS
-http://starshare.live:8080/live/usman007/usman007/133.ts
-#EXTINF:-1,PK: EXPRESS NEWS
-http://starshare.live:8080/live/usman007/usman007/58.ts
-#EXTINF:-1,PK: 7 News_HD
-http://starshare.live:8080/live/usman007/usman007/97.ts
-#EXTINF:-1,PK : PUBLIC NEWS
-http://starshare.live:8080/live/usman007/usman007/1384.ts
-#EXTINF:-1,PK: LAHORE NEWS-HD
-http://starshare.live:8080/live/usman007/usman007/861.ts
-#EXTINF:-1,PK: LAHORE RUNG
-http://starshare.live:8080/live/usman007/usman007/860.ts
-#EXTINF:-1,PK : AAJ NEWS
-http://starshare.live:8080/live/usman007/usman007/137.ts
-#EXTINF:-1,PK : NEWS ONE
-http://starshare.live:8080/live/usman007/usman007/142.ts
-#EXTINF:-1,PK : ABB TAK
-http://starshare.live:8080/live/usman007/usman007/136.ts
-#EXTINF:-1,PK: SACH NEWS
-http://starshare.live:8080/live/usman007/usman007/2011.ts
-#EXTINF:-1,PK: NEO NEWS 
-http://starshare.live:8080/live/usman007/usman007/2009.ts
-#EXTINF:-1,PK: GTV NETWORK
-http://starshare.live:8080/live/usman007/usman007/4058.ts
-#EXTINF:-1,PK : CAPITAL TV NEWS
-http://starshare.live:8080/live/usman007/usman007/132.ts
-#EXTINF:-1,PK: CITY 41 NEWS
-http://starshare.live:8080/live/usman007/usman007/866.ts
-#EXTINF:-1,PK: CITY 42 NEWS
-http://starshare.live:8080/live/usman007/usman007/865.ts
-#EXTINF:-1,PK : PTV News-HD
-http://starshare.live:8080/live/usman007/usman007/131.ts
-#EXTINF:-1,PK: TV TODAY
-http://starshare.live:8080/live/usman007/usman007/18165.ts
-#EXTINF:-1,PK: PNN NEWS
-http://starshare.live:8080/live/usman007/usman007/4076.ts
-#EXTINF:-1,PK : VENUS-HD
-http://starshare.live:8080/live/usman007/usman007/23961.ts
-#EXTINF:-1,PK : WASEB TV
-http://starshare.live:8080/live/usman007/usman007/113.ts
-#EXTINF:-1,PK: WASEEB TV
-http://starshare.live:8080/live/usman007/usman007/18163.ts
-#EXTINF:-1,PK: MASHRIQ TV
-http://starshare.live:8080/live/usman007/usman007/400.ts
-#EXTINF:-1,PK:METRO 1
-http://starshare.live:8080/live/usman007/usman007/1851.ts
-#EXTINF:-1,PK: KOHENOOR NEWS
-http://starshare.live:8080/live/usman007/usman007/18310.ts
-#EXTINF:-1,PK: ROZE NEWS
-http://starshare.live:8080/live/usman007/usman007/2010.ts
-#EXTINF:-1,PK: K21 NEWS
-http://starshare.live:8080/live/usman007/usman007/2012.ts
-#EXTINF:-1,PK : KHYBER NEWS
-http://starshare.live:8080/live/usman007/usman007/130.ts
-#EXTINF:-1,PK: AVT KHYBER NEWS
-http://starshare.live:8080/live/usman007/usman007/868.ts
-#EXTINF:-1,PK: SINDH NEWS
-http://starshare.live:8080/live/usman007/usman007/2505.ts
-#EXTINF:-1,PK: ROHI TV
-http://starshare.live:8080/live/usman007/usman007/18162.ts
-#EXTINF:-1,PK: HUM TV (FHD)
-http://starshare.live:8080/live/usman007/usman007/49584.ts
-#EXTINF:-1,PK: HUM TV-HD
-http://starshare.live:8080/live/usman007/usman007/122.ts
-#EXTINF:-1,PK : HUM TV EUROPE
-http://starshare.live:8080/live/usman007/usman007/121.ts
-#EXTINF:-1,PK : ARY ZINDAGI
-http://starshare.live:8080/live/usman007/usman007/123.ts
-#EXTINF:-1,PK: ARY DIGITAL-HD
-http://starshare.live:8080/live/usman007/usman007/124.ts
-#EXTINF:-1,PK: ARY DIGITAL (UK)
-http://starshare.live:8080/live/usman007/usman007/125.ts
-#EXTINF:-1,PK : GEO TV
-http://starshare.live:8080/live/usman007/usman007/119.ts
-#EXTINF:-1,PK: GEO KAHANI-HD
-http://starshare.live:8080/live/usman007/usman007/120.ts
-#EXTINF:-1,PK: BOL ENTERTAINMENT TV
-http://starshare.live:8080/live/usman007/usman007/99.ts
-#EXTINF:-1,PK : EXPRESS TV
-http://starshare.live:8080/live/usman007/usman007/118.ts
-#EXTINF:-1,PK: URDU 1
-http://starshare.live:8080/live/usman007/usman007/100.ts
-#EXTINF:-1,PK: SAB TV-HD
-http://starshare.live:8080/live/usman007/usman007/24116.ts
-#EXTINF:-1,PK: HUM SITARAY 
-http://starshare.live:8080/live/usman007/usman007/20460.ts
-#EXTINF:-1,PK: AAJ ENTERTAINMENT
-http://starshare.live:8080/live/usman007/usman007/105.ts
-#EXTINF:-1,PK: ATV
-http://starshare.live:8080/live/usman007/usman007/116.ts
-#EXTINF:-1,PK: TV ONE
-http://starshare.live:8080/live/usman007/usman007/117.ts
-#EXTINF:-1,PK : A PLUS
-http://starshare.live:8080/live/usman007/usman007/126.ts
-#EXTINF:-1,PK: APNA
-http://starshare.live:8080/live/usman007/usman007/869.ts
-#EXTINF:-1,PK: PTV HOME
-http://starshare.live:8080/live/usman007/usman007/110.ts
-#EXTINF:-1,PK: PTV GLOBAL
-http://starshare.live:8080/live/usman007/usman007/109.ts
-#EXTINF:-1,PK: TAG TV
-http://starshare.live:8080/live/usman007/usman007/96.ts
-#EXTINF:-1,PK: AWAZ ENTERTAINMENT TV
-http://starshare.live:8080/live/usman007/usman007/94.ts
-#EXTINF:-1,PK: PLAY TV
-http://starshare.live:8080/live/usman007/usman007/859.ts
-#EXTINF:-1,PK: HBO PAKISTAN
-http://starshare.live:8080/live/usman007/usman007/95.ts
-#EXTINF:-1,PK: FILMAZIA GLOBAl
-http://starshare.live:8080/live/usman007/usman007/863.ts
-#EXTINF:-1,PK : FILMAZIA
-http://starshare.live:8080/live/usman007/usman007/864.ts
-#EXTINF:-1,PK: RAAVI FILMS
-http://starshare.live:8080/live/usman007/usman007/7067.ts
-#EXTINF:-1,PK: SEE TV-HD
-http://starshare.live:8080/live/usman007/usman007/4057.ts
-#EXTINF:-1,PK: HUM TV MASALA
-http://starshare.live:8080/live/usman007/usman007/1919.ts
-#EXTINF:-1,PK: 8XM
-http://starshare.live:8080/live/usman007/usman007/112.ts
-#EXTINF:-1,PK: SUBRANG TV
-http://starshare.live:8080/live/usman007/usman007/1847.ts
-#EXTINF:-1,PK: ARY MUSIC
-http://starshare.live:8080/live/usman007/usman007/18309.ts
-#EXTINF:-1,PK: JALWA-HD
-http://starshare.live:8080/live/usman007/usman007/18311.ts
-#EXTINF:-1,PK: PAIGHAM URDU
-http://starshare.live:8080/live/usman007/usman007/23271.ts
-#EXTINF:-1,PK: PASHTO TV
-http://starshare.live:8080/live/usman007/usman007/108.ts
-#EXTINF:-1,PK: PAIGAM PUSHTO
-http://starshare.live:8080/live/usman007/usman007/1846.ts
-#EXTINF:-1,PK: PAIGHAM PASHTO
-http://starshare.live:8080/live/usman007/usman007/23272.ts
-#EXTINF:-1,PK: KHYBER TV
-http://starshare.live:8080/live/usman007/usman007/107.ts
-#EXTINF:-1,PK: KTN 
-http://starshare.live:8080/live/usman007/usman007/4227.ts
-#EXTINF:-1,PK: KAY2
-http://starshare.live:8080/live/usman007/usman007/5459.ts
-#EXTINF:-1,PK: SINDH TV
-http://starshare.live:8080/live/usman007/usman007/2498.ts
-#EXTINF:-1,PK: DISCOVER PAK-HD
-http://starshare.live:8080/live/usman007/usman007/19703.ts
-#EXTINF:-1,PK: PTV PRIME CANDA
-http://starshare.live:8080/live/usman007/usman007/90.ts
-#EXTINF:-1,PK: Z9TV DIGITAL CANDA-HD
-http://starshare.live:8080/live/usman007/usman007/106.ts
-#EXTINF:-1,PK: UK-44
-http://starshare.live:8080/live/usman007/usman007/9493.ts
-#EXTINF:-1,PK: KASHISH TV
-http://starshare.live:8080/live/usman007/usman007/2506.ts
-#EXTINF:-1,PK: AFGHAN TV
-http://starshare.live:8080/live/usman007/usman007/7068.ts
-#EXTINF:-1,PK: DHARTI TV
-http://starshare.live:8080/live/usman007/usman007/18164.ts
-#EXTINF:-1,PK: SAHAR TV
-http://starshare.live:8080/live/usman007/usman007/2014.ts
-#EXTINF:-1,PK: Islam Channel Urdu
-http://starshare.live:8080/live/usman007/usman007/92.ts
-#EXTINF:-1,PK : PTV WORLD
-http://starshare.live:8080/live/usman007/usman007/111.ts
-#EXTINF:-1,PK : MADANI CHANNEL
-http://starshare.live:8080/live/usman007/usman007/114.ts
-#EXTINF:-1,PK : PEACE TV URDU
-http://starshare.live:8080/live/usman007/usman007/115.ts
-#EXTINF:-1,PK: Ary Qtv
-http://starshare.live:8080/live/usman007/usman007/127.ts
-#EXTINF:-1,AR: IRAQ Al Anwar
-http://starshare.live:8080/live/usman007/usman007/23273.ts
-#EXTINF:-1,AR: IRAQ Al Basira
-http://starshare.live:8080/live/usman007/usman007/23274.ts
-#EXTINF:-1,AR: IRAQ Al Ghad HD
-http://starshare.live:8080/live/usman007/usman007/23275.ts
-#EXTINF:-1,AR: IRAQ Al kawthar TV
-http://starshare.live:8080/live/usman007/usman007/23276.ts
-#EXTINF:-1,AR: IRAQ Al MAWSLEYA
-http://starshare.live:8080/live/usman007/usman007/23277.ts
-#EXTINF:-1,AR: IRAQ Al taghier HD
-http://starshare.live:8080/live/usman007/usman007/23278.ts
-#EXTINF:-1,AR: IRAQ Al afidain tv
-http://starshare.live:8080/live/usman007/usman007/23279.ts
-#EXTINF:-1,AR: Iraq Al forat
-http://starshare.live:8080/live/usman007/usman007/23280.ts
-#EXTINF:-1,AR: Iraq Al ghadeer
-http://starshare.live:8080/live/usman007/usman007/23281.ts
-#EXTINF:-1,AR: Iraq Al hadath
-http://starshare.live:8080/live/usman007/usman007/23282.ts
-#EXTINF:-1,AR: Iraq Al hurra
-http://starshare.live:8080/live/usman007/usman007/23283.ts
-#EXTINF:-1,AR: Iraq Al ahd
-http://starshare.live:8080/live/usman007/usman007/23284.ts
-#EXTINF:-1,AR: Iraq AlRasheed
-http://starshare.live:8080/live/usman007/usman007/23285.ts
-#EXTINF:-1,AR: Iraq alsharqiyah
-http://starshare.live:8080/live/usman007/usman007/23286.ts
-#EXTINF:-1,AR: Iraq Al Sumaria
-http://starshare.live:8080/live/usman007/usman007/23287.ts
-#EXTINF:-1,AR: Iraq Anb
-http://starshare.live:8080/live/usman007/usman007/23288.ts
-#EXTINF:-1,AR: Iraq Dijlah
-http://starshare.live:8080/live/usman007/usman007/23289.ts
-#EXTINF:-1,AR: Iraq Future
-http://starshare.live:8080/live/usman007/usman007/23290.ts
-#EXTINF:-1,AR: Iraq Hona Baghdad
-http://starshare.live:8080/live/usman007/usman007/23291.ts
-#EXTINF:-1,AR: Iraq Karbala
-http://starshare.live:8080/live/usman007/usman007/23292.ts
-#EXTINF:-1,AR: iraqia news
-http://starshare.live:8080/live/usman007/usman007/23293.ts
-#EXTINF:-1,AR: Iraq Safaa
-http://starshare.live:8080/live/usman007/usman007/23294.ts
-#EXTINF:-1,AR: Iraqia
-http://starshare.live:8080/live/usman007/usman007/23295.ts
-#EXTINF:-1,AR: Iraq AL QAMAR
-http://starshare.live:8080/live/usman007/usman007/23296.ts
-#EXTINF:-1,AR: IRAQ AL ESHRAQ TV
-http://starshare.live:8080/live/usman007/usman007/23297.ts
-#EXTINF:-1,AR: IRAQAL AYAM TV
-http://starshare.live:8080/live/usman007/usman007/23298.ts
-#EXTINF:-1,AR: IRAQ ALBAEENAH
-http://starshare.live:8080/live/usman007/usman007/23299.ts
-#EXTINF:-1,AR: IRAQ AL TALEAA TV
-http://starshare.live:8080/live/usman007/usman007/23300.ts
-#EXTINF:-1,AR: MBC Iraq HD
-http://starshare.live:8080/live/usman007/usman007/23301.ts
-#EXTINF:-1,AR: Iraq MBC
-http://starshare.live:8080/live/usman007/usman007/23302.ts
-#EXTINF:-1,AR: Iraqia Sport
-http://starshare.live:8080/live/usman007/usman007/23303.ts
-#EXTINF:-1,ISLAMIC-Ressala-HD
-http://starshare.live:8080/live/usman007/usman007/29969.ts
-#EXTINF:-1,ISLAMIC-Iqraa
-http://starshare.live:8080/live/usman007/usman007/29970.ts
-#EXTINF:-1,KIDS-Majid-Kids-TV
-http://starshare.live:8080/live/usman007/usman007/29971.ts
-#EXTINF:-1,Al MAJD Quran
-http://starshare.live:8080/live/usman007/usman007/29973.ts
-#EXTINF:-1,Al MAJD Hadith
-http://starshare.live:8080/live/usman007/usman007/29974.ts
-#EXTINF:-1,Al MAJD Documentary
-http://starshare.live:8080/live/usman007/usman007/29975.ts
-#EXTINF:-1,Al MAJD Masa
-http://starshare.live:8080/live/usman007/usman007/29976.ts
-#EXTINF:-1,Al MAJD Taghareed
-http://starshare.live:8080/live/usman007/usman007/29977.ts
-#EXTINF:-1,Al MAJD Rawda
-http://starshare.live:8080/live/usman007/usman007/29978.ts
-#EXTINF:-1,ISLAMIC-SAUDI-Ch-for-Sunnah-HD
-http://starshare.live:8080/live/usman007/usman007/29980.ts
-#EXTINF:-1,Al MAJD Scientific
-http://starshare.live:8080/live/usman007/usman007/29982.ts
-#EXTINF:-1,KW | FUNOON HD
-http://starshare.live:8080/live/usman007/usman007/29984.ts
-#EXTINF:-1,KW | AL MAJLIS
-http://starshare.live:8080/live/usman007/usman007/29985.ts
-#EXTINF:-1,KW | Al Maaref TV
-http://starshare.live:8080/live/usman007/usman007/29986.ts
-#EXTINF:-1,KW | Alrai TV
-http://starshare.live:8080/live/usman007/usman007/29987.ts
-#EXTINF:-1,KW | KTV Sport Plus
-http://starshare.live:8080/live/usman007/usman007/29988.ts
-#EXTINF:-1,KW | Al3dala TV HD
-http://starshare.live:8080/live/usman007/usman007/29989.ts
-#EXTINF:-1,KW | Scope TV
-http://starshare.live:8080/live/usman007/usman007/29992.ts
-#EXTINF:-1,KW | KUWAIT TV 2
-http://starshare.live:8080/live/usman007/usman007/29993.ts
-#EXTINF:-1,KW | KUWAIT TV ARABI HD
-http://starshare.live:8080/live/usman007/usman007/29994.ts
-#EXTINF:-1,KW | Ch4Teen
-http://starshare.live:8080/live/usman007/usman007/29995.ts
-#EXTINF:-1,KW | KTV Sport
-http://starshare.live:8080/live/usman007/usman007/29996.ts
-#EXTINF:-1,KW | SHAHID HD
-http://starshare.live:8080/live/usman007/usman007/29997.ts
-#EXTINF:-1,AR: ZAMALEK SPORTS
-http://starshare.live:8080/live/usman007/usman007/30104.ts
-#EXTINF:-1,AR: Bahrain_Sport_1_HD
-http://starshare.live:8080/live/usman007/usman007/30105.ts
-#EXTINF:-1,AR: Bahrain_Sport_2_HD
-http://starshare.live:8080/live/usman007/usman007/30106.ts
-#EXTINF:-1,AR: IRAQIA SPORT HD
-http://starshare.live:8080/live/usman007/usman007/30107.ts
-#EXTINF:-1,AR: ALKASS ONE HD
-http://starshare.live:8080/live/usman007/usman007/30109.ts
-#EXTINF:-1,AR: ALKASS TWO HD
-http://starshare.live:8080/live/usman007/usman007/30110.ts
-#EXTINF:-1,AR: ALKASS FOUR HD
-http://starshare.live:8080/live/usman007/usman007/30111.ts
-#EXTINF:-1,AR: Asharq News 
-http://starshare.live:8080/live/usman007/usman007/30112.ts
-#EXTINF:-1,AR: AL JAZERRA MUBASHER 2
-http://starshare.live:8080/live/usman007/usman007/30113.ts
-#EXTINF:-1,AR: Sky News Arabia HD
-http://starshare.live:8080/live/usman007/usman007/30114.ts
-#EXTINF:-1,AR: AL MAYADEEN TV
-http://starshare.live:8080/live/usman007/usman007/30115.ts
-#EXTINF:-1,AR: Dijlah TV
-http://starshare.live:8080/live/usman007/usman007/30116.ts
-#EXTINF:-1,AR: AL SHARQIYA NEWS HD
-http://starshare.live:8080/live/usman007/usman007/30117.ts
-#EXTINF:-1,AR: DW Arabia HD
-http://starshare.live:8080/live/usman007/usman007/30119.ts
-#EXTINF:-1,MEKAMELEEN
-http://starshare.live:8080/live/usman007/usman007/30120.ts
-#EXTINF:-1,Nile sports
-http://starshare.live:8080/live/usman007/usman007/30121.ts
-#EXTINF:-1,Nile Comedy SD
-http://starshare.live:8080/live/usman007/usman007/30122.ts
-#EXTINF:-1,Nile Culture SD
-http://starshare.live:8080/live/usman007/usman007/30123.ts
-#EXTINF:-1,Nile Drama SD
-http://starshare.live:8080/live/usman007/usman007/30124.ts
-#EXTINF:-1,Nile_Family_SD
-http://starshare.live:8080/live/usman007/usman007/30125.ts
-#EXTINF:-1,Nile_Life_SD
-http://starshare.live:8080/live/usman007/usman007/30126.ts
-#EXTINF:-1,Nile_Cinema_SD
-http://starshare.live:8080/live/usman007/usman007/30127.ts
-#EXTINF:-1,Misr_ELBald
-http://starshare.live:8080/live/usman007/usman007/30128.ts
-#EXTINF:-1,Panorama_Film_SD
-http://starshare.live:8080/live/usman007/usman007/30129.ts
-#EXTINF:-1,AlHayat_HD
-http://starshare.live:8080/live/usman007/usman007/30131.ts
-#EXTINF:-1,Al-Nahar_Drama_SD
-http://starshare.live:8080/live/usman007/usman007/30132.ts
-#EXTINF:-1,Al-Nahar_One_SD
-http://starshare.live:8080/live/usman007/usman007/30133.ts
-#EXTINF:-1,M CLASSIC
-http://starshare.live:8080/live/usman007/usman007/30134.ts
-#EXTINF:-1,AL SA3A MASRA7
-http://starshare.live:8080/live/usman007/usman007/30135.ts
-#EXTINF:-1,CAIRO CINEMA
-http://starshare.live:8080/live/usman007/usman007/30137.ts
-#EXTINF:-1,CINEMA_1
-http://starshare.live:8080/live/usman007/usman007/30138.ts
-#EXTINF:-1,CINEMA_2
-http://starshare.live:8080/live/usman007/usman007/30139.ts
-#EXTINF:-1,FAMILY DRAMA
-http://starshare.live:8080/live/usman007/usman007/30140.ts
-#EXTINF:-1,APPLE_CINEMA
-http://starshare.live:8080/live/usman007/usman007/30141.ts
-#EXTINF:-1,APPLE_HEKAYAT
-http://starshare.live:8080/live/usman007/usman007/30142.ts
-#EXTINF:-1,APPLE_MOSALSALAT
-http://starshare.live:8080/live/usman007/usman007/30143.ts
-#EXTINF:-1,APPLE_TODAY
-http://starshare.live:8080/live/usman007/usman007/30144.ts
-#EXTINF:-1,CINEMA PRO
-http://starshare.live:8080/live/usman007/usman007/30145.ts
-#EXTINF:-1,Sada_ElBalad_Drama_SD
-http://starshare.live:8080/live/usman007/usman007/30146.ts
-#EXTINF:-1,Sada_El_Balad+_2_SD
-http://starshare.live:8080/live/usman007/usman007/30147.ts
-#EXTINF:-1,TOKTOK AFLAM
-http://starshare.live:8080/live/usman007/usman007/30149.ts
-#EXTINF:-1,MOSALSALAT TUBE
-http://starshare.live:8080/live/usman007/usman007/30150.ts
-#EXTINF:-1,El Sharq
-http://starshare.live:8080/live/usman007/usman007/30154.ts
-#EXTINF:-1,HAREEM_ELSULTAN
-http://starshare.live:8080/live/usman007/usman007/30156.ts
-#EXTINF:-1,ifilam arabic
-http://starshare.live:8080/live/usman007/usman007/30157.ts
-#EXTINF:-1,ELMOLED
-http://starshare.live:8080/live/usman007/usman007/30158.ts
-#EXTINF:-1,Mix
-http://starshare.live:8080/live/usman007/usman007/30159.ts
-#EXTINF:-1,SBC_HD
-http://starshare.live:8080/live/usman007/usman007/30161.ts
-#EXTINF:-1,Drama Al Badawya
-http://starshare.live:8080/live/usman007/usman007/30162.ts
-#EXTINF:-1,AR: SAUDI QURAN TV
-http://starshare.live:8080/live/usman007/usman007/30163.ts
+usman007/usman007/30114.ts
 
+EXTINF:-1,PK: HUM MASALA
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/19324
+#EXTINF:-1,PK: TV ONE
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/19321
+#EXTINF:-1,PK: FILMWORLD
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/19323
+#EXTINF:-1,PK: AAJ ENTERTAINMENT
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/19322
+#EXTINF:-1,PK: EXPRESS ENTERTAINMENT
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/19320
+#EXTINF:-1,PK: GEO TEZZ
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/19318
+#EXTINF:-1,PK: HUM TV HD
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/19319
+#EXTINF:-1,PK: GNN NEWS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/19317
+#EXTINF:-1,PK: 92 NEWS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/19316
+#EXTINF:-1,PK: SAMAA TV
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/19315
+#EXTINF:-1,PK: GEO NEWS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/19314
+#EXTINF:-1,PK: EXPRESS NEWS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/5188
+#EXTINF:-1,PK: ARY DIGITAL
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/5169
+#EXTINF:-1,PK: ARY NEWS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/5168
+#EXTINF:-1,PK: ARY ZINDAGI
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/5166
+#EXTINF:-1,PK: Dawn News
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/5183
+#EXTINF:-1,PK: GEO Enterterment
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/1380
+#EXTINF:-1,PK: PTV Sports
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/27302
+#EXTINF:-1,PK: BOL NEWS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/38460
+#EXTINF:-1,PK: BOL ENTERTAINMENT
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/38461
+#EXTINF:-1,CNA Live
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/62835
+#EXTINF:-1,PK: ANIMAL PLANET
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/62851
+#EXTINF:-1,PK: CARTOON NETWORK
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/62852
+#EXTINF:-1,PK: ARY MUSIK
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/62853
+#EXTINF:-1,PK: JALWA MUSIC
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/62854
+#EXTINF:-1,PK: OXYGEN MUSIC
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/62855
+#EXTINF:-1,PK: 8XM MUSIC
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/62856
+#EXTINF:-1,PK: TEN SPORTS PK
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/62857
+#EXTINF:-1,PK: FILMAZIA
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/62858
+#EXTINF:-1,PK: FILMAX
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/62859
+#EXTINF:-1,PK: FILMWORLD
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/62860
+#EXTINF:-1,PK: RAAVI TV
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/62861
+#EXTINF:-1,PK: ARUJ TV
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/62862
+#EXTINF:-1,PK: WASEB TV
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/62863
+#EXTINF:-1,PK: KHYBER TV
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/62864
+#EXTINF:-1,PK: DISCOVER PAKISTAN
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/62865
+#EXTINF:-1,PK: GEO SUPER
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/23256
+#EXTINF:-1,PK: Hum Europe
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/170889
+#EXTINF:-1,PK: Peace TV Urdu
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/171339
+#EXTINF:-1,PK: PTV Sports Backup
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/172920
+#EXTINF:-1,PK: 24 NEWS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175414
+#EXTINF:-1,PK: NEWS ONE
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175415
+#EXTINF:-1,PK: NEO NEWS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175416
+#EXTINF:-1,PK: PUBLIC NEWS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175417
+#EXTINF:-1,PK: CAPITAL NEWS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175418
+#EXTINF:-1,PK: ABB TAKK NEWS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175419
+#EXTINF:-1,PK: CITY 41 NEWS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175420
+#EXTINF:-1,PK: CITY 42 NEWS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175421
+#EXTINF:-1,PK: Rohi TV
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175422
+#EXTINF:-1,PK: LAHORE NEWS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175423
+#EXTINF:-1,PK: LAHORE RANG
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175424
+#EXTINF:-1,PK: JK News
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175425
+#EXTINF:-1,PK: K21 NEWS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175426
+#EXTINF:-1,PK: CHANNEL 5
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175427
+#EXTINF:-1,PK: DIN NEWS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175428
+#EXTINF:-1,PK: KHYBER NEWS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175429
+#EXTINF:-1,PK: SUCH TV
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175430
+#EXTINF:-1,PK: GEO KAHANI
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175431
+#EXTINF:-1,PK: ATV
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175432
+#EXTINF:-1,PK: APLUS
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175433
+#EXTINF:-1,PK: APNA CHANNEL
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175434
+#EXTINF:-1,PK: PLAY TV
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175435
+#EXTINF:-1,PK: SEE TV HD
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175436
+#EXTINF:-1,PK: PAKUS TV
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175437
+#EXTINF:-1,PK: SAB RANG (USA)
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175438
+#EXTINF:-1,PK: HBO PAK
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175439
+#EXTINF:-1,PK: FILMAX
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175440
+#EXTINF:-1,PK: RAAVI TV
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175441
+#EXTINF:-1,PK: APNA STAGE SHOW
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175442
+#EXTINF:-1,PK: DHARTI TV
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175443
+#EXTINF:-1,PK: AWAZ TV
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175444
+#EXTINF:-1,PK: ASIA TV HD
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175445
+#EXTINF:-1,PK: NTV HOUSTON
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175446
+#EXTINF:-1,PK: ARY ZAUQ
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175447
+#EXTINF:-1,PK: HUM MASALA EUROPE
+http://stop.next-code.xyz:2052/barshad/kjgfd6661ah/175448
