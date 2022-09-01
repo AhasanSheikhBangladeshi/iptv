@@ -23,60 +23,7 @@ http://stariptv.org:8080/hamza2022/123456/21216
 #EXTINF:-1,YEM.SUHAIL TV
 http://stariptv.org:8080/hamza2022/123456/21181
 #EXTINF:-1,Ar: Iraqia Kurdish
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/917
-#EXTINF:-1,IQ: Iraqia Sport
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/283134
-#EXTINF:-1,IQ: Iraqia Syriac
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/270565
-#EXTINF:-1,IQ: Iraqia Turkmen
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/266509
-#EXTINF:-1,IQ: Karbala Satellite Channel
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/266526
-#EXTINF:-1,AR: Alnada TV
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/11334
-#EXTINF:-1,IQ: Marjaeyat 2
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/283132
-#EXTINF:-1,Ar: Al Shabab Sport HD
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/918
-#EXTINF:-1,Ar: Al Aqila TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/919
-#EXTINF:-1,Ar: Alsharqiya News
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/920
-#EXTINF:-1,Ar: Hona Baghdad
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/923
-#EXTINF:-1,Ar: Al Rafidain TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/924
-#EXTINF:-1,Ar: Afaq TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/925
-#EXTINF:-1,Ar: Dijlah TV
-http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/928
-#EXTINF:-1,KW: Alanwar TV
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/225970
-#EXTINF:-1,KTV 1 HD ARB
-http://megatv.me:5890/ali/12345/296
-#EXTINF:-1,KTV 2 ARB
-http://megatv.me:5890/ali/12345/297
-#EXTINF:-1,KTV Ethraa ARB
-http://megatv.me:5890/ali/12345/298
-#EXTINF:-1,KTV Khallik Bilbait ARB
-http://megatv.me:5890/ali/12345/300
-#EXTINF:-1,QA: Qatar TV
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1227
-#EXTINF:-1,QA: Qatar TV 2
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/275952
-#EXTINF:-1,QA: Smash Arabia
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/284464
-#EXTINF:-1,QA: Star Movies
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/280254
-#EXTINF:-1,QA: Star World
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/225567
-#EXTINF:-1,SA: Al Ekhbaria
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/295075
-#EXTINF:-1,SA: Al Majd Holy Quran
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/17224
-#EXTINF:-1,SA: Al Majd Public Channel
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/225298
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/11191
+htt
 #EXTINF:-1,YE: ADEN TV
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/266324
 #EXTINF:-1,YE: Alghad Almushreq
@@ -139,368 +86,404 @@ https://zainabia2.livebox.co.in/Zainabiachannel2hls/live.m3u8
 http://5k8q87xzdy4v-hls-live.wmncdn.net/hctv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="17" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Ali TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/alitv.jpg",Ali TV (1080)
 https://alitv.livebox.co.in/alitvhls/live.m3u8
+#EXTINF:-1,PK : 92 NEWS-HD
+http://starshare.live:8080/live/usman007/usman007/141.ts
+#EXTINF:-1,PK : GNN NEWS-HD
+http://starshare.live:8080/live/usman007/usman007/139.ts
+#EXTINF:-1,PK : ARY NEWS-HD
+http://starshare.live:8080/live/usman007/usman007/143.ts
+#EXTINF:-1,PK : GEO NEWS-HD
+http://starshare.live:8080/live/usman007/usman007/129.ts
+#EXTINF:-1,PK : GEO TEZ-HD
+http://starshare.live:8080/live/usman007/usman007/128.ts
+#EXTINF:-1,PK : HUM NEWS-HD
+http://starshare.live:8080/live/usman007/usman007/103.ts
+#EXTINF:-1,UK: HUM NEWS
+http://starshare.live:8080/live/usman007/usman007/4087.ts
+#EXTINF:-1,PK : SAMAA NEWS
+http://starshare.live:8080/live/usman007/usman007/140.ts
+#EXTINF:-1,PK : BOL NEWS-HD
+http://starshare.live:8080/live/usman007/usman007/135.ts
+#EXTINF:-1,PK : DUNYA NEWS
+http://starshare.live:8080/live/usman007/usman007/134.ts
+#EXTINF:-1,PK : 24 NEWS HD
+http://starshare.live:8080/live/usman007/usman007/138.ts
+#EXTINF:-1,PK: 24 NEWS-HD
+http://starshare.live:8080/live/usman007/usman007/6626.ts
+#EXTINF:-1,PK : DAWN NEWS
+http://starshare.live:8080/live/usman007/usman007/133.ts
+#EXTINF:-1,PK: EXPRESS NEWS
+http://starshare.live:8080/live/usman007/usman007/58.ts
+#EXTINF:-1,PK: 7 News_HD
+http://starshare.live:8080/live/usman007/usman007/97.ts
+#EXTINF:-1,PK : PUBLIC NEWS
+http://starshare.live:8080/live/usman007/usman007/1384.ts
+#EXTINF:-1,PK: LAHORE NEWS-HD
+http://starshare.live:8080/live/usman007/usman007/861.ts
+#EXTINF:-1,PK: LAHORE RUNG
+http://starshare.live:8080/live/usman007/usman007/860.ts
+#EXTINF:-1,PK : AAJ NEWS
+http://starshare.live:8080/live/usman007/usman007/137.ts
+#EXTINF:-1,PK : NEWS ONE
+http://starshare.live:8080/live/usman007/usman007/142.ts
+#EXTINF:-1,PK : ABB TAK
+http://starshare.live:8080/live/usman007/usman007/136.ts
+#EXTINF:-1,PK: SACH NEWS
+http://starshare.live:8080/live/usman007/usman007/2011.ts
+#EXTINF:-1,PK: NEO NEWS 
+http://starshare.live:8080/live/usman007/usman007/2009.ts
+#EXTINF:-1,PK: GTV NETWORK
+http://starshare.live:8080/live/usman007/usman007/4058.ts
+#EXTINF:-1,PK : CAPITAL TV NEWS
+http://starshare.live:8080/live/usman007/usman007/132.ts
+#EXTINF:-1,PK: CITY 41 NEWS
+http://starshare.live:8080/live/usman007/usman007/866.ts
+#EXTINF:-1,PK: CITY 42 NEWS
+http://starshare.live:8080/live/usman007/usman007/865.ts
+#EXTINF:-1,PK : PTV News-HD
+http://starshare.live:8080/live/usman007/usman007/131.ts
+#EXTINF:-1,PK: TV TODAY
+http://starshare.live:8080/live/usman007/usman007/18165.ts
+#EXTINF:-1,PK: PNN NEWS
+http://starshare.live:8080/live/usman007/usman007/4076.ts
+#EXTINF:-1,PK : VENUS-HD
+http://starshare.live:8080/live/usman007/usman007/23961.ts
+#EXTINF:-1,PK : WASEB TV
+http://starshare.live:8080/live/usman007/usman007/113.ts
+#EXTINF:-1,PK: WASEEB TV
+http://starshare.live:8080/live/usman007/usman007/18163.ts
+#EXTINF:-1,PK: MASHRIQ TV
+http://starshare.live:8080/live/usman007/usman007/400.ts
+#EXTINF:-1,PK:METRO 1
+http://starshare.live:8080/live/usman007/usman007/1851.ts
+#EXTINF:-1,PK: KOHENOOR NEWS
+http://starshare.live:8080/live/usman007/usman007/18310.ts
+#EXTINF:-1,PK: ROZE NEWS
+http://starshare.live:8080/live/usman007/usman007/2010.ts
+#EXTINF:-1,PK: K21 NEWS
+http://starshare.live:8080/live/usman007/usman007/2012.ts
+#EXTINF:-1,PK : KHYBER NEWS
+http://starshare.live:8080/live/usman007/usman007/130.ts
+#EXTINF:-1,PK: AVT KHYBER NEWS
+http://starshare.live:8080/live/usman007/usman007/868.ts
+#EXTINF:-1,PK: SINDH NEWS
+http://starshare.live:8080/live/usman007/usman007/2505.ts
+#EXTINF:-1,PK: ROHI TV
+http://starshare.live:8080/live/usman007/usman007/18162.ts
+#EXTINF:-1,PK: HUM TV (FHD)
+http://starshare.live:8080/live/usman007/usman007/49584.ts
+#EXTINF:-1,PK: HUM TV-HD
+http://starshare.live:8080/live/usman007/usman007/122.ts
+#EXTINF:-1,PK : HUM TV EUROPE
+http://starshare.live:8080/live/usman007/usman007/121.ts
+#EXTINF:-1,PK : ARY ZINDAGI
+http://starshare.live:8080/live/usman007/usman007/123.ts
+#EXTINF:-1,PK: ARY DIGITAL-HD
+http://starshare.live:8080/live/usman007/usman007/124.ts
+#EXTINF:-1,PK: ARY DIGITAL (UK)
+http://starshare.live:8080/live/usman007/usman007/125.ts
+#EXTINF:-1,PK : GEO TV
+http://starshare.live:8080/live/usman007/usman007/119.ts
+#EXTINF:-1,PK: GEO KAHANI-HD
+http://starshare.live:8080/live/usman007/usman007/120.ts
+#EXTINF:-1,PK: BOL ENTERTAINMENT TV
+http://starshare.live:8080/live/usman007/usman007/99.ts
+#EXTINF:-1,PK : EXPRESS TV
+http://starshare.live:8080/live/usman007/usman007/118.ts
+#EXTINF:-1,PK: URDU 1
+http://starshare.live:8080/live/usman007/usman007/100.ts
+#EXTINF:-1,PK: SAB TV-HD
+http://starshare.live:8080/live/usman007/usman007/24116.ts
+#EXTINF:-1,PK: HUM SITARAY 
+http://starshare.live:8080/live/usman007/usman007/20460.ts
+#EXTINF:-1,PK: AAJ ENTERTAINMENT
+http://starshare.live:8080/live/usman007/usman007/105.ts
+#EXTINF:-1,PK: ATV
+http://starshare.live:8080/live/usman007/usman007/116.ts
+#EXTINF:-1,PK: TV ONE
+http://starshare.live:8080/live/usman007/usman007/117.ts
+#EXTINF:-1,PK : A PLUS
+http://starshare.live:8080/live/usman007/usman007/126.ts
+#EXTINF:-1,PK: APNA
+http://starshare.live:8080/live/usman007/usman007/869.ts
+#EXTINF:-1,PK: PTV HOME
+http://starshare.live:8080/live/usman007/usman007/110.ts
+#EXTINF:-1,PK: PTV GLOBAL
+http://starshare.live:8080/live/usman007/usman007/109.ts
+#EXTINF:-1,PK: TAG TV
+http://starshare.live:8080/live/usman007/usman007/96.ts
+#EXTINF:-1,PK: AWAZ ENTERTAINMENT TV
+http://starshare.live:8080/live/usman007/usman007/94.ts
+#EXTINF:-1,PK: PLAY TV
+http://starshare.live:8080/live/usman007/usman007/859.ts
+#EXTINF:-1,PK: HBO PAKISTAN
+http://starshare.live:8080/live/usman007/usman007/95.ts
+#EXTINF:-1,PK: FILMAZIA GLOBAl
+http://starshare.live:8080/live/usman007/usman007/863.ts
+#EXTINF:-1,PK : FILMAZIA
+http://starshare.live:8080/live/usman007/usman007/864.ts
+#EXTINF:-1,PK: RAAVI FILMS
+http://starshare.live:8080/live/usman007/usman007/7067.ts
+#EXTINF:-1,PK: SEE TV-HD
+http://starshare.live:8080/live/usman007/usman007/4057.ts
+#EXTINF:-1,PK: HUM TV MASALA
+http://starshare.live:8080/live/usman007/usman007/1919.ts
+#EXTINF:-1,PK: 8XM
+http://starshare.live:8080/live/usman007/usman007/112.ts
+#EXTINF:-1,PK: SUBRANG TV
+http://starshare.live:8080/live/usman007/usman007/1847.ts
+#EXTINF:-1,PK: ARY MUSIC
+http://starshare.live:8080/live/usman007/usman007/18309.ts
+#EXTINF:-1,PK: JALWA-HD
+http://starshare.live:8080/live/usman007/usman007/18311.ts
+#EXTINF:-1,PK: PAIGHAM URDU
+http://starshare.live:8080/live/usman007/usman007/23271.ts
+#EXTINF:-1,PK: PASHTO TV
+http://starshare.live:8080/live/usman007/usman007/108.ts
+#EXTINF:-1,PK: PAIGAM PUSHTO
+http://starshare.live:8080/live/usman007/usman007/1846.ts
+#EXTINF:-1,PK: PAIGHAM PASHTO
+http://starshare.live:8080/live/usman007/usman007/23272.ts
+#EXTINF:-1,PK: KHYBER TV
+http://starshare.live:8080/live/usman007/usman007/107.ts
+#EXTINF:-1,PK: KTN 
+http://starshare.live:8080/live/usman007/usman007/4227.ts
+#EXTINF:-1,PK: KAY2
+http://starshare.live:8080/live/usman007/usman007/5459.ts
+#EXTINF:-1,PK: SINDH TV
+http://starshare.live:8080/live/usman007/usman007/2498.ts
+#EXTINF:-1,PK: DISCOVER PAK-HD
+http://starshare.live:8080/live/usman007/usman007/19703.ts
+#EXTINF:-1,PK: PTV PRIME CANDA
+http://starshare.live:8080/live/usman007/usman007/90.ts
+#EXTINF:-1,PK: Z9TV DIGITAL CANDA-HD
+http://starshare.live:8080/live/usman007/usman007/106.ts
+#EXTINF:-1,PK: UK-44
+http://starshare.live:8080/live/usman007/usman007/9493.ts
+#EXTINF:-1,PK: KASHISH TV
+http://starshare.live:8080/live/usman007/usman007/2506.ts
+#EXTINF:-1,PK: AFGHAN TV
+http://starshare.live:8080/live/usman007/usman007/7068.ts
+#EXTINF:-1,PK: DHARTI TV
+http://starshare.live:8080/live/usman007/usman007/18164.ts
+#EXTINF:-1,PK: SAHAR TV
+http://starshare.live:8080/live/usman007/usman007/2014.ts
+#EXTINF:-1,PK: Islam Channel Urdu
+http://starshare.live:8080/live/usman007/usman007/92.ts
+#EXTINF:-1,PK : PTV WORLD
+http://starshare.live:8080/live/usman007/usman007/111.ts
+#EXTINF:-1,PK : MADANI CHANNEL
+http://starshare.live:8080/live/usman007/usman007/114.ts
+#EXTINF:-1,PK : PEACE TV URDU
+http://starshare.live:8080/live/usman007/usman007/115.ts
+#EXTINF:-1,PK: Ary Qtv
+http://starshare.live:8080/live/usman007/usman007/127.ts
+#EXTINF:-1,AR: IRAQ Al Anwar
+http://starshare.live:8080/live/usman007/usman007/23273.ts
+#EXTINF:-1,AR: IRAQ Al Basira
+http://starshare.live:8080/live/usman007/usman007/23274.ts
+#EXTINF:-1,AR: IRAQ Al Ghad HD
+http://starshare.live:8080/live/usman007/usman007/23275.ts
+#EXTINF:-1,AR: IRAQ Al kawthar TV
+http://starshare.live:8080/live/usman007/usman007/23276.ts
+#EXTINF:-1,AR: IRAQ Al MAWSLEYA
+http://starshare.live:8080/live/usman007/usman007/23277.ts
+#EXTINF:-1,AR: IRAQ Al taghier HD
+http://starshare.live:8080/live/usman007/usman007/23278.ts
+#EXTINF:-1,AR: IRAQ Al afidain tv
+http://starshare.live:8080/live/usman007/usman007/23279.ts
+#EXTINF:-1,AR: Iraq Al forat
+http://starshare.live:8080/live/usman007/usman007/23280.ts
+#EXTINF:-1,AR: Iraq Al ghadeer
+http://starshare.live:8080/live/usman007/usman007/23281.ts
+#EXTINF:-1,AR: Iraq Al hadath
+http://starshare.live:8080/live/usman007/usman007/23282.ts
+#EXTINF:-1,AR: Iraq Al hurra
+http://starshare.live:8080/live/usman007/usman007/23283.ts
+#EXTINF:-1,AR: Iraq Al ahd
+http://starshare.live:8080/live/usman007/usman007/23284.ts
+#EXTINF:-1,AR: Iraq AlRasheed
+http://starshare.live:8080/live/usman007/usman007/23285.ts
+#EXTINF:-1,AR: Iraq alsharqiyah
+http://starshare.live:8080/live/usman007/usman007/23286.ts
+#EXTINF:-1,AR: Iraq Al Sumaria
+http://starshare.live:8080/live/usman007/usman007/23287.ts
+#EXTINF:-1,AR: Iraq Anb
+http://starshare.live:8080/live/usman007/usman007/23288.ts
+#EXTINF:-1,AR: Iraq Dijlah
+http://starshare.live:8080/live/usman007/usman007/23289.ts
+#EXTINF:-1,AR: Iraq Future
+http://starshare.live:8080/live/usman007/usman007/23290.ts
+#EXTINF:-1,AR: Iraq Hona Baghdad
+http://starshare.live:8080/live/usman007/usman007/23291.ts
+#EXTINF:-1,AR: Iraq Karbala
+http://starshare.live:8080/live/usman007/usman007/23292.ts
+#EXTINF:-1,AR: iraqia news
+http://starshare.live:8080/live/usman007/usman007/23293.ts
+#EXTINF:-1,AR: Iraq Safaa
+http://starshare.live:8080/live/usman007/usman007/23294.ts
+#EXTINF:-1,AR: Iraqia
+http://starshare.live:8080/live/usman007/usman007/23295.ts
+#EXTINF:-1,AR: Iraq AL QAMAR
+http://starshare.live:8080/live/usman007/usman007/23296.ts
+#EXTINF:-1,AR: IRAQ AL ESHRAQ TV
+http://starshare.live:8080/live/usman007/usman007/23297.ts
+#EXTINF:-1,AR: IRAQAL AYAM TV
+http://starshare.live:8080/live/usman007/usman007/23298.ts
+#EXTINF:-1,AR: IRAQ ALBAEENAH
+http://starshare.live:8080/live/usman007/usman007/23299.ts
+#EXTINF:-1,AR: IRAQ AL TALEAA TV
+http://starshare.live:8080/live/usman007/usman007/23300.ts
+#EXTINF:-1,AR: MBC Iraq HD
+http://starshare.live:8080/live/usman007/usman007/23301.ts
+#EXTINF:-1,AR: Iraq MBC
+http://starshare.live:8080/live/usman007/usman007/23302.ts
+#EXTINF:-1,AR: Iraqia Sport
+http://starshare.live:8080/live/usman007/usman007/23303.ts
+#EXTINF:-1,ISLAMIC-Ressala-HD
+http://starshare.live:8080/live/usman007/usman007/29969.ts
+#EXTINF:-1,ISLAMIC-Iqraa
+http://starshare.live:8080/live/usman007/usman007/29970.ts
+#EXTINF:-1,KIDS-Majid-Kids-TV
+http://starshare.live:8080/live/usman007/usman007/29971.ts
+#EXTINF:-1,Al MAJD Quran
+http://starshare.live:8080/live/usman007/usman007/29973.ts
+#EXTINF:-1,Al MAJD Hadith
+http://starshare.live:8080/live/usman007/usman007/29974.ts
+#EXTINF:-1,Al MAJD Documentary
+http://starshare.live:8080/live/usman007/usman007/29975.ts
+#EXTINF:-1,Al MAJD Masa
+http://starshare.live:8080/live/usman007/usman007/29976.ts
+#EXTINF:-1,Al MAJD Taghareed
+http://starshare.live:8080/live/usman007/usman007/29977.ts
+#EXTINF:-1,Al MAJD Rawda
+http://starshare.live:8080/live/usman007/usman007/29978.ts
+#EXTINF:-1,ISLAMIC-SAUDI-Ch-for-Sunnah-HD
+http://starshare.live:8080/live/usman007/usman007/29980.ts
+#EXTINF:-1,Al MAJD Scientific
+http://starshare.live:8080/live/usman007/usman007/29982.ts
+#EXTINF:-1,KW | FUNOON HD
+http://starshare.live:8080/live/usman007/usman007/29984.ts
+#EXTINF:-1,KW | AL MAJLIS
+http://starshare.live:8080/live/usman007/usman007/29985.ts
+#EXTINF:-1,KW | Al Maaref TV
+http://starshare.live:8080/live/usman007/usman007/29986.ts
+#EXTINF:-1,KW | Alrai TV
+http://starshare.live:8080/live/usman007/usman007/29987.ts
+#EXTINF:-1,KW | KTV Sport Plus
+http://starshare.live:8080/live/usman007/usman007/29988.ts
+#EXTINF:-1,KW | Al3dala TV HD
+http://starshare.live:8080/live/usman007/usman007/29989.ts
+#EXTINF:-1,KW | Scope TV
+http://starshare.live:8080/live/usman007/usman007/29992.ts
+#EXTINF:-1,KW | KUWAIT TV 2
+http://starshare.live:8080/live/usman007/usman007/29993.ts
+#EXTINF:-1,KW | KUWAIT TV ARABI HD
+http://starshare.live:8080/live/usman007/usman007/29994.ts
+#EXTINF:-1,KW | Ch4Teen
+http://starshare.live:8080/live/usman007/usman007/29995.ts
+#EXTINF:-1,KW | KTV Sport
+http://starshare.live:8080/live/usman007/usman007/29996.ts
+#EXTINF:-1,KW | SHAHID HD
+http://starshare.live:8080/live/usman007/usman007/29997.ts
+#EXTINF:-1,AR: ZAMALEK SPORTS
+http://starshare.live:8080/live/usman007/usman007/30104.ts
+#EXTINF:-1,AR: Bahrain_Sport_1_HD
+http://starshare.live:8080/live/usman007/usman007/30105.ts
+#EXTINF:-1,AR: Bahrain_Sport_2_HD
+http://starshare.live:8080/live/usman007/usman007/30106.ts
+#EXTINF:-1,AR: IRAQIA SPORT HD
+http://starshare.live:8080/live/usman007/usman007/30107.ts
+#EXTINF:-1,AR: ALKASS ONE HD
+http://starshare.live:8080/live/usman007/usman007/30109.ts
+#EXTINF:-1,AR: ALKASS TWO HD
+http://starshare.live:8080/live/usman007/usman007/30110.ts
+#EXTINF:-1,AR: ALKASS FOUR HD
+http://starshare.live:8080/live/usman007/usman007/30111.ts
+#EXTINF:-1,AR: Asharq News 
+http://starshare.live:8080/live/usman007/usman007/30112.ts
+#EXTINF:-1,AR: AL JAZERRA MUBASHER 2
+http://starshare.live:8080/live/usman007/usman007/30113.ts
+#EXTINF:-1,AR: Sky News Arabia HD
+http://starshare.live:8080/live/usman007/usman007/30114.ts
+#EXTINF:-1,AR: AL MAYADEEN TV
+http://starshare.live:8080/live/usman007/usman007/30115.ts
+#EXTINF:-1,AR: Dijlah TV
+http://starshare.live:8080/live/usman007/usman007/30116.ts
+#EXTINF:-1,AR: AL SHARQIYA NEWS HD
+http://starshare.live:8080/live/usman007/usman007/30117.ts
+#EXTINF:-1,AR: DW Arabia HD
+http://starshare.live:8080/live/usman007/usman007/30119.ts
+#EXTINF:-1,MEKAMELEEN
+http://starshare.live:8080/live/usman007/usman007/30120.ts
+#EXTINF:-1,Nile sports
+http://starshare.live:8080/live/usman007/usman007/30121.ts
+#EXTINF:-1,Nile Comedy SD
+http://starshare.live:8080/live/usman007/usman007/30122.ts
+#EXTINF:-1,Nile Culture SD
+http://starshare.live:8080/live/usman007/usman007/30123.ts
+#EXTINF:-1,Nile Drama SD
+http://starshare.live:8080/live/usman007/usman007/30124.ts
+#EXTINF:-1,Nile_Family_SD
+http://starshare.live:8080/live/usman007/usman007/30125.ts
+#EXTINF:-1,Nile_Life_SD
+http://starshare.live:8080/live/usman007/usman007/30126.ts
+#EXTINF:-1,Nile_Cinema_SD
+http://starshare.live:8080/live/usman007/usman007/30127.ts
+#EXTINF:-1,Misr_ELBald
+http://starshare.live:8080/live/usman007/usman007/30128.ts
+#EXTINF:-1,Panorama_Film_SD
+http://starshare.live:8080/live/usman007/usman007/30129.ts
+#EXTINF:-1,AlHayat_HD
+http://starshare.live:8080/live/usman007/usman007/30131.ts
+#EXTINF:-1,Al-Nahar_Drama_SD
+http://starshare.live:8080/live/usman007/usman007/30132.ts
+#EXTINF:-1,Al-Nahar_One_SD
+http://starshare.live:8080/live/usman007/usman007/30133.ts
+#EXTINF:-1,M CLASSIC
+http://starshare.live:8080/live/usman007/usman007/30134.ts
+#EXTINF:-1,AL SA3A MASRA7
+http://starshare.live:8080/live/usman007/usman007/30135.ts
+#EXTINF:-1,CAIRO CINEMA
+http://starshare.live:8080/live/usman007/usman007/30137.ts
+#EXTINF:-1,CINEMA_1
+http://starshare.live:8080/live/usman007/usman007/30138.ts
+#EXTINF:-1,CINEMA_2
+http://starshare.live:8080/live/usman007/usman007/30139.ts
+#EXTINF:-1,FAMILY DRAMA
+http://starshare.live:8080/live/usman007/usman007/30140.ts
+#EXTINF:-1,APPLE_CINEMA
+http://starshare.live:8080/live/usman007/usman007/30141.ts
+#EXTINF:-1,APPLE_HEKAYAT
+http://starshare.live:8080/live/usman007/usman007/30142.ts
+#EXTINF:-1,APPLE_MOSALSALAT
+http://starshare.live:8080/live/usman007/usman007/30143.ts
+#EXTINF:-1,APPLE_TODAY
+http://starshare.live:8080/live/usman007/usman007/30144.ts
+#EXTINF:-1,CINEMA PRO
+http://starshare.live:8080/live/usman007/usman007/30145.ts
+#EXTINF:-1,Sada_ElBalad_Drama_SD
+http://starshare.live:8080/live/usman007/usman007/30146.ts
+#EXTINF:-1,Sada_El_Balad+_2_SD
+http://starshare.live:8080/live/usman007/usman007/30147.ts
+#EXTINF:-1,TOKTOK AFLAM
+http://starshare.live:8080/live/usman007/usman007/30149.ts
+#EXTINF:-1,MOSALSALAT TUBE
+http://starshare.live:8080/live/usman007/usman007/30150.ts
+#EXTINF:-1,El Sharq
+http://starshare.live:8080/live/usman007/usman007/30154.ts
+#EXTINF:-1,HAREEM_ELSULTAN
+http://starshare.live:8080/live/usman007/usman007/30156.ts
+#EXTINF:-1,ifilam arabic
+http://starshare.live:8080/live/usman007/usman007/30157.ts
+#EXTINF:-1,ELMOLED
+http://starshare.live:8080/live/usman007/usman007/30158.ts
+#EXTINF:-1,Mix
+http://starshare.live:8080/live/usman007/usman007/30159.ts
+#EXTINF:-1,SBC_HD
+http://starshare.live:8080/live/usman007/usman007/30161.ts
+#EXTINF:-1,Drama Al Badawya
+http://starshare.live:8080/live/usman007/usman007/30162.ts
+#EXTINF:-1,AR: SAUDI QURAN TV
+http://starshare.live:8080/live/usman007/usman007/30163.ts
 
-
-#EXTINF:-1 ch-id="SURYA CINEMA (IN)" tvg-logo="https://1.bp.blogspot.com/-0kihdPkuDtc/YOv8FXIYURI/AAAAAAAAAXk/01EIq2C9B9AB2_dAVU64jnju8G_ZOLSaQCLcBGAsYHQ/s200/images%2B%252815%2529.jpeg"  group-title="FREE SOURCE",SURYA CINEMA (IN)
-https://viacom-b.multitvsolution.com/viacomhls/suryacinema.m3u8
-
-
-
-
-
-
-#EXTINF:-1 ch-id="9XM (IN)" tvg-logo="https://1.bp.blogspot.com/-rhWgq4jJ1J0/YNqzM-rzaHI/AAAAAAAAAD4/9_tDI503EZMEnkoVzw2QUsQlYffGMPragCLcBGAsYHQ/s320/1170x658withlog_2074233892.jpg"   group-title="FREE SOURCE",9XM (IN)
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
-
-#EXTINF:-1 ch-id="9X JALWA (IN)" tvg-logo="https://1.bp.blogspot.com/-cdDRQXILj2g/YOwYHewVryI/AAAAAAAAAYI/-l_iw4GpeBwQPZtKNex-p2SMNUFnrFGlACLcBGAsYHQ/s200/images%2B%25281%2529%25284%2529.png"  group-title="FREE SOURCE",9X JALWA (IN)
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
-
-#EXTINF:-1 ch-id="ZEE NEWS (IN)"   group-title="News",ZEE NEWS (IN)
-https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
-
-#EXTINF:-1 ,HUNGAMA DIL SE,group-title="FREE SOURCE"
-https://live.hungama.com/linear/dil-se/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 ch-id="STAR MOVIES HD (IN)" tvg-logo="https://1.bp.blogspot.com/-pJLkfbwGtGY/YO44hTm2TeI/AAAAAAAAAbg/PLnFwzdRUtgAwOey8VrwhVuqMjgl7Rh_ACLcBGAsYHQ/s200/images%252811%2529.png"  group-title="FREE SOURCE",STAR MOVIES HD (IN)
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
-
-#EXTINF:-1 ch-id="STAR WORLD HD (IN)" tvg-logo="https://1.bp.blogspot.com/-NP69DuoXNiQ/YO43_aprZwI/AAAAAAAAAbU/GLNxe37LKd0wVHPUzEQOvKDLwEOKoUaCwCLcBGAsYHQ/s200/PicsArt_07-14-06.24.01.png"  group-title="FREE SOURCE",STAR WORLD HD (IN)
-http://221.120.204.4/star-world-LOCKLE/index.m3u8
-#EXTINF:-1 ch-id="SONY MAX HD (IN)" tvg-logo="https://1.bp.blogspot.com/-twchrin0vOo/YO45Ze8_G7I/AAAAAAAAAbw/IpaNcHTG0VgL6syvCc_t_H9Gsf2RqvWzQCLcBGAsYHQ/s200/images%2B%25281%2529%25289%2529.png"  group-title="FREE SOURCE",SONY MAX HD (IN)
-http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
-#EXTINF:-1 ch-id="SONY HD (IN)" tvg-logo="https://1.bp.blogspot.com/-JGHxkE4upMY/YO45n7z89jI/AAAAAAAAAb4/wI2VLvH0iVYzwAY9xX0ONL24kts9yfMRwCLcBGAsYHQ/s200/SET_HD_2016.webp"  group-title="FREE SOURCE",SONY HD (IN)
-http://221.120.204.4/SONY-HD-LOCKLE/index.m3u8
-#EXTINF:-1 ch-id="AXN (TW)" tvg-logo="https://1.bp.blogspot.com/-RIwQ9uRx8Qo/YNHLP_gD_jI/AAAAAAAAAAc/K9K7-LwbOl8C6wQ-Z1uI5rEFSf1viYkIQCLcBGAsYHQ/w200-h98/download.png"   group-title="FREE SOURCE",AXN (TW)
-http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
-
-
-#EXTINF:-1 ch-id="GEO SUPER (ME)" tvg-logo=" "  group-title="FREE SOURCE",GEO SUPER (ME)
-http://221.120.204.4/geo-super-LOCKLE/index.m3u8
-
-
-
-#EXTINF:-1 ch-id="DD SPORTS (IN)" tvg-logo=" "  group-title="FREE SOURCE",DD SPORTS (IN)
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937608039263285248/yH6_8DyH_400x400.jpg" group-title="FREE SOURCE", APN NEWS
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
-
-
-#EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7043c038-5072-4a91-adc3-af58fdd76a66/d95lf2f-39f28780-e2ee-420b-95a8-7a4ac222349f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNzA0M2MwMzgtNTA3Mi00YTkxLWFkYzMtYWY1OGZkZDc2YTY2XC9kOTVsZjJmLTM5ZjI4NzgwLWUyZWUtNDIwYi05NWE4LTdhNGFjMjIyMzQ5Zi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.jDWgYopzF4TpNV-ccPvjSZFYkdLcEDqZxJWAniEQcHY" group-title="FREE SOURCE",Channel NewsAsia,CNA HD
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://cdn.clipart.email/71101f23643b4d75c8cab426a5c6997a_large-square-sky-news-logo-julian-lennon_400-400.png" group-title="FREE SOURCE" ,SKY NEWS
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="FREE SOURCE",Newsmax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.aljazeera.com/assets/images/aj-logo-lg-124.png" group-title="FREE SOURCE)",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="Zen.us" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" tvg-name="Zen" tvg-country="US" tvg-language="" group-title="FREE SOURCE",Zen
-https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fd8fd0625dd2a6b74008872_ln-zen/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeriTV.xk" tvg-logo="https://i.imgur.com/UVFCGWS.jpg" tvg-name="Zeri TV" tvg-country="XK" tvg-language="" group-title="FREE SOURCE",Zeri TV (1080p)
-https://dracarys.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/ytkt1k480/index.m3u8
-#EXTINF:-1 tvg-id="ZerounoTV.gr" tvg-logo="" tvg-name="Zerouno TV" tvg-country="GR" tvg-language="" group-title="FREE SOURCE",Zerouno TV (720p)
-http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="ZindagiTV.pk" tvg-logo="https://i.imgur.com/RtHeRwp.png" tvg-name="Zindagi TV" tvg-country="PK" tvg-language="Urdu" group-title="FREE SOURCE",Zindagi TV (576p)
-https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
-
-#EXTINF:-1  tvg-id=ts950  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66223-ku9gfjug-v1/imageContent-66223-ku9gfjug-m1.png   group-title="FREE SOURCE",   ET Now Swadesh
-https://timesnowhindi-i.akamaihd.net/hls/live/1023684-b/swadeshtemp/chunklist_1.m3u8
-#EXTINF:-1  tvg-id=ts243  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-4154-j69pdmvk-v1/imageContent-4154-j69pdmvk-m1.png   group-title="FREE SOURCE",   CNN
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1  tvg-id=ts817  tvg-logo=http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52874-k9afcvs0-v2/imageContent-52874-k9afcvs0-m6.png   group-title="FREE SOURCE",   DD Retro
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
-
-
-
-#EXTINF:-1,Epic tv,group-title="FREE SOURCE"
-https://epiconvh.s.llnwi.net/epic/master_1024.m3u8
-
-
-#EXTINF:-1,RASI HINDI , group-title="FREE SOURCE"
-http://singamcloud.in/rasinetwork/rasihindi/playlist.m3u8
-
-
-#EXTINF:-1,B4U Kadak , group-title="FREE SOURCE"
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-
-
-#EXTINF:-1,AAJTAK HD , group-title="FREE SOURCE"
-http://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
-
-#EXTINF:-1 ,REPUBLIC BHARAT (IN),group-title="FREE SOURCE"
-https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/ottrb/master.m3u8?e=1651431600&h=f66a60a21c8b02a8690d98c6c5fda5bb
-#EXTINF:-1,TV9 Bharatvarsh  ,group-title="FREE SOURCE"
-https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
-
-#EXTINF:-1,Times now NAVBHARAT,group-title="FREE SOURCE"
-https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
-
-#EXTINF:-1,Amar Ujala  ,group-title="FREE SOURCE"
-https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
-
-#EXTINF:-1,VTV live,group-title="FREE SOURCE"
-  
-https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/chunklist_w1694613322.m3u8
-
-#EXTINF:-1,DD News,group-title="FREE SOURCE"
-  
-https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,NDTV Profit,group-title="FREE SOURCE"
-  
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@3.m3u8
-#EXTINF:-1,CNBC Awaaz,group-title="FREE SOURCE"
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-#EXTINF:-1,SWADES ET NOW ,group-title="FREE SOURCE"
-https://pubads.g.doubleclick.net/ssai/event/Pj6A7e21SN64xv6g4sssCA/master.m3u8
-#EXTINF:-1,ET Now English  ,group-title="FREE SOURCE"
-https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,AL-JAZEERA,group-title="FREE SOURCE"
-  
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1,India Today,group-title="FREE SOURCE"
-  
-https://vidcdn.vidgyor.com/it-origin/live1/playlist.m3u8
-#EXTINF:-1,Et Now,group-title="FREE SOURCE"
-  
-https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
-#EXTINF:-1,Mirror Now,group-title="FREE SOURCE"
-  
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:-1,Times Now HD,group-title="FREE SOURCE"
-  
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-
-#EXTINF:-1,SHOWBOX,group-title="FREE SOURCE"
-  https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
-  
-  #EXTINF:-1,ZOOM,group-title="FREE SOURCE"
-  
-http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-b.m3u8?sd=10&rebase=on
-
-
-#EXTINF:-1,Kadak Hits,group-title="FREE SOURCE"
-  
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-#EXTINF:-1,Zooom,group-title="FREE SOURCE"
-
-https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-
-
-#EXTINF:-1,GUBBARE,group-title="FREE SOURCE"
-https://epiconvh.s.llnwi.net/gubbare/master_1080.m3u8
-
-#EXTINF:-1,WOW TV,group-title="FREE SOURCE"
-  
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1,NASA TV,group-title="FREE SOURCE"
-  
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1,Republic Bharat,group-title="FREE SOURCE"
-
-https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republicbharat-samsungindia/CDN/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="TV5MondeAsie.fr" tvg-logo="https://i.imgur.com/1cVjCTw.png" group-title="ENGLISH",TV5Monde Asie
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://stream-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
-
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="ENGLISH",Sony Pix
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5QGgJe8.png" group-title="KNOWLEDGE",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="KNOWLEDGE",NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="KNOWLEDGE",NASA TV Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3vQaf5.png" group-title="BUSINESS NEWS",Yahoo! Finance
-https://yahoo-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/59kbGww.jpg" group-title="BUSINESS NEWS",ET Now Swadesh
-https://pubads.g.doubleclick.net/ssai/event/Pj6A7e21SN64xv6g4sssCA/master.m3u8
-
-#EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://i.imgur.com/vPAwWou.png" group-title="BUSINESS NEWS",ET Now
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ETNow/live
-
-#EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-logo="https://i.imgur.com/i1qQWS1.png" group-title="BUSINESS NEWS",Zee Business
-https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="AUSTRALIAN SPORTS",Fox Sports 501
-https://networkbest.ru.com/cdn/premium369/chunks.m3u8|Referer=https://player.licenses4.me
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BLWrz42.png" group-title="AUSTRALIAN SPORTS",Fox Sports 502
-http://new-pro.tv:8080/mazen1/123456/271526
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 503
-http://new-pro.tv:8080/mazen1/123456/271528
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4sHtDw1.png" group-title="AUSTRALIAN SPORTS",Fox Sports 504
-http://new-pro.tv:8080/mazen1/123456/271530
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 505
-http://new-pro.tv:8080/mazen1/123456/271532
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 506
-http://new-pro.tv:8080/mazen1/123456/271534
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 507
-http://new-pro.tv:8080/mazen1/123456/271536
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zeywLXs.png" group-title="AUSTRALIAN SPORTS",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IMAeAVz.jpg" group-title="AUSTRALIAN SPORTS",Racing.com
-https://i.mjh.nz/au/Sydney/tv.101305020528.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cTwzzIj.png" group-title="INDIAN SPORTS",Sony Six
-https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7aH1f2o.png" group-title="INDIAN SPORTS",Sony Ten 1
-https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0HBvcO3.png" group-title="INDIAN SPORTS",Sony Ten 2
-https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
-
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CGzC3fK.png" group-title="ENGLISH 18+",Fashion TV L'Original
-https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CGzC3fK.png" group-title="ENGLISH 18+",Fashion TV Asia
-https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lMSp60D.png" group-title="ENGLISH 18+",Fashion TV Midnite Secret
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ZQRdle.png" group-title="ENGLISH 18+",A3 Bikini Network
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AaQzkRP.png" group-title="ENGLISH 18+",Playboy TV Latin America
-https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/Playboy.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AaQzkRP.png" group-title="ENGLISH 18+",Playboy TV
-http://91.215.188.171:8001/play/69/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I0xoFhv.png" group-title="LIFESTYLE",Lifestyle & Fashion
-https://stream-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lzaV3z4.png" group-title="LIFESTYLE",Biznet Lifestyle
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/el4gofT.png" group-title="LIFESTYLE",Citra Culinary & Travel
-https://dukun.masuk.id/terserahguelah/hiburan/ctravel.m3u8
-#EXTINF:-1 tvg-id="FilmRiseFreeMoviesSTIRR.us" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Free Movies (STIRR)" tvg-country="US" tvg-language="English" group-title="FREE Movies",FilmRise Free Movies (STIRR) (720p)
-https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
-
-#EXTINF:-1 tvg-id="FilmRiseFreeMoviesonRedbox.us" tvg-logo="https://i.imgur.com/X7U7ikq.png" tvg-name="FilmRise Free Movies on Redbox" tvg-country="US" tvg-language="English" group-title="FREE Movies",FilmRise Free Movies on Redbox
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="DramaLife.us" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Drama_Life_190x190.png?raw=true" tvg-name="Drama Life" tvg-country="US" tvg-language="English" group-title="FREE Movies",Drama Life
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , STAR PLUS HD (IN)
-http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , STAR BHARAT HD (IN)
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , STAR PLUS HD (IN)
-http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , ZEE TV (UK)
-http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , ZEE TV HD (IN)
-http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , COLORS HD (IN)
-http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.pnghttps://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.pnghttps://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , COLORS HD (IN)SAHARA ONE (IN)UTV HD (IN)
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , STAR GOLD HD (IN)
-http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , STAR GOLD HD (IN)
-http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , STAR GOLD 2 (IN)
-http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , ZEE CINEMA HD (IN)
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , ZEE CLASSIC (IN)
-http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , ZEE ACTION (IN)
-http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , ZEE ANMOL CINEMA (IN)
-http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="SONY MAX 2" , SONY MAX 2 (IN)
-http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , B4U MOVIES (IN)
-http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , E24 (IN)
-http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , B4U MUSIC (IN)
-http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , ZOOM (IN)
-http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , MTV (IN)
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" , MTV BEATS HD (IN)
-http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
-
-
-
-
-
-#EXTINF:-1 ,GOLDMINE dubbed movies ,group-title="FREE SOURCE",
-http://14.199.164.20:4001/play/a0o5/index.m3u8
-
-
-#EXTINF:-1 ,GOLDMINE Bollywood  ,group-title="FREE SOURCE",
-http://14.199.164.20:4001/play/a0tm/index.m3u8
-
-
-#EXTINF:-1 ,NEWS18 BIHAR JHARKHAND  ,group-title="FREE SOURCE",
-
-https://nw18live.cdn.jio.com/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/News18_Bihar_Jharkhand_NW18_MOB-audio_98835_hin=98800-video=560800.m3u8
