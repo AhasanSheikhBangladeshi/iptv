@@ -1,53 +1,27 @@
-#EXTINF:-1,YEM.BELQEES
-http://stariptv.org:8080/hamza2022/123456/66528
-#EXTINF:-1,YEM.Sheba TV
-http://stariptv.org:8080/hamza2022/123456/66529
-#EXTINF:-1,YEM.Al Erth Alnabawi TV
-http://stariptv.org:8080/hamza2022/123456/14910
-#EXTINF:-1,YEM.ADEN TV
-http://stariptv.org:8080/hamza2022/123456/66527
-#EXTINF:-1,YEM.AL Hawyah TV
-http://stariptv.org:8080/hamza2022/123456/66530
-#EXTINF:-1,YEM.YEMEN
-http://stariptv.org:8080/hamza2022/123456/14864
-#EXTINF:-1,YEM.Al Masirah Mubasher TV
-http://stariptv.org:8080/hamza2022/123456/14790
-#EXTINF:-1,YEM.SHABAB
-http://stariptv.org:8080/hamza2022/123456/14865
-#EXTINF:-1,YEM.YEMEN TODAY
-http://stariptv.org:8080/hamza2022/123456/14866
-#EXTINF:-1,YEM.Al Saeedah TV
-http://stariptv.org:8080/hamza2022/123456/21172
-#EXTINF:-1,YEM.HADRAMOOT
-http://stariptv.org:8080/hamza2022/123456/21216
-#EXTINF:-1,YEM.SUHAIL TV
-http://stariptv.org:8080/hamza2022/123456/21181
-#EXTINF:-1,Ar: Iraqia Kurdish
-htt
-#EXTINF:-1,YE: ADEN TV
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/266324
-#EXTINF:-1,YE: Alghad Almushreq
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/281959
-#EXTINF:-1,YE: Almahriah
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/266326
-#EXTINF:-1,YE: Almasirah Mubasher
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/166341
-#EXTINF:-1,YE: AlMasirah TV
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/166245
-#EXTINF:-1,YE: AlSaeedah
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/266327
-#EXTINF:-1,YE: BELQEES
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/266323
-#EXTINF:-1,YE: Hadramoot
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/266328
-#EXTINF:-1,YE: Suhail TV
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/268914
-#EXTINF:-1,YE: Yemen SHABAB
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/266321
-#EXTINF:-1,YE: Yemen Today TV
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/266320
-#EXTINF:-1,YE: Yemen TV
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/266322
+#EXTINF:-1,|KSA|ALWESAM TV
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49561 
+#EXTINF:-1,|Oman| Oman tv
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49575
+#EXTINF:-1,|Oman| OMAN TV Live SD
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/1319 
+#EXTINF:-1,|OMAN| OMAN TV Culture SD
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/1318 
+#EXTINF:-1,|Yemen| Al mahriah
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49591
+#EXTINF:-1,|JOR| AlSaeedah
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49512 
+#EXTINF:-1,|YEMEN| Hadramoot
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49513 
+#EXTINF:-1,[YEMEN] YEMEN SHABAB
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49594
+#EXTINF:-1,[Yemen] Yemen Today
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/10079 
+#EXTINF:-1,[Yemen] Yemen Tv
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/10078 
+#EXTINF:-1,[Yemen] BELQEES
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/1265 
+#EXTINF:-1,[YEMEN] ADEN TV
+http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/10077 
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
 https://cdnw.telewebion.com:443/tv1/live/240p/index.m3u8
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
