@@ -1,27 +1,35 @@
-#EXTINF:-1,|KSA|ALWESAM TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49561 
-#EXTINF:-1,|Oman| Oman tv
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49575
-#EXTINF:-1,|Oman| OMAN TV Live SD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/1319 
-#EXTINF:-1,|OMAN| OMAN TV Culture SD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/1318 
-#EXTINF:-1,|Yemen| Al mahriah
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49591
-#EXTINF:-1,|JOR| AlSaeedah
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49512 
-#EXTINF:-1,|YEMEN| Hadramoot
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49513 
-#EXTINF:-1,[YEMEN] YEMEN SHABAB
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49594
-#EXTINF:-1,[Yemen] Yemen Today
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/10079 
-#EXTINF:-1,[Yemen] Yemen Tv
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/10078 
-#EXTINF:-1,[Yemen] BELQEES
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/1265 
-#EXTINF:-1,[YEMEN] ADEN TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/10077 
+#EXTINF:-1,|AR| YEMEN TV
+http://txm.flysat.live:2089/152072895769187/152094041439631/204928
+#EXTINF:-1,|AR| YEMEN SHABAB
+http://txm.flysat.live:2089/152072895769187/152094041439631/204927
+#EXTINF:-1,|AR| YEMEN EDUCATION TV
+http://txm.flysat.live:2089/152072895769187/152094041439631/204926
+#EXTINF:-1,|AR| YEMEN TODAY
+http://txm.flysat.live:2089/152072895769187/152094041439631/204925
+#EXTINF:-1,|AR| SUHAIL TV
+http://txm.flysat.live:2089/152072895769187/152094041439631/204924
+#EXTINF:-1,|AR| SHEBA TV
+http://txm.flysat.live:2089/152072895769187/152094041439631/204923
+#EXTINF:-1,|AR| ADEN TV
+http://txm.flysat.live:2089/152072895769187/152094041439631/204922
+#EXTINF:-1,|AR | AL SAEEDAH
+http://txm.flysat.live:2089/152072895769187/152094041439631/204921
+#EXTINF:-1,|AR | HADRAMOOT
+http://txm.flysat.live:2089/152072895769187/152094041439631/204920
+#EXTINF:-1,|AR | AIC TV
+http://txm.flysat.live:2089/152072895769187/152094041439631/204919
+#EXTINF:-1,|AR| AL SAHAT
+http://txm.flysat.live:2089/152072895769187/152094041439631/204918
+#EXTINF:-1,|AR| BELQESS
+http://txm.flysat.live:2089/152072895769187/152094041439631/204917
+#EXTINF:-1,|AR| ALLAHDAH TV
+http://txm.flysat.live:2089/152072895769187/152094041439631/204916
+#EXTINF:-1,|AR| AL MASIRAH TV
+http://txm.flysat.live:2089/152072895769187/152094041439631/204915
+#EXTINF:-1,|AR| AL GHAD AL MUSHREQ
+http://txm.flysat.live:2089/152072895769187/152094041439631/204914
+#EXTINF:-1,|AR| AL-SHAREYYAH CHANNEL
+http://txm.flysat.live:2089/152072895769187/152094041439631/204913
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
 https://cdnw.telewebion.com:443/tv1/live/240p/index.m3u8
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
