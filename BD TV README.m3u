@@ -89,8 +89,8 @@ http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/231614
 http://77.69.131.177:5600/play/a09h/index.m3u8
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
 http://185.236.229.31:9981/play/a02d
-#EXTINF:-1 tvg-id="MAHABAD.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Iran Fars",MAHABAD (576p)
-
+#EXTINF:-1 tvg-id="TakbeerTv.uk" tvg-name="Takbeer TV(UK)" tvg-country="UK" tvg-language"Urdj" tvg-logo="https://www.lyngsat.com/logo/tv/tt/takbeer-tv-uk.png" group-title="Religious",Takbeer TV(UK)
+https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"  group-title="India-Pakistani",ARY NEWS (PK)
@@ -349,81 +349,3 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-HISTORYTV18/tracks-v1a1/index.m
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Clarity 4K" tvg-logo="https://hd-report.com/wp-content/uploads/2016/01/4k-ultrahd-logo.jpg" group-title="Documentary",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="" group-title="Documentary",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-bTviyeUdxZFhxevscUle_bOazWjTSFNMCga2-Hn-aIn0mrEfOZeHOnqqmGVYtrP1Pqo&usqp=CAU" group-title="Documentary",Discovery Bangla
-https://streamavi.ml/jio/live.php?c=Discovery_Channel_Bengali&q=800&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Documentary",Sony BBC Earth HD
-http://84.17.41.7/SONYEARTH/HD/HIN/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="https://avpn.asia/wp-content/uploads/2016/03/National-Geographic-logo-1024x768.png" group-title="Documentary",National Geographic HD
-http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic English" tvg-logo="" group-title="Documentary",National Geographic English
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dicovery Hindi SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89Lpopcj6CMTtHxs7dwjMFR3FnW4kcOBRN-4suUsVXvAS_fXVtVyir0NuPUs5tcP9cBo&usqp=CAU" group-title="Documentary",Dicovery Hindi SD
-https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery English SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89Lpopcj6CMTtHxs7dwjMFR3FnW4kcOBRN-4suUsVXvAS_fXVtVyir0NuPUs5tcP9cBo&usqp=CAU" group-title="Documentary",Discovery English SD
-https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science Hindi" tvg-logo="" group-title="Documentary",Discovery Science Hindi
-https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD Bekup" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f4/Animal_Planet_HD_%282018-.n.v.%29.png/revision/latest?cb=20190715173635" group-title="Documentary",Animal Planet HD Bekup
-https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP HD Hindi" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/travel-xp-hd-logo-300x300.jpg" group-title="Documentary",Travel XP HD Hindi
-https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nat GEO Wild HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQIEnN4Ti5HbN7gcVm4vyfuH_6i9X89vYqL4-p_8VGH1S4wkVoA-xN-qXKlAu8Am24MI&usqp=CAU" group-title="Documentary",Nat GEO Wild HD
-http://jupiter.bdcabletv.com/nat_geo_Wild-Sim/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Nove" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89Lpopcj6CMTtHxs7dwjMFR3FnW4kcOBRN-4suUsVXvAS_fXVtVyir0NuPUs5tcP9cBo&usqp=CAU" group-title="Documentary",Discovery Nove
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="Documentary",Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="" tvg-name="History TV" tvg-logo="" group-title="Documentary",History TV
-https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Documentary",Animal Planet
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngHSHGdqY3_lcnYemymaWjc807kOv_6DWOrWMV5UA=s900-c-k-c0x00ffffff-no-rj" group-title="Documentary",Travel XP
-https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet English" tvg-logo="" group-title="Documentary",Animal Planet English
-http://idvd.multitvsolution.com/idvo/animalplaneteng_540p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports HD 1 Fast" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="Sports",Star Sports HD 1 Fast
-http://103.81.104.118/hls/stream15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2 HD Fast" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/580754d3f297cb205707bb3a/1565806895477/61086ad65aa32aaf7fa609fef4dc5404.jpg" group-title="Sports",Star Sports 2 HD Fast
-http://103.81.104.118/hls/stream16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1 HD Fast" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7435/567435-h" group-title="Sports",Star Sports Select 1 HD Fast
-http://103.81.104.118/hls/stream12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2 HD Fast" tvg-logo="" group-title="Sports",Star Sports Select 2 HD Fast
-http://103.81.104.118/hls/select2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1 HD Fast" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5989b579420c3c1917b60396/1565808884193/b51668c42221dd2b383c1109aa95aad6.jpg" group-title="Sports",Sony Ten 1 HD Fast
-http://103.81.104.118/hls/stream40.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2 HD Fast" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png" group-title="Sports",Sony Ten 2 HD Fast
-http://103.81.104.118/hls/stream39.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 HD" tvg-logo="" group-title="Sports",Sony Ten 3 HD
-http://103.81.104.118/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 Bangla" tvg-logo="" group-title="Sports",Star Sports 1 Bangla
-http://103.157.237.18:8000/play/601
-#EXTINF:-1 tvg-id="" tvg-name="Euro Live 2020" tvg-logo="https://i.pinimg.com/originals/19/c5/e6/19c5e65086143d66c77a7cc34b0eafd9.png" group-title="Sports",Euro Live 2020
-http://134.19.182.131:8080/edg8_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTV-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV-SPORTS
-http://tv2.ebox.live:8080/live/ptvsports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mZyaXvR.png" group-title="Sports", Bein Sports 1 HD 
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14981
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="Sports", Bein Sports 2 HD 
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14983
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F3cWTGD.png" group-title="Sports", Bein Sports 3 
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14985
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="Sports", Bein Sports 4 
-http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="Sports", Bein Sports 4 HD
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14987
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="Sports", Bein Sports 5
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14989
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="Sports", Bein Sports 6
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14991
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7KTVtHK.png" group-title="Sports", Bein Sports 7
-http://cloudcdn.tk:80/tuUO22w8572/442wnM854/14993
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports HD 2" tvg-logo="" group-title="Sports",Star Sports HD 2
-http://173.199.116.220/hls/chss2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="https://i.pinimg.com/474x/8a/a5/e1/8aa5e124922075d475bfb50f0102829e.jpg" group-title="Sports",Sony Ten 1
-http://173.199.116.220/hls/ten1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2_Masthead_Logo.png" group-title="Sports",Sony Ten 2 HD
-http://173.199.116.220/hls/ten2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 HD" tvg-logo="http://likeetv.com/uploads/tv_image/sony-ten-3.jpg" group-title="Sports",Sony Ten 3 HD
-http://173.199.116.220/hls/ten3.m3u8
