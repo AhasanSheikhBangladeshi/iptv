@@ -51,11 +51,9 @@ https://mn-nl.mncdn.com:443/ihtv3/ihtv3_sd.smil/chunklist_b704000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-country="IQ" tvg-url="" group-title="Religious",Imam Hussein TV 4 Urdu
 https://live.imamhossaintv.com/live/ih4.m3u8
 #EXTINF:-1 tvg-id="18" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Channel Win" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/win.png",Channel Win (1080)
-http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8
 #EXTINF:-1 tvg-id="16" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Zainabia Channel" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/zainabia.jpg",Zainabia Channel (1080)
-https://zainabia2.livebox.co.in/Zainabiachannel2hls/live.m3u8
-#EXTINF:-1 tvg-id="19" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Husaini Channel" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/husaini.jpg",Husaini Channel (1080)
-http://5k8q87xzdy4v-hls-live.wmncdn.net/hctv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-id="17" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Ali TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/alitv.jpg",Ali TV (1080)
 https://alitv.livebox.co.in/alitvhls/live.m3u8
 usman007/usman007/30114.ts
