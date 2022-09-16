@@ -311,22 +311,22 @@ https://live2.alalam.ir/alalam.m3u8
 https://playback2.akamaized.net/streams/263040_10099734_lsi9h68hsfa2gnjerkc_1/exp=1649832175~acl=%2f*~data=hdntl~hmac=219c2d325f72e7a38728de106e5913a51168067dba8b5cb0f425347704d6f96a/media/263040_10099734_lsi9h68hsfa2gnjerkc_1@248000bb.m3u8?dw=80&ts=1649743200
 #EXTINF:-1 tvg-id="IIPCTV.ca" tvg-name="IIPC TV" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="Religious",IIPC TV (480p)
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlZahraTVTurkic.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png" group-title="Relegious",Al-Zahra TV Turkic (1080p)
+https://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Iqraa.sa" tvg-name="Iqraa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa (576p) [Not 24/7]
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraaEuropeAfrica.sa" tvg-name="Iqraa Europe Africa" tvg-country="SA" tvg-language="English" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa Europe Africa (576p) [Not 24/7]
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV.ir" tvg-name="Imam Hussein TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/FPfq4O5.png" group-title="Religious",Imam Hussein TV 1 (360p)
-https://live.imamhossaintv.com/live/ih1.m3u8
+https://mn-nl.mncdn.com:443/ihtv1/ihtv1_sd.smil/chunklist_b208000.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV2Arabic.iq" tvg-name="Imam Hussein TV 2 Arabic" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Religious",Imam Hussein TV 2 Arabic (360p)
-https://live.imamhossaintv.com/live/ih2.m3u8
+https://mn-nl.mncdn.com:443/ihtv2/ihtv2_sd.smil/chunklist_b704000.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV3English.iq" tvg-name="Imam Hussein TV 3 English" tvg-country="IQ" tvg-language="English" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Religious",Imam Hussein TV 3 English (720p)
 https://mn-nl.mncdn.com:443/ihtv3/ihtv3_sd.smil/chunklist_b704000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-country="IQ" tvg-url="" group-title="Religious",Imam Hussein TV 4 Urdu
-https://live.imamhossaintv.com/live/ih4.m3u8
+https://mn-nl.mncdn.com:443/ihtv4/ihtv4_sd.smil/chunklist_b704000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-country="IQ" tvg-url="" group-title="Religious",Imam Hussein TV 4 Urdu
 https://mn-nl.mncdn.com/arbaeen/arbaeen_sd.smil/chunklist_b2096000.m3u8
-#EXTINF:-1 tvg-id="AlZahraTVTurkic.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png" group-title="Relegious",Al-Zahra TV Turkic (1080p)
-https://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International Europe (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.us" tvg-country="TR" tvg-language="Turkish" tvg-logo="http://haber.sol.org.tr/sites/default/files/styles/newsimagestyle_615x410/public/20110201141238cnn_turk_logosu.png" group-title="News",CNN Türk (480p) [Not 24/7]
