@@ -206,7 +206,7 @@ http://kuchini.site:8080/F18528/9c644af0/1380
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="Indonesia Channel",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w637025924_b744100_sleng.m3u8
 #EXTINF:-1 tvg-id="YemenTV.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.elwekalanews.net/UploadCache/libfiles/7/9/600x338o/857.png" group-title="",Yemen TV 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/yemen_tv
+http://sniperstv.vip:8080/dz/dz/1737
 #EXTINF:-1 tvg-id="BahrainInternational.BH" tvg-country="BAH" tvg-language="Arabic" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/bahrain_int.jpg" Bahrain International TV
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w1446657044_b1700000.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber (720p)
