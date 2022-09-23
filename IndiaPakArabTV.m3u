@@ -38,547 +38,295 @@ https://cdnw.telewebion.com:443/mahabad/live/576p/index.m3u8
 http://212.18.115.193:3599/play/a00a/index.m3u8
 #EXTINF:-1,IribSaharAzeri" tvg-logo="" group-title="Iran"Sahar Kurd
 http://185.236.229.31:9981/play/a02n
-#EXTINF:-1 tvg-id="" tvg-name="IPlus Tv" tvg-logo="https://logos.fandom.com/wiki/IPlus_TV?file=IPlus.jpeg" group-title="Religious",In- IPlus Tv
-https://5c75277727cd1.streamlock.net/iplustv/iplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Huda Tv" tvg-logo="http://2.bp.blogspot.com/-cSfP2QGNX28/VYv3Az7jdqI/AAAAAAAAARo/IfXNZKE0_Fk/s1600/Huda%2BLogo%2BSMALL.jpg" group-title="En-Religious",EN- Huda Tv
-https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-#EXTINF:-1 tvg-id="ImamHusseinTV.ir" tvg-name="Imam Hussein TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/FPfq4O5.png" group-title="Religious",Imam Hussein TV 1 (360p)
-https://live.imamhossaintv.com/live/ih1.m3u8
-#EXTINF:-1 tvg-id="ImamHusseinTV2Arabic.iq" tvg-name="Imam Hussein TV 2 Arabic" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Religious",Imam Hussein TV 2 Arabic (360p)
-https://live.imamhossaintv.com/live/ih2.m3u8
-#EXTINF:-1 tvg-id="ImamHusseinTV3English.iq" tvg-name="Imam Hussein TV 3 English" tvg-country="IQ" tvg-language="English" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Religious",Imam Hussein TV 3 English (720p)
-https://mn-nl.mncdn.com:443/ihtv3/ihtv3_sd.smil/chunklist_b704000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-country="IQ" tvg-url="" group-title="Religious",Imam Hussein TV 4 Urdu
-https://live.imamhossaintv.com/live/ih4.m3u8
 #EXTINF:-1 tvg-id="18" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Channel Win" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/win.png",Channel Win (1080)
 https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8
 #EXTINF:-1 tvg-id="16" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Zainabia Channel" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/zainabia.jpg",Zainabia Channel (1080)
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-id="17" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Ali TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/alitv.jpg",Ali TV (1080)
 https://alitv.livebox.co.in/alitvhls/live.m3u8
-usman007/usman007/30114.ts
-#EXTINF:-1,|IR| Sahar (Urdu)
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/184128
-#EXTINF:-1,|IR| Sahar Azari
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/184129
-#EXTINF:-1,|IR| Sahar Balkan
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/184130
-#EXTINF:-1,|IR| Simaye Azadi 4K
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/184132
-#EXTINF:-1,|IR|  IRIB TV 1 HD IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151545
-#EXTINF:-1,|IR|  IRIB TV 1 IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151546
-#EXTINF:-1,|IR|  IRIB TV 2 HD IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151547
-#EXTINF:-1,|IR|  IRIB TV2 IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151551
-#EXTINF:-1,|IR|  IRIB TV 3 HD IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151548
-#EXTINF:-1,|IR|  IRIB TV3 IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151552
-#EXTINF:-1,|IR|  IRIB TV 4 HD IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151549
-#EXTINF:-1,|IR|  IRIB TV 5 HD IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151550
-#EXTINF:-1,|IR|  IRIB TV5 IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151553
-#EXTINF:-1,|IR| IRIB IRINN
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/184007
-#EXTINF:-1,|IR| IRIB Jahanbin TV (Chaharmahal and Bakhtiari)
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/184008
-#EXTINF:-1,|IR| IRIB Jame-Jam 1 TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/184009
-#EXTINF:-1,|IR| IRIB Jame-Jam 2 TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/184010
-#EXTINF:-1,|IR| IRIB Jame-Jam 3 TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/184011
-#EXTINF:-1,|IR| IRIB Khavaran TV Khorasan Jonoobi
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/184012
-#EXTINF:-1,|IR| IRIB Kurdistan
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/184013
-#EXTINF:-1,|IR| IRIB Omid
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/184014
-#EXTINF:-1,|IR| IRIB Sepehr 4K
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/184015
-#EXTINF:-1,|IR| IRIB Tamasha HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/184016
-#EXTINF:-1,|IR| IRIB Zanjan ESHTAGH TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/184017
-#EXTINF:-1,|IR|  IRIB Abadan TV IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151501
-#EXTINF:-1,|IR|  IRIB Aflak TV (Lorestan) IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151502
-#EXTINF:-1,|IR|  IRIB ALBORZ TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151505
-#EXTINF:-1,|IR|  IRIB Atrak TV (Khorasan Shomali) IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151507
-#EXTINF:-1,|IR|  IRIB Azarbajan Gharbi TV IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151508
-#EXTINF:-1,|IR|  IRIB Baran TV (Guilan) IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151509
-#EXTINF:-1,|IR|  IRIB Boushehr IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151510
-#EXTINF:-1,|IR|  IRIB Hamoon TV (Sistan and Baluchestan) IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151514
-#EXTINF:-1,|IR|  IRIB Ilam TV IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151516
-#EXTINF:-1,|IR|  IRIB Isfahan TV IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151518
-#EXTINF:-1,|IR|  IRIB Kerman TV IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151519
-#EXTINF:-1,|IR|  IRIB Khalij-e Fars TV (Hormozgan) IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151520
-#EXTINF:-1,|IR|  IRIB Khorasan Razavi TV IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151523
-#EXTINF:-1,|IR|  IRIB Khozestan TV IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151524
-#EXTINF:-1,|IR|  IRIB Mahabad TV IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151525
-#EXTINF:-1,|IR|  IRIB Mostanad HD IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151526
-#EXTINF:-1,|IR|  IRIB Namayesh IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151527
-#EXTINF:-1,|IR|  IRIB Nasim IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151528
-#EXTINF:-1,|IR|  IRIB Ofogh IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151530
-#EXTINF:-1,|IR|  IRIB Qazvin TV IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151531
-#EXTINF:-1,|IR|  IRIB Quran IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151532
-#EXTINF:-1,|IR|  IRIB SABALAN TV (ARDABIL)
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151533
-#EXTINF:-1,|IR|  IRIB  SABZ TV (Golestan) IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151500
-#EXTINF:-1,|IR|  IRIB Sahand TV (Tabriz) IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151534
-#EXTINF:-1,|IR|  IRIB SALAMAT TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151540
-#EXTINF:-1,|IR|  IRIB SHOMA TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151542
-#EXTINF:-1,|IR|  IRIB TABAN TV (YAZD)
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151543
-#EXTINF:-1,|IR|  IRIB Tabarestan TV (Mazandaran) IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151544
-#EXTINF:-1,|IR|  IRIB VARZESH HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151554
-#EXTINF:-1,|IR|  IRIB Zagros TV (Kermanshah) IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/151555
-#EXTINF:-1,|IRAN|  AZADI
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/91989
-#EXTINF:-1,|IRAN|  IRIB TV1
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/92000
-#EXTINF:-1,|IRAN|  IRIB TV2
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/92001
-#EXTINF:-1,|IRAN|  IRIB TV3
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/92002
-#EXTINF:-1,|IRAN|  IRIB TV4
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/92004
-#EXTINF:-1,|IR| Press TV HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/184124
-#EXTINF:-1,|IR| IRIB VARZESH IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/91458
-#EXTINF:-1,|Iran|- Gem Series HD IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/50286
-#EXTINF:-1,|Iran|- Irib Quran TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/50292
-#EXTINF:-1,|Iran|- IRIB Quran
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/50295
-#EXTINF:-1,|Iran|- IRIB NASIM IR
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/50296
-#EXTINF:-1,|Iran|- Irib Sahand
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/50302
-#EXTINF:-1,|Iran|- Irib Shoma
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/50305
-#EXTINF:-1,|Iran|- Nasim
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/50306
-#EXTINF:-1,|Iran|- Ofogh
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/50310
-#EXTINF:-1,|Iran|- Klick Sat
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/50311
-#EXTINF:-1,|Iran|- Mostanad
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/50313
-#EXTINF:-1,|Iran|- Salamat
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/50317
-http://kuchini.site:8080/F18528/9c644af0/34620
-#EXTINF:-1,PK-NEWS| AAJ NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87154
-#EXTINF:-1,PK-NEWS| ARY NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87155
-#EXTINF:-1,PK-NEWS| ATN NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87156
-#EXTINF:-1,PK-NEWS| AWAZ TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87171
-#EXTINF:-1,PK-NEWS| BOL NEWS UHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87148
-#EXTINF:-1,PK-NEWS| CAPITAL TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87172
-#EXTINF:-1,PK-NEWS| CHANNEL 5
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87175
-#EXTINF:-1,PK-NEWS| CHANNEL 24 FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87152
-#EXTINF:-1,PK-NEWS| CITY 41
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87176
-#EXTINF:-1,PK-NEWS| CITY 42
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87177
-#EXTINF:-1,PK-NEWS| DAWN NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87160
-#EXTINF:-1,PK-NEWS| DHARTI TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87170
-#EXTINF:-1,PK-NEWS| DIN NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87169
-#EXTINF:-1,PK-NEWS| DUNYA NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87164
-#EXTINF:-1,PK-NEWS| EXPRESS NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87158
-#EXTINF:-1,PK-NEWS| GEO NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87144
-#EXTINF:-1,PK-NEWS| GEO TEZZ
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87178
-#EXTINF:-1,PK-NEWS| GNN FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87150
-#EXTINF:-1,PK-NEWS| GTV FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87149
-#EXTINF:-1,PK-NEWS| HUM NEWS FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87145
-#EXTINF:-1,PK-NEWS| KHYBER NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87157
-#EXTINF:-1,PK-NEWS| KOHINOOR NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87168
-#EXTINF:-1,PK-NEWS| KTN NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87161
-#EXTINF:-1,PK-NEWS| LAHORE NEWS FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87146
-#EXTINF:-1,PK-NEWS| LAHORE RANG FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87147
-#EXTINF:-1,PK-NEWS| MEHRAN TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87174
-#EXTINF:-1,PK-NEWS| METRO 1
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87173
-#EXTINF:-1,PK-NEWS| NEO NEWS FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87153
-#EXTINF:-1,PK-NEWS| NEWS ONE
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87163
-#EXTINF:-1,PK-NEWS| PTV NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87162
-#EXTINF:-1,PK-NEWS| PUBLIC NEWS FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87151
-#EXTINF:-1,PK-NEWS| ROHI TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87166
-#EXTINF:-1,PK-NEWS| ROZE NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87167
-#EXTINF:-1,PK-NEWS| SAAMA NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87159
-#EXTINF:-1,PK-NEWS| SINDH NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87165
-#EXTINF:-1,PK-NEWS| SUCH NEWS HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/87179
-#EXTINF:-1,|PK| HUM TV FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49157
-#EXTINF:-1,|PK| HUM SITARY
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49158
-#EXTINF:-1,|PK| MASALA TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49159
-#EXTINF:-1,|PK| ARY DIGITAL
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49160
-#EXTINF:-1,|PK| ARY FAMILY
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49161
-#EXTINF:-1,|PK| ARY ZINDAGI
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49162
-#EXTINF:-1,|PK| BOL ENTERTAINMENT FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49163
-#EXTINF:-1,|PK| GEO ENTERTAINMENT
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49164
-#EXTINF:-1,|PK| GEO KAHANI
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49165
-#EXTINF:-1,|PK| A PLUS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49166
-#EXTINF:-1,|PK| EXPRESS ENTERTAINMENT
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49167
-#EXTINF:-1,|PK| APNA CHANNEL
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49168
-#EXTINF:-1,|PK| URDU 1 HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49169
-#EXTINF:-1,|PK| TV ONE
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49170
-#EXTINF:-1,|PK| KAY-2
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49171
-#EXTINF:-1,|PK| ATV ENTERTAINMENT
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49172
-#EXTINF:-1,|PK| INDUS TV HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49173
-#EXTINF:-1,|PK| PTV GLOBAL
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49174
-#EXTINF:-1,|PK| PTV HOME
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49175
-#EXTINF:-1,|PK| PTV WORLD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49176
-#EXTINF:-1,|PK| PTV BOLAN
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49177
-#EXTINF:-1,|PK| K-21
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49178
-#EXTINF:-1,|PK| PLAY TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49179
-#EXTINF:-1,|PK| SEE TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49181
-#EXTINF:-1,|PK| KASHISH
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49182
-#EXTINF:-1,|PK| PASHTO 1
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49183
-#EXTINF:-1,|PK| LTN FAMILY
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49184
-#EXTINF:-1,|PK| KTN ENTERTAINMENT
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49185
-#EXTINF:-1,|PK| SINDH ENTERTAINMENT
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49186
-#EXTINF:-1,|PK| ARY NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49187
-#EXTINF:-1,|PK| GEO NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49188
-#EXTINF:-1,|PK| GEO TEZZ
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49189
-#EXTINF:-1,|PK| GNN FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49191
-#EXTINF:-1,UK-92 News SD*
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49193
-#EXTINF:-1,|PK| 92 NEWS FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49194
-#EXTINF:-1,|PK| BOL NEWS UHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49195
-#EXTINF:-1,|PK| HUM NEWS FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49196
-#EXTINF:-1,UK-Hum News SD*
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49197
-#EXTINF:-1,|PK| PUBLIC NEWS FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49198
-#EXTINF:-1,|PK| NEO NEWS FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49199
-#EXTINF:-1,|PK| CHANNEL 24 FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49200
-#EXTINF:-1,|PK| LAHORE NEWS FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49201
-#EXTINF:-1,|PK| LAHROE RANG FHD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49202
-#EXTINF:-1,|PK| SAAMA NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49203
-#EXTINF:-1,|PK| DUNYA NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49204
-#EXTINF:-1,|PK| EXPRESS NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49205
-#EXTINF:-1,|PK| NEWS ONE
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49206
-#EXTINF:-1,|PK| AAJ NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49207
-#EXTINF:-1,|PK| DAWN NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49208
-#EXTINF:-1,|PK| ABBTAKK NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49209
-#EXTINF:-1,|PK| CAPITAL TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49210
-#EXTINF:-1,|PK| CITY 41
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49212
-#EXTINF:-1,|PK| CITY 42
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49213
-#EXTINF:-1,|PK| ROZE NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49217
-#EXTINF:-1,|PK| KHYBER NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49219
-#EXTINF:-1,|PK| AVT KHYBER
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49220
-#EXTINF:-1,|PK| KTN NEWS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49221
-#EXTINF:-1,|PK| AWAZ TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49222
-#EXTINF:-1,|PK| ROHI TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49223
-#EXTINF:-1,|PK| DMG MUSIC HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49227
-#EXTINF:-1,|PK| ARY MUSIK
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49228
-#EXTINF:-1,|PK| 8XM HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49229
-#EXTINF:-1,|PK| RAAVI
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49230
-#EXTINF:-1,|PK| FILMAX
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49231
-#EXTINF:-1,|PK| FILMWORLD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49232
-#EXTINF:-1,|PK| CARTOON NETWORK HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49236
-#EXTINF:-1,|PK| KIDS ZONE+HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49237
-#EXTINF:-1,|PK| PTV SPORTS RAW
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49240
-#EXTINF:-1,|PK| PTV SPORTS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49241
-#EXTINF:-1,|PK| GEO SUPER
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49242
-#EXTINF:-1,|PK| DMG ACTION HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49251
-#EXTINF:-1,|PK| DMG CINEMA HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49252
-#EXTINF:-1,|PK| DMG HITS HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49253
-#EXTINF:-1,|PK| DMG MOVIES HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49254
-#EXTINF:-1,|PK| DMG PLUS HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49256
-#EXTINF:-1,|PK| PAIGHAM PASHTO
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49258
-#EXTINF:-1,|PK| CINEMACHI KIDS
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49259
-#EXTINF:-1,|PK| POP Kids HD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49261
-#EXTINF:-1,|PK| KARBALA TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49262
-#EXTINF:-1,|PK| PEACE TV ENGLISH
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49263
-#EXTINF:-1,|PK| WASEEB TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49264
-#EXTINF:-1,|PK| SAUDI SUNNAH TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49265
-#EXTINF:-1,|PK| SAUDI AL QURAN TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49266
-#EXTINF:-1,|PK| ARY QTV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49269
-#EXTINF:-1,|PK| AHLEBAIT
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49271
-#EXTINF:-1,|PK| METRO 1
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49273
-#EXTINF:-1,|PK| PEACE TV URDU
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49274
-#EXTINF:-1,|PK| HADI TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49275
-#EXTINF:-1,|PK| MADANI TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49276
-#EXTINF:-1,|PK| PAIGHAM TV PASHTO
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49277
-#EXTINF:-1,|PK| PAIGHAM TV URDU
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49278
-#EXTINF:-1,|PK| MEHRAN TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49279
-#EXTINF:-1,|PK| Star Plus FHD*
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49280
-#EXTINF:-1,|PK| Geo News SD*
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49282
-#EXTINF:-1,|PK|  New Vision (ARY World)
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49283
-#EXTINF:-1,UK-PTV Home
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49284
-#EXTINF:-1,|PK| PTV Global
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49285
-#EXTINF:-1,|PK| TV One
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49286
-#EXTINF:-1,|PK| APLUS Europe
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49287
-#EXTINF:-1,|PK| Geo Kahani SD*
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49288
-#EXTINF:-1,|PK| Geo TV SD*
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49289
-#EXTINF:-1,|PK| Ary Family
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49290
-#EXTINF:-1,|PK| Hum Masala SD*
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49291
-#EXTINF:-1,|PK| -Hum TV Europe SD*
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49292
-#EXTINF:-1,|PK| VENUS TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49293
-#EXTINF:-1,|PK| Samaa TV SD*
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49294
-#EXTINF:-1,|PK| Dunya News
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49295
-#EXTINF:-1,| AFG |  Ayeneh TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/92487
-#EXTINF:-1,| AFG |  Kayhan Televsion Afghan
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/92489
-#EXTINF:-1,| AFG |  Omid TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/92486
-#EXTINF:-1,| AFG |  Zhwandoon
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/92488
-#EXTINF:-1,| AFG | 1TV Afghanistan AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49380
-#EXTINF:-1,| AFG | Afghan Javan AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49381
-#EXTINF:-1,| AFG | Afghan Time TV AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49382
-#EXTINF:-1,| AFG | AMC TV AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49383
-#EXTINF:-1,| AFG | Arezo TV HD AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49384
-#EXTINF:-1,| AFG | Arezu TV AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49385
-#EXTINF:-1,| AFG | Aria Music AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49386
-#EXTINF:-1,| AFG | Ariana News AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49387
-#EXTINF:-1,| AFG | Ariana TV AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49388
-#EXTINF:-1,| AFG | Ariana USA AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49389
-#EXTINF:-1,| AFG | Ariana World AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49390
-#EXTINF:-1,| AFG | ATN News AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49391
-#EXTINF:-1,| AFG | ATN INT HD AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49392
-#EXTINF:-1,| AFG | 1 TV HD AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49393
-#EXTINF:-1,| AFG | Ayna TV AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49394
-#EXTINF:-1,| AFG | Bahar TV HD AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49395
-#EXTINF:-1,| AFG | Batur AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49396
-#EXTINF:-1,| AFG | Hazara World TV AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49397
-#EXTINF:-1,| AFG | Hewad TV AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49398
-#EXTINF:-1,| AFG | Iman TV AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49399
-#EXTINF:-1,| AFG | Kana TV HD AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49400
-#EXTINF:-1,| AFG | Zarin TV AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49401
-#EXTINF:-1,| AFG | Kabul Tv AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49402
-#EXTINF:-1,| AFG | Kayhan TV HD AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49403
-#EXTINF:-1,| AFG | Khurshid TV AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49404
-#EXTINF:-1,| AFG | Payam E Afghanistan AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49405
-#EXTINF:-1,| AFG | Lemar HD AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49406
-#EXTINF:-1,| AFG | Maiwand TV AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49407
-#EXTINF:-1,| AFG | RTA NEWS AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49408
-#EXTINF:-1,| AFG | Naween TV HD AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49409
-#EXTINF:-1,| AFG | RTA AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49410
-#EXTINF:-1,| AFG | Kabul News TV AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49411
-#EXTINF:-1,| AFG | Noor TV AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49412
-#EXTINF:-1,| AFG | One TV AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49413
-#EXTINF:-1,| AFG | Pashto TV AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49414
-#EXTINF:-1,| AFG | Payame Afghan AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49415
-#EXTINF:-1,| AFG | Shamshad AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49416
-#EXTINF:-1,| AFG | Srood TV AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49417
-#EXTINF:-1,| AFG | Tamadon Afghan AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49418
-#EXTINF:-1,| AFG | Tolo HD AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49419
-#EXTINF:-1,| AFG | Tolo News HD AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49420
-#EXTINF:-1,| AFG | Tuti TV AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49421
-#EXTINF:-1,| AFG | Watan Tv AFG
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49422
+#EXTINF:-1,YE: ADEN TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/266324
+#EXTINF:-1,YE: Alghad Almushreq
+http://quality-restream.com:8080/ea615d19/7ea896edea/281959
+#EXTINF:-1,YE: Almahriah
+http://quality-restream.com:8080/ea615d19/7ea896edea/266326
+#EXTINF:-1,YE: Almasirah Mubasher
+http://quality-restream.com:8080/ea615d19/7ea896edea/166341
+#EXTINF:-1,YE: AlMasirah TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/166245
+#EXTINF:-1,YE: AlSaeedah
+http://quality-restream.com:8080/ea615d19/7ea896edea/266327
+#EXTINF:-1,YE: BELQEES
+http://quality-restream.com:8080/ea615d19/7ea896edea/266323
+#EXTINF:-1,YE: Hadramoot
+http://quality-restream.com:8080/ea615d19/7ea896edea/266328
+#EXTINF:-1,YE: Suhail TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/268914
+#EXTINF:-1,YE: Yemen SHABAB
+http://quality-restream.com:8080/ea615d19/7ea896edea/266321
+#EXTINF:-1,YE: Yemen Today TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/266320
+#EXTINF:-1,YE: Yemen TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/266322
+#EXTINF:-1,PS: Ajyal
+http://quality-restream.com:8080/ea615d19/7ea896edea/1293
+#EXTINF:-1,PS: Al Aqsa
+http://quality-restream.com:8080/ea615d19/7ea896edea/284411
+#EXTINF:-1,PS: Al Fajer TV 2
+http://quality-restream.com:8080/ea615d19/7ea896edea/283275
+#EXTINF:-1,PS: Al Haqiqa
+http://quality-restream.com:8080/ea615d19/7ea896edea/266282
+#EXTINF:-1,PS: Al Quds Today TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/21471
+#EXTINF:-1,PS: Alkofiya TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/266281
+#EXTINF:-1,PS: Awdeh
+http://quality-restream.com:8080/ea615d19/7ea896edea/85570
+#EXTINF:-1,PS: Maan TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/11936
+#EXTINF:-1,PS: Marah FM
+http://quality-restream.com:8080/ea615d19/7ea896edea/284415
+#EXTINF:-1,PS: Mawal
+http://quality-restream.com:8080/ea615d19/7ea896edea/284416
+#EXTINF:-1,PS: Musawa
+http://quality-restream.com:8080/ea615d19/7ea896edea/165025
+#EXTINF:-1,PS: Nablus TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/225385
+#EXTINF:-1,PS: Palestine Mobasher
+http://quality-restream.com:8080/ea615d19/7ea896edea/279682
+#EXTINF:-1,PS: Palestine Sport
+http://quality-restream.com:8080/ea615d19/7ea896edea/266284
+#EXTINF:-1,PS: Palestine Today
+http://quality-restream.com:8080/ea615d19/7ea896edea/11195
+#EXTINF:-1,PS: Palestine TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/266278
+#EXTINF:-1,PS: Palestinian TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/43747
+#EXTINF:-1,PS: Rajeen TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/284422
+#EXTINF:-1,PS: Shabab FM
+http://quality-restream.com:8080/ea615d19/7ea896edea/284423
+#EXTINF:-1,PS: Watar TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/284424
+#EXTINF:-1,PS: Wattan TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/284425
+#EXTINF:-1,LY: 218 Libya
+http://quality-restream.com:8080/ea615d19/7ea896edea/11239
+#EXTINF:-1,LY: 218 news
+http://quality-restream.com:8080/ea615d19/7ea896edea/11242
+#EXTINF:-1,LY: Al Ahrar TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/13645
+#EXTINF:-1,LY: Al Wataniya
+http://quality-restream.com:8080/ea615d19/7ea896edea/268583
+#EXTINF:-1,LY: Alrasmia Channel
+http://quality-restream.com:8080/ea615d19/7ea896edea/268619
+#EXTINF:-1,LY: Daawah TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/268584
+#EXTINF:-1,LY: February TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/11258
+#EXTINF:-1,LY: Jamahiria TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/283982
+#EXTINF:-1,LY: Libya Alhadath
+http://quality-restream.com:8080/ea615d19/7ea896edea/11165
+#EXTINF:-1,LY: Libya Sport TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/269430
+#EXTINF:-1,LY: Libyas Channel
+http://quality-restream.com:8080/ea615d19/7ea896edea/11182
+#EXTINF:-1,LY: Tanasuh TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/44286
+#EXTINF:-1,PK: 24 News
+http://quality-restream.com:8080/ea615d19/7ea896edea/1403
+#EXTINF:-1,PK: 8XM
+http://quality-restream.com:8080/ea615d19/7ea896edea/82577
+#EXTINF:-1,PK: 92 News
+http://quality-restream.com:8080/ea615d19/7ea896edea/1402
+#EXTINF:-1,PK: A Plus
+http://quality-restream.com:8080/ea615d19/7ea896edea/49504
+#EXTINF:-1,PK: A Sports
+http://quality-restream.com:8080/ea615d19/7ea896edea/295025
+#EXTINF:-1,PK: Aaj Entertainment
+http://quality-restream.com:8080/ea615d19/7ea896edea/19748
+#EXTINF:-1,PK: Aaj News
+http://quality-restream.com:8080/ea615d19/7ea896edea/1401
+#EXTINF:-1,PK: Abb Takk
+http://quality-restream.com:8080/ea615d19/7ea896edea/1400
+#EXTINF:-1,PK: Akaal Channel
+http://quality-restream.com:8080/ea615d19/7ea896edea/193653
+#EXTINF:-1,PK: Apna Channel
+http://quality-restream.com:8080/ea615d19/7ea896edea/76824
+#EXTINF:-1,PK: ARY Digital Asia
+http://quality-restream.com:8080/ea615d19/7ea896edea/49510
+#EXTINF:-1,PK: ARY Musik
+http://quality-restream.com:8080/ea615d19/7ea896edea/1398
+#EXTINF:-1,PK: ARY News
+http://quality-restream.com:8080/ea615d19/7ea896edea/1397
+#EXTINF:-1,PK: ARY QTV
+http://quality-restream.com:8080/ea615d19/7ea896edea/5058
+#EXTINF:-1,PK: ARY World
+http://quality-restream.com:8080/ea615d19/7ea896edea/49494
+#EXTINF:-1,PK: ARY Zindagi
+http://quality-restream.com:8080/ea615d19/7ea896edea/1396
+#EXTINF:-1,PK: ATV
+http://quality-restream.com:8080/ea615d19/7ea896edea/34630
+#EXTINF:-1,PK: AVT Khyber
+http://quality-restream.com:8080/ea615d19/7ea896edea/287724
+#EXTINF:-1,PK: Awaz TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/197634
+#EXTINF:-1,PK: Bol Entertainment
+http://quality-restream.com:8080/ea615d19/7ea896edea/49517
+#EXTINF:-1,PK: Bol News
+http://quality-restream.com:8080/ea615d19/7ea896edea/1395
+#EXTINF:-1,PK: Can Bangla TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/286198
+#EXTINF:-1,PK: Canada One
+http://quality-restream.com:8080/ea615d19/7ea896edea/147405
+#EXTINF:-1,PK: Capital TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/16625
+#EXTINF:-1,PK: Channel Five
+http://quality-restream.com:8080/ea615d19/7ea896edea/49501
+#EXTINF:-1,PK: City 41
+http://quality-restream.com:8080/ea615d19/7ea896edea/192079
+#EXTINF:-1,PK: City 42
+http://quality-restream.com:8080/ea615d19/7ea896edea/1394
+#EXTINF:-1,PK: Dawn News
+http://quality-restream.com:8080/ea615d19/7ea896edea/5056
+#EXTINF:-1,PK: Discovery Pakistan
+http://quality-restream.com:8080/ea615d19/7ea896edea/267107
+#EXTINF:-1,PK: Dunya News
+http://quality-restream.com:8080/ea615d19/7ea896edea/1393
+#EXTINF:-1,PK: EAwaz TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/286205
+#EXTINF:-1,PK: Eman Channel
+http://quality-restream.com:8080/ea615d19/7ea896edea/197123
+#EXTINF:-1,PK: Eternal Life TV Network
+http://quality-restream.com:8080/ea615d19/7ea896edea/275976
+#EXTINF:-1,PK: Express Entertainment
+http://quality-restream.com:8080/ea615d19/7ea896edea/147052
+#EXTINF:-1,PK: Express News
+http://quality-restream.com:8080/ea615d19/7ea896edea/5105
+#EXTINF:-1,PK: Fazal TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/49600
+#EXTINF:-1,PK: Film World
+http://quality-restream.com:8080/ea615d19/7ea896edea/82238
+#EXTINF:-1,PK: Filmax
+http://quality-restream.com:8080/ea615d19/7ea896edea/197124
+#EXTINF:-1,PK: Geo Kahani
+http://quality-restream.com:8080/ea615d19/7ea896edea/1392
+#EXTINF:-1,PK: Geo News
+http://quality-restream.com:8080/ea615d19/7ea896edea/1391
+#EXTINF:-1,PK: Geo Super
+http://quality-restream.com:8080/ea615d19/7ea896edea/16626
+#EXTINF:-1,PK: Geo Tez
+http://quality-restream.com:8080/ea615d19/7ea896edea/5106
+#EXTINF:-1,PK: Geo TV Network
+http://quality-restream.com:8080/ea615d19/7ea896edea/1389
+#EXTINF:-1,PK: Hidayat TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/193651
+#EXTINF:-1,PK: Hum Masala
+http://quality-restream.com:8080/ea615d19/7ea896edea/19746
+#EXTINF:-1,PK: Hum News
+http://quality-restream.com:8080/ea615d19/7ea896edea/49493
+#EXTINF:-1,PK: Hum Sitaray
+http://quality-restream.com:8080/ea615d19/7ea896edea/1386
+#EXTINF:-1,PK: Hum TV Europe
+http://quality-restream.com:8080/ea615d19/7ea896edea/1387
+#EXTINF:-1,PK: Isaac TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/275949
+#EXTINF:-1,PK: Islam Channel
+http://quality-restream.com:8080/ea615d19/7ea896edea/198251
+#EXTINF:-1,PK: Jalwa
+http://quality-restream.com:8080/ea615d19/7ea896edea/226395
+#EXTINF:-1,PK: Joo Music
+http://quality-restream.com:8080/ea615d19/7ea896edea/168909
+#EXTINF:-1,PK: Kay 2
+http://quality-restream.com:8080/ea615d19/7ea896edea/1384
+#EXTINF:-1,PK: Khyber Middle East TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/16991
+#EXTINF:-1,PK: Khyber News
+http://quality-restream.com:8080/ea615d19/7ea896edea/49533
+#EXTINF:-1,PK: King TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/267425
+#EXTINF:-1,PK: Kohenoor News
+http://quality-restream.com:8080/ea615d19/7ea896edea/76827
+#EXTINF:-1,PK: KTN
+http://quality-restream.com:8080/ea615d19/7ea896edea/166013
+#EXTINF:-1,PK: KTN News
+http://quality-restream.com:8080/ea615d19/7ea896edea/157332
+#EXTINF:-1,PK: Lahore News
+http://quality-restream.com:8080/ea615d19/7ea896edea/18916
+#EXTINF:-1,PK: Lahore Rang
+http://quality-restream.com:8080/ea615d19/7ea896edea/267564
+#EXTINF:-1,PK: LTN Family
+http://quality-restream.com:8080/ea615d19/7ea896edea/267553
+#EXTINF:-1,PK: Madani Channel Urdu
+http://quality-restream.com:8080/ea615d19/7ea896edea/121144
+#EXTINF:-1,PK: Minhaj
+http://quality-restream.com:8080/ea615d19/7ea896edea/196573
+#EXTINF:-1,PK: Mission Asia
+http://quality-restream.com:8080/ea615d19/7ea896edea/284256
+#EXTINF:-1,PK: Neo News
+http://quality-restream.com:8080/ea615d19/7ea896edea/1383
+#EXTINF:-1,PK: News One
+http://quality-restream.com:8080/ea615d19/7ea896edea/16994
+#EXTINF:-1,PK: Noor TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/76821
+#EXTINF:-1,PK: NRB
+http://quality-restream.com:8080/ea615d19/7ea896edea/267489
+#EXTINF:-1,PK: OMNI 1
+http://quality-restream.com:8080/ea615d19/7ea896edea/453
+#EXTINF:-1,PK: OMNI 2
+http://quality-restream.com:8080/ea615d19/7ea896edea/452
+#EXTINF:-1,PK: One Golf
+http://quality-restream.com:8080/ea615d19/7ea896edea/287727
+#EXTINF:-1,PK: Pakus TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/49529
+#EXTINF:-1,PK: Pashto 1
+http://quality-restream.com:8080/ea615d19/7ea896edea/34620
+#EXTINF:-1,PK: Peace TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/287043
+#EXTINF:-1,PK: Peace TV Urdu
+http://quality-restream.com:8080/ea615d19/7ea896edea/157334
+#EXTINF:-1,PK: Play Entertainment
+http://quality-restream.com:8080/ea615d19/7ea896edea/49532
+#EXTINF:-1,PK: PTV Global
+http://quality-restream.com:8080/ea615d19/7ea896edea/1382
+#EXTINF:-1,PK: PTV Home
+http://quality-restream.com:8080/ea615d19/7ea896edea/1381
+#EXTINF:-1,PK: PTV News
+http://quality-restream.com:8080/ea615d19/7ea896edea/1380
+#EXTINF:-1,PK: PTV Sports
+http://quality-restream.com:8080/ea615d19/7ea896edea/16633
+#EXTINF:-1,PK: PTV World
+http://quality-restream.com:8080/ea615d19/7ea896edea/1379
+#EXTINF:-1,PK: Public News
+http://quality-restream.com:8080/ea615d19/7ea896edea/49522
+#EXTINF:-1,PK: Raavi TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/196563
+#EXTINF:-1,PK: Raham TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/196564
+#EXTINF:-1,PK: Rohi TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/197122
+#EXTINF:-1,PK: Roze News
+http://quality-restream.com:8080/ea615d19/7ea896edea/21686
+#EXTINF:-1,PK: Samaa TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/1377
+#EXTINF:-1,PK: See TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/193652
+#EXTINF:-1,PK: Sindh TV News
+http://quality-restream.com:8080/ea615d19/7ea896edea/226398
+#EXTINF:-1,PK: Sony 8
+http://quality-restream.com:8080/ea615d19/7ea896edea/196248
+#EXTINF:-1,PK: Such TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/197116
+#EXTINF:-1,PK: Tag TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/49515
+#EXTINF:-1,PK: Toronto 360 TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/49513
+#EXTINF:-1,PK: TV One Global
+http://quality-restream.com:8080/ea615d19/7ea896edea/5108
+#EXTINF:-1,PK: UK 44
+http://quality-restream.com:8080/ea615d19/7ea896edea/196565
+#EXTINF:-1,PK: Urdu 1
+http://quality-restream.com:8080/ea615d19/7ea896edea/1376
+#EXTINF:-1,PK: Waseb TV
+http://quality-restream.com:8080/ea615d19/7ea896edea/1375
