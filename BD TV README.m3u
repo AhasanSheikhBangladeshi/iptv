@@ -94,11 +94,11 @@ https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"  group-title="India-Pakistani",ARY NEWS (PK)
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49187
+http://quality-restream.com:8080/ea615d19/7ea896edea/1397
 #EXTINF:-1 ch-id="ARY DIGITAL (PK)" tvg-logo="https://1.bp.blogspot.com/--wDE2l82PT0/YRepmImjWvI/AAAAAAAAA4g/QfuH2Q9yP_I7D6RrkC5IiaEGRLRvPg6JwCLcBGAsYHQ/s200/PicsArt_08-14-05.01.13.jpg"  group-title="India-Pakistani",ARY DIGITAL (PK)
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49160
+http://quality-restream.com:8080/ea615d19/7ea896edea/49510
 #EXTINF:-1 ch-id="GEO HD (PK)" tvg-logo="https://1.bp.blogspot.com/-fktS4IURByc/YO43k9xSajI/AAAAAAAAAbM/gex7jop3fIQ62kO64RiVFEmqfg8439VTQCLcBGAsYHQ/s200/PicsArt_07-14-06.29.55.jpg"  group-title="India-Pakistani",GEO HD (PK)
-http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
+http://quality-restream.com:8080/ea615d19/7ea896edea/1389
 #EXTINF:-1,tvg-logo="http://www.arirang.com/images/index/arirang.png" group-title="General",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1tvg-logo="https://static.urdu.news18.com/static-urdu/2020/03/Urdu1-1.png" group-title="India-pakistani",News18 Urdu
@@ -107,8 +107,8 @@ https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
 http://tv.googledrivelinks.com:8088/live.php?c=Zee_Salaam&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="" group-title="General",Saudi TV English 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UChIhClGNG1JJcYoptiKQN6w
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49294
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News Tv
+http://quality-restream.com:8080/ea615d19/7ea896edea/1377
 #EXTINF:-1 tvg-id="" status="online",Sama Dubai (1080p)
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="Documentary", Discovery Channel Bengali
@@ -122,11 +122,9 @@ https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/
 #EXTINF:-1 tvg-name="ATN National" tvg-logo="https://i.imgur.com/m6tBPia.png" group-title="AFGHANISTAN",ATN National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:1 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png"https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png group-title="Religious",ARY QTV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49269
-#EXTINF:-1 tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="Relegious",Madani TV Bangla
-https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+http://quality-restream.com:8080/ea615d19/7ea896edea/5058
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/NWljgKa.png",Eman Channel (576p)
-https://cdn5.iqsat.net:443/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/chunks.m3u8
+http://quality-restream.com:8080/ea615d19/7ea896edea/197123
 #EXTINF:-1 tvg-id="AlMaaliTV.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="https://i.imgur.com/l7zer94.png" group-title="Arabic",Al Maali TV (1080p)
 http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/970
 #EXTINF:0,Rotana Khalijia HD (1080p)[Saudi Arab]
@@ -170,7 +168,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Madan
 #EXTINF:-1 tvg-logo="https://dawateislamimidlands.net/wp-content/uploads/2020/01/Madani-Channel-Section-1.png" group-title="Religious",Madani Channel English 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MadaniChannelEnglishLive
 #EXTINF:-1 tvg-id=Geo News.pk" tvg-name="Geo news TV" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="India-Pakistani",GEO news
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49188
+http://quality-restream.com:8080/ea615d19/7ea896edea/1391
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="NEWS", CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-name="Tolo News" tvg-logo="https://www.allfreepng.com/storage/images/Tolo%20News-medium.png" group-title="AFGHANISTAN",Tolo News
