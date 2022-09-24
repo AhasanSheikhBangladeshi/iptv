@@ -200,7 +200,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVWo
 #EXTINF:-1 tvg-id="PTVHome.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/mJxpdBU.png" group-title="Pakistani",PTV Home (238p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVHomeEntertainment
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/LyqGxwv.jpg" group-title="News",PTV News (1080p) [Not 24/7]
-http://kuchini.site:8080/F18528/9c644af0/1380
+http://quality-restream.com:8080/ea615d19/7ea896edea/1380
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="Indonesia Channel",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w637025924_b744100_sleng.m3u8
 #EXTINF:-1 tvg-id="YemenTV.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.elwekalanews.net/UploadCache/libfiles/7/9/600x338o/857.png" group-title="",Yemen TV 
