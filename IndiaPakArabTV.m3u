@@ -1,25 +1,19 @@
-#EXTINF:-1,|Oman| Oman tv
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/1319
-#EXTINF:-1,|Oman| OMAN TV Live SD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/1318
-#EXTINF:-1,|OMAN| OMAN TV Culture SD
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49591
-#EXTINF:-1,|Yemen|  Al mahriah
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49512
-#EXTINF:-1,|JOR| AlSaeedah
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49513
-#EXTINF:-1,|YEMEN| Hadramoot
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/49594
-#EXTINF:-1,[YEMEN] YEMEN SHABAB
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/10079
-#EXTINF:-1,[Yemen] Yemen Today
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/10078
-#EXTINF:-1,[Yemen] Yemen Tv
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/1265
-#EXTINF:-1,[Yemen] BELQEES
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/10077
-#EXTINF:-1,[YEMEN] ADEN TV
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/28177
+#EXTINF:-1,------- Yemen Channels -------
+http://xtv.ooo:8080/444455/444455/224866
+#EXTINF:-1,|AR| YEMEN TV
+http://xtv.ooo:8080/444455/444455/224867
+#EXTINF:-1,|AR| YEMEN SHABAB
+http://xtv.ooo:8080/444455/444455/224868
+#EXTINF:-1,|AR| ALHAWYAH TV
+http://xtv.ooo:8080/444455/444455/224869
+#EXTINF:-1,|AR| AL ERTH AL NABAWI
+http://xtv.ooo:8080/444455/444455/224870
+#EXTINF:-1,|AR| SUHAIL TV
+http://xtv.ooo:8080/444455/444455/224871
+#EXTINF:-1,|AR| ALGHAD TV
+http://xtv.ooo:8080/444455/444455/224872
+#EXTINF:-1,|AR| AL MAHRAH TV
+http://xtv.ooo:8080/444455/444455/224873
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
 https://cdnw.telewebion.com:443/tv1/live/240p/index.m3u8
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
