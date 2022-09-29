@@ -38,6 +38,12 @@ https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-id="17" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Ali TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/alitv.jpg",Ali TV (1080)
 https://alitv.livebox.co.in/alitvhls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: BELQEES" tvg-logo="https://asiagrandiptv.us/logo/belqees.png" group-title="ARAB",AR: BELQEES
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/41300
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL HAWYAH TV" tvg-logo="https://asiagrandiptv.us/logo/alhawyahtv.png" group-title="ARAB",AR: AL HAWYAH TV
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/41297
+EXTINF:-1 tvg-id="" tvg-name="AR: AL MASIRAH MUBASHER" tvg-logo="https://asiagrandiptv.us/logo//ALMASIRAHMUBASHER.png" group-title="ARAB",AR: AL MASIRAH MUBASHER
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/41298
 #EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN EDU" tvg-logo="https://asiagrandiptv.us/logo//YEMENEDU.png" group-title="ARAB",AR: YEMEN EDU
 http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/6517
 #EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN SAMA TV" tvg-logo="https://asiagrandiptv.us/logo//YEMENSAMATV.jpg" group-title="ARAB",AR: YEMEN SAMA TV
@@ -48,6 +54,8 @@ http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/41294
 http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/6521
 #EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN TV" tvg-logo="https://asiagrandiptv.us/logo/yementv.png" group-title="ARAB",AR: YEMEN TV
 http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/174598
+EXTINF:-1 tvg-id="" tvg-name="AR: ADEN TV" tvg-logo="https://asiagrandiptv.us/logo/adentv.png" group-title="ARAB",AR: ADEN TV
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/41295
 #EXTINF:-1 tvg-id="" tvg-name="PK: A SPORTS HD" tvg-logo="https://asiagrandiptv.us/logo//ASPORTS.jpg" group-title="PAKISTAN",PK: A SPORTS HD
 http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/385961
 #EXTINF:-1 tvg-id="" tvg-name="PK: 24 NEWS HD" tvg-logo="https://asiagrandiptv.us/logo//24news.png" group-title="PAKISTAN",PK: 24 NEWS HD
