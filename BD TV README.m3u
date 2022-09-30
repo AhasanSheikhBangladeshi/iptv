@@ -203,10 +203,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVHo
 http://quality-restream.com:8080/ea615d19/7ea896edea/1380
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="Indonesia Channel",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w637025924_b744100_sleng.m3u8
-#EXTINF:-1 tvg-id="YemenTV.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.elwekalanews.net/UploadCache/libfiles/7/9/600x338o/857.png" group-title="",Yemen TV 
-http://sniperstv.vip:8080/dz/dz/1737
-#EXTINF:-1 tvg-id="BahrainInternational.BH" tvg-country="BAH" tvg-language="Arabic" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/bahrain_int.jpg" Bahrain International TV
-https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/chunklist_w1446657044_b1700000.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber (720p)
 http://84.22.33.214/TRTHaber/index.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (1080p)
@@ -222,7 +218,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT Arabi (1080p)
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="" group-title="",Yemen Shabab [100]
-http://wlash.dimapro.xyz:8080/3030/6060/38363
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/41294
 #EXTINF: group-title="News" tvg-id="SuhailTV.ye" tvg-name="Suhail TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtJwlD-ms5DKPuh6PAu45IK9_H5-vN-oPpxg&usqp=CAU" group-tile="Relegious",Suhail TV
 http://82.212.74.98:8000/live/7726.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
@@ -240,11 +236,11 @@ https://video.yementdy.tv:443/hls/yementoday_src.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="none" group-title="General",Al Sharqiya (1080p)
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV1.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="",KTV 1 (1080p)
-http://quality-restream.com:8080/ea615d19/7ea896edea/3747
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/6300
 #EXTINF:-1 tvg-id="KTV2.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg"  group-title="",KTV 2 (1080p)
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/1349
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/6301
 #EXTINF:-1 tvg-id="KTVEthraa.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif"  group-title="",KTV Ethraa (1080p) 
-http://tslower.rfdte99.com:2082/Yazid11_886588/UsyHmr4Y/1351
+http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/6302
 #EXTINF:-1 tvg-id="KTVSport.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg"  group-title="Sports",KTV Sport (1080p)
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1250
 EXTINF:-1 tvg-id="HaditvDua" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Dua Channel Hadi TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/dua-channel.jpg",Dua Channel (1080)
