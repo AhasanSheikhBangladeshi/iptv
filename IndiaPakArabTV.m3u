@@ -38,227 +38,67 @@ https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-id="17" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Ali TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/alitv.jpg",Ali TV (1080)
 https://alitv.livebox.co.in/alitvhls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: BELQEES" tvg-logo="https://asiagrandiptv.us/logo/belqees.png" group-title="ARAB",AR: BELQEES
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/41300
-#EXTINF:-1 tvg-id="" tvg-name="AR: AL HAWYAH TV" tvg-logo="https://asiagrandiptv.us/logo/alhawyahtv.png" group-title="ARAB",AR: AL HAWYAH TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/41297
-EXTINF:-1 tvg-id="" tvg-name="AR: AL MASIRAH MUBASHER" tvg-logo="https://asiagrandiptv.us/logo//ALMASIRAHMUBASHER.png" group-title="ARAB",AR: AL MASIRAH MUBASHER
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/41298
-#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN EDU" tvg-logo="https://asiagrandiptv.us/logo//YEMENEDU.png" group-title="ARAB",AR: YEMEN EDU
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/6517
-#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN SAMA TV" tvg-logo="https://asiagrandiptv.us/logo//YEMENSAMATV.jpg" group-title="ARAB",AR: YEMEN SAMA TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/6518
-#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN SHABAB" tvg-logo="https://asiagrandiptv.us/logo/yemenshabab.png" group-title="ARAB",AR: YEMEN SHABAB
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/41294
-#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN TODAY" tvg-logo="https://asiagrandiptv.us/logo/yementoday.png" group-title="ARAB",AR: YEMEN TODAY
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/6521
-#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN TV" tvg-logo="https://asiagrandiptv.us/logo/yementv.png" group-title="ARAB",AR: YEMEN TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/174598
-EXTINF:-1 tvg-id="" tvg-name="AR: ADEN TV" tvg-logo="https://asiagrandiptv.us/logo/adentv.png" group-title="ARAB",AR: ADEN TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/41295
-#EXTINF:-1 tvg-id="" tvg-name="PK: A SPORTS HD" tvg-logo="https://asiagrandiptv.us/logo//ASPORTS.jpg" group-title="PAKISTAN",PK: A SPORTS HD
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/385961
-#EXTINF:-1 tvg-id="" tvg-name="PK: 24 NEWS HD" tvg-logo="https://asiagrandiptv.us/logo//24news.png" group-title="PAKISTAN",PK: 24 NEWS HD
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10504
-#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK: 92 NEWS" tvg-logo="https://asiagrandiptv.us/logo/92news.png" group-title="PAKISTAN",PK: 92 NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/3084
-#EXTINF:-1 tvg-id="" tvg-name="PK: A PLUS" tvg-logo="https://asiagrandiptv.us/logo/aplus.png" group-title="PAKISTAN",PK: A PLUS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/3080
-#EXTINF:-1 tvg-id="" tvg-name="PK: AAJ ENTERTAINMENT" tvg-logo="https://asiagrandiptv.us/logo/aajentertainment.png" group-title="PAKISTAN",PK: AAJ ENTERTAINMENT
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5468
-#EXTINF:-1 tvg-id="aajnews.pk" tvg-name="PK: AAJ NEWS" tvg-logo="https://asiagrandiptv.us/logo/aajnews.png" group-title="PAKISTAN",PK: AAJ NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5467
-#EXTINF:-1 tvg-id="" tvg-name="PK: ABBTAK NEWS" tvg-logo="https://asiagrandiptv.us/logo/abbtaknews.png" group-title="PAKISTAN",PK: ABBTAK NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/3082
-#EXTINF:-1 tvg-id="" tvg-name="PK: AFGHAN TV" tvg-logo="https://asiagrandiptv.us/logo//AFGHANTV.png" group-title="PAKISTAN",PK: AFGHAN TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5530
-#EXTINF:-1 tvg-id="" tvg-name="PK: APNA CHANNEL" tvg-logo="https://asiagrandiptv.us/logo/apnachannel.png" group-title="PAKISTAN",PK: APNA CHANNEL
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/158822
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARUJ TV" tvg-logo="https://asiagrandiptv.us/logo//ARUJTV.png" group-title="PAKISTAN",PK: ARUJ TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10511
-#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK: ARY DIGITAL" tvg-logo="https://asiagrandiptv.us/logo/arydigital.png" group-title="PAKISTAN",PK: ARY DIGITAL
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10512
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY FAMILY" tvg-logo="https://asiagrandiptv.us/logo/aryfamily.png" group-title="PAKISTAN",PK: ARY FAMILY
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5423
-#EXTINF:-1 tvg-id="arynews.eg" tvg-name="PK: ARY NEWS" tvg-logo="https://asiagrandiptv.us/logo/arynews.png" group-title="PAKISTAN",PK: ARY NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/3077
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY NEWS WORLD" tvg-logo="https://asiagrandiptv.us/logo//ARYNEWSWORLD.jpg" group-title="PAKISTAN",PK: ARY NEWS WORLD
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10516
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY QTV" tvg-logo="https://asiagrandiptv.us/logo/aryqtv.png" group-title="PAKISTAN",PK: ARY QTV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/54105
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY ZAUQ" tvg-logo="https://asiagrandiptv.us/logo/aryzauq.png" group-title="PAKISTAN",PK: ARY ZAUQ
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/36486
-#EXTINF:-1 tvg-id="aryzindagi.pk" tvg-name="PK: ARY ZINDAGI" tvg-logo="https://asiagrandiptv.us/logo/aryzindagi.png" group-title="PAKISTAN",PK: ARY ZINDAGI
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/3074
-#EXTINF:-1 tvg-id="" tvg-name="PK: ATV" tvg-logo="https://asiagrandiptv.us/logo/atv.png" group-title="PAKISTAN",PK: ATV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5505
-#EXTINF:-1 tvg-id="" tvg-name="PK: AVT KHYBER TV" tvg-logo="https://asiagrandiptv.us/logo//AVTKHYBERTV.png" group-title="PAKISTAN",PK: AVT KHYBER TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5533
-#EXTINF:-1 tvg-id="" tvg-name="PK: AWAZ ENTERTAINMENT" tvg-logo="https://asiagrandiptv.us/logo//AWAZENTERTAINMENT.jpg" group-title="PAKISTAN",PK: AWAZ ENTERTAINMENT
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10656
-#EXTINF:-1 tvg-id="" tvg-name="PK: AWAZ TV" tvg-logo="https://asiagrandiptv.us/logo//AWAZTV.jpg" group-title="PAKISTAN",PK: AWAZ TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5525
-#EXTINF:-1 tvg-id="" tvg-name="PK: BOL ENTERTAINMENT" tvg-logo="https://asiagrandiptv.us/logo//BOLENTERTAINMENT.png" group-title="PAKISTAN",PK: BOL ENTERTAINMENT
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5435
-#EXTINF:-1 tvg-id="" tvg-name="PK: BOL NEWS URDU" tvg-logo="https://asiagrandiptv.us/logo//BOLNEWSURDU.png" group-title="PAKISTAN",PK: BOL NEWS URDU
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/34686
-#EXTINF:-1 tvg-id="" tvg-name="PK: CAPITAL NEWS" tvg-logo="https://asiagrandiptv.us/logo/capitalnews.png" group-title="PAKISTAN",PK: CAPITAL NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/3073
-#EXTINF:-1 tvg-id="" tvg-name="PK: CAPITAL TV" tvg-logo="https://asiagrandiptv.us/logo/capitaltv.png" group-title="PAKISTAN",PK: CAPITAL TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/175105
-#EXTINF:-1 tvg-id="" tvg-name="PK: CHANNEL 5 NEWS" tvg-logo="https://asiagrandiptv.us/logo/channel5news.png" group-title="PAKISTAN",PK: CHANNEL 5 NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/3054
-#EXTINF:-1 tvg-id="" tvg-name="PK: CITY 41 NEWS" tvg-logo="https://asiagrandiptv.us/logo/city41news.png" group-title="PAKISTAN",PK: CITY 41 NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10522
-#EXTINF:-1 tvg-id="" tvg-name="PK: CITY 42 NEWS" tvg-logo="https://asiagrandiptv.us/logo/city42news.png" group-title="PAKISTAN",PK: CITY 42 NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10523
-#EXTINF:-1 tvg-id="" tvg-name="PK: CITY 44 NEWS" tvg-logo="https://asiagrandiptv.us/logo//CITY4NEWS.jpg" group-title="PAKISTAN",PK: CITY 44 NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/34745
-#EXTINF:-1 tvg-id="" tvg-name="PK: DAWN NEWS" tvg-logo="https://asiagrandiptv.us/logo/dawnnews.png" group-title="PAKISTAN",PK: DAWN NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/3093
-#EXTINF:-1 tvg-id="" tvg-name="PK: DHARTI TV" tvg-logo="https://asiagrandiptv.us/logo//DHARTITV.jpg" group-title="PAKISTAN",PK: DHARTI TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/74484
-#EXTINF:-1 tvg-id="" tvg-name="PK: DIN NEWS" tvg-logo="https://asiagrandiptv.us/logo/dinnews.png" group-title="PAKISTAN",PK: DIN NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5462
-#EXTINF:-1 tvg-id="dunyanews.pk" tvg-name="PK: DUNYA NEWS" tvg-logo="https://asiagrandiptv.us/logo/dunyanews.png" group-title="PAKISTAN",PK: DUNYA NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10594
-#EXTINF:-1 tvg-id="" tvg-name="PK: DUNYA TV" tvg-logo="https://asiagrandiptv.us/logo/dunyatv.png" group-title="PAKISTAN",PK: DUNYA TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/236457
-#EXTINF:-1 tvg-id="" tvg-name="PK: EMAN TV" tvg-logo="https://asiagrandiptv.us/logo//EMANTV.jpg" group-title="PAKISTAN",PK: EMAN TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/74485
-#EXTINF:-1 tvg-id="" tvg-name="PK: EXPRESS ENTERTAINMENT" tvg-logo="https://asiagrandiptv.us/logo/expressentertainment.png" group-title="PAKISTAN",PK: EXPRESS ENTERTAINMENT
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/3069
-#EXTINF:-1 tvg-id="expressnews.pk" tvg-name="PK: EXPRESS NEWS" tvg-logo="https://asiagrandiptv.us/logo/expressnews.png" group-title="PAKISTAN",PK: EXPRESS NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10528
-#EXTINF:-1 tvg-id="" tvg-name="PK: FILMAX" tvg-logo="https://asiagrandiptv.us/logo/filmax.png" group-title="PAKISTAN",PK: FILMAX
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/158828
-#EXTINF:-1 tvg-id="" tvg-name="PK: GEO ENTERTAINMENT" tvg-logo="https://asiagrandiptv.us/logo/geoentertainment.png" group-title="PAKISTAN",PK: GEO ENTERTAINMENT
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/34692
-#EXTINF:-1 tvg-id="" tvg-name="PK: GEO KAHANI" tvg-logo="https://asiagrandiptv.us/logo/geokahani.png" group-title="PAKISTAN",PK: GEO KAHANI
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10534
-#EXTINF:-1 tvg-id="geonews.pk" tvg-name="PK: GEO NEWS" tvg-logo="https://asiagrandiptv.us/logo/geonews.png" group-title="PAKISTAN",PK: GEO NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10535
-#EXTINF:-1 tvg-id="" tvg-name="PK: GEO SUPER" tvg-logo="https://asiagrandiptv.us/logo/geosuper.png" group-title="PAKISTAN",PK: GEO SUPER
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5433
-#EXTINF:-1 tvg-id="" tvg-name="PK: GEO TEZZ" tvg-logo="https://asiagrandiptv.us/logo//GEOTEZZ.png" group-title="PAKISTAN",PK: GEO TEZZ
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10538
-#EXTINF:-1 tvg-id="geotv.pk" tvg-name="PK: GEO TV" tvg-logo="https://asiagrandiptv.us/logo/geotv.png" group-title="PAKISTAN",PK: GEO TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10540
-#EXTINF:-1 tvg-id="" tvg-name="PK: GNN NEWS" tvg-logo="https://asiagrandiptv.us/logo//GNNNEWS.png" group-title="PAKISTAN",PK: GNN NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10633
-#EXTINF:-1 tvg-id="" tvg-name="PK: HADI TV" tvg-logo="https://asiagrandiptv.us/logo/haditv.png" group-title="PAKISTAN",PK: HADI TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/74488
-#EXTINF:-1 tvg-id="" tvg-name="PK: HIDAYAT TV" tvg-logo="https://asiagrandiptv.us/logo/hidayattv.png" group-title="PAKISTAN",PK: HIDAYAT TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/158831
-#EXTINF:-1 tvg-id="" tvg-name="PK: HUM EUROPE" tvg-logo="https://asiagrandiptv.us/logo/humeurope.png" group-title="PAKISTAN",PK: HUM EUROPE
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5490
-#EXTINF:-1 tvg-id="hummasala.pk" tvg-name="PK: HUM MASALA TV" tvg-logo="https://asiagrandiptv.us/logo//HUMMASALATV.jpg" group-title="PAKISTAN",PK: HUM MASALA TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5493
-#EXTINF:-1 tvg-id="humnews.pk" tvg-name="PK: HUM NEWS" tvg-logo="https://asiagrandiptv.us/logo/humnews.png" group-title="PAKISTAN",PK: HUM NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/17044
-#EXTINF:-1 tvg-id="humsitaray.pk" tvg-name="PK: HUM SITARAY" tvg-logo="https://asiagrandiptv.us/logo/humsitaray.png" group-title="PAKISTAN",PK: HUM SITARAY
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5494
-#EXTINF:-1 tvg-id="" tvg-name="PK: HUM TV" tvg-logo="https://asiagrandiptv.us/logo/humtv.png" group-title="PAKISTAN",PK: HUM TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10635
-#EXTINF:-1 tvg-id="" tvg-name="PK: IQRA TV UK" tvg-logo="https://asiagrandiptv.us/logo//IQRATVUK.jpg" group-title="PAKISTAN",PK: IQRA TV UK
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/74477
-#EXTINF:-1 tvg-id="" tvg-name="PK: ISLAM TV URDU" tvg-logo="https://asiagrandiptv.us/logo/islamtvurdu.png" group-title="PAKISTAN",PK: ISLAM TV URDU
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10596
-#EXTINF:-1 tvg-id="" tvg-name="PK: JALWA MUSIC" tvg-logo="https://asiagrandiptv.us/logo//JALWAMUSIC.jpg" group-title="PAKISTAN",PK: JALWA MUSIC
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10587
-#EXTINF:-1 tvg-id="" tvg-name="PK: K21 NEWS" tvg-logo="https://asiagrandiptv.us/logo/k21news.png" group-title="PAKISTAN",PK: K21 NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/74241
-#EXTINF:-1 tvg-id="" tvg-name="PK: KASHISH TV" tvg-logo="https://asiagrandiptv.us/logo/kashishtv.png" group-title="PAKISTAN",PK: KASHISH TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10546
-#EXTINF:-1 tvg-id="" tvg-name="PK: KAY 2 TV" tvg-logo="https://asiagrandiptv.us/logo/kaytv.png" group-title="PAKISTAN",PK: KAY 2 TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10547
-#EXTINF:-1 tvg-id="" tvg-name="PK: KHYBER NEWS" tvg-logo="https://asiagrandiptv.us/logo/khybernews.png" group-title="PAKISTAN",PK: KHYBER NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10589
-#EXTINF:-1 tvg-id="" tvg-name="PK: KHYBER TV" tvg-logo="https://asiagrandiptv.us/logo//logokhybertv1.png" group-title="PAKISTAN",PK: KHYBER TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10548
-#EXTINF:-1 tvg-id="" tvg-name="PK: KOHENOOR TV" tvg-logo="https://asiagrandiptv.us/logo//logokohenoortv1.png" group-title="PAKISTAN",PK: KOHENOOR TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10549
-#EXTINF:-1 tvg-id="" tvg-name="PK: KTN" tvg-logo="https://asiagrandiptv.us/logo//ktnnews.png" group-title="PAKISTAN",PK: KTN
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10550
-#EXTINF:-1 tvg-id="" tvg-name="PK: KTN NEWS" tvg-logo="https://asiagrandiptv.us/logo/ktnnews.png" group-title="PAKISTAN",PK: KTN NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/74503
-#EXTINF:-1 tvg-id="" tvg-name="PK: LAHORE NEWS" tvg-logo="https://asiagrandiptv.us/logo/lahorenews.png" group-title="PAKISTAN",PK: LAHORE NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10527
-#EXTINF:-1 tvg-id="" tvg-name="PK: LAHORE RANG" tvg-logo="https://asiagrandiptv.us/logo//LAHORERANG.jpg" group-title="PAKISTAN",PK: LAHORE RANG
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/158825
-#EXTINF:-1 tvg-id="" tvg-name="PK: MADANI CHANNEL" tvg-logo="https://asiagrandiptv.us/logo/madanichannel.png" group-title="PAKISTAN",PK: MADANI CHANNEL
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5516
-#EXTINF:-1 tvg-id="" tvg-name="PK: MADINA LIVE" tvg-logo="https://asiagrandiptv.us/logo//MADINALIVE.jpg" group-title="PAKISTAN",PK: MADINA LIVE
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/74483
-#EXTINF:-1 tvg-id="" tvg-name="PK: MAKKAH LIVE" tvg-logo="https://asiagrandiptv.us/logo//MAKKAHLIVE.jpg" group-title="PAKISTAN",PK: MAKKAH LIVE
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/74482
-#EXTINF:-1 tvg-id="" tvg-name="PK: METRO 1 NEWS" tvg-logo="https://asiagrandiptv.us/logo//download.jpeg" group-title="PAKISTAN",PK: METRO 1 NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10555
-#EXTINF:-1 tvg-id="" tvg-name="PK: MUNSIF TV" tvg-logo="https://asiagrandiptv.us/logo//MUNSIFTV.jpg" group-title="PAKISTAN",PK: MUNSIF TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10624
-#EXTINF:-1 tvg-id="" tvg-name="PK: NEO NEWS" tvg-logo="https://asiagrandiptv.us/logo/neonews.png" group-title="PAKISTAN",PK: NEO NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10556
-#EXTINF:-1 tvg-id="" tvg-name="PK: NEWS 1" tvg-logo="https://asiagrandiptv.us/logo/news.png" group-title="PAKISTAN",PK: NEWS 1
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/310294
-#EXTINF:-1 tvg-id="" tvg-name="PK: NEWS ONE" tvg-logo="https://asiagrandiptv.us/logo/newsone.png" group-title="PAKISTAN",PK: NEWS ONE
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10557
-#EXTINF:-1 tvg-id="noortv.pk" tvg-name="PK: NOOR TV" tvg-logo="https://asiagrandiptv.us/logo/noortv.png" group-title="PAKISTAN",PK: NOOR TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/74479
-#EXTINF:-1 tvg-id="" tvg-name="PK: PASHTO 1" tvg-logo="https://asiagrandiptv.us/logo//PASHTO.png" group-title="PAKISTAN",PK: PASHTO 1
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/54121
-#EXTINF:-1 tvg-id="" tvg-name="PK: PEACE TV ENGLISH" tvg-logo="https://asiagrandiptv.us/logo//PEACETVENGLISH.jpg" group-title="PAKISTAN",PK: PEACE TV ENGLISH
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/142747
-#EXTINF:-1 tvg-id="" tvg-name="PK: PEACE TV URDU" tvg-logo="https://asiagrandiptv.us/logo/peacetvurdu.png" group-title="PAKISTAN",PK: PEACE TV URDU
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10603
-#EXTINF:-1 tvg-id="" tvg-name="PK: PLAY ENTERTAINMENT" tvg-logo="https://asiagrandiptv.us/logo/playentertainment.png" group-title="PAKISTAN",PK: PLAY ENTERTAINMENT
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10560
-#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="PK: PTV GLOBAL" tvg-logo="https://asiagrandiptv.us/logo/ptvglobal.png" group-title="PAKISTAN",PK: PTV GLOBAL
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10561
-#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PK: PTV HOME" tvg-logo="https://asiagrandiptv.us/logo/ptvhome.png" group-title="PAKISTAN",PK: PTV HOME
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10581
-#EXTINF:-1 tvg-id="ptvnews.pk" tvg-name="PK: PTV NEWS HD" tvg-logo="https://asiagrandiptv.us/logo//ptvnews.png" group-title="PAKISTAN",PK: PTV NEWS HD
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10563
-#EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://asiagrandiptv.us/logo/ptvsports.png" group-title="PAKISTAN",PK: PTV SPORTS HD
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/3047
-#EXTINF:-1 tvg-id="ptvworld.pk" tvg-name="PK: PTV WORLD" tvg-logo="https://asiagrandiptv.us/logo/ptvworld.png" group-title="PAKISTAN",PK: PTV WORLD
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10564
-#EXTINF:-1 tvg-id="" tvg-name="PK: PUBLIC NEWS" tvg-logo="https://asiagrandiptv.us/logo/publicnews.png" group-title="PAKISTAN",PK: PUBLIC NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10634
-#EXTINF:-1 tvg-id="" tvg-name="PK: RAAVI FILMS" tvg-logo="https://asiagrandiptv.us/logo//RAAVIFILMS.jpg" group-title="PAKISTAN",PK: RAAVI FILMS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5527
-#EXTINF:-1 tvg-id="" tvg-name="PK: RAHAM TV" tvg-logo="https://asiagrandiptv.us/logo//RAHAMTV.jpg" group-title="PAKISTAN",PK: RAHAM TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/74474
-#EXTINF:-1 tvg-id="" tvg-name="PK: ROHI TV" tvg-logo="https://asiagrandiptv.us/logo/rohitv.png" group-title="PAKISTAN",PK: ROHI TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10632
-#EXTINF:-1 tvg-id="" tvg-name="PK: ROZE NEWS" tvg-logo="https://asiagrandiptv.us/logo//ROZENEWS.jpg" group-title="PAKISTAN",PK: ROZE NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10583
-#EXTINF:-1 tvg-id="" tvg-name="PK: SAMAA NEWS" tvg-logo="https://asiagrandiptv.us/logo//SAMAANEWS.jpg" group-title="PAKISTAN",PK: SAMAA NEWS
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5476
-#EXTINF:-1 tvg-id="samaatv.pk" tvg-name="PK: SAMAA TV" tvg-logo="https://asiagrandiptv.us/logo/samaatv.png" group-title="PAKISTAN",PK: SAMAA TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/34737
-#EXTINF:-1 tvg-id="" tvg-name="PK: SEE TV" tvg-logo="https://asiagrandiptv.us/logo/seetv.png" group-title="PAKISTAN",PK: SEE TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10588
-#EXTINF:-1 tvg-id="" tvg-name="PK: SHAMSHAD TV" tvg-logo="https://asiagrandiptv.us/logo/shamshadtv.png" group-title="PAKISTAN",PK: SHAMSHAD TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5536
-#EXTINF:-1 tvg-id="" tvg-name="PK: SINDH TV" tvg-logo="https://asiagrandiptv.us/logo//logosindhtv5.png" group-title="PAKISTAN",PK: SINDH TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10585
-#EXTINF:-1 tvg-id="" tvg-name="PK: SUBRANG TV" tvg-logo="https://asiagrandiptv.us/logo//SUBRANGTV.jpg" group-title="PAKISTAN",PK: SUBRANG TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10661
-#EXTINF:-1 tvg-id="" tvg-name="PK: SUCH TV" tvg-logo="https://asiagrandiptv.us/logo//SUCHTV.jpg" group-title="PAKISTAN",PK: SUCH TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10639
-#EXTINF:-1 tvg-id="" tvg-name="PK: TAG TV" tvg-logo="https://asiagrandiptv.us/logo/tagtv.png" group-title="PAKISTAN",PK: TAG TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/74259
-#EXTINF:-1 tvg-id="" tvg-name="PK: TORONTO 360" tvg-logo="https://asiagrandiptv.us/logo/toronto360.png" group-title="PAKISTAN",PK: TORONTO 360
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10570
-#EXTINF:-1 tvg-id="" tvg-name="PK: TV CANADA ONE" tvg-logo="https://asiagrandiptv.us/logo//TVCANADAONE.jpg" group-title="PAKISTAN",PK: TV CANADA ONE
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/5522
-#EXTINF:-1 tvg-id="tvone.pk" tvg-name="PK: TV ONE" tvg-logo="https://asiagrandiptv.us/logo/tvone.png" group-title="PAKISTAN",PK: TV ONE
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10571
-#EXTINF:-1 tvg-id="urdu1.pk" tvg-name="PK: URDU 1" tvg-logo="https://asiagrandiptv.us/logo/urdu1.png" group-title="PAKISTAN",PK: URDU 1
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10573
-#EXTINF:-1 tvg-id="" tvg-name="PK: WASEEB TV" tvg-logo="https://asiagrandiptv.us/logo//download.png" group-title="PAKISTAN",PK: WASEEB TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10576
-#EXTINF:-1 tvg-id="" tvg-name="PK: ZAIQA TV" tvg-logo="https://asiagrandiptv.us/logo/zaiqatv.png" group-title="PAKISTAN",PK: ZAIQA TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/34707
-#EXTINF:-1 tvg-id="" tvg-name="PK: ZINDAGI TV" tvg-logo="https://asiagrandiptv.us/logo//logozindagitv5.png" group-title="PAKISTAN",PK: ZINDAGI TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/10584
+#EXTINF:-1 tvg-name="PK ➤ PTV NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/PTV_News_Logo.png",PK ➤ PTV NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/2658
+#EXTINF:-1 tvg-name="PK ➤ ARY NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/Arynews.jpg",PK ➤ ARY NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/101877
+#EXTINF:-1 tvg-name="PK ➤ ARY NEWS HD ( BACKUP )" tvg-logo="",PK ➤ ARY NEWS HD ( BACKUP )
+http://bestsave.ltd:2052/99990000/00009999/199175
+#EXTINF:-1 tvg-name="PK ➤ GEO NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/GEO.NEWS.png",PK ➤ GEO NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/151485
+#EXTINF:-1 tvg-name="PK ➤ GEO NEWS FHD" tvg-logo="http://imagesvr.biz/localsvr/GEO.NEWS.png",PK ➤ GEO NEWS FHD
+http://bestsave.ltd:2052/99990000/00009999/2637
+#EXTINF:-1 tvg-name="PK ➤ SAMMA NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/SAMMA.NEWS.png",PK ➤ SAMMA NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/2650
+#EXTINF:-1 tvg-name="PK ➤ BOL NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/BOL_News_logo.png",PK ➤ BOL NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/2638
+#EXTINF:-1 tvg-name="PK ➤ GNN FHD" tvg-logo="http://imagesvr.biz/localsvr/GNN-News-Logo.png",PK ➤ GNN FHD
+http://bestsave.ltd:2052/99990000/00009999/2636
+#EXTINF:-1 tvg-name="PK ➤ 92 NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/92NEWS.png",PK ➤ 92 NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/2631
+#EXTINF:-1 tvg-name="PK ➤ 92 NEWS FHD" tvg-logo="http://imagesvr.biz/localsvr/92NEWS.png",PK ➤ 92 NEWS FHD
+http://bestsave.ltd:2052/99990000/00009999/69573
+#EXTINF:-1 tvg-name="PK ➤ EXPRESS NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/EXPRESS.NEWS.png",PK ➤ EXPRESS NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/45325
+#EXTINF:-1 tvg-name="PK ➤ EXPRESS NEWS FHD" tvg-logo="http://imagesvr.biz/localsvr/EXPRESS.NEWS.png",PK ➤ EXPRESS NEWS FHD
+http://bestsave.ltd:2052/99990000/00009999/2649
+#EXTINF:-1 tvg-name="PK ➤ HUM NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/HUM_News_Logo.png",PK ➤ HUM NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/45346
+#EXTINF:-1 tvg-name="PK ➤ LAHORE NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/LAHORE.NEWS.png",PK ➤ LAHORE NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/45350
+#EXTINF:-1 tvg-name="PK ➤ DIN NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/DIN.NEWS.jpg",PK ➤ DIN NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/45344
+#EXTINF:-1 tvg-name="PK ➤ NEO NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/NEO.NEWS.jpg",PK ➤ NEO NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/45330
+#EXTINF:-1 tvg-name="PK ➤ NEO NEWS FHD" tvg-logo="http://imagesvr.biz/localsvr/NEO.NEWS.jpg",PK ➤ NEO NEWS FHD
+http://bestsave.ltd:2052/99990000/00009999/2646
+#EXTINF:-1 tvg-name="PK ➤ CH 24 NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/24-News-Logo.png",PK ➤ CH 24 NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/2640
+#EXTINF:-1 tvg-name="PK ➤ NEWS ONE HD" tvg-logo="http://imagesvr.biz/localsvr/NEWSONE.jfif",PK ➤ NEWS ONE HD
+http://bestsave.ltd:2052/99990000/00009999/45355
+#EXTINF:-1 tvg-name="PK ➤ NEWS ONE FHD" tvg-logo="http://imagesvr.biz/localsvr/NEWSONE.jfif",PK ➤ NEWS ONE FHD
+http://bestsave.ltd:2052/99990000/00009999/2643
+#EXTINF:-1 tvg-name="PK ➤ CAPITAL NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/CAPITAL.NEWS.jfif",PK ➤ CAPITAL NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/45343
+#EXTINF:-1 tvg-name="PK ➤ CAPITAL NEWS FHD" tvg-logo="http://imagesvr.biz/localsvr/CAPITAL.NEWS.jfif",PK ➤ CAPITAL NEWS FHD
+http://bestsave.ltd:2052/99990000/00009999/2653
+#EXTINF:-1 tvg-name="PK ➤ CITY 41 HD" tvg-logo="http://imagesvr.biz/localsvr/City_41_Logo.png",PK ➤ CITY 41 HD
+http://bestsave.ltd:2052/99990000/00009999/45359
+#EXTINF:-1 tvg-name="PK ➤ CITY 42 HD" tvg-logo="http://imagesvr.biz/localsvr/CITY42.jfif",PK ➤ CITY 42 HD
+http://bestsave.ltd:2052/99990000/00009999/45360
+#EXTINF:-1 tvg-name="PK ➤ KHYBER NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/KHYBER.NEWS.png",PK ➤ KHYBER NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/2666
+#EXTINF:-1 tvg-name="PK ➤ SINDH NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/SINDH.NEWS.png",PK ➤ SINDH NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/2665
+#EXTINF:-1 tvg-name="PK ➤ GEO TEZ NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/Geo_Tez_logo.png",PK ➤ GEO TEZ NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/2656
+#EXTINF:-1 tvg-name="PK ➤ GEO TEZ NEWS FHD" tvg-logo="http://imagesvr.biz/localsvr/Geo_Tez_logo.png",PK ➤ GEO TEZ NEWS FHD
+http://bestsave.ltd:2052/99990000/00009999/2655
+#EXTINF:-1 tvg-name="PK ➤ PUBLIC NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/Public_news_logo.jpg",PK ➤ PUBLIC NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/45335
+#EXTINF:-1 tvg-name="PK ➤ PUBLIC NEWS FHD" tvg-logo="http://imagesvr.biz/localsvr/Public_news_logo.jpg",PK ➤ PUBLIC NEWS FHD
+http://bestsave.ltd:2052/99990000/00009999/2635
+#EXTINF:-1 tvg-name="PK ➤ DAWN NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/Dawn_News.jpg",PK ➤ DAWN NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/2647
+#EXTINF:-1 tvg-name="PK ➤ DUNYA NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/Dunya_News.jpg",PK ➤ DUNYA NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/45334
