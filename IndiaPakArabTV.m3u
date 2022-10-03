@@ -84,6 +84,66 @@ http://bestsave.ltd:2052/99990000/00009999/28948
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-id="17" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Ali TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/alitv.jpg",Ali TV (1080)
 https://alitv.livebox.co.in/alitvhls/live.m3u8
+#EXTINF:-1 tvg-name="AL MANAR HD°" tvg-logo="http://imagesvr.biz/localsvr/AL.MANAR.png",AL MANAR HD°
+http://bestsave.ltd:2052/99990000/00009999/10566
+#EXTINF:-1 tvg-name="AL ANWAR 1 HD°" tvg-logo="http://imagesvr.biz/localsvr/AL.ANWAR.png",AL ANWAR 1 HD°
+http://bestsave.ltd:2052/99990000/00009999/25298
+#EXTINF:-1 tvg-name="AL ANWAR 2 HD°" tvg-logo="http://imagesvr.biz/localsvr/AL.ANWAR.png",AL ANWAR 2 HD°
+http://bestsave.ltd:2052/99990000/00009999/25299
+#EXTINF:-1 tvg-name="KARBALA HD°" tvg-logo="http://imagesvr.biz/localsvr/KARBALA.png",KARBALA HD°
+http://bestsave.ltd:2052/99990000/00009999/25300
+#EXTINF:-1 tvg-name="AL MAAREF HD°" tvg-logo="http://imagesvr.biz/localsvr/AL.MAAREF.png",AL MAAREF HD°
+http://bestsave.ltd:2052/99990000/00009999/46806
+#EXTINF:-1 tvg-name="AL NAEEM HD°" tvg-logo="http://imagesvr.biz/localsvr/AL.NAEEM.png",AL NAEEM HD°
+http://bestsave.ltd:2052/99990000/00009999/46807
+#EXTINF:-1 tvg-name="AL ZAHRA HD°" tvg-logo="http://imagesvr.biz/localsvr/AL.ZAHRA.png",AL ZAHRA HD°
+http://bestsave.ltd:2052/99990000/00009999/46809
+#EXTINF:-1 tvg-name="AL KAWTHAR HD°" tvg-logo="http://imagesvr.biz/localsvr/AL.KAWTHAR.JPG",AL KAWTHAR HD°
+http://bestsave.ltd:2052/99990000/00009999/25302
+#EXTINF:-1 tvg-name="IMAM ALI HD°" tvg-logo="http://imagesvr.biz/localsvr/IMAM.ALI.1.jpg",IMAM ALI HD°
+http://bestsave.ltd:2052/99990000/00009999/25305
+#EXTINF:-1 tvg-name="IMAM ALI 1°" tvg-logo="http://imagesvr.biz/localsvr/IMAM.ALI.1.jpg",IMAM ALI 1°
+http://bestsave.ltd:2052/99990000/00009999/160853
+#EXTINF:-1 tvg-name="IMAM HUSSEIN HD°" tvg-logo="http://imagesvr.biz/localsvr/IMAMHUSSEIN.png",IMAM HUSSEIN HD°
+http://bestsave.ltd:2052/99990000/00009999/25306
+#EXTINF:-1 tvg-name="IMAM HUSSEIN 1°" tvg-logo="http://imagesvr.biz/localsvr/IMAMHUSSEIN.png",IMAM HUSSEIN 1°
+http://bestsave.ltd:2052/99990000/00009999/160850
+#EXTINF:-1 tvg-name="IMAM HUSSEIN 2°" tvg-logo="http://imagesvr.biz/localsvr/IMAMHUSSEIN.png",IMAM HUSSEIN 2°
+http://bestsave.ltd:2052/99990000/00009999/160851
+#EXTINF:-1 tvg-name="IMAM HUSSEIN 3°" tvg-logo="http://imagesvr.biz/localsvr/IMAMHUSSEIN.png",IMAM HUSSEIN 3°
+http://bestsave.ltd:2052/99990000/00009999/160852
+#EXTINF:-1 tvg-name="IMAM REDA HD°" tvg-logo="http://imagesvr.biz/localsvr/IMAM.REDA.png",IMAM REDA HD°
+http://bestsave.ltd:2052/99990000/00009999/25307
+#EXTINF:-1 tvg-name="SALAAM HD°" tvg-logo="http://imagesvr.biz/localsvr/SALAAM.png",SALAAM HD°
+http://bestsave.ltd:2052/99990000/00009999/46821
+#EXTINF:-1 tvg-name="AL MAHDI HD°" tvg-logo="http://imagesvr.biz/localsvr/AL.MAHDI.png",AL MAHDI HD°
+http://bestsave.ltd:2052/99990000/00009999/46805
+#EXTINF:-1 tvg-name="HADI HD°" tvg-logo="http://imagesvr.biz/localsvr/HADI.png",HADI HD°
+http://bestsave.ltd:2052/99990000/00009999/46801
+#EXTINF:-1 tvg-name="HIDAYAT HD°" tvg-logo="http://imagesvr.biz/localsvr/HIDAYAT.png",HIDAYAT HD°
+http://bestsave.ltd:2052/99990000/00009999/46802
+#EXTINF:-1 tvg-name="AHLEBAIT TV°" tvg-logo="http://imagesvr.biz/localsvr/BAIT.png",AHLEBAIT TV°
+http://bestsave.ltd:2052/99990000/00009999/46800
+#EXTINF:-1 tvg-name="OM AL BANEEN HD°" tvg-logo="http://imagesvr.biz/localsvr/OM.AL.BANEEN .jpg",OM AL BANEEN HD°
+http://bestsave.ltd:2052/99990000/00009999/160849
+#EXTINF:-1 tvg-name="AL KOMAIL HD°" tvg-logo="http://imagesvr.biz/localsvr/AL.KOMAIL.jfif",AL KOMAIL HD°
+http://bestsave.ltd:2052/99990000/00009999/160848
+#EXTINF:-1 tvg-name="SAOUT AL AQILA HD°" tvg-logo="http://imagesvr.biz/localsvr/SAOUT.AL.AQILA.jpg",SAOUT AL AQILA HD°
+http://bestsave.ltd:2052/99990000/00009999/160847
+#EXTINF:-1 tvg-name="AHLEBAIT TV UDRU°" tvg-logo="http://imagesvr.biz/localsvr/BAIT.png",AHLEBAIT TV UDRU°
+http://bestsave.ltd:2052/99990000/00009999/46892
+#EXTINF:-1 tvg-name="IRAQIA NEWS HD" tvg-logo="http://hereisbest.hopto.me/poster/iraqflag.jpg",IRAQIA NEWS HD
+http://bestsave.ltd:2052/99990000/00009999/13699
+#EXTINF:-1 tvg-name="IRAQ KIDS" tvg-logo="",IRAQ KIDS
+http://bestsave.ltd:2052/99990000/00009999/165461
+#EXTINF:-1 tvg-name="AL IRAQIA HD" tvg-logo="",AL IRAQIA HD
+http://bestsave.ltd:2052/99990000/00009999/165464
+#EXTINF:-1 tvg-name="IRAQ 24 HD" tvg-logo="",IRAQ 24 HD
+http://bestsave.ltd:2052/99990000/00009999/165465
+#EXTINF:-1 tvg-name="AL IMAN TV" tvg-logo="http://hereisbest.hopto.me/poster/iraqflag.jpg",AL IMAN TV
+http://bestsave.ltd:2052/99990000/00009999/13717
+#EXTINF:-1 tvg-name="AL RASHEED TV" tvg-logo="http://hereisbest.hopto.me/poster/iraqflag.jpg",AL RASHEED TV
+http://bestsave.ltd:2052/99990000/00009999/13709
 #EXTINF:-1 tvg-name="PK ➤ PTV NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/PTV_News_Logo.png",PK ➤ PTV NEWS HD
 http://bestsave.ltd:2052/99990000/00009999/2658
 #EXTINF:-1 tvg-name="PK ➤ ARY NEWS HD" tvg-logo="http://imagesvr.biz/localsvr/Arynews.jpg",PK ➤ ARY NEWS HD
