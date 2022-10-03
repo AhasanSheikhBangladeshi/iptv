@@ -34,34 +34,52 @@ http://212.18.115.193:3599/play/a00a/index.m3u8
 http://185.236.229.31:9981/play/a02n
 #EXTINF:-1 tvg-id="18" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Channel Win" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/win.png",Channel Win (1080)
 https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: Al Rai" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/AR/KUVEYT.YEMEN/FHD/AL.RAI.png" group-title="AR âœ¦ KUWAIT YEMEN",AR: Al Rai
-http://ortak4440.xyz:8080/s3PuU53AAj8v/tMByr4WVN5gX/118589
-#EXTINF:-1 tvg-id="" tvg-name="AR: KTV 1" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/AR/KUVEYT.YEMEN/FHD/KTV.1.png" group-title="AR âœ¦ KUWAIT YEMEN",AR: KTV 1
-http://ortak4440.xyz:8080/s3PuU53AAj8v/tMByr4WVN5gX/118590
-#EXTINF:-1 tvg-id="" tvg-name="AR: KTV 2" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/AR/KUVEYT.YEMEN/FHD/KTV.2.png" group-title="AR âœ¦ KUWAIT YEMEN",AR: KTV 2
-http://ortak4440.xyz:8080/s3PuU53AAj8v/tMByr4WVN5gX/118591
-#EXTINF:-1 tvg-id="" tvg-name="AR: KTV al arabia" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/AR/KUVEYT.YEMEN/FHD/KTV.AL.ARABIA.png" group-title="AR âœ¦ KUWAIT YEMEN",AR: KTV al arabia
-http://ortak4440.xyz:8080/s3PuU53AAj8v/tMByr4WVN5gX/118592
-#EXTINF:-1 tvg-id="" tvg-name="AR: KTV ethraa" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/AR/KUVEYT.YEMEN/FHD/KTV.ETHRAA.png" group-title="AR âœ¦ KUWAIT YEMEN",AR: KTV ethraa
-http://ortak4440.xyz:8080/s3PuU53AAj8v/tMByr4WVN5gX/118593
-#EXTINF:-1 tvg-id="" tvg-name="AR: KTV s.plus" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/AR/KUVEYT.YEMEN/FHD/KTV.S.PLUS.png" group-title="AR âœ¦ KUWAIT YEMEN",AR: KTV s.plus
-http://ortak4440.xyz:8080/s3PuU53AAj8v/tMByr4WVN5gX/118594
-#EXTINF:-1 tvg-id="" tvg-name="AR: KTV sport" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/AR/KUVEYT.YEMEN/FHD/KTV.SPORT.png" group-title="AR âœ¦ KUWAIT YEMEN",AR: KTV sport
-http://ortak4440.xyz:8080/s3PuU53AAj8v/tMByr4WVN5gX/118595
-#EXTINF:-1 tvg-id="" tvg-name="âœ¦ âœ¦ AR YEMEN âœ¦ âœ¦" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/AR/YEMEN.BAYRAK.png" group-title="AR âœ¦ KUWAIT YEMEN",âœ¦ âœ¦ AR YEMEN âœ¦ âœ¦
-http://ortak4440.xyz:8080/s3PuU53AAj8v/tMByr4WVN5gX/118596
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yeman.Belqees" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/AR/KUVEYT.YEMEN/FHD/YEMEN.BELGES.png" group-title="AR âœ¦ KUWAIT YEMEN",AR: Yeman.Belqees
-http://ortak4440.xyz:8080/s3PuU53AAj8v/tMByr4WVN5gX/118597
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/AR/KUVEYT.YEMEN/FHD/YEMEN.png" group-title="AR âœ¦ KUWAIT YEMEN",AR: Yemen
-http://ortak4440.xyz:8080/s3PuU53AAj8v/tMByr4WVN5gX/118598
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen.Alnaher" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/AR/KUVEYT.YEMEN/FHD/YEMEN.ALNAHAR.png" group-title="AR âœ¦ KUWAIT YEMEN",AR: Yemen.Alnaher
-http://ortak4440.xyz:8080/s3PuU53AAj8v/tMByr4WVN5gX/118599
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen.Shabab" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/AR/KUVEYT.YEMEN/FHD/YEMEN.SHABAB.png" group-title="AR âœ¦ KUWAIT YEMEN",AR: Yemen.Shabab
-http://ortak4440.xyz:8080/s3PuU53AAj8v/tMByr4WVN5gX/118600
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen alsaada" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/AR/KUVEYT.YEMEN/FHD/YEMEN.ALSAADA.png" group-title="AR âœ¦ KUWAIT YEMEN",AR: Yemen alsaada
-http://ortak4440.xyz:8080/s3PuU53AAj8v/tMByr4WVN5gX/118601
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen.Today" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/AR/KUVEYT.YEMEN/FHD/YEMEN.TODAY.png" group-title="AR âœ¦ KUWAIT YEMEN",AR: Yemen.Today
-http://ortak4440.xyz:8080/s3PuU53AAj8v/tMByr4WVN5gX/118602
+#EXTINF:-1 tvg-name="OMN ➤ TV GENERAL HD" tvg-logo="http://imagesvr.biz/localsvr/oman.jpg",OMN ➤ TV GENERAL HD
+http://bestsave.ltd:2052/99990000/00009999/10561
+#EXTINF:-1 tvg-name="OMN ➤ OMAN CULTURE HD" tvg-logo="http://imagesvr.biz/localsvr/oman.cul.jpg",OMN ➤ OMAN CULTURE HD
+http://bestsave.ltd:2052/99990000/00009999/10562
+#EXTINF:-1 tvg-name="OMN ➤ OMAN SPORTS HD" tvg-logo="http://imagesvr.biz/localsvr/oman.sport.jpg",OMN ➤ OMAN SPORTS HD
+http://bestsave.ltd:2052/99990000/00009999/10563
+#EXTINF:-1 tvg-name="OMN ➤ OMAN TV MUBASHIR FHD" tvg-logo="http://imagesvr.biz/localsvr/oman.mbashr.jpg",OMN ➤ OMAN TV MUBASHIR FHD
+http://bestsave.ltd:2052/99990000/00009999/60459
+#EXTINF:-1 tvg-name="QTR ➤ QATAR HD" tvg-logo="http://imagesvr.biz/localsvr/qatar.tv.jpg",QTR ➤ QATAR HD
+http://bestsave.ltd:2052/99990000/00009999/10540
+#EXTINF:-1 tvg-name="QTR ➤ QATAR 2 HD HD" tvg-logo="",QTR ➤ QATAR 2 HD HD
+http://bestsave.ltd:2052/99990000/00009999/177336
+#EXTINF:-1 tvg-name="QTR ➤ QATAR ALYOUM HD" tvg-logo="http://imagesvr.biz/localsvr/qatar.today.jpg",QTR ➤ QATAR ALYOUM HD
+http://bestsave.ltd:2052/99990000/00009999/10541
+#EXTINF:-1 tvg-name="QTR ➤ QATAR TODAY HD" tvg-logo="http://imagesvr.biz/localsvr/qatar.today.jpg",QTR ➤ QATAR TODAY HD
+http://bestsave.ltd:2052/99990000/00009999/10544
+#EXTINF:-1 tvg-name="QTR ➤ AL RAYAN HD" tvg-logo="http://imagesvr.biz/localsvr/al.rayan.jpg",QTR ➤ AL RAYAN HD
+http://bestsave.ltd:2052/99990000/00009999/10542
+#EXTINF:-1 tvg-name="QTR ➤ AL RAYAN QADEEM HD" tvg-logo="http://imagesvr.biz/localsvr/al.rayan.jpg",QTR ➤ AL RAYAN QADEEM HD
+http://bestsave.ltd:2052/99990000/00009999/10543
+#EXTINF:-1 tvg-name="YEN ➤ YEMEN TV" tvg-logo="http://pst.gotdns.ch/poster/yamanflag.jpg",YEN ➤ YEMEN TV
+http://bestsave.ltd:2052/99990000/00009999/13086
+#EXTINF:-1 tvg-name="YEN ➤ YEMEN SHAEB" tvg-logo="http://pst.gotdns.ch/poster/yamanflag.jpg",YEN ➤ YEMEN SHAEB
+http://bestsave.ltd:2052/99990000/00009999/13087
+#EXTINF:-1 tvg-name="YEN ➤ YEMEN TODAY TV 4K*" tvg-logo="http://imagesvr.biz/localsvr/YEMEN.TODAY.jpg",YEN ➤ YEMEN TODAY TV 4K*
+http://bestsave.ltd:2052/99990000/00009999/13089
+#EXTINF:-1 tvg-name="YEN ➤ ADEN TV 4K*" tvg-logo="http://imagesvr.biz/localsvr/ADEN.TV.jpg",YEN ➤ ADEN TV 4K*
+http://bestsave.ltd:2052/99990000/00009999/13090
+#EXTINF:-1 tvg-name="YEN ➤ AL GHAD AL MUSHREQ" tvg-logo="",YEN ➤ AL GHAD AL MUSHREQ
+http://bestsave.ltd:2052/99990000/00009999/167586
+#EXTINF:-1 tvg-name="YEN ➤ SHEBA TV 4k*" tvg-logo="http://imagesvr.biz/localsvr/SHEBA.TV.jpg",YEN ➤ SHEBA TV 4k*
+http://bestsave.ltd:2052/99990000/00009999/25751
+#EXTINF:-1 tvg-name="YEN ➤ HADRAMAUT TV 4K*" tvg-logo="http://imagesvr.biz/localsvr/HADRAMAUT.TV.jpg",YEN ➤ HADRAMAUT TV 4K*
+http://bestsave.ltd:2052/99990000/00009999/43973
+#EXTINF:-1 tvg-name="YEN ➤ AL MASIRAH" tvg-logo="",YEN ➤ AL MASIRAH
+http://bestsave.ltd:2052/99990000/00009999/167585
+#EXTINF:-1 tvg-name="YEN ➤ AL SAEEDAH TV 4K*" tvg-logo="http://imagesvr.biz/localsvr/AL.SAEEDAH.jpg",YEN ➤ AL SAEEDAH TV 4K*
+http://bestsave.ltd:2052/99990000/00009999/25921
+#EXTINF:-1 tvg-name="YEN ➤ AL MAHRIAH" tvg-logo="",YEN ➤ AL MAHRIAH
+http://bestsave.ltd:2052/99990000/00009999/167583
+#EXTINF:-1 tvg-name="YEN ➤ AL SHAREYYAH" tvg-logo="",YEN ➤ AL SHAREYYAH
+http://bestsave.ltd:2052/99990000/00009999/167584
+#EXTINF:-1 tvg-name="YEN ➤ YEMEN BELQEES 4K*" tvg-logo="http://imagesvr.biz/localsvr/balqees.jpg",YEN ➤ YEMEN BELQEES 4K*
+http://bestsave.ltd:2052/99990000/00009999/28343
+#EXTINF:-1 tvg-name="YEN ➤ SUHAIL TV 4K*" tvg-logo="http://imagesvr.biz/localsvr/SUHAIL.TV.jpg",YEN ➤ SUHAIL TV 4K*
+http://bestsave.ltd:2052/99990000/00009999/28948
 #EXTINF:-1 tvg-id="16" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Zainabia Channel" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/zainabia.jpg",Zainabia Channel (1080)
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-id="17" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Ali TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/alitv.jpg",Ali TV (1080)
@@ -256,24 +274,8 @@ http://xtv.ooo:8080/444455/444455/106117
 http://xtv.ooo:8080/444455/444455/106118
 #EXTINF:-1,PK: PTV NATIONAL
 http://xtv.ooo:8080/444455/444455/110050
-#EXTINF:-1,PK: Khyber Middle East TV*
-http://xtv.ooo:8080/444455/444455/110051
-#EXTINF:-1,PK: KING TV
-http://xtv.ooo:8080/444455/444455/110053
-#EXTINF:-1,PK: CINEMA 2*
-http://xtv.ooo:8080/444455/444455/110056
-#EXTINF:-1,Pk : Dance Mujra*
-http://xtv.ooo:8080/444455/444455/110057
-#EXTINF:-1,PK : Tag Tv
-http://xtv.ooo:8080/444455/444455/110059
-#EXTINF:-1,PK: Mehran Tv
-http://xtv.ooo:8080/444455/444455/110060
 #EXTINF:-1,Ary World
 http://xtv.ooo:8080/444455/444455/153291
-#EXTINF:-1,PK: jalwa
-http://xtv.ooo:8080/444455/444455/167670
-#EXTINF:-1,PK: Silver Screen
-http://xtv.ooo:8080/444455/444455/167882
 #EXTINF:-1,PK: Afghan Tv
 http://xtv.ooo:8080/444455/444455/167888
 #EXTINF:-1,|TR| BEIN SPORTS HABER
