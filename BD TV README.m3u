@@ -154,9 +154,9 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16129
 #EXTINF:-1 tvg-name="Paigham TV.pk" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1362d353158267.592a758924700.jpg"group-title="Religious",Paigham TV
 http://162.250.201.58:8032/pk/paighamtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Al Majd TV" tvg-logo="https://cdn.dribbble.com/users/2577708/screenshots/11585878/media/d96e40ca882560b9aa3639df8f2361b9.jpg" group-title="Relegious",Almajd TV
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/54672
+http://bestsave.ltd:2052/99990000/00009999/116
 #EXTINF:-1 tvg-name="Zad TV" tvg-logo="https://static10.tgstat.ru/channels/_0/bf/bfac19a765483d6c7a6200919a0aa76c.jpg"group-title="Relegious",Zad TV(96)
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/6440
+http://bestsave.ltd:2052/99990000/00009999/178061
 #EXTINF:-1 tvg-id="BahrainTV.bh" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="General",Bahrain TV (720p)
 http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Iqra TV" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="Religious",BT- Iqra Tv
@@ -198,13 +198,13 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master480p.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="Pakistani",PTV World
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVWorldOfficial
 #EXTINF:-1 tvg-id="PTVHome.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/mJxpdBU.png" group-title="Pakistani",PTV Home (238p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVHomeEntertainment
+http://bestsave.ltd:2052/99990000/00009999/2691
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/LyqGxwv.jpg" group-title="News",PTV News (1080p) [Not 24/7]
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16061
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="Indonesia Channel",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w637025924_b744100_sleng.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber (720p)
-http://84.22.33.214/TRTHaber/index.m3u8
+http://bestsave.ltd:2052/99990000/00009999/208072
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (1080p)
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1,CBC
