@@ -1,19 +1,35 @@
-#EXTINF:-1,------- Yemen Channels -------
-http://xtv.ooo:8080/444455/444455/224866
-#EXTINF:-1,|AR| YEMEN TV
-http://xtv.ooo:8080/444455/444455/224867
-#EXTINF:-1,|AR| YEMEN SHABAB
-http://xtv.ooo:8080/444455/444455/224868
-#EXTINF:-1,|AR| ALHAWYAH TV
-http://xtv.ooo:8080/444455/444455/224869
-#EXTINF:-1,|AR| AL ERTH AL NABAWI
-http://xtv.ooo:8080/444455/444455/224870
-#EXTINF:-1,|AR| SUHAIL TV
-http://xtv.ooo:8080/444455/444455/224871
-#EXTINF:-1,|AR| ALGHAD TV
-http://xtv.ooo:8080/444455/444455/224872
-#EXTINF:-1,|AR| AL MAHRAH TV
-http://xtv.ooo:8080/444455/444455/224873
+#EXTINF:-1,[GLF] Yemen Aden
+http://sniperstv.vip:8080/elhafsi/YQPSEqfnT5/1726
+#EXTINF:-1,[GLF] Yemen Al Massira
+http://sniperstv.vip:8080/elhafsi/YQPSEqfnT5/1727
+#EXTINF:-1,[GLF] Yemen Al Massira Mubasher
+http://sniperstv.vip:8080/elhafsi/YQPSEqfnT5/1728
+#EXTINF:-1,[GLF] Yemen Al Mhara
+http://sniperstv.vip:8080/elhafsi/YQPSEqfnT5/1729
+#EXTINF:-1,[GLF] Yemen Al Saeeda
+http://sniperstv.vip:8080/elhafsi/YQPSEqfnT5/1730
+#EXTINF:-1,[GLF] Yemen Belqees TV
+http://sniperstv.vip:8080/elhafsi/YQPSEqfnT5/1731
+#EXTINF:-1,[GLF] Yemen Shabab
+http://sniperstv.vip:8080/elhafsi/YQPSEqfnT5/1732
+#EXTINF:-1,[GLF] Yemen Suhail TV
+http://sniperstv.vip:8080/elhafsi/YQPSEqfnT5/1733
+#EXTINF:-1,[GLF] Yemen TV
+http://sniperstv.vip:8080/elhafsi/YQPSEqfnT5/1734
+#EXTINF:-1,[Yemen] Yemen Today
+http://sniperstv.vip:8080/elhafsi/YQPSEqfnT5/1735
+#EXTINF:-1,[YEMEN] YEMEN SHABAB
+http://sniperstv.vip:8080/elhafsi/YQPSEqfnT5/1736
+#EXTINF:-1,[Yemen] Yemen Tv
+http://sniperstv.vip:8080/elhafsi/YQPSEqfnT5/1737
+#EXTINF:-1,[Yemen] BELQEES
+http://sniperstv.vip:8080/elhafsi/YQPSEqfnT5/1738
+#EXTINF:-1,[YEMEN] ADEN TV
+http://sniperstv.vip:8080/elhafsi/YQPSEqfnT5/1739
+#EXTINF:-1,[Yemen]  Almahriah
+http://sniperstv.vip:8080/elhafsi/YQPSEqfnT5/1741
+#EXTINF:-1,[Yemen] AlSaeedah
+http://
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
 https://cdnw.telewebion.com:443/tv1/live/240p/index.m3u8
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
