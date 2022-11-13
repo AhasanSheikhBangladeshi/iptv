@@ -193,9 +193,9 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/master480p.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="Pakistani",PTV World
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVWorldOfficial
 #EXTINF:-1 tvg-id="PTVHome.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/mJxpdBU.png" group-title="Pakistani",PTV Home (238p)
-
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/197123
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/LyqGxwv.jpg" group-title="News",PTV News (1080p) [Not 24/7]
-http://darkteam.vip:25461/live/hydraip438rjr93482/jhwgeuiy94838238940/13429.ts 
+http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/1382 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber (720p)
 http://bestsave.ltd:2052/99990000/00009999/208072
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (1080p)
