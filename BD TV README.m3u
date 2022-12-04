@@ -70,7 +70,7 @@ https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="India-Pakistani" tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
 http://103.55.144.46:80/hls/sonyen.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/TNQKahI.png" group-title="News",Press TV English (720p)
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/85714
+http://daddyserver.com:8080/drzeus_discord_exchange/tgC6KgmDP5xD/3016
 #EXTINF:-1 tvg-id="SaharUrdu.ir" tvg-country="IR" tvg-language="English" tvg-logo="https://shialivetv.com/shialive/assets/img/saharurdu.jpg" group-title="News",Sahar Urdu 
 http://185.236.229.31:9981/play/a02m
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
@@ -94,9 +94,9 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"  group-title="India-Pakistani",ARY NEWS (PK)
 http://rv.bleutv.net:2089/152019521663077/152058336619947/201940
 #EXTINF:-1 ch-id="ARY DIGITAL (PK)" tvg-logo="https://1.bp.blogspot.com/--wDE2l82PT0/YRepmImjWvI/AAAAAAAAA4g/QfuH2Q9yP_I7D6RrkC5IiaEGRLRvPg6JwCLcBGAsYHQ/s200/PicsArt_08-14-05.01.13.jpg"  group-title="India-Pakistani",ARY DIGITAL (PK)
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/49510
+http://daddyserver.com:8080/drzeus_discord_exchange/tgC6KgmDP5xD/329
 #EXTINF:-1 ch-id="GEO HD (PK)" tvg-logo="https://1.bp.blogspot.com/-fktS4IURByc/YO43k9xSajI/AAAAAAAAAbM/gex7jop3fIQ62kO64RiVFEmqfg8439VTQCLcBGAsYHQ/s200/PicsArt_07-14-06.29.55.jpg"  group-title="India-Pakistani",GEO TV HD (PK)
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/1389
+http://daddyserver.com:8080/drzeus_discord_exchange/tgC6KgmDP5xD/332
 #EXTINF:-1,tvg-logo="http://www.arirang.com/images/index/arirang.png" group-title="General",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1tvg-logo="https://static.urdu.news18.com/static-urdu/2020/03/Urdu1-1.png" group-title="India-pakistani",News18 Urdu
@@ -104,7 +104,7 @@ https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Salaam_2017.jpg" group-title="India-pakistani",Zee Salaam
 http://darkteam.vip:25461/live/hydraip438rjr93482/jhwgeuiy94838238940/13208.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News Tv
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/1377
+http://daddyserver.com:8080/drzeus_discord_exchange/tgC6KgmDP5xD/305
 #EXTINF:-1 tvg-id="" status="online",Sama Dubai (1080p)
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="Documentary", Discovery Channel Bengali
@@ -145,7 +145,7 @@ https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlraiTV-200x150.png" ,Al Rai 
 http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/1032
 #EXTINF:-1 tvg-id="92News.pk" tvg-name="92 News" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News (720p)
-http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/1402
+http://daddyserver.com:8080/drzeus_discord_exchange/tgC6KgmDP5xD/306
 #EXTINF:-1 tvg-name="Paigham TV.pk" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1362d353158267.592a758924700.jpg"group-title="Religious",Paigham TV
 http://162.250.201.58:8032/pk/paighamtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Al Majd TV" tvg-logo="https://cdn.dribbble.com/users/2577708/screenshots/11585878/media/d96e40ca882560b9aa3639df8f2361b9.jpg" group-title="Relegious",Almajd TV
