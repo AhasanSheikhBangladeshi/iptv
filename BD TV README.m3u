@@ -183,7 +183,7 @@ http://14.199.164.20:4001/play/a0p5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTV-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV-SPORTS
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="None",TRT 1 (720p)
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://cdn9.alfastreamtv.com/trt1.m3u8?tkn=OrC-7u79UvelcwLRkoJWgQ&tms=1670687149&hst=www.canlitv.vin
 #EXTINF:-1 tvg-id="ToloTV.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://pbs.twimg.com/profile_images/579001245697908737/bSnXEBFo_400x400.jpeg" group-title="None",Tolo TV (720p)
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg",Al Iraqiya News
@@ -197,11 +197,11 @@ http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/1381
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/LyqGxwv.jpg" group-title="News",PTV News (1080p) [Not 24/7]
 http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/1382 
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber (720p)
-http://bestsave.ltd:2052/99990000/00009999/208072
+https://cdn9.alfastreamtv.com/trthaber.m3u8?tkn=t08m-urlPDZjxjrw1eL8JQ&tms=1670687174&hst=www.canlitv.vin
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (1080p)
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1,CBC
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/6195
+http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/37932
 #EXTINF:-1 tvg-id="IslamChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png" group-title="Religious",Islam Channel (576p) [Not 24/7]
 https://live.islamchannel.tv:443/islamtv_english/3/prog_index.m3u8
 #EXTINF:-1 tvg-id="AlerthAlnabawi.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="Religious",Alerth Alnabawi (576p) [Not 24/7]
@@ -209,7 +209,7 @@ http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8 
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT Arabi (1080p)
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
+https://tv-trtarabi.live.trt.com.tr:443/master_720.m3u8
 #EXTINF:0 tvg-id="" group-title="",Yemen Shabab [100]
 http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/111584
 #EXTINF: group-title="News" tvg-id="SuhailTV.ye" tvg-name="Suhail TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtJwlD-ms5DKPuh6PAu45IK9_H5-vN-oPpxg&usqp=CAU" group-tile="Relegious",Suhail TV
@@ -219,11 +219,11 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic
 #EXTINF:-1 tvg-id= "Karbala Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Relegious",Karbala Tv Channel
 http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/13451
 #EXTINF:-1,AR: PALESTINE+Quds-TODAY
-http://185.5.222.146:8081/live/habbq18/chunks.m3u8
+http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
 #EXTINF:-1 tvg-id= "Al Resalah Tv" tvg-logo="https://www.thematv.com/images/channels/al-resalah.png" group-title="Relegious",Al Resalah TV
-http://megatv.me:5890/ali/12345/58891
+http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/82853
 #EXTINF:-1 tvg-id="AlIraqiyaAl3ama.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya Al 3ama (720p) [Not 24/7]
-http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/13456
 #EXTINF:-1 tvg-id="Yemen Today.Ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="" group-title=" ",Yemen.Today (576p)
 https://video.yementdy.tv:443/hls/yementoday_src.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="none" group-title="General",Al Sharqiya (1080p)
