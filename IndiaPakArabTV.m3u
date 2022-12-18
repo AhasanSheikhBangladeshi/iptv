@@ -1,29 +1,404 @@
-#EXTINF:-1,YE: Aden TV
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/266324
-#EXTINF:-1,YE: Al Saeedah
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/266327
-#EXTINF:-1,YE: Alghad Almushreq
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/281959
-#EXTINF:-1,YE: Almahriah TV
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/266326
-#EXTINF:-1,YE: Almasirah Mubasher
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/166341
-#EXTINF:-1,YE: AlMasirah TV
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/166245
-#EXTINF:-1,YE: Belqees TV
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/266323
-#EXTINF:-1,YE: Hadhramaut TV
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/296845
-#EXTINF:-1,YE: Hadramout
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/266328
-#EXTINF:-1,YE: Suhail TV
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/268914
-#EXTINF:-1,YE: Yemen Shabab
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/266321
-#EXTINF:-1,YE: Yemen Today TV
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/266320
-#EXTINF:-1,YE: Yemen TV
-http://iptvtree.net:8080/ea188ac3/82d52ec7f7/266322
+#EXTINF:-1 tvg-id="" tvg-name="92 NEWS HD" tvg-logo="" group-title="PAKISTAN", 92 NEWS HD
+http://172.107.94.243:9000/live/premium/free/27696.ts
+#EXTINF:-1 tvg-id="" tvg-name="92 UK" tvg-logo="" group-title="PAKISTAN", 92 UK
+http://172.107.94.243:9000/live/premium/free/27882.ts
+#EXTINF:-1 tvg-id="" tvg-name="A PLUS" tvg-logo="" group-title="PAKISTAN", A PLUS
+http://172.107.94.243:9000/live/premium/free/27697.ts
+#EXTINF:-1 tvg-id="" tvg-name="A SPORT HD" tvg-logo="" group-title="PAKISTAN", A SPORT HD
+http://172.107.94.243:9000/live/premium/free/27750.ts
+#EXTINF:-1 tvg-id="" tvg-name="A SPORTS ARY FHD" tvg-logo="" group-title="PAKISTAN", A SPORTS ARY FHD
+http://172.107.94.243:9000/live/premium/free/27761.ts
+#EXTINF:-1 tvg-id="" tvg-name="A SPORTS FHD" tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-sportshdLogo.png" group-title="PAKISTAN", A SPORTS FHD
+http://172.107.94.243:9000/live/premium/free/27752.ts
+#EXTINF:-1 tvg-id="" tvg-name="A-PLUS" tvg-logo="" group-title="PAKISTAN", A-PLUS
+http://172.107.94.243:9000/live/premium/free/27762.ts
+#EXTINF:-1 tvg-id="" tvg-name="AAJ ENTERTAINEMENT" tvg-logo="https://www.mjunoon.tv/uploads/categories/a/Ajj-ent.png" group-title="PAKISTAN", AAJ ENTERTAINEMENT
+http://172.107.94.243:9000/live/premium/free/27753.ts
+#EXTINF:-1 tvg-id="" tvg-name="AAJ NEWS" tvg-logo="" group-title="PAKISTAN", AAJ NEWS
+http://172.107.94.243:9000/live/premium/free/27698.ts
+#EXTINF:-1 tvg-id="" tvg-name="AAP NEWS" tvg-logo="https://img-cdn.curl.pk/chimg/4503832233.png" group-title="PAKISTAN", AAP NEWS
+http://172.107.94.243:9000/live/premium/free/27863.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABB TAK" tvg-logo="" group-title="PAKISTAN", ABB TAK
+http://172.107.94.243:9000/live/premium/free/27699.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABBTAK NEWS" tvg-logo="" group-title="PAKISTAN", ABBTAK NEWS
+http://172.107.94.243:9000/live/premium/free/27763.ts
+#EXTINF:-1 tvg-id="" tvg-name="AFGHAN TV" tvg-logo="" group-title="PAKISTAN", AFGHAN TV
+http://172.107.94.243:9000/live/premium/free/27764.ts
+#EXTINF:-1 tvg-id="" tvg-name="AHLEBAIT" tvg-logo="" group-title="PAKISTAN", AHLEBAIT
+http://172.107.94.243:9000/live/premium/free/27765.ts
+#EXTINF:-1 tvg-id="" tvg-name="AKAAL CHANNEL" tvg-logo="" group-title="PAKISTAN", AKAAL CHANNEL
+http://172.107.94.243:9000/live/premium/free/27883.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL-QURAN AL-KAREEM" tvg-logo="http://live.phenixiptv.com:80/images/337fed3b3dec8b79d8ba125b1ef5e3bc.png" group-title="PAKISTAN", AL-QURAN AL-KAREEM
+http://172.107.94.243:9000/live/premium/free/27766.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="http://live.phenixiptv.com:80/images/fd523996b03da97cfb9872bb0ad000c7.png" group-title="PAKISTAN", ANIMAL PLANET
+http://172.107.94.243:9000/live/premium/free/27767.ts
+#EXTINF:-1 tvg-id="" tvg-name="APNA" tvg-logo="" group-title="PAKISTAN", APNA
+http://172.107.94.243:9000/live/premium/free/27768.ts
+#EXTINF:-1 tvg-id="" tvg-name="APNA CHANNEL" tvg-logo="" group-title="PAKISTAN", APNA CHANNEL
+http://172.107.94.243:9000/live/premium/free/27700.ts
+#EXTINF:-1 tvg-id="" tvg-name="APNA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Apna_channel_logo.png" group-title="PAKISTAN", APNA TV
+http://172.107.94.243:9000/live/premium/free/27867.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARUJ TV" tvg-logo="" group-title="PAKISTAN", ARUJ TV
+http://172.107.94.243:9000/live/premium/free/27701.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARY DIGITAL" tvg-logo="" group-title="PAKISTAN", ARY DIGITAL
+http://172.107.94.243:9000/live/premium/free/27702.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARY FAMILY" tvg-logo="" group-title="PAKISTAN", ARY FAMILY
+http://172.107.94.243:9000/live/premium/free/27769.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARY MUSIK" tvg-logo="" group-title="PAKISTAN", ARY MUSIK
+http://172.107.94.243:9000/live/premium/free/27703.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARY NEWS" tvg-logo="" group-title="PAKISTAN", ARY NEWS
+http://172.107.94.243:9000/live/premium/free/27704.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARY NEWS WORLD" tvg-logo="" group-title="PAKISTAN", ARY NEWS WORLD
+http://172.107.94.243:9000/live/premium/free/27770.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARY QTV" tvg-logo="" group-title="PAKISTAN", ARY QTV
+http://172.107.94.243:9000/live/premium/free/27705.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARY WORLD" tvg-logo="" group-title="PAKISTAN", ARY WORLD
+http://172.107.94.243:9000/live/premium/free/27771.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARY ZAIQA" tvg-logo="" group-title="PAKISTAN", ARY ZAIQA
+http://172.107.94.243:9000/live/premium/free/27884.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARY ZAUQ" tvg-logo="" group-title="PAKISTAN", ARY ZAUQ
+http://172.107.94.243:9000/live/premium/free/27772.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARY ZINDAGI" tvg-logo="" group-title="PAKISTAN", ARY ZINDAGI
+http://172.107.94.243:9000/live/premium/free/27706.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" group-title="PAKISTAN", ATV
+http://172.107.94.243:9000/live/premium/free/27707.ts
+#EXTINF:-1 tvg-id="" tvg-name="AVT KHYBER" tvg-logo="" group-title="PAKISTAN", AVT KHYBER
+http://172.107.94.243:9000/live/premium/free/27773.ts
+#EXTINF:-1 tvg-id="" tvg-name="AVT KHYBER MUSIC" tvg-logo="" group-title="PAKISTAN", AVT KHYBER MUSIC
+http://172.107.94.243:9000/live/premium/free/27774.ts
+#EXTINF:-1 tvg-id="" tvg-name="AWAZ ENTERTAINMENT" tvg-logo="" group-title="PAKISTAN", AWAZ ENTERTAINMENT
+http://172.107.94.243:9000/live/premium/free/27775.ts
+#EXTINF:-1 tvg-id="" tvg-name="AWAZ TV" tvg-logo="" group-title="PAKISTAN", AWAZ TV
+http://172.107.94.243:9000/live/premium/free/27708.ts
+#EXTINF:-1 tvg-id="" tvg-name="AWAZ TV NETWORK" tvg-logo="" group-title="PAKISTAN", AWAZ TV NETWORK
+http://172.107.94.243:9000/live/premium/free/27776.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOL ENTERTAINMENT HD" tvg-logo="" group-title="PAKISTAN", BOL ENTERTAINMENT HD
+http://172.107.94.243:9000/live/premium/free/27709.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOL NEWS" tvg-logo="" group-title="PAKISTAN", BOL NEWS
+http://172.107.94.243:9000/live/premium/free/27710.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOL NEWS URDU" tvg-logo="" group-title="PAKISTAN", BOL NEWS URDU
+http://172.107.94.243:9000/live/premium/free/27777.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAL NEWS" tvg-logo="" group-title="PAKISTAN", CAPITAL NEWS
+http://172.107.94.243:9000/live/premium/free/27778.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAL TV" tvg-logo="" group-title="PAKISTAN", CAPITAL TV
+http://172.107.94.243:9000/live/premium/free/27711.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK PAKISTAN" tvg-logo="" group-title="PAKISTAN", CARTOON NETWORK PAKISTAN
+http://172.107.94.243:9000/live/premium/free/27779.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24" tvg-logo="" group-title="PAKISTAN", CHANNEL 24
+http://172.107.94.243:9000/live/premium/free/27780.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 5" tvg-logo="" group-title="PAKISTAN", CHANNEL 5
+http://172.107.94.243:9000/live/premium/free/27781.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 5 NEWS" tvg-logo="" group-title="PAKISTAN", CHANNEL 5 NEWS
+http://172.107.94.243:9000/live/premium/free/27782.ts
+#EXTINF:-1 tvg-id="" tvg-name="CITY 41" tvg-logo="" group-title="PAKISTAN", CITY 41
+http://172.107.94.243:9000/live/premium/free/27712.ts
+#EXTINF:-1 tvg-id="" tvg-name="CITY 41 NEWS" tvg-logo="" group-title="PAKISTAN", CITY 41 NEWS
+http://172.107.94.243:9000/live/premium/free/27783.ts
+#EXTINF:-1 tvg-id="" tvg-name="CITY 42" tvg-logo="" group-title="PAKISTAN", CITY 42
+http://172.107.94.243:9000/live/premium/free/27713.ts
+#EXTINF:-1 tvg-id="" tvg-name="CITY 42 NEWS" tvg-logo="" group-title="PAKISTAN", CITY 42 NEWS
+http://172.107.94.243:9000/live/premium/free/27784.ts
+#EXTINF:-1 tvg-id="" tvg-name="CITY 44" tvg-logo="https://gitlab.com/ar13101085/static/-/raw/main/app_logo.png?inline=false" group-title="PAKISTAN", CITY 44
+http://172.107.94.243:9000/live/premium/free/27868.ts
+#EXTINF:-1 tvg-id="" tvg-name="CITY 44 NEWS" tvg-logo="" group-title="PAKISTAN", CITY 44 NEWS
+http://172.107.94.243:9000/live/premium/free/27785.ts
+#EXTINF:-1 tvg-id="" tvg-name="CN CCTV-1" tvg-logo="" group-title="PAKISTAN", CN CCTV-1
+http://172.107.94.243:9000/live/premium/free/27786.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAWN NEWS" tvg-logo="" group-title="PAKISTAN", DAWN NEWS
+http://172.107.94.243:9000/live/premium/free/27714.ts
+#EXTINF:-1 tvg-id="" tvg-name="DHARTI TV" tvg-logo="" group-title="PAKISTAN", DHARTI TV
+http://172.107.94.243:9000/live/premium/free/27787.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIN NEWS" tvg-logo="" group-title="PAKISTAN", DIN NEWS
+http://172.107.94.243:9000/live/premium/free/27788.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVER PAKISTAN" tvg-logo="" group-title="PAKISTAN", DISCOVER PAKISTAN
+http://172.107.94.243:9000/live/premium/free/27715.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="http://live.phenixiptv.com:80/images/989f931ef6d03ab7f396461798a40189.png" group-title="PAKISTAN", DISCOVERY
+http://172.107.94.243:9000/live/premium/free/27789.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUNIYA TV" tvg-logo="" group-title="PAKISTAN", DUNIYA TV
+http://172.107.94.243:9000/live/premium/free/27790.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUNYA NEWS" tvg-logo="" group-title="PAKISTAN", DUNYA NEWS
+http://172.107.94.243:9000/live/premium/free/27716.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUNYA TV" tvg-logo="" group-title="PAKISTAN", DUNYA TV
+http://172.107.94.243:9000/live/premium/free/27791.ts
+#EXTINF:-1 tvg-id="" tvg-name="EMAN TV" tvg-logo="" group-title="PAKISTAN", EMAN TV
+http://172.107.94.243:9000/live/premium/free/27792.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXPRESS ENTERTAINMENT" tvg-logo="" group-title="PAKISTAN", EXPRESS ENTERTAINMENT
+http://172.107.94.243:9000/live/premium/free/27717.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXPRESS NEWS" tvg-logo="" group-title="PAKISTAN", EXPRESS NEWS
+http://172.107.94.243:9000/live/premium/free/27718.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXPRESS TV" tvg-logo="https://i.imgur.com/wY41F5k.png" group-title="PAKISTAN", EXPRESS TV
+http://172.107.94.243:9000/live/premium/free/27885.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX" tvg-logo="" group-title="PAKISTAN", FILMAX
+http://172.107.94.243:9000/live/premium/free/27793.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX & FILMWORLD" tvg-logo="" group-title="PAKISTAN", FILMAX & FILMWORLD
+http://172.107.94.243:9000/live/premium/free/27886.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMAZIA" tvg-logo="" group-title="PAKISTAN", FILMAZIA
+http://172.107.94.243:9000/live/premium/free/27719.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMWORLD" tvg-logo="" group-title="PAKISTAN", FILMWORLD
+http://172.107.94.243:9000/live/premium/free/27720.ts
+#EXTINF:-1 tvg-id="" tvg-name="GEO ENTERTAINMENT" tvg-logo="" group-title="PAKISTAN", GEO ENTERTAINMENT
+http://172.107.94.243:9000/live/premium/free/27794.ts
+#EXTINF:-1 tvg-id="" tvg-name="GEO KAHANI" tvg-logo="" group-title="PAKISTAN", GEO KAHANI
+http://172.107.94.243:9000/live/premium/free/27721.ts
+#EXTINF:-1 tvg-id="" tvg-name="GEO NEWS HD" tvg-logo="" group-title="PAKISTAN", GEO NEWS HD
+http://172.107.94.243:9000/live/premium/free/27722.ts
+#EXTINF:-1 tvg-id="" tvg-name="GEO NEWS TV" tvg-logo="" group-title="PAKISTAN", GEO NEWS TV
+http://172.107.94.243:9000/live/premium/free/27795.ts
+#EXTINF:-1 tvg-id="" tvg-name="GEO SUPER HD" tvg-logo="" group-title="PAKISTAN", GEO SUPER HD
+http://172.107.94.243:9000/live/premium/free/27723.ts
+#EXTINF:-1 tvg-id="" tvg-name="GEO TEZ" tvg-logo="" group-title="PAKISTAN", GEO TEZ
+http://172.107.94.243:9000/live/premium/free/27796.ts
+#EXTINF:-1 tvg-id="" tvg-name="GEO TV  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Geo_Entertainment.png/56px-Geo_Entertainment.png" group-title="PAKISTAN", GEO TV  FHD
+http://172.107.94.243:9000/live/premium/free/27887.ts
+#EXTINF:-1 tvg-id="" tvg-name="GEO TV UK" tvg-logo="" group-title="PAKISTAN", GEO TV UK
+http://172.107.94.243:9000/live/premium/free/27724.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNN HD" tvg-logo="" group-title="PAKISTAN", GNN HD
+http://172.107.94.243:9000/live/premium/free/27797.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNN NEWS" tvg-logo="" group-title="PAKISTAN", GNN NEWS
+http://172.107.94.243:9000/live/premium/free/27725.ts
+#EXTINF:-1 tvg-id="" tvg-name="GTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="PAKISTAN", GTV FHD
+http://172.107.94.243:9000/live/premium/free/27869.ts
+#EXTINF:-1 tvg-id="" tvg-name="GTV HD" tvg-logo="http://comet.watch:8880/images/426d5dddf64cba11a0a64f206d4bac09.png" group-title="PAKISTAN", GTV HD
+http://172.107.94.243:9000/live/premium/free/27798.ts
+#EXTINF:-1 tvg-id="" tvg-name="HADI TV" tvg-logo="" group-title="PAKISTAN", HADI TV
+http://172.107.94.243:9000/live/premium/free/27799.ts
+#EXTINF:-1 tvg-id="" tvg-name="HIDAYAT TV" tvg-logo="" group-title="PAKISTAN", HIDAYAT TV
+http://172.107.94.243:9000/live/premium/free/27800.ts
+#EXTINF:-1 tvg-id="" tvg-name="HUM EUROPE UK" tvg-logo="" group-title="PAKISTAN", HUM EUROPE UK
+http://172.107.94.243:9000/live/premium/free/27801.ts
+#EXTINF:-1 tvg-id="" tvg-name="HUM HD" tvg-logo="" group-title="PAKISTAN", HUM HD
+http://172.107.94.243:9000/live/premium/free/27802.ts
+#EXTINF:-1 tvg-id="" tvg-name="HUM MASALA" tvg-logo="" group-title="PAKISTAN", HUM MASALA
+http://172.107.94.243:9000/live/premium/free/27803.ts
+#EXTINF:-1 tvg-id="" tvg-name="HUM NEWS HD" tvg-logo="http://comet.watch:8880/images/edfc3f8226bf06c72300e4432dd5b082.png" group-title="PAKISTAN", HUM NEWS HD
+http://172.107.94.243:9000/live/premium/free/27726.ts
+#EXTINF:-1 tvg-id="" tvg-name="HUM SITARAY" tvg-logo="" group-title="PAKISTAN", HUM SITARAY
+http://172.107.94.243:9000/live/premium/free/27727.ts
+#EXTINF:-1 tvg-id="" tvg-name="HUM TV" tvg-logo="" group-title="PAKISTAN", HUM TV
+http://172.107.94.243:9000/live/premium/free/27728.ts
+#EXTINF:-1 tvg-id="" tvg-name="HUM TV EUROPE HD" tvg-logo="" group-title="PAKISTAN", HUM TV EUROPE HD
+http://172.107.94.243:9000/live/premium/free/27804.ts
+#EXTINF:-1 tvg-id="" tvg-name="HUM TV FHD" tvg-logo="" group-title="PAKISTAN", HUM TV FHD
+http://172.107.94.243:9000/live/premium/free/27805.ts
+#EXTINF:-1 tvg-id="" tvg-name="HUM TV PASHTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/22-35-30-cropped-pashto-logo.png" group-title="PAKISTAN", HUM TV PASHTO
+http://172.107.94.243:9000/live/premium/free/27870.ts
+#EXTINF:-1 tvg-id="" tvg-name="HUM TV WORLD" tvg-logo="" group-title="PAKISTAN", HUM TV WORLD
+http://172.107.94.243:9000/live/premium/free/27806.ts
+#EXTINF:-1 tvg-id="" tvg-name="IBADAT TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61oLBxI2FOL._SY355_.png" group-title="PAKISTAN", IBADAT TV
+http://172.107.94.243:9000/live/premium/free/27888.ts
+#EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT TV" tvg-logo="https://www.pngitem.com/pimgs/m/21-212855_independent-tv-logo-png-transparent-png.png" group-title="PAKISTAN", INDEPENDENT TV
+http://172.107.94.243:9000/live/premium/free/27871.ts
+#EXTINF:-1 tvg-id="" tvg-name="INDUS NEWS HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ii/indusnews.jpg" group-title="PAKISTAN", INDUS NEWS HD
+http://172.107.94.243:9000/live/premium/free/27754.ts
+#EXTINF:-1 tvg-id="" tvg-name="IQRA TV UK" tvg-logo="" group-title="PAKISTAN", IQRA TV UK
+http://172.107.94.243:9000/live/premium/free/27807.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISHAAQ TV 12" tvg-logo="https://isaactelevision.tv/Isaac%20Logo.png" group-title="PAKISTAN", ISHAAQ TV 12
+http://172.107.94.243:9000/live/premium/free/27872.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISLAM CHANNEL URDU" tvg-logo="" group-title="PAKISTAN", ISLAM CHANNEL URDU
+http://172.107.94.243:9000/live/premium/free/27808.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISLAM TV URDU" tvg-logo="" group-title="PAKISTAN", ISLAM TV URDU
+http://172.107.94.243:9000/live/premium/free/27809.ts
+#EXTINF:-1 tvg-id="" tvg-name="JALWA" tvg-logo="http://comet.watch:8880/images/937baadbdbd1dc4ae801ce7e4b7b0dc3.png" group-title="PAKISTAN", JALWA
+http://172.107.94.243:9000/live/premium/free/27729.ts
+#EXTINF:-1 tvg-id="" tvg-name="JALWA MUSIC" tvg-logo="" group-title="PAKISTAN", JALWA MUSIC
+http://172.107.94.243:9000/live/premium/free/27810.ts
+#EXTINF:-1 tvg-id="" tvg-name="JOO MUSIC" tvg-logo="" group-title="PAKISTAN", JOO MUSIC
+http://172.107.94.243:9000/live/premium/free/27889.ts
+#EXTINF:-1 tvg-id="" tvg-name="K 4 KIDS TV" tvg-logo="" group-title="PAKISTAN", K 4 KIDS TV
+http://172.107.94.243:9000/live/premium/free/27890.ts
+#EXTINF:-1 tvg-id="" tvg-name="K21" tvg-logo="" group-title="PAKISTAN", K21
+http://172.107.94.243:9000/live/premium/free/27811.ts
+#EXTINF:-1 tvg-id="" tvg-name="K21 NEWS" tvg-logo="" group-title="PAKISTAN", K21 NEWS
+http://172.107.94.243:9000/live/premium/free/27812.ts
+#EXTINF:-1 tvg-id="" tvg-name="KASHISH TV" tvg-logo="" group-title="PAKISTAN", KASHISH TV
+http://172.107.94.243:9000/live/premium/free/27813.ts
+#EXTINF:-1 tvg-id="" tvg-name="KAY 2" tvg-logo="https://img-cdn.curl.pk/chimg/2459932540.png" group-title="PAKISTAN", KAY 2
+http://172.107.94.243:9000/live/premium/free/27864.ts
+#EXTINF:-1 tvg-id="" tvg-name="KAY 2 TV" tvg-logo="" group-title="PAKISTAN", KAY 2 TV
+http://172.107.94.243:9000/live/premium/free/27814.ts
+#EXTINF:-1 tvg-id="" tvg-name="KAY-2" tvg-logo="" group-title="PAKISTAN", KAY-2
+http://172.107.94.243:9000/live/premium/free/27815.ts
+#EXTINF:-1 tvg-id="" tvg-name="KAY2 TV" tvg-logo="http://live.phenixiptv.com:80/images/6985ac06fee4aa546b84804b8ad6b7af.png" group-title="PAKISTAN", KAY2 TV
+http://172.107.94.243:9000/live/premium/free/27751.ts
+#EXTINF:-1 tvg-id="" tvg-name="KHYBER MIDDLE EAST" tvg-logo="http://live.phenixiptv.com:80/images/dc10c54266e2d1d993d5aa164b165025.png" group-title="PAKISTAN", KHYBER MIDDLE EAST
+http://172.107.94.243:9000/live/premium/free/27816.ts
+#EXTINF:-1 tvg-id="" tvg-name="KHYBER NEWS" tvg-logo="" group-title="PAKISTAN", KHYBER NEWS
+http://172.107.94.243:9000/live/premium/free/27730.ts
+#EXTINF:-1 tvg-id="" tvg-name="KHYBER TV" tvg-logo="" group-title="PAKISTAN", KHYBER TV
+http://172.107.94.243:9000/live/premium/free/27731.ts
+#EXTINF:-1 tvg-id="" tvg-name="KING TV HD" tvg-logo="" group-title="PAKISTAN", KING TV HD
+http://172.107.94.243:9000/live/premium/free/27817.ts
+#EXTINF:-1 tvg-id="" tvg-name="KOHENOOR TV" tvg-logo="" group-title="PAKISTAN", KOHENOOR TV
+http://172.107.94.243:9000/live/premium/free/27818.ts
+#EXTINF:-1 tvg-id="" tvg-name="KOHINOOR NEWS" tvg-logo="http://comet.watch:8880/images/bd11e493d54d24e75faf673134e776d9.png" group-title="PAKISTAN", KOHINOOR NEWS
+http://172.107.94.243:9000/live/premium/free/27819.ts
+#EXTINF:-1 tvg-id="" tvg-name="KTN" tvg-logo="" group-title="PAKISTAN", KTN
+http://172.107.94.243:9000/live/premium/free/27732.ts
+#EXTINF:-1 tvg-id="" tvg-name="KTN NEWS" tvg-logo="" group-title="PAKISTAN", KTN NEWS
+http://172.107.94.243:9000/live/premium/free/27820.ts
+#EXTINF:-1 tvg-id="" tvg-name="KTN TV" tvg-logo="" group-title="PAKISTAN", KTN TV
+http://172.107.94.243:9000/live/premium/free/27891.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAHORE NEWS" tvg-logo="" group-title="PAKISTAN", LAHORE NEWS
+http://172.107.94.243:9000/live/premium/free/27821.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAHORE RANG" tvg-logo="" group-title="PAKISTAN", LAHORE RANG
+http://172.107.94.243:9000/live/premium/free/27822.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAHORE RUNG" tvg-logo="" group-title="PAKISTAN", LAHORE RUNG
+http://172.107.94.243:9000/live/premium/free/27823.ts
+#EXTINF:-1 tvg-id="" tvg-name="LTN FAMILY" tvg-logo="" group-title="PAKISTAN", LTN FAMILY
+http://172.107.94.243:9000/live/premium/free/27824.ts
+#EXTINF:-1 tvg-id="" tvg-name="MADANI CHANNEL" tvg-logo="" group-title="PAKISTAN", MADANI CHANNEL
+http://172.107.94.243:9000/live/premium/free/27825.ts
+#EXTINF:-1 tvg-id="" tvg-name="MADANI TV" tvg-logo="" group-title="PAKISTAN", MADANI TV
+http://172.107.94.243:9000/live/premium/free/27892.ts
+#EXTINF:-1 tvg-id="" tvg-name="MADINA LIVE" tvg-logo="" group-title="PAKISTAN", MADINA LIVE
+http://172.107.94.243:9000/live/premium/free/27826.ts
+#EXTINF:-1 tvg-id="" tvg-name="MADNI TV" tvg-logo="" group-title="PAKISTAN", MADNI TV
+http://172.107.94.243:9000/live/premium/free/27733.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAKKAH LIVE" tvg-logo="" group-title="PAKISTAN", MAKKAH LIVE
+http://172.107.94.243:9000/live/premium/free/27827.ts
+#EXTINF:-1 tvg-id="" tvg-name="MASALATV" tvg-logo="" group-title="PAKISTAN", MASALATV
+http://172.107.94.243:9000/live/premium/free/27828.ts
+#EXTINF:-1 tvg-id="" tvg-name="MASHRIQ TV" tvg-logo="" group-title="PAKISTAN", MASHRIQ TV
+http://172.107.94.243:9000/live/premium/free/27829.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEHRAN TV" tvg-logo="http://mehrantv.tv/wp-content/uploads/2018/06/Logo-I.png" group-title="PAKISTAN", MEHRAN TV
+http://172.107.94.243:9000/live/premium/free/27873.ts
+#EXTINF:-1 tvg-id="" tvg-name="METRO 1 NEWS" tvg-logo="" group-title="PAKISTAN", METRO 1 NEWS
+http://172.107.94.243:9000/live/premium/free/27830.ts
+#EXTINF:-1 tvg-id="" tvg-name="METRO NEWS" tvg-logo="" group-title="PAKISTAN", METRO NEWS
+http://172.107.94.243:9000/live/premium/free/27831.ts
+#EXTINF:-1 tvg-id="" tvg-name="MILLENNIUM TV" tvg-logo="" group-title="PAKISTAN", MILLENNIUM TV
+http://172.107.94.243:9000/live/premium/free/27893.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOHONA TV" tvg-logo="" group-title="PAKISTAN", MOHONA TV
+http://172.107.94.243:9000/live/premium/free/27894.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUNSIF TV" tvg-logo="" group-title="PAKISTAN", MUNSIF TV
+http://172.107.94.243:9000/live/premium/free/27832.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="" group-title="PAKISTAN", MY TV
+http://172.107.94.243:9000/live/premium/free/27895.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 24 TV" tvg-logo="" group-title="PAKISTAN", NEWS 24 TV
+http://172.107.94.243:9000/live/premium/free/27896.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWS ONE" tvg-logo="" group-title="PAKISTAN", NEWS ONE
+http://172.107.94.243:9000/live/premium/free/27734.ts
+#EXTINF:-1 tvg-id="" tvg-name="NOOR TV" tvg-logo="" group-title="PAKISTAN", NOOR TV
+http://172.107.94.243:9000/live/premium/free/27833.ts
+#EXTINF:-1 tvg-id="" tvg-name="OXYGEN" tvg-logo="" group-title="PAKISTAN", OXYGEN
+http://172.107.94.243:9000/live/premium/free/27897.ts
+#EXTINF:-1 tvg-id="" tvg-name="OXYGENE HD" tvg-logo="http://comet.watch:8880/images/33e9beebbe8a05a674a18d70706f7039.png" group-title="PAKISTAN", OXYGENE HD
+http://172.107.94.243:9000/live/premium/free/27834.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAIGHAM PASHTO" tvg-logo="" group-title="PAKISTAN", PAIGHAM PASHTO
+http://172.107.94.243:9000/live/premium/free/27835.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAIGHAM URDU" tvg-logo="" group-title="PAKISTAN", PAIGHAM URDU
+http://172.107.94.243:9000/live/premium/free/27836.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAK ASIA NEWS" tvg-logo="" group-title="PAKISTAN", PAK ASIA NEWS
+http://172.107.94.243:9000/live/premium/free/27898.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAK-LOC SAB TV PAK" tvg-logo="" group-title="PAKISTAN", PAK-LOC SAB TV PAK
+http://172.107.94.243:9000/live/premium/free/27837.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAKISTAN BARKAT" tvg-logo="" group-title="PAKISTAN", PAKISTAN BARKAT
+http://172.107.94.243:9000/live/premium/free/27899.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAKISTAN DESI TV" tvg-logo="" group-title="PAKISTAN", PAKISTAN DESI TV
+http://172.107.94.243:9000/live/premium/free/27900.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAKISTAN GEO ENT" tvg-logo="" group-title="PAKISTAN", PAKISTAN GEO ENT
+http://172.107.94.243:9000/live/premium/free/27901.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAKUS TV" tvg-logo="" group-title="PAKISTAN", PAKUS TV
+http://172.107.94.243:9000/live/premium/free/27838.ts
+#EXTINF:-1 tvg-id="" tvg-name="PASHTO 1" tvg-logo="" group-title="PAKISTAN", PASHTO 1
+http://172.107.94.243:9000/live/premium/free/27735.ts
+#EXTINF:-1 tvg-id="" tvg-name="PEACE TV ENGLISH" tvg-logo="" group-title="PAKISTAN", PEACE TV ENGLISH
+http://172.107.94.243:9000/live/premium/free/27839.ts
+#EXTINF:-1 tvg-id="" tvg-name="PEACE TV URDU" tvg-logo="" group-title="PAKISTAN", PEACE TV URDU
+http://172.107.94.243:9000/live/premium/free/27840.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLAY ENTERTAINMENT" tvg-logo="" group-title="PAKISTAN", PLAY ENTERTAINMENT
+http://172.107.94.243:9000/live/premium/free/27841.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV" tvg-logo="" group-title="PAKISTAN", PLAY TV
+http://172.107.94.243:9000/live/premium/free/27842.ts
+#EXTINF:-1 tvg-id="" tvg-name="PMI TV" tvg-logo="" group-title="PAKISTAN", PMI TV
+http://172.107.94.243:9000/live/premium/free/27902.ts
+#EXTINF:-1 tvg-id="" tvg-name="POP KIDS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Pop_%28UK_TV_channel%29_logo.png" group-title="PAKISTAN", POP KIDS HD
+http://172.107.94.243:9000/live/premium/free/27874.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRIME CANADA TV HD" tvg-logo="" group-title="PAKISTAN", PRIME CANADA TV HD
+http://172.107.94.243:9000/live/premium/free/27903.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV BOLAN" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTTScgqabHUKq7HJDSaU7LDMpKxVhP7i1SlveeR=s900-c-k-c0x00ffffff-no-rj" group-title="PAKISTAN", PTV BOLAN
+http://172.107.94.243:9000/live/premium/free/27875.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV GLOBAL" tvg-logo="" group-title="PAKISTAN", PTV GLOBAL
+http://172.107.94.243:9000/live/premium/free/27843.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV HOME" tvg-logo="" group-title="PAKISTAN", PTV HOME
+http://172.107.94.243:9000/live/premium/free/27736.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV NATIONAL" tvg-logo="https://www.shaamtv.com/images/25.jpg" group-title="PAKISTAN", PTV NATIONAL
+http://172.107.94.243:9000/live/premium/free/27755.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV NEWS" tvg-logo="" group-title="PAKISTAN", PTV NEWS
+http://172.107.94.243:9000/live/premium/free/27737.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV PARDESI" tvg-logo="https://gitlab.com/ar13101085/static/-/raw/main/app_logo.png?inline=false" group-title="PAKISTAN", PTV PARDESI
+http://172.107.94.243:9000/live/premium/free/27876.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV PRIME" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/d/dc/Peoples_Television_Two.png/revision/latest?cb=20190608173233" group-title="PAKISTAN", PTV PRIME
+http://172.107.94.243:9000/live/premium/free/27877.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="" group-title="PAKISTAN", PTV SPORTS
+http://172.107.94.243:9000/live/premium/free/27738.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV WORLD" tvg-logo="" group-title="PAKISTAN", PTV WORLD
+http://172.107.94.243:9000/live/premium/free/27739.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUBLIC NEWS" tvg-logo="" group-title="PAKISTAN", PUBLIC NEWS
+http://172.107.94.243:9000/live/premium/free/27740.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAAVI FILMS" tvg-logo="" group-title="PAKISTAN", RAAVI FILMS
+http://172.107.94.243:9000/live/premium/free/27844.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAAVI TV" tvg-logo="" group-title="PAKISTAN", RAAVI TV
+http://172.107.94.243:9000/live/premium/free/27741.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAHAM TV" tvg-logo="" group-title="PAKISTAN", RAHAM TV
+http://172.107.94.243:9000/live/premium/free/27845.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROHI TV" tvg-logo="" group-title="PAKISTAN", ROHI TV
+http://172.107.94.243:9000/live/premium/free/27846.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROZE NEWS" tvg-logo="" group-title="PAKISTAN", ROZE NEWS
+http://172.107.94.243:9000/live/premium/free/27742.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="PAKISTAN", RTV
+http://172.107.94.243:9000/live/premium/free/27904.ts
+#EXTINF:-1 tvg-id="" tvg-name="SAMAA NEWS" tvg-logo="" group-title="PAKISTAN", SAMAA NEWS
+http://172.107.94.243:9000/live/premium/free/27847.ts
+#EXTINF:-1 tvg-id="" tvg-name="SAMAA TV" tvg-logo="" group-title="PAKISTAN", SAMAA TV
+http://172.107.94.243:9000/live/premium/free/27743.ts
+#EXTINF:-1 tvg-id="" tvg-name="SEE TV" tvg-logo="" group-title="PAKISTAN", SEE TV
+http://172.107.94.243:9000/live/premium/free/27744.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHAMSHAD TV" tvg-logo="" group-title="PAKISTAN", SHAMSHAD TV
+http://172.107.94.243:9000/live/premium/free/27848.ts
+#EXTINF:-1 tvg-id="" tvg-name="SILVER SCREEN" tvg-logo="" group-title="PAKISTAN", SILVER SCREEN
+http://172.107.94.243:9000/live/premium/free/27849.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINDH ENTERTAINMENT" tvg-logo="http://comet.watch:8880/images/ba378d772606df71b576a6d82b9b7784.png" group-title="PAKISTAN", SINDH ENTERTAINMENT
+http://172.107.94.243:9000/live/premium/free/27850.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINDH NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Sindh_TV_News_Logo.png" group-title="PAKISTAN", SINDH NEWS
+http://172.107.94.243:9000/live/premium/free/27878.ts
+#EXTINF:-1 tvg-id="" tvg-name="SINDH TV" tvg-logo="" group-title="PAKISTAN", SINDH TV
+http://172.107.94.243:9000/live/premium/free/27851.ts
+#EXTINF:-1 tvg-id="" tvg-name="SOFT BOX MUSIC TV" tvg-logo="" group-title="PAKISTAN", SOFT BOX MUSIC TV
+http://172.107.94.243:9000/live/premium/free/27905.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAGE SHOWS" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/aapnews.jpg" group-title="PAKISTAN", STAGE SHOWS
+http://172.107.94.243:9000/live/premium/free/27756.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUBRANG TV" tvg-logo="" group-title="PAKISTAN", SUBRANG TV
+http://172.107.94.243:9000/live/premium/free/27852.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUCH NEWS HD" tvg-logo="https://www.suchtv.pk/images/such-tv-official-logo.png" group-title="PAKISTAN", SUCH NEWS HD
+http://172.107.94.243:9000/live/premium/free/27879.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUCH TV" tvg-logo="" group-title="PAKISTAN", SUCH TV
+http://172.107.94.243:9000/live/premium/free/27745.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUNO TV" tvg-logo="" group-title="PAKISTAN", SUNO TV
+http://172.107.94.243:9000/live/premium/free/27865.ts
+#EXTINF:-1 tvg-id="" tvg-name="TAG TV" tvg-logo="" group-title="PAKISTAN", TAG TV
+http://172.107.94.243:9000/live/premium/free/27853.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS PK" tvg-logo="" group-title="PAKISTAN", TEN SPORTS PK
+http://172.107.94.243:9000/live/premium/free/27746.ts
+#EXTINF:-1 tvg-id="" tvg-name="TORONTO 360 TV" tvg-logo="" group-title="PAKISTAN", TORONTO 360 TV
+http://172.107.94.243:9000/live/premium/free/27854.ts
+#EXTINF:-1 tvg-id="" tvg-name="TUM NEWS" tvg-logo="https://gitlab.com/ar13101085/static/-/raw/main/app_logo.png?inline=false" group-title="PAKISTAN", TUM NEWS
+http://172.107.94.243:9000/live/premium/free/27880.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CANADA ONE" tvg-logo="" group-title="PAKISTAN", TV CANADA ONE
+http://172.107.94.243:9000/live/premium/free/27855.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="" group-title="PAKISTAN", TV ONE
+http://172.107.94.243:9000/live/premium/free/27747.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE GLOBAL" tvg-logo="" group-title="PAKISTAN", TV ONE GLOBAL
+http://172.107.94.243:9000/live/premium/free/27906.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV2 DAY" tvg-logo="" group-title="PAKISTAN", TV2 DAY
+http://172.107.94.243:9000/live/premium/free/27856.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK 44" tvg-logo="" group-title="PAKISTAN", UK 44
+http://172.107.94.243:9000/live/premium/free/27857.ts
+#EXTINF:-1 tvg-id="" tvg-name="URDU 1" tvg-logo="" group-title="PAKISTAN", URDU 1
+http://172.107.94.243:9000/live/premium/free/27858.ts
+#EXTINF:-1 tvg-id="" tvg-name="URDU1 EUROPE" tvg-logo="" group-title="PAKISTAN", URDU1 EUROPE
+http://172.107.94.243:9000/live/premium/free/27907.ts
+#EXTINF:-1 tvg-id="" tvg-name="US NEWS" tvg-logo="" group-title="PAKISTAN
 #EXTINF:-1,|AR| YEMEN TV
 http://rv.bleutv.net:2089/152019521663077/152058336619947/204928
 #EXTINF:-1,|AR| YEMEN SHABAB
