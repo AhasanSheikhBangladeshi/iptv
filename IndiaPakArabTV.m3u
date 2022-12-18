@@ -398,7 +398,138 @@ http://172.107.94.243:9000/live/premium/free/27857.ts
 http://172.107.94.243:9000/live/premium/free/27858.ts
 #EXTINF:-1 tvg-id="" tvg-name="URDU1 EUROPE" tvg-logo="" group-title="PAKISTAN", URDU1 EUROPE
 http://172.107.94.243:9000/live/premium/free/27907.ts
-#EXTINF:-1 tvg-id="" tvg-name="US NEWS" tvg-logo="" group-title="PAKISTAN
+EXTINF:-1 tvg-id="" tvg-name="A ONE TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/8288927776261572165.jpg" group-title="MUSLIM", A ONE TV
+http://172.107.94.243:9000/live/premium/free/26260.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABU DHABI ALOULA" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/4c9192cb-3726-4049-ae02-cffb1af7f269.jpg" group-title="MUSLIM", ABU DHABI ALOULA
+http://172.107.94.243:9000/live/premium/free/26261.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABU DHABI EMIRATES" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/f72c53a3-99c8-4539-87fe-7418874b7b9e.jpeg" group-title="MUSLIM", ABU DHABI EMIRATES
+http://172.107.94.243:9000/live/premium/free/26262.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABU DHABI SPORT 1" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/2918785122916281064.jpg" group-title="MUSLIM", ABU DHABI SPORT 1
+http://172.107.94.243:9000/live/premium/free/26263.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABU DHABI SPORT 2" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/896279667008762614.png" group-title="MUSLIM", ABU DHABI SPORT 2
+http://172.107.94.243:9000/live/premium/free/26264.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABU DHABI SPORTS 3" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/3494438893330216010.png" group-title="MUSLIM", ABU DHABI SPORTS 3
+http://172.107.94.243:9000/live/premium/free/26265.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABU DHABI TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/4118882749811573456.png" group-title="MUSLIM", ABU DHABI TV
+http://172.107.94.243:9000/live/premium/free/26266.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL ARABIYA TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/8706448745720573650.jpg" group-title="MUSLIM", AL ARABIYA TV
+http://172.107.94.243:9000/live/premium/free/26267.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL ARABY TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/5691254089566804155.png" group-title="MUSLIM", AL ARABY TV
+http://172.107.94.243:9000/live/premium/free/26268.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL HAYAT" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/8069310509195785500.jpg" group-title="MUSLIM", AL HAYAT
+http://172.107.94.243:9000/live/premium/free/26269.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL HIWAR TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/8477406316915385059.jpg" group-title="MUSLIM", AL HIWAR TV
+http://172.107.94.243:9000/live/premium/free/26270.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL HURRA IRAQ" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/685171401597271669.jpg" group-title="MUSLIM", AL HURRA IRAQ
+http://172.107.94.243:9000/live/premium/free/26271.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL IRAQIYA NEWS" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/6779619213767639027.jpg" group-title="MUSLIM", AL IRAQIYA NEWS
+http://172.107.94.243:9000/live/premium/free/26272.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA ARABIC" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/91acc117-a1f4-4232-8118-b9b00664e814.png" group-title="MUSLIM", AL JAZEERA ARABIC
+http://172.107.94.243:9000/live/premium/free/26273.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL KARMA  LABANON" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/7136262469598397231.jpg" group-title="MUSLIM", AL KARMA  LABANON
+http://172.107.94.243:9000/live/premium/free/26274.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL KHALIJ  SAUDI" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/725097287686037998.jpg" group-title="MUSLIM", AL KHALIJ  SAUDI
+http://172.107.94.243:9000/live/premium/free/26275.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL MAGD LEBANON" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/4553034820181411760.png" group-title="MUSLIM", AL MAGD LEBANON
+http://172.107.94.243:9000/live/premium/free/26276.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL MAMLAKA JORDAN" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/1359553586555216398.png" group-title="MUSLIM", AL MAMLAKA JORDAN
+http://172.107.94.243:9000/live/premium/free/26277.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL RAI" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/3411586367714037549.png" group-title="MUSLIM", AL RAI
+http://172.107.94.243:9000/live/premium/free/26278.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL RAYYAN AL QADEEM" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/8780322399422715834.png" group-title="MUSLIM", AL RAYYAN AL QADEEM
+http://172.107.94.243:9000/live/premium/free/26279.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL RAYYAN QATAR" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/d1501b92-6f05-4523-a7f6-03b9b0b31048.png" group-title="MUSLIM", AL RAYYAN QATAR
+http://172.107.94.243:9000/live/premium/free/26280.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL SHARQIYA IRAQ" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/2847041399311002391.png" group-title="MUSLIM", AL SHARQIYA IRAQ
+http://172.107.94.243:9000/live/premium/free/26281.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL SUNNAH AL NABAWIYAH TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/a8808aa8-f9c1-4b3c-a882-5d7531485de4.jpg" group-title="MUSLIM", AL SUNNAH AL NABAWIYAH TV
+http://172.107.94.243:9000/live/premium/free/26282.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL WOUSTA TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/bc3e50df-0459-4d81-88c4-b891056dcdb0.png" group-title="MUSLIM", AL WOUSTA TV
+http://172.107.94.243:9000/live/premium/free/26283.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/7433780536313438386.png" group-title="MUSLIM", ALJAZEERA
+http://172.107.94.243:9000/live/premium/free/26284.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARAMAIC BROADCASTING NETWORK" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/3872342381918703775.png" group-title="MUSLIM", ARAMAIC BROADCASTING NETWORK
+http://172.107.94.243:9000/live/premium/free/26285.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARB 24 AZERBAIJAN" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/5360322088635145425.jpg" group-title="MUSLIM", ARB 24 AZERBAIJAN
+http://172.107.94.243:9000/live/premium/free/26286.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASHARQ" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/41f9de59-1e81-47bd-a561-721c4414a382.png" group-title="MUSLIM", ASHARQ
+http://172.107.94.243:9000/live/premium/free/26287.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATFAL WA MAWAHEB" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/f52d09ee-56bf-4d7e-8fdc-3a4c7e640057.jpg" group-title="MUSLIM", ATFAL WA MAWAHEB
+http://172.107.94.243:9000/live/premium/free/26288.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI EYE NEWS" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/4476540925396230645.jpg" group-title="MUSLIM", DUBAI EYE NEWS
+http://172.107.94.243:9000/live/premium/free/26289.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI ONE" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/7770310350485818315.jpg" group-title="MUSLIM", DUBAI ONE
+http://172.107.94.243:9000/live/premium/free/26290.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI RACING 2" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/4907782905856536045.png" group-title="MUSLIM", DUBAI RACING 2
+http://172.107.94.243:9000/live/premium/free/26291.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS 1 HD" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/8810146179652509988.png" group-title="MUSLIM", DUBAI SPORTS 1 HD
+http://172.107.94.243:9000/live/premium/free/26292.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS 3" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/3417642587600697031.jpg" group-title="MUSLIM", DUBAI SPORTS 3
+http://172.107.94.243:9000/live/premium/free/26293.ts
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/92d759b8-9e60-444c-80d5-56ebed43aa84.jpg" group-title="MUSLIM", DUBAI TV
+http://172.107.94.243:9000/live/premium/free/26294.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW ARABIC" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/4310971859545881216.jpg" group-title="MUSLIM", DW ARABIC
+http://172.107.94.243:9000/live/premium/free/26295.ts
+#EXTINF:-1 tvg-id="" tvg-name="EMAN CHANNEL" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/6540891684470727286.jpg" group-title="MUSLIM", EMAN CHANNEL
+http://172.107.94.243:9000/live/premium/free/26296.ts
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 ARABIC" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/7592244684150475411.png" group-title="MUSLIM", FRANCE 24 ARABIC
+http://172.107.94.243:9000/live/premium/free/26297.ts
+#EXTINF:-1 tvg-id="" tvg-name="IRAN INTERNATIONL TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/2115014238758338712.png" group-title="MUSLIM", IRAN INTERNATIONL TV
+http://172.107.94.243:9000/live/premium/free/26298.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISLAM CHANNEL" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/ddae64c5-b87d-4254-91e8-a31cb49f3453.jpg" group-title="MUSLIM", ISLAM CHANNEL
+http://172.107.94.243:9000/live/premium/free/26299.ts
+#EXTINF:-1 tvg-id="" tvg-name="KURDISTAN 24" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/8b09df3a-b007-4d49-b8bb-c83588917d40.png" group-title="MUSLIM", KURDISTAN 24
+http://172.107.94.243:9000/live/premium/free/26300.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAKKAH TV SAUDI" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/7904357804802734715.jpg" group-title="MUSLIM", MAKKAH TV SAUDI
+http://172.107.94.243:9000/live/premium/free/26301.ts
+#EXTINF:-1 tvg-id="" tvg-name="MANOTO TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/3c56b0f7-4c6c-4673-9d36-7ca9fdb09f3f.jpg" group-title="MUSLIM", MANOTO TV
+http://172.107.94.243:9000/live/premium/free/26302.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1 USA" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/2a5cdda8-16bf-4fe5-a219-f2e75f60f580.jpg" group-title="MUSLIM", MBC 1 USA
+http://172.107.94.243:9000/live/premium/free/26303.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA USA" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/1e02963d-6426-4cee-a854-e08f2aedba19.png" group-title="MUSLIM", MBC DRAMA USA
+http://172.107.94.243:9000/live/premium/free/26304.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/b158c722-d90b-4299-b5a9-e9e8d685e663.png" group-title="MUSLIM", MBC IRAQ
+http://172.107.94.243:9000/live/premium/free/26305.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC PERSIA" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/1195149098385558041.jpg" group-title="MUSLIM", MBC PERSIA
+http://172.107.94.243:9000/live/premium/free/26306.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC PLUS DRAMA" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/361ca982-75f1-41c8-a209-979ab2f488c0.png" group-title="MUSLIM", MBC PLUS DRAMA
+http://172.107.94.243:9000/live/premium/free/26307.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC TV SAUDI" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/8706712285202323235.jpg" group-title="MUSLIM", MBC TV SAUDI
+http://172.107.94.243:9000/live/premium/free/26308.ts
+#EXTINF:-1 tvg-id="" tvg-name="MEKAMELEEN TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/5911625758344843109.jpg" group-title="MUSLIM", MEKAMELEEN TV
+http://172.107.94.243:9000/live/premium/free/26309.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC ABU DHABI" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/1370041572415666893.jpg" group-title="MUSLIM", NATIONAL GEOGRAPHIC ABU DHABI
+http://172.107.94.243:9000/live/premium/free/26310.ts
+#EXTINF:-1 tvg-id="" tvg-name="PALESTINE TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/9147057526725861427.jpg" group-title="MUSLIM", PALESTINE TV
+http://172.107.94.243:9000/live/premium/free/26311.ts
+#EXTINF:-1 tvg-id="" tvg-name="PRESS TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/8091681795320708215.jpg" group-title="MUSLIM", PRESS TV
+http://172.107.94.243:9000/live/premium/free/26312.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA KHALIJIA HD" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/1075534557702361349.jpg" group-title="MUSLIM", ROTANA KHALIJIA HD
+http://172.107.94.243:9000/live/premium/free/26313.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUDAW KURDISH TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/7924334666996730749.jpg" group-title="MUSLIM", RUDAW KURDISH TV
+http://172.107.94.243:9000/live/premium/free/26314.ts
+#EXTINF:-1 tvg-id="" tvg-name="SAMA DUBAI" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/772288b5-fb90-4af4-9348-de3d224b4b0c.jpg" group-title="MUSLIM", SAMA DUBAI
+http://172.107.94.243:9000/live/premium/free/26315.ts
+#EXTINF:-1 tvg-id="" tvg-name="SAT 7 ARABIC" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/5113989151152912916.jpg" group-title="MUSLIM", SAT 7 ARABIC
+http://172.107.94.243:9000/live/premium/free/26316.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHARJAH SPORTS ABU DARBI" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/595982134920739735.jpg" group-title="MUSLIM", SHARJAH SPORTS ABU DARBI
+http://172.107.94.243:9000/live/premium/free/26317.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHARJAH TV ABU DARBI" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/911352007233922987.jpg" group-title="MUSLIM", SHARJAH TV ABU DARBI
+http://172.107.94.243:9000/live/premium/free/26318.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS ARABIA" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/7158113533164472885.png" group-title="MUSLIM", SKY NEWS ARABIA
+http://172.107.94.243:9000/live/premium/free/26319.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUNNA TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/c277ec12-fe07-44b8-ab25-6ca1cb360697.jpg" group-title="MUSLIM", SUNNA TV
+http://172.107.94.243:9000/live/premium/free/26320.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT ARABIC" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/3374552295798108778.jpg" group-title="MUSLIM", TRT ARABIC
+http://172.107.94.243:9000/live/premium/free/26321.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOA PERSIA" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/5230583454855230251.png" group-title="MUSLIM", VOA PERSIA
+http://172.107.94.243:9000/live/premium/free/26322.ts
+#EXTINF:-1 tvg-id="" tvg-name="WANASAH TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/68cfa4f1-acb3-4689-ae40-0b62f50eada4.jpg" group-title="MUSLIM", WANASAH TV
+http://172.107.94.243:9000/live/premium/free/26323.ts
+#EXTINF:-1 tvg-id="" tvg-name="WION TV" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/3762298792874880184.jpg" group-title="MUSLIM", WION TV
+http://172.107.94.243:9000/live/premium/free/26324.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZAGRO TV IRAQ" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/5015342276976422101.png" group-title="MUSLIM", ZAGRO TV IRAQ
+http://172.107.94.243:9000/live/premium/free/26325.ts
 #EXTINF:-1,|AR| YEMEN TV
 http://rv.bleutv.net:2089/152019521663077/152058336619947/204928
 #EXTINF:-1,|AR| YEMEN SHABAB
