@@ -109,8 +109,8 @@ http://daddyserver.com:8080/drzeus_discord_exchange/tgC6KgmDP5xD/305
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="Documentary", Discovery Channel Bengali
 https://durbinlive.com/live3/live/jio/guvugggufuuf.php?l0=Discovery_Channel_Bengali
-#EXTINF:-1 tvg-name="RTA News" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA News
-http://ip133.ip-51-210-227.eu/hls/stream.m3u8
+#EXTINF:-1 tvg-id="IranInternational.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/gUzGZK7.png" group-title="Iran",Iran International
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-name="ATN Europe" tvg-logo="https://i.imgur.com/m6tBPia.png" group-title="AFGHANISTAN",ATN Europe
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Lemar TV" tvg-logo="https://i.imgur.com/6l9YYEs.png" group-title="AFGHANISTAN",Lemar TV
