@@ -66,6 +66,35 @@ http://172.107.94.243:9000/live/premium/free/6734.ts
 http://172.107.94.243:9000/live/premium/free/6735.ts
 #EXTINF:-1 tvg-id="" tvg-name="YEMEN YEMEN TV FHD" tvg-logo="https://lo1.in/yem/yem6.png" group-title="ARABIC", YEMEN YEMEN TV FHD
 http://172.107.94.243:9000/live/premium/free/6736.ts
+#EXTINF:-1,92 News HD PK
+http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/16129
+#EXTINF:-1,Ary Digital PK
+http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/16122
+#EXTINF:-1,Ary Music PK
+http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/16119
+#EXTINF:-1,Ary News PK
+http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/16117
+#EXTINF:-1,Ary QTV PK
+http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/16116
+#EXTINF:-1,Ary Zindagi PK
+http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/16113
+#EXTINF:-1,ATV PK
+http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/16111
+#EXTINF:-1,AVT Khyber PK
+http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/16874
+#EXTINF:-1,Dawn News PK
+http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/16102
+#EXTINF:-1,Geo News PK
+http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/16089
+#EXTINF:-1,Geo Super PK
+http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/16088
+#EXTINF:-1,Geo Tez PK
+http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/16087
+#EXTINF:-1,Geo Tv PK
+http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/16086
+#EXTINF:-1,Hadi TV PK
+http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/16085
+
 #EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA ARABIC" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/91acc117-a1f4-4232-8118-b9b00664e814.png" group-title="MUSLIM", AL JAZEERA ARABIC
 http://172.107.94.243:9000/live/premium/free/26273.ts
 #EXTINF:-1 tvg-id="" tvg-name="AL KARMA  LABANON" tvg-logo="https://mediagh.norago.tv/img/resize/235x332/7136262469598397231.jpg" group-title="MUSLIM", AL KARMA  LABANON
