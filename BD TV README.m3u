@@ -48,7 +48,7 @@ https://tvs1.aynaott.com/atnnews/tracks-v1a1/mono.m3u8?token=7b45ac1a19e159d2824
 #EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangladeshi",Mohona Tv
 https://tvs1.aynaott.com/mohonatv/tracks-v1a1/mono.m3u8?token=d184aa7ede0423ffd555535e44bbbd026baa91aa-UazY2IOwPcjG7MsN-
 #EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=nVKf-Tfw5LA
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist_audioben.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="Bangladeshi",SATV
 http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="Bangladeshi",Asian TV+Ye-mn-yem
