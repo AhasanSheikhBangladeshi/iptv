@@ -140,7 +140,7 @@ https://5c75277727cd1.streamlock.net/iplustv/iplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Huda Tv" tvg-logo="http://2.bp.blogspot.com/-cSfP2QGNX28/VYv3Az7jdqI/AAAAAAAAARo/IfXNZKE0_Fk/s1600/Huda%2BLogo%2BSMALL.jpg" group-title="En-Religious",EN- Huda Tv
 http://arabicsawa.xyz:25461/SAWAIPTV/Kemo4511214/971
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxGY7_yuYYzSh1-EAbphivlU-EFuxe3bO6jQ&usqp=CAU" group-title="General",Yemen TV
-http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/111586
+http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/38757.ts
 #EXTINF:-1 tvg-id="OmanTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C7kfubs.png" group-title="General",Oman TV (1080p)
 https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlraiTV-200x150.png" ,Al Rai 
@@ -230,11 +230,11 @@ https://video.yementdy.tv:443/hls/yementoday_src.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="none" group-title="General",Al Sharqiya (1080p)
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV1.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="",KTV 1 (1080p)
-http://172.107.94.243:9000/live/premium/free/4965.ts
+http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/109552.ts
 #EXTINF:-1 tvg-id="KTV2.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg"  group-title="",KTV 2 (1080p)
-http://ott-serveur.com:8000/504645251728170/515299363871871/27696
+http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/109551.ts
 #EXTINF:-1 tvg-id="KTVEthraa.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif"  group-title="",KTV Ethraa (1080p) 
-http://ott-serveur.com:8000/504645251728170/515299363871871/27693
+http://smart-tv.cc:8080/3BeDPVbdhE/mZze0Z24s6/109550.ts
 #EXTINF:-1 tvg-id="KTVSport.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg"  group-title="Sports",KTV Sport (1080p)
 http://ott-serveur.com:8000/504645251728170/515299363871871/27690
 EXTINF:-1 tvg-id="HaditvDua" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Dua Channel Hadi TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/dua-channel.jpg",Dua Channel (1080)
