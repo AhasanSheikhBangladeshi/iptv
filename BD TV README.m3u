@@ -33,9 +33,10 @@ https://tvs1.aynaott.com/maasrangatv/tracks-v1a1/mono.m3u8?token=a9ce75c392ca70d
 #EXTINF:0 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangladeshi",Independent TV
 https://tvs1.aynaott.com/independenttv/tracks-v1a1/mono.m3u8?token=c0871d6b51b0c192eb2fdecba7300aea94cafc66-lWxOeYPHjyR853HS-
 #EXTINF:0 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="Bangladeshi",Channel I
-https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1667563200-now.m3u8?token=a3cabd6b69e3493d5f50d8f63c64a8f444699922-om9uz9HA51NM5zLh-
+http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
-http://xtream.efiberbd.net:8080/live/mkaua/stream/48.m3u8
+#http://103.118.76.146:1935/evolution/NTV.stream/playlist.m3u8
+http://208.86.19.13:81/652.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="Bangladeshi",RTV
 https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Bangladeshi",Boishakhi
