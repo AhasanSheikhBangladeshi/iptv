@@ -48,28 +48,6 @@ http://pro.ipcover.tv:8080/steph7/dumoule/234795
 http://pro.ipcover.tv:8080/steph7/dumoule/234796
 #EXTINF:-1,AR : Yemen|Almahriah FHD
 http://pro.ipcover.tv:8080/steph7/dumoule/234797
-#EXTINF:-1,Aden TV
-http://sniperstv.vip:8080/mariisrgy2345126AB/mariisrgy3245126BA/681
-#EXTINF:-1,Al Masirah
-http://sniperstv.vip:8080/mariisrgy2345126AB/mariisrgy3245126BA/682
-#EXTINF:-1,Al Masirah Mubacher
-http://sniperstv.vip:8080/mariisrgy2345126AB/mariisrgy3245126BA/683
-#EXTINF:-1,Alerth TV
-http://sniperstv.vip:8080/mariisrgy2345126AB/mariisrgy3245126BA/684
-#EXTINF:-1,Alghad Almushreq
-http://sniperstv.vip:8080/mariisrgy2345126AB/mariisrgy3245126BA/685
-#EXTINF:-1,Suhail TV
-http://sniperstv.vip:8080/mariisrgy2345126AB/mariisrgy3245126BA/686
-#EXTINF:-1,Yemen Shabab
-http://sniperstv.vip:8080/mariisrgy2345126AB/mariisrgy3245126BA/689
-#EXTINF:-1,Imamhussein TV 1 (Farsi)
-http://sniperstv.vip:8080/mariisrgy2345126AB/mariisrgy3245126BA/740
-#EXTINF:-1,Imamhussein TV 3 (English)
-http://sniperstv.vip:8080/mariisrgy2345126AB/mariisrgy3245126BA/742
-#EXTINF:-1,Al Iraqiya News
-http://sniperstv.vip:8080/mariisrgy2345126AB/mariisrgy3245126BA/787
-#EXTINF:-1,Al Iraqiya
-http://sniperstv.vip:8080/mariisrgy2345126AB/mariisrgy3245126BA/788
 #EXTINF:-1,Aden TV YE
 http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/111587
 #EXTINF:-1,Al Saeedah YE
@@ -113,40 +91,7 @@ http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/16087
 http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/16086
 #EXTINF:-1,Hadi TV PK
 http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/16085
-#EXTINF:-1,|AR| YEMEN TV
-http://rv.bleutv.net:2089/152019521663077/152058336619947/204928
-#EXTINF:-1,|AR| YEMEN SHABAB
-http://rv.bleutv.net:2089/152019521663077/152058336619947/204927
-#EXTINF:-1,|AR| YEMEN EDUCATION TV
-http://rv.bleutv.net:2089/152019521663077/152058336619947/204926
-#EXTINF:-1,|AR| YEMEN TODAY
-http://rv.bleutv.net:2089/152019521663077/152058336619947/204925
-#EXTINF:-1,|AR| SUHAIL TV
-http://rv.bleutv.net:2089/152019521663077/152058336619947/204924
-#EXTINF:-1,|AR| SHEBA TV
-http://rv.bleutv.net:2089/152019521663077/152058336619947/204923
-#EXTINF:-1,|AR| ADEN TV
-http://rv.bleutv.net:2089/152019521663077/152058336619947/204922
-#EXTINF:-1,|AR | AL SAEEDAH
-http://rv.bleutv.net:2089/152019521663077/152058336619947/204921
-#EXTINF:-1,|AR | HADRAMOOT
-http://rv.bleutv.net:2089/152019521663077/152058336619947/204920
-#EXTINF:-1,|AR | AIC TV
-http://rv.bleutv.net:2089/152019521663077/152058336619947/204919
-#EXTINF:-1,|AR| AL SAHAT
-http://rv.bleutv.net:2089/152019521663077/152058336619947/204918
-#EXTINF:-1,|AR| BELQESS
-http://rv.bleutv.net:2089/152019521663077/152058336619947/204917
-#EXTINF:-1,|AR| ALLAHDAH TV
-http://rv.bleutv.net:2089/152019521663077/152058336619947/204916
-#EXTINF:-1,|AR| AL MASIRAH TV
-http://rv.bleutv.net:2089/152019521663077/152058336619947/204915
-#EXTINF:-1,|AR| AL GHAD AL MUSHREQ
-http://rv.bleutv.net:2089/152019521663077/152058336619947/204914
-#EXTINF:-1,|AR| AL-SHAREYYAH CHANNEL
-http://rv.bleutv.net:2089/152019521663077/152058336619947/204913
-#EXTINF:-1,|AR| LINA TV
-http://rv.bleutv.net:2089/152019521663077/152058336619947/204912
+
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
 https://cdnw.telewebion.com:443/tv1/live/240p/index.m3u8
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
