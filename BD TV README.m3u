@@ -169,9 +169,9 @@ https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/
 #EXTINF:-1 tvg-name="Rotana Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Kids_Logo.png/1200px-Rotana_Kids_Logo.png" group-title="Kids",Rotana Kids
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_2.m3u8
 #EXTINF:1 tvg-country="IR" tvg-logo="https://shialivetv.com/shialive/assets/img/velayatiran.jpg"group-title="Religiouhttps://shialivetv.com/shialive/assets/img/velayatiran.jpg" group-title="Relegious",Al Velayat TV
-http://nl.livekadeh.com/hls2/velayattv.m3u8
+https://nl.livekadeh.com/hls2/velayattv.m3u8
 #EXTINF:1 tvg-country="IR" tvg-logo="https://www.altkia.com/wp-content/uploads/2015/04/Al-Wilayah-TV.jpg"group-title="Religious",Alwilayah Velayat Tv Arabic
-http://nl.livekadeh.com/hls2/alwilayah.tv_src.m3u8
+https://nl.livekadeh.com:443/hls2/alwilayah.tv_high.m3u8
 #EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV1-May21-JPG.jpg" group-title="",TV1 (1080p)
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1 tvg-id="TV3.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="",TV3 (720p) [Timeout]
