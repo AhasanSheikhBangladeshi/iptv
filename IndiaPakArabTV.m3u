@@ -78,38 +78,7 @@ http://nordicstream.xyz:80/y4C7hyfS/bNsB5hx/28638
 http://nordicstream.xyz:80/y4C7hyfS/bNsB5hx/11185
 #EXTINF:-1,Watan Tv AFG
 http://nordicstream.xyz:80/y4C7hyfS/bNsB5hx/28631
-#EXTINF:-1,|AR| YEMEN TV
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/204928
-#EXTINF:-1,|AR| YEMEN SHABAB
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/204927
-#EXTINF:-1,|AR| YEMEN EDUCATION TV
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/204926
-#EXTINF:-1,|AR| YEMEN TODAY
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/204925
-#EXTINF:-1,|AR| SUHAIL TV
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/204924
-#EXTINF:-1,|AR| SHEBA TV
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/204923
-#EXTINF:-1,|AR| ADEN TV
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/204922
-#EXTINF:-1,|AR | AL SAEEDAH
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/204921
-#EXTINF:-1,|AR | HADRAMOOT
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/204920
-#EXTINF:-1,|AR | AIC TV
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/204919
-#EXTINF:-1,|AR| AL SAHAT
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/204918
-#EXTINF:-1,|AR| BELQESS
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/204917
-#EXTINF:-1,|AR| ALLAHDAH TV
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/204916
-#EXTINF:-1,|AR| AL MASIRAH TV
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/204915
-#EXTINF:-1,|AR| AL GHAD AL MUSHREQ
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/204914
-#EXTINF:-1,|AR| AL-SHAREYYAH CHANNEL
-http://txm.flysat.live:2089/fc:03:9f:6f:f6:bf/4289727879/204913
+
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
 https://cdnw.telewebion.com:443/tv1/live/240p/index.m3u8
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
