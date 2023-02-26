@@ -118,7 +118,7 @@ https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/
 #EXTINF:-1 tvg-name="ATN National" tvg-logo="https://i.imgur.com/m6tBPia.png" group-title="AFGHANISTAN",ATN National
 https://ch.iptvmate.net/e49dc251eae72bb3850adcc34f886cb3.m3u8
 #EXTINF:1 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png"https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png group-title="Religious",ARY QTV
-http://nordicstream.xyz:80/y4C7hyfS/bNsB5hx/16116
+http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/495546
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/NWljgKa.png",Eman Channel (576p)
 http://iptvtree.net:8080/ea188ac3/82d52ec7f7/197123
 #EXTINF:0,Rotana Khalijia HD (1080p)[Saudi Arab]
@@ -126,7 +126,7 @@ https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/RJn8pDE.png",Bein Sports-1 HD
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/100
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-name="Makkah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Religious",Makkah TV (480p)
-http://nordicstream.xyz:80/y4C7hyfS/bNsB5hx/111441
+http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/305707
 #EXTINF:-1 tvg-id="NDTV India.in" tvg-name="NDTV India" tvg-country="IN" tvg-language="Urdu,Hindi" tvg-logo=" " group-title="News",NDTV India (480p)
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:-1 tvg-id="Jordan TV" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="General",Jordan TV (1080p)
@@ -208,7 +208,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT Arabi (1080p)
 https://tv-trtarabi.live.trt.com.tr:443/master_720.m3u8
 #EXTINF:0 tvg-id="" group-title="",Yemen Shabab [100]
-http://iptvtree.net:8080/zaintree/f9607ca7bb/266321
+http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/305890
 #EXTINF: group-title="News" tvg-id="SuhailTV.ye" tvg-name="Suhail TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtJwlD-ms5DKPuh6PAu45IK9_H5-vN-oPpxg&usqp=CAU" group-tile="Relegious",Suhail TV
 http://82.212.74.98:8000/live/7726.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
@@ -220,7 +220,7 @@ http://live.alqudstoday.tv:8080/hls/alqudstv/alqudstv.m3u8
 #EXTINF:-1 tvg-id= "Al Resalah Tv" tvg-logo="https://www.thematv.com/images/channels/al-resalah.png" group-title="Relegious",Al Resalah TV
 http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/82853
 #EXTINF:-1 tvg-id="AlIraqiyaAl3ama.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya Al 3ama (720p) [Not 24/7]
-http://iptvtree.net:8080/zaintree/f9607ca7bb/225167
+http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/305065
 #EXTINF:-1 tvg-id="Yemen Today.Ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="" group-title=" ",Yemen.Today (576p)
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="none" group-title="General",Al Sharqiya (1080p)
