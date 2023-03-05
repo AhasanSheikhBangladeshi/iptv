@@ -82,9 +82,9 @@ http://82.212.74.5:8000/live/7728.m3u8
 #EXTINF:0 tvg-logo="https://sawahhost.com/wp-content/uploads/2020/11/MBC.jpg" group-title="Arabic",MBC Channel 1
 https://shls-mbc1na-prod-dub.shahid.net:443/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_2.m3u8
 #EXTINF:-1 tvg-name="Imam Ali Najaf HD Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Imam_Ali_shrine_-_1_May_2015_19.jpg" group-title="Relegious",Imam Ali Najaf Live HD
-http://iptvtree.net:8080/zaintree/f9607ca7bb/283123
+http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/305121
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
-https://cdn-azd204e.telewebion.com:443/tv1/live/480p/index.m3u8
+http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/430745
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
 http://172.107.94.243:9000/live/premium/free/20392.ts
 #EXTINF:-1 tvg-id="TakbeerTv.uk" tvg-name="Takbeer TV(UK)" tvg-country="UK" tvg-language"Urdj" tvg-logo="https://www.lyngsat.com/logo/tv/tt/takbeer-tv-uk.png" group-title="Religious",Takbeer TV(UK)
