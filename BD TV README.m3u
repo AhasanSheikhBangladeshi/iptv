@@ -11,6 +11,7 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 http://103.106.2.152:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-name="RTA Afghan" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA TV Afghan
 https://hls.rta.live/hls/stream.m3u8
+#http://zeintv.xyz:8080/45124544/64555855/132068
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision  (BDIX0)
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" tvg-country="IN" tvg-language="English" tvg-logo=" " group-title="News",NDTV(480p)
@@ -84,9 +85,9 @@ https://shls-mbc1na-prod-dub.shahid.net:443/out/v1/84ab37e99d6e4b16b33c6600f94f6
 #EXTINF:-1 tvg-name="Imam Ali Najaf HD Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Imam_Ali_shrine_-_1_May_2015_19.jpg" group-title="Relegious",Imam Ali Najaf Live HD
 http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/305121
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
-http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/430745
+http://194.37.92.14:12000/play/a06j
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
-http://172.107.94.243:9000/live/premium/free/20392.ts
+http://194.37.92.14:12000/play/a06o
 #EXTINF:-1 tvg-id="TakbeerTv.uk" tvg-name="Takbeer TV(UK)" tvg-country="UK" tvg-language"Urdj" tvg-logo="https://www.lyngsat.com/logo/tv/tt/takbeer-tv-uk.png" group-title="Religious",Takbeer TV(UK)
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
@@ -226,11 +227,11 @@ https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="none" group-title="General",Al Sharqiya (1080p)
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV1.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="",KTV 1 (1080p)
-http://darkteam.vip:25461/live/testar12op2o1/85445hfhjowqRtgv788/3951.ts
+http://194.37.92.14:12000/play/a0a7
 #EXTINF:-1 tvg-id="KTV2.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg"  group-title="",KTV 2 (1080p)
-http://darkteam.vip:25461/live/testar12op2o1/85445hfhjowqRtgv788/3952.ts
+http://194.37.92.14:12000/play/a0a8
 #EXTINF:-1 tvg-id="KTVEthraa.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif"  group-title="",KTV Ethraa (1080p) 
-http://iptvtree.net:8080/zaintree/f9607ca7bb/11321
+http://194.37.92.14:12000/play/a0ab
 #EXTINF:-1 tvg-id="KTVSport.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg"  group-title="Sports",KTV Sport (1080p)
 http://ott-serveur.com:8000/504645251728170/515299363871871/27690
 EXTINF:-1 tvg-id="HaditvDua" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Dua Channel Hadi TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/dua-channel.jpg",Dua Channel (1080)
