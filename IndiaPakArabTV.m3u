@@ -34,3 +34,7 @@ http://zeintv.xyz:8080/45124544/64555855/86242
 http://zeintv.xyz:8080/45124544/64555855/86243
 #EXTINF:-1,[Yemen.] Yemen Sama
 http://zeintv.xyz:8080/45124544/64555855/86244
+#EXTINF:-1,IRIB Mahabad
+http://194.37.92.14:12000/play/a079
+#EXTINF:-1,IRIB Kordestan
+http://194.37.92.14:12000/play/a00d
