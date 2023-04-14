@@ -38,3 +38,13 @@ http://zeintv.xyz:8080/45124544/64555855/86244
 http://194.37.92.14:12000/play/a079
 #EXTINF:-1,IRIB Kordestan
 http://194.37.92.14:12000/play/a00d
+EXTINF:-1 tvg-id="" tvg-name="IQ: Iraqia General" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/c04d6c21a5e28a448de1494fc3e1c992.png" group-title="Iraq",IQ: Iraqia General
+http://iptvtree.net:8080/Vladisergeevic/2f71144da3/225167
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Iraqia News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/044b7d2f8a8034a5ca770639414be666.png" group-title="Iraq",IQ: Iraqia News
+http://iptvtree.net:8080/Vladisergeevic/2f71144da3/33077
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Iraqia Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/1b130e321ac7322a53e0c3fb66ea6485.jpg" group-title="Iraq",IQ: Iraqia Sport
+http://iptvtree.net:8080/Vladisergeevic/2f71144da3/283134
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Iraqia Syriac" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/cc66b6ead23bb53c8d046c821a3e6db4.png" group-title="Iraq",IQ: Iraqia Syriac
+http://iptvtree.net:8080/Vladisergeevic/2f71144da3/270565
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Iraqia Turkmen" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/693363fa77287b9a5ba3d4ce0b3112ed.png" group-title="Iraq",IQ: Iraqia Turkmen
+http://iptvtree.net:8080/Vladisergeevic/2f71144da3/266509
