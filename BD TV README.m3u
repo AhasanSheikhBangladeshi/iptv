@@ -96,9 +96,12 @@ http://180.178.188.152:8000/play/a09e
 #EXTINF:-1 ch-id="ARY DIGITAL (PK)" tvg-logo="https://1.bp.blogspot.com/--wDE2l82PT0/YRepmImjWvI/AAAAAAAAA4g/QfuH2Q9yP_I7D6RrkC5IiaEGRLRvPg6JwCLcBGAsYHQ/s200/PicsArt_08-14-05.01.13.jpg"  group-title="India-Pakistani",ARY DIGITAL (PK)
 http://180.178.188.152:8000/play/a097
 #EXTINF:-1 ch-id="GEO HD (PK)" tvg-logo="https://1.bp.blogspot.com/-fktS4IURByc/YO43k9xSajI/AAAAAAAAAbM/gex7jop3fIQ62kO64RiVFEmqfg8439VTQCLcBGAsYHQ/s200/PicsArt_07-14-06.29.55.jpg"  group-title="India-Pakistani",GEO TV HD (PK)
-http://starshare.live:8080/live/775577/775577/119.ts
+http://parkpay.live:8080/overkill/dB2hBKSxdP/34692
 #EXTINF:-1,tvg-logo="http://www.arirang.com/images/index/arirang.png" group-title="General",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFG: TAMADON" tvg-logo="https://asiagrandiptv.us/logo/TAMADON.jpg" group-title="AFGHANISTAN",AFG: TAMADON
+http://parkpay.live:8080/overkill/dB2hBKSxdP/3618
+
 #EXTINF:-1tvg-logo="https://static.urdu.news18.com/static-urdu/2020/03/Urdu1-1.png" group-title="India-pakistani",News18 Urdu
 https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Salaam_2017.jpg" group-title="India-pakistani",Zee Salaam
