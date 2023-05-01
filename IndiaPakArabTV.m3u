@@ -82,6 +82,12 @@ http://zeintv.xyz:8080/45124544/64555855/86242
 http://zeintv.xyz:8080/45124544/64555855/86243
 #EXTINF:-1,[Yemen.] Yemen Sama
 http://zeintv.xyz:8080/45124544/64555855/86244
+EXTINF:-1 tvg-id="Win TV" tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" group-title="Shia Channels",Win TV
+https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8
+#EXTINF:-1 tvg-id="Zainabia TV" tvg-logo="https://shiachannel.in/livetv/img/channels/zainabia.jpg" group-title="Shia Channels",Zainabia TV
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+#EXTINF:-1 tvg-id="Ali TV" tvg-logo="https://shiachannel.in/livetv/img/channels/alitv.jpg" group-title="Shia Channels",Ali TV
+https://alitv.livebox.co.in/alitvhls/live.m3u8
 #EXTINF:-1,IRIB Mahabad
 http://194.37.92.14:12000/play/a079
 #EXTINF:-1,IRIB Kordestan
