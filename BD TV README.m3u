@@ -100,9 +100,11 @@ http://parkpay.live:8080/overkill/dB2hBKSxdP/34692
 #EXTINF:-1,tvg-logo="http://www.arirang.com/images/index/arirang.png" group-title="General",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AFG: TAMADON" tvg-logo="https://asiagrandiptv.us/logo/TAMADON.jpg" group-title="AFGHANISTAN",AFG: TAMADON
-http://parkpay.live:8080/overkill/dB2hBKSxdP/3618
+http://parkpay.live:8080/overkill/dB2hBKSxdP/36185
+
+
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Salaam_2017.jpg" group-title="India-pakistani",Zee Salaam
-http://darkteam.vip:25461/live/hydraip438rjr93482/jhwgeuiy94838238940/13208.ts
+http://magicoiptv.org:8080/Adill12/F929382/118693
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News TV
 http://parkpay.live:8080/overkill/dB2hBKSxdP/5476
 #EXTINF:-1 tvg-id="" status="online",Sama Dubai (1080p)
