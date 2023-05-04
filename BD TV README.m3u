@@ -128,7 +128,7 @@ https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/RJn8pDE.png",Bein Sports-1 HD
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/100
 #EXTINF:-1 tvg-id="SudanTV.sd" status="online",Sudan TV (720p)
-https://castor.streamthatvideo.co:8081/sudantv/tracks-v1a1/mono.m3u8
+https://nimplus6.bozztv.com:443/sudantv/sudantv/chunklist_w1622205728.m3u8?nimblesessionid=152830588&wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjMgMTA6MjM6NDIgQU0maGFzaF92YWx1ZT0yTEdGNnNpbHVHcm5YMDEzbUlZT1pnPT0mdmFsaWRtaW51dGVzPTI4ODA=
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-name="Makkah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Religious",Makkah TV (480p)
 http://iptvtree.net:8080/Vladisergeevic/2f71144da3/47622
 #EXTINF:-1 tvg-id="NDTV India.in" tvg-name="NDTV India" tvg-country="IN" tvg-language="Urdu,Hindi" tvg-logo=" " group-title="News",NDTV India (480p)
@@ -160,9 +160,9 @@ https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="None",Saudi TV 1
 https://edge.taghtia.com/sa/2.m3u8
 #EXTINF:-1 tvg-id=Madani Urdu tv.pk" tvg-name="Madani TV Urdu" tvg-country="PK" tvg-language="Urdu" tvg-logo= "/sfmr9yZmuhzXhviaQGKeOzaimebuid/1p3se+/QggfM31XtZQzBNlnHqfEYnOLUwNY2tY+pYTIBJTjVrjI3BDri7bC/6nPI1J3tfEHRpRbJeFY3R5owOqqQxlMwDiv8AFxOG49nG92uHTz91fI" group-title="Religious",Madani Channel Urdu
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MadaniChannelUrduLive
+https://live.mvdn.castnest.io:443/madnitvurdu/madniurduabr/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://dawateislamimidlands.net/wp-content/uploads/2020/01/Madani-Channel-Section-1.png" group-title="Religious",Madani Channel English 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/MadaniChannelEnglishLive
+https://live.mvdn.castnest.io:443/madnitvenglish/madnienglishabr/tracks-v3a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id=Geo News.pk" tvg-name="Geo news TV" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="India-Pakistani",GEO news
 http://iptvtree.net:8080/Vladisergeevic/2f71144da3/1391
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="NEWS", CGTN
