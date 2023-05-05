@@ -148,7 +148,8 @@ http://iptvtree.net:8080/Vladisergeevic/2f71144da3/4960
 #EXTINF:-1 tvg-id="92News.pk" tvg-name="92 News" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News (720p)
 http://iptvtree.net:8080/Vladisergeevic/2f71144da3/1402
 #EXTINF:-1 tvg-name="Paigham TV.pk" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1362d353158267.592a758924700.jpg"group-title="Religious",Paigham TV
-http://162.250.201.58:8032/pk/paighamtv/tracks-v1a1/mono.m3u8
+
+http://162.250.201.58:8032/pk/paighamtv/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Al Majd TV" tvg-logo="https://cdn.dribbble.com/users/2577708/screenshots/11585878/media/d96e40ca882560b9aa3639df8f2361b9.jpg" group-title="Relegious",Almajd TV
 http://iptvtree.net:8080/Vladisergeevic/2f71144da3/225298
 #EXTINF:-1 tvg-name="Zad TV" tvg-logo="https://static10.tgstat.ru/channels/_0/bf/bfac19a765483d6c7a6200919a0aa76c.jpg"group-title="Relegious",Zad TV(96)
