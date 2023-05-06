@@ -72,7 +72,7 @@ http://103.55.144.46:80/hls/sonyen.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/TNQKahI.png" group-title="News",Press TV English (720p)
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SaharUrdu.ir" tvg-country="IR" tvg-language="English" tvg-logo="https://shialivetv.com/shialive/assets/img/saharurdu.jpg" group-title="News",Sahar Urdu 
-http://180.178.188.152:8000/play/a06l
+https://gr1-cdn.sepehrtv.ir/securelive3/saharafghsd/576p.m3u8?s=rmhjiqllfix4y7xRPzQqWg&t=1683389953
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
 http://103.55.144.46/hls/aljazeera.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangladeshi",T sports HD (BDIX2)
