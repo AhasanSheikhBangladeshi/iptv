@@ -182,7 +182,7 @@ http://14.199.164.20:4001/play/a0p5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTV-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV-SPORTS
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="None",TRT 1 (720p)
-http://flusonic-13.platinum-tv.com/TRT1_TR/index.m3u8?token=test
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="ToloTV.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://pbs.twimg.com/profile_images/579001245697908737/bSnXEBFo_400x400.jpeg" group-title="None",Tolo TV (720p)
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg",Al Iraqiya News
@@ -196,7 +196,7 @@ http://parkpay.live:8080/overkill/dB2hBKSxdP/10581
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/LyqGxwv.jpg" group-title="News",PTV News (1080p) [Not 24/7]
 http://parkpay.live:8080/overkill/dB2hBKSxdP/10563
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber (720p)
-https://cdn9.alfastreamtv.com/trthaber.m3u8?tkn=t08m-urlPDZjxjrw1eL8JQ&tms=1670687174&hst=www.canlitv.vin
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (1080p)
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1,CBC
