@@ -188,7 +188,7 @@ https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/
 #EXTINF:-1 group-title="News" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg",Al Iraqiya News
 http://95.216.180.111:1935/live/115/playlist.m3u8
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="None",Qatar TV
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master480p.m3u8
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="Pakistani",PTV World
 http://parkpay.live:8080/overkill/dB2hBKSxdP/10564
 #EXTINF:-1 tvg-id="PTVHome.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/mJxpdBU.png" group-title="Pakistani",PTV Home (238p)
