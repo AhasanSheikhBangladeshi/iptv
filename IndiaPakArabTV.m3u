@@ -1,9 +1,15 @@
-#EXTINF:-1 tvg-id="geonews.pk" tvg-name="PK | GEO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/150px-GEO_News_logo_in_Urdu.png" group-title="PAKISTAN | NEWS",PK | GEO NEWS
-http://xtv.ooo:8080/42774/42774/221343
-#EXTINF:-1 tvg-id="geonews.pk" tvg-name="PK | GEO NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/150px-GEO_News_logo_in_Urdu.png" group-title="PAKISTAN | NEWS",PK | GEO NEWS HD
-http://xtv.ooo:8080/42774/42774/25976
-#EXTINF:-1 tvg-id="" tvg-name="PAK: Ptv World" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ptv_world_pk.jpg" group-title="PAKISTAN | NEWS",PAK: Ptv World
-http://xtv.ooo:8080/42774/42774/167657
+#EXTINF:-1,|IR| SAHAR AZARI
+http://bg.bleutv.net:2089/152060484575226/152045571582489/201047
+#EXTINF:-1,|IR| SAHAR BOSNIAN
+http://bg.bleutv.net:2089/152060484575226/152045571582489/201046
+#EXTINF:-1,|IR| SAHAR FR-BIH
+http://bg.bleutv.net:2089/152060484575226/152045571582489/201045
+#EXTINF:-1,|IR| SAHAR FRANCOPHONE
+http://bg.bleutv.net:2089/152060484575226/152045571582489/201044
+#EXTINF:-1,|IR| SAHAR URDU
+http://bg.bleutv.net:2089/152060484575226/152045571582489/201043
+#EXTINF:-1,|IR| SAHAR URDU TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/20104
 #EXTINF:-1 tvg-id="" tvg-name="YE: Aden TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/677796ba491d1e7a5696ed5bde4d4a6d.png" group-title="Yemen",YE: Aden TV
 http://cheaptv.online:8080/ottkiller/XCqSYUmn55LK3nkM/266324
 #EXTINF:-1 tvg-id="" tvg-name="YE: AL Mahrah TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d01a3d1efc9f733b8fb9bdb4d1c61f2d.png" group-title="Yemen",YE: AL Mahrah TV
@@ -38,286 +44,117 @@ http://cheaptv.online:8080/ottkiller/XCqSYUmn55LK3nkM/266321
 http://cheaptv.online:8080/ottkiller/XCqSYUmn55LK3nkM/266320
 #EXTINF:-1 tvg-id="" tvg-name="YE: Yemen TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f9fc99a62ad17a325e8d0127fb787b0b.png" group-title="Yemen",YE: Yemen TV
 http://cheaptv.online:8080/ottkiller/XCqSYUmn55LK3nkM/266322
-#EXTINF:-1,YEM: Almahriah HD
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49953
-#EXTINF:-1,YEM: Suhail TV
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49954
-#EXTINF:-1,YEM: Sheba TV
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49955
-#EXTINF:-1,YEM: Yemen Shabab HD
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49956
-#EXTINF:-1,YEM: Yemen HD
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49957
-#EXTINF:-1,YEM: Yemen TV
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49958
-#EXTINF:-1,YEM: Yemen Education TV
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49959
-#EXTINF:-1,YEM: Yemen Documentary
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49960
-#EXTINF:-1,YEM: Yemen Today
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49961
-#EXTINF:-1,YEM: Aden TV
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49962
-#EXTINF:-1,YEM: Belqees
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49963
-#EXTINF:-1,YEM: AIC HD
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49964
-#EXTINF:-1,YEM: Al Sahat
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49965
-#EXTINF:-1,YEM: Hadramout TV
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49966
-#EXTINF:-1,YEM: HADRAMAUT
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49967
-#EXTINF:-1,YEM: AL Masirah TV
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49968
-#EXTINF:-1,YEM: Al Maserah Mubasher
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49969
-#EXTINF:-1,YEM: AL Ghad AL Mushreq
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49970
-#EXTINF:-1,YEM: AL Hawyah TV
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49971
-#EXTINF:-1,YEM: Al Saeedah
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49972
-#EXTINF:-1,YEM: Al Mughtarib Al Yemeni
-http://ghostiptv.vip:80/162CBD92F6AD/61a6890284cac/49973
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY NEWS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="PAKISTAN | NEWS",PK: ARY NEWS WORLD
-http://xtv.ooo:8080/42774/42774/217572
-#EXTINF:-1 tvg-id="arynews.eg" tvg-name="PK | ARY News" tvg-logo="https://static.epg.best/pk/ARYNews.pk.png" group-title="PAKISTAN | NEWS",PK | ARY News
-http://xtv.ooo:8080/42774/42774/221344
-#EXTINF:-1 tvg-id="expressnews.pk" tvg-name="PK | Express news" tvg-logo="https://seeklogo.com/images/E/express-news-logo-548646E4CD-seeklogo.com.png" group-title="PAKISTAN | NEWS",PK | Express news
-http://xtv.ooo:8080/42774/42774/26011
-#EXTINF:-1 tvg-id="arynews.eg" tvg-name="PK | ARY News HD" tvg-logo="https://static.epg.best/pk/ARYNews.pk.png" group-title="PAKISTAN | NEWS",PK | ARY News HD
-http://xtv.ooo:8080/42774/42774/25980
-#EXTINF:-1 tvg-id="" tvg-name="PK | Geo Tezz" tvg-logo="" group-title="PAKISTAN | NEWS",PK | Geo Tezz
-http://xtv.ooo:8080/42774/42774/26013
-#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK | 92 News" tvg-logo="https://static.epg.best/pk/92News.pk.png" group-title="PAKISTAN | NEWS",PK | 92 News
-http://xtv.ooo:8080/42774/42774/221345
-#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK | 92 News HD" tvg-logo="https://static.epg.best/pk/92News.pk.png" group-title="PAKISTAN | NEWS",PK | 92 News HD
-http://xtv.ooo:8080/42774/42774/25996
-#EXTINF:-1 tvg-id="dunyanews.pk" tvg-name="PK | Dunya News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTPz-MYpb1kigL1Pex6XqwMsaZeXImgUxOOxz-9P9P-0qSPp7Y-w" group-title="PAKISTAN | NEWS",PK | Dunya News
-http://xtv.ooo:8080/42774/42774/221346
-#EXTINF:-1 tvg-id="dunyanews.pk" tvg-name="PK | Dunya News HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTPz-MYpb1kigL1Pex6XqwMsaZeXImgUxOOxz-9P9P-0qSPp7Y-w" group-title="PAKISTAN | NEWS",PK | Dunya News HD
-http://xtv.ooo:8080/42774/42774/26008
-#EXTINF:-1 tvg-id="samaatv.pk" tvg-name="PK | Samaa News" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQEBAPDxAPDw8PEA8PDw8PDw8NDQ8NFREWFhURFRUYHSggGBolGxUVITEhJSkrLjouFx8zODMtNygtLisBCgoKDg0OFxAQGS0dFx0tKzArLS0tKy0rLSstLS0rKy0tLS0rLS0rKystLS0tKy0tKy0rKy0tLS0tLS0tLS0tLf/AABEIAMIBAwMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAADAAECBAUGBwj/xABIEAACAgEBBAcDBwgHCAMAAAABAgADEQQFBhIhBxMxQVFxkWGBoRQiIzJSs8EVQkNEcrHR8CU1gpKitMIzU2Jzg7LS4XSEo//EABkBAQEBAQEBAAAAAAAAAAAAAAABAgMEBf/EACYRAQEAAgEDBAICAwAAAAAAAAABAhEDBBIhFDFBURMiUmEyQnH/2gAMAwEAAhEDEQA/" group-title="PAKISTAN | NEWS",PK | Samaa News
-http://xtv.ooo:8080/42774/42774/26036
-#EXTINF:-1 tvg-id="" tvg-name="PK | Bol News HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol_news_pk.png" group-title="PAKISTAN | NEWS",PK | Bol News HD
-http://xtv.ooo:8080/42774/42774/26046
-#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | Hum News HD" tvg-logo="" group-title="PAKISTAN | NEWS",PK | Hum News HD
-http://xtv.ooo:8080/42774/42774/26018
-#EXTINF:-1 tvg-id="" tvg-name="PK | Lahore News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Lahore_News.png/220px-Lahore_News.png" group-title="PAKISTAN | NEWS",PK | Lahore News HD
-http://xtv.ooo:8080/42774/42774/26047
-#EXTINF:-1 tvg-id="" tvg-name="PK | PTV NEWS" tvg-logo="https://static.epg.best/pk/PTVNews.pk.png" group-title="PAKISTAN | NEWS",PK | PTV NEWS
-http://xtv.ooo:8080/42774/42774/25988
-#EXTINF:-1 tvg-id="" tvg-name="PK | GNN HD" tvg-logo="https://tv.zaintv.net:1123/logo/gnn_news.png" group-title="PAKISTAN | NEWS",PK | GNN HD
-http://xtv.ooo:8080/42774/42774/25991
-#EXTINF:-1 tvg-id="" tvg-name="PK | Capital Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Capital_TV.jpg/200px-Capital_TV.jpg" group-title="PAKISTAN | NEWS",PK | Capital Tv
-http://xtv.ooo:8080/42774/42774/25992
-#EXTINF:-1 tvg-id="" tvg-name="PK | NEO NEWS" tvg-logo="https://www.neonetwork.pk/uploads/theme/logo-1532677402.png" group-title="PAKISTAN | NEWS",PK | NEO NEWS
-http://xtv.ooo:8080/42774/42774/25993
-#EXTINF:-1 tvg-id="" tvg-name="PK | 24 News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/24_News.jpg/200px-24_News.jpg" group-title="PAKISTAN | NEWS",PK | 24 News HD
-http://xtv.ooo:8080/42774/42774/25995
-#EXTINF:-1 tvg-id="" tvg-name="PK | Abbtak News" tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/abb_takk_pk.png" group-title="PAKISTAN | NEWS",PK | Abbtak News
-http://xtv.ooo:8080/42774/42774/25997
-#EXTINF:-1 tvg-id="aajnews.pk" tvg-name="PK | AAJ NEWS" tvg-logo="https://www.brandsynario.com/directory/wp-content/uploads/2018/01/4a9bf76f-5080-4206-a151-7e13e3cf64b6__aajnews.png" group-title="PAKISTAN | NEWS",PK | AAJ NEWS
-http://xtv.ooo:8080/42774/42774/26001
-#EXTINF:-1 tvg-id="" tvg-name="PK | City 42" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABxVBMVEX///8uMZL///3//v////wvMJMtMpH8/////f8uMJApL5ApLI9XWalBQZ0AV6cZGosNE4fd3+7U1ukAZLIeQJoBU6UAWqkkOpcAXKoAbrkQSaAAYK0nN5YAVKUYRJ0gPpnzbhD2sYQITqMAc7z2gQD1hCH84s7+7d/eiIwSR522uNYdIItOUqPzeRTzdx7Yd3l3d7RFSJw5g8Hy8vj+9u32kQDyYQBtb7D61qj2hwD3lB37xpjzZiJ+t58AW7Hd3e/inZ7TaWba6/TJOiisrdMAKZJ1pM7AxN46d7jr6viNjb8MDo76woP3nDn0p07507Lzgy33mnFlYqv1dADyYx77tJryZQD1qYfyfkfzezb4nnb628795MrzmR72pFD2soX1u232zLT94MP5r3D4v4j0j17a6eDC" group-title="PAKISTAN | NEWS",PK | City 42
-http://xtv.ooo:8080/42774/42774/26006
-#EXTINF:-1 tvg-id="dawnnews.pk" tvg-name="PK | Dawn News" tvg-logo="https://i.imgur.com/BMmlLwS.png" group-title="PAKISTAN | NEWS",PK | Dawn News
-http://xtv.ooo:8080/42774/42774/26007
-#EXTINF:-1 tvg-id="" tvg-name="PK | Khyber News Pashto" tvg-logo="" group-title="PAKISTAN | NEWS",PK | Khyber News Pashto
-http://xtv.ooo:8080/42774/42774/26024
-#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | HUM TV
-http://xtv.ooo:8080/42774/42774/221339
-#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | HUM TV HD
-http://xtv.ooo:8080/42774/42774/25981
-#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | HUM SITARAY
-http://xtv.ooo:8080/42774/42774/25983
-#EXTINF:-1 tvg-id="humtvworld.pk" tvg-name="PK: HUM EUROPE*" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: HUM EUROPE*
-http://xtv.ooo:8080/42774/42774/103688
-#EXTINF:-1 tvg-id="hummasala.pk" tvg-name="PK: HUM MASALA" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: HUM MASALA
-http://xtv.ooo:8080/42774/42774/103689
-#EXTINF:-1 tvg-id="" tvg-name="PK: HUM PSHTO*" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: HUM PSHTO*
-http://xtv.ooo:8080/42774/42774/207397
-#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK | ARY DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY DIGITAL
-http://xtv.ooo:8080/42774/42774/221337
-#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK | ARY DIGITAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY DIGITAL HD
-http://xtv.ooo:8080/42774/42774/25989
-#EXTINF:-1 tvg-id="aryzindagi.pk" tvg-name="PK | ARY ZINDAGI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY ZINDAGI
-http://xtv.ooo:8080/42774/42774/25990
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY Family" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: ARY Family
-http://xtv.ooo:8080/42774/42774/103673
-#EXTINF:-1 tvg-id="geotv.pk" tvg-name="PK | GEO ENTERMENT" tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | GEO ENTERMENT
-http://xtv.ooo:8080/42774/42774/221338
-#EXTINF:-1 tvg-id="geotv.pk" tvg-name="PK | GEO ENTERMENT HD" tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | GEO ENTERMENT HD
-http://xtv.ooo:8080/42774/42774/25977
-#EXTINF:-1 tvg-id="geokahani.pk" tvg-name="PK | GEO KAHANI HD" tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | GEO KAHANI HD
-http://xtv.ooo:8080/42774/42774/221341
-#EXTINF:-1 tvg-id="urdu1.pk" tvg-name="PK | Urdu 1" tvg-logo="http://pm1.narvii.com/6639/b6b2cb046acee550b1fab849ab8d841bf19c4030_00.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK | Urdu 1
-http://xtv.ooo:8080/42774/42774/221340
-#EXTINF:-1 tvg-id="" tvg-name="PK | Urdu 1 HD" tvg-logo="http://pm1.narvii.com/6639/b6b2cb046acee550b1fab849ab8d841bf19c4030_00.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK | Urdu 1 HD
-http://xtv.ooo:8080/42774/42774/26040
-#EXTINF:-1 tvg-id="" tvg-name="PK: PTV HOME" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV HOME
-http://xtv.ooo:8080/42774/42774/221342
-#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PK: PTV HOME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV HOME HD
-http://xtv.ooo:8080/42774/42774/103703
-#EXTINF:-1 tvg-id="" tvg-name="PK: SAB TV PAK" tvg-logo="https://sabtv.pk/wp-content/uploads/2022/03/logo-mob-1.png" group-title="PAKISTAN | ENTERTAINMENT",PK: SAB TV PAK
-http://xtv.ooo:8080/42774/42774/25975
-#EXTINF:-1 tvg-id="" tvg-name="PK | A-PLUS" tvg-logo="https://static.epg.best/pk/APlusTV.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | A-PLUS
-http://xtv.ooo:8080/42774/42774/25984
-#EXTINF:-1 tvg-id="tvone.pk" tvg-name="PK | TV ONE" tvg-logo="https://static.epg.best/us/TVOne.us.png" group-title="PAKISTAN | ENTERTAINMENT",PK | TV ONE
-http://xtv.ooo:8080/42774/42774/25986
-#EXTINF:-1 tvg-id="" tvg-name="PK | See HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/see_tv_pk_hd.png" group-title="PAKISTAN | ENTERTAINMENT",PK | See HD
-http://xtv.ooo:8080/42774/42774/25982
-#EXTINF:-1 tvg-id="" tvg-name="PK | ATV ENTERTENMENT" tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/atv_pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ATV ENTERTENMENT
-http://xtv.ooo:8080/42774/42774/25987
-#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="PK | PTV GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK | PTV GLOBAL
-http://xtv.ooo:8080/42774/42774/25994
-#EXTINF:-1 tvg-id="apna.pk" tvg-name="PK | Apna Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4e/Apna_Channel_New_Logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Apna Channel
-http://xtv.ooo:8080/42774/42774/25998
-#EXTINF:-1 tvg-id="arymusik.pk" tvg-name="PK | Ary Music Pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/ARY_Musik_logo.png/220px-ARY_Musik_logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Ary Music Pk
-http://xtv.ooo:8080/42774/42774/26000
-#EXTINF:-1 tvg-id="" tvg-name="PK | Kay 2" tvg-logo="https://kay2.tv/wp-content/uploads/2022/04/Kay2-HD.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Kay 2
-http://xtv.ooo:8080/42774/42774/26023
-#EXTINF:-1 tvg-id="" tvg-name="PK | Khyber TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/AVT_Khyber_Logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Khyber TV
-http://xtv.ooo:8080/42774/42774/26025
-#EXTINF:-1 tvg-id="" tvg-name="PK | KTN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/Sindhi_TV_KTN.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK | KTN TV
-http://xtv.ooo:8080/42774/42774/26026
-#EXTINF:-1 tvg-id="" tvg-name="PK | PTV Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="PAKISTAN | ENTERTAINMENT",PK | PTV Sports HD
-http://xtv.ooo:8080/42774/42774/26033
-#EXTINF:-1 tvg-id="" tvg-name="PK | FILMAX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmax_pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | FILMAX
-http://xtv.ooo:8080/42774/42774/26038
-#EXTINF:-1 tvg-id="" tvg-name="PK | Lahore Rung" tvg-logo="https://lahorerang.tv/uploads/theme/logo-1550524418.jpeg" group-title="PAKISTAN | ENTERTAINMENT",PK | Lahore Rung
-http://xtv.ooo:8080/42774/42774/26039
-#EXTINF:-1 tvg-id="" tvg-name="PK | Waseeb TV" tvg-logo="https://www.lyngsat.com/logo/tv/ww/waseb_tv.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Waseeb TV
-http://xtv.ooo:8080/42774/42774/26042
-#EXTINF:-1 tvg-id="" tvg-name="PK | Zindgai TV*" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK | Zindgai TV*
-http://xtv.ooo:8080/42774/42774/26043
-#EXTINF:-1 tvg-id="" tvg-name="PK | Bol Entertainment HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Bol Entertainment HD
-http://xtv.ooo:8080/42774/42774/26045
-#EXTINF:-1 tvg-id="" tvg-name="PK: 8XM" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: 8XM
-http://xtv.ooo:8080/42774/42774/103668
-#EXTINF:-1 tvg-id="" tvg-name="PK: AAJ ENTERTAINMENT" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: AAJ ENTERTAINMENT
-http://xtv.ooo:8080/42774/42774/103670
-#EXTINF:-1 tvg-id="" tvg-name="PK: EAWAZ TV*" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: EAWAZ TV*
-http://xtv.ooo:8080/42774/42774/103671
-#EXTINF:-1 tvg-id="" tvg-name="PK: C44" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: C44
-http://xtv.ooo:8080/42774/42774/103677
-#EXTINF:-1 tvg-id="" tvg-name="PK: Discovery HD" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: Discovery HD
-http://xtv.ooo:8080/42774/42774/103684
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARUJ TV" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: ARUJ TV
-http://xtv.ooo:8080/42774/42774/103685
-#EXTINF:-1 tvg-id="" tvg-name="PK: Pashto 1" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: Pashto 1
-http://xtv.ooo:8080/42774/42774/103697
-#EXTINF:-1 tvg-id="" tvg-name="PK: PLAY ENTERTAINMENT" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: PLAY ENTERTAINMENT
-http://xtv.ooo:8080/42774/42774/103698
-#EXTINF:-1 tvg-id="" tvg-name="PK: PLAY TV" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: PLAY TV
-http://xtv.ooo:8080/42774/42774/103699
-#EXTINF:-1 tvg-id="" tvg-name="PK: SINDH TV" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: SINDH TV
-http://xtv.ooo:8080/42774/42774/103709
-#EXTINF:-1 tvg-id="" tvg-name="PK: DHARTI TV*" tvg-logo="https://teleon.tv/images/logos/dharti_tv_pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK: DHARTI TV*
-http://xtv.ooo:8080/42774/42774/105796
-
-#EXTINF:-1 tvg-id="" tvg-name="PK: PTV NATIONAL" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV NATIONAL
-http://xtv.ooo:8080/42774/42774/110050
-#EXTINF:-1 tvg-id="" tvg-name="PK: Khyber Middle East TV*" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: Khyber Middle East TV*
-http://xtv.ooo:8080/42774/42774/110051
-#EXTINF:-1 tvg-id="" tvg-name="PK: Mehran Tv" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: Mehran Tv
-http://xtv.ooo:8080/42774/42774/110060
-#EXTINF:-1 tvg-id="" tvg-name="Ary World" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",Ary World
-http://xtv.ooo:8080/42774/42774/153291
-#EXTINF:-1 tvg-id="" tvg-name="PK: Afghan Tv" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: Afghan Tv
-http://xtv.ooo:8080/42774/42774/167888
-#EXTINF:-1 tvg-id="" tvg-name="AFGH: 1TV_HD_afg" tvg-logo="https://www.lyngsat.com/logo/tv/num/1tv_af.png" group-title="AFG | AFGHANISTAN",AFGH: 1TV_HD_afg
-http://xtv.ooo:8080/42774/42774/207419
-#EXTINF:-1 tvg-id="" tvg-name="AFGH: Arezo_HD_AFG" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arezo_af_tv.png" group-title="AFG | AFGHANISTAN",AFGH: Arezo_HD_AFG
-http://xtv.ooo:8080/42774/42774/207420
-#EXTINF:-1 tvg-id="" tvg-name="AFGH: ATN_AFG" tvg-logo="" group-title="AFG | AFGHANISTAN",AFGH: ATN_AFG
-http://xtv.ooo:8080/42774/42774/207421
-#EXTINF:-1 tvg-id="" tvg-name="AFGH: ATN_News_afg" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atn_news_bd.png" group-title="AFG | AFGHANISTAN",AFGH: ATN_News_afg
-http://xtv.ooo:8080/42774/42774/207422
-#EXTINF:-1 tvg-id="" tvg-name="AFGH: Ayna_TV_AFG" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ayna_tv_af.png" group-title="AFG | AFGHANISTAN",AFGH: Ayna_TV_AFG
-http://xtv.ooo:8080/42774/42774/207423
-#EXTINF:-1 tvg-id="" tvg-name="AFGH: Batur_TV_AFG" tvg-logo="https://www.lyngsat.com/logo/tv/bb/batur-tv-af.png" group-title="AFG | AFGHANISTAN",AFGH: Batur_TV_AFG
-http://xtv.ooo:8080/42774/42774/207424
-#EXTINF:-1 tvg-id="" tvg-name="AFGH: Hewad_TV_AFG" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hewad_news_af.png" group-title="AFG | AFGHANISTAN",AFGH: Hewad_TV_AFG
-http://xtv.ooo:8080/42774/42774/207425
-#EXTINF:-1 tvg-id="" tvg-name="AFGH: Enikass_TV_AFG" tvg-logo="" group-title="AFG | AFGHANISTAN",AFGH: Enikass_TV_AFG
-http://xtv.ooo:8080/42774/42774/207426
-#EXTINF:-1 tvg-id="" tvg-name="AFGH: LEMAR_HD_AFG" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lemar_tv.png" group-title="AFG | AFGHANISTAN",AFGH: LEMAR_HD_AFG
-http://xtv.ooo:8080/42774/42774/207427
-#EXTINF:-1 tvg-id="" tvg-name="AFGH: Noor_TV_afg" tvg-logo="https://www.lyngsat.com/logo/tv/nn/noor_tv_uk.png" group-title="AFG | AFGHANISTAN",AFGH: Noor_TV_afg
-http://xtv.ooo:8080/42774/42774/207428
-#EXTINF:-1 tvg-id="" tvg-name="AFGH: Rah-e-Farda_TV" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rah_e_farda_af.png" group-title="AFG | AFGHANISTAN",AFGH: Rah-e-Farda_TV
-http://xtv.ooo:8080/42774/42774/207429
-#EXTINF:-1 tvg-id="" tvg-name="AFGH: Shamshad_AFG" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shamshad_tv.png" group-title="AFG | AFGHANISTAN",AFGH: Shamshad_AFG
-http://xtv.ooo:8080/42774/42774/207430
-#EXTINF:-1 tvg-id="" tvg-name="AFGH: Tamadon_afg" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tamadon_tv_af.png" group-title="AFG | AFGHANISTAN",AFGH: Tamadon_afg
-http://xtv.ooo:8080/42774/42774/207431
-#EXTINF:-1 tvg-id="" tvg-name="AFGH: TOLO_HD_afg" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tolo_tv.png" group-title="AFG | AFGHANISTAN",AFGH: TOLO_HD_afg
-http://xtv.ooo:8080/42774/42774/207432
-#EXTINF:-1 tvg-id="" tvg-name="AFGH: TOLO_NEWS_HD_afg" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tolo_news.png" group-title="AFG | AFGHANISTAN",AFGH: TOLO_NEWS_HD_afg
-http://xtv.ooo:8080/42774/42774/207433
-#EXTINF:-1 tvg-id="" tvg-name="AFGH: Zhwandoon_TV_AFG" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zhwandoon_tv_af.png" group-title="AFG | AFGHANISTAN",AFGH: Zhwandoon_TV_AFG
-http://xtv.ooo:8080/42774/42774/207434
-#EXTINF:-1 tvg-id="" tvg-name="AFGH: bahar tv" tvg-logo="" group-title="AFG | AFGHANISTAN",AFGH: bahar tv
-http://xtv.ooo:8080/42774/42774/207435
-#EXTINF:-1 tvg-id="" tvg-name="Afg: RTA SPORTS" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: RTA SPORTS
-http://xtv.ooo:8080/42774/42774/207436
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Tolo HD" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Tolo HD
-http://xtv.ooo:8080/42774/42774/207437
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Tolo News HD" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Tolo News HD
-http://xtv.ooo:8080/42774/42774/207438
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Lemar HD" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Lemar HD
-http://xtv.ooo:8080/42774/42774/207439
-#EXTINF:-1 tvg-id="" tvg-name="Afg: ATN News TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: ATN News TV
-http://xtv.ooo:8080/42774/42774/207440
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Noor TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Noor TV
-http://xtv.ooo:8080/42774/42774/207441
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Arezo News TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Arezo News TV
-http://xtv.ooo:8080/42774/42774/207442
-#EXTINF:-1 tvg-id="" tvg-name="Afg: 11 TV HD" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: 11 TV HD
-http://xtv.ooo:8080/42774/42774/207443
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Zhwandoon" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Zhwandoon
-http://xtv.ooo:8080/42774/42774/207444
-#EXTINF:-1 tvg-id="" tvg-name="Afg: AMC Music TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: AMC Music TV
-http://xtv.ooo:8080/42774/42774/207445
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Shamshad TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Shamshad TV
-http://xtv.ooo:8080/42774/42774/207446
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Tamadon TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Tamadon TV
-http://xtv.ooo:8080/42774/42774/207447
-#EXTINF:-1 tvg-id="" tvg-name="Afg: RTA TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: RTA TV
-http://xtv.ooo:8080/42774/42774/207448
-#EXTINF:-1 tvg-id="" tvg-name="Afg: TUTI TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: TUTI TV
-http://xtv.ooo:8080/42774/42774/207449
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Afghanistan TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Afghanistan TV
-http://xtv.ooo:8080/42774/42774/207450
-#EXTINF:-1 tvg-id="" tvg-name="Afg: 1 TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: 1 TV
-http://xtv.ooo:8080/42774/42774/207451
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Dunya Naw TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Dunya Naw TV
-http://xtv.ooo:8080/42774/42774/207452
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Ghaznawian TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Ghaznawian TV
-http://xtv.ooo:8080/42774/42774/207453
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Hella TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Hella TV
-http://xtv.ooo:8080/42774/42774/207454
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Maaref TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Maaref TV
-http://xtv.ooo:8080/42774/42774/207455
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Arezo TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Arezo TV
-http://xtv.ooo:8080/42774/42774/207456
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Solh TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Solh TV
-http://xtv.ooo:8080/42774/42774/207457
-#EXTINF:-1 tvg-id="" tvg-name="Afg: HEWAD TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: HEWAD TV
-http://xtv.ooo:8080/42774/42774/207458
-#EXTINF:-1 tvg-id="" tvg-name="Afg: ATN" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: ATN
-http://xtv.ooo:8080/42774/42774/207459
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Ayna TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Ayna TV
-http://xtv.ooo:8080/42774/42774/207460
-#EXTINF:-1 tvg-id="" tvg-name="Afg: AMC TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: AMC TV
-http://xtv.ooo:8080/42774/42774/207461
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Enikass TV" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Enikass TV
-http://xtv.ooo:8080/42774/42774/207462
-#EXTINF:-1 tvg-id="" tvg-name="Afg: Batur" tvg-logo="" group-title="AFG | AFGHANISTAN",Afg: Batur
-http://xtv.ooo:8080/42774/42774/207463
-
+#EXTINF:-1,|AFG| RTA NEWS HD
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200915
+#EXTINF:-1,|AFG| WATAN E MAA TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200914
+#EXTINF:-1,|AFG| WATAN TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200913
+#EXTINF:-1,|AFG| KHURSHID TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200912
+#EXTINF:-1,|AFG| ATN NEWS
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200911
+#EXTINF:-1,|AFG| BBC PERSIAN
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200910
+#EXTINF:-1,|AFG| KABUL TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200909
+#EXTINF:-1,|AFG| BAHAR TV HD
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200908
+#EXTINF:-1,|AFG| AVA FAMILY
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200907
+#EXTINF:-1,|AFG| NOOR TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200906
+#EXTINF:-1,|AFG| AYNA TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200905
+#EXTINF:-1,|AFG| TAMADON
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200904
+#EXTINF:-1,|AFG| ENIKASS TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200903
+#EXTINF:-1,|AFG| RTA
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200902
+#EXTINF:-1,|AFG| HEWAD TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200901
+#EXTINF:-1,|AFG| AYENEH TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200900
+#EXTINF:-1,|AFG| DUNYA NAW TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200899
+#EXTINF:-1,|AFG| ZAN TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200898
+#EXTINF:-1,|AFG| AVA MUSIC HD
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200897
+#EXTINF:-1,|AFG| LEMAR HD
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200896
+#EXTINF:-1,|AFG| AREZO HD
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200895
+#EXTINF:-1,|AFG| 1TV AFGHAN
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200894
+#EXTINF:-1,|AFG| 1 TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200893
+#EXTINF:-1,|AFG| AGHANI
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200892
+#EXTINF:-1,|AFG| 11 TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200891
+#EXTINF:-1,|AFG| ATN
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200890
+#EXTINF:-1,|AFG| ARIANA NEWS TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200889
+#EXTINF:-1,|AFG| ASR TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200888
+#EXTINF:-1,|AFG| SABA TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200887
+#EXTINF:-1,|AFG| AFGHANISTAN TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200886
+#EXTINF:-1,|AFG| RAH E FARDA
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200885
+#EXTINF:-1,|AFG| ARIA NEWS
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200884
+#EXTINF:-1,|AFG| TAMDON
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200883
+#EXTINF:-1,|AFG| PAYAM E AFGHAN TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200882
+#EXTINF:-1,|AFG| ZHWANDOON TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200881
+#EXTINF:-1,|AFG| JAHAN NUMA TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200880
+#EXTINF:-1,|AFG| SHAMSHAD
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200879
+#EXTINF:-1,|AFG| KANA TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200878
+#EXTINF:-1,|AFG| TOLO NEWS HD
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200877
+#EXTINF:-1,##### |AFG| MOVIES #####
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200876
+#EXTINF:-1,|AFG| BATUR TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200875
+#EXTINF:-1,|AFG| TOLO HD
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200874
+#EXTINF:-1,##### |AFG| SPORTS #####
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200873
+#EXTINF:-1,|AFG| RTA SPORTS HD
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200872
+#EXTINF:-1,|AFG| VARZESH TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200871
+#EXTINF:-1,|AFG| MAIWAND TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200870
+#EXTINF:-1,##### |AFG| DOCUMENTARY #####
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200869
+#EXTINF:-1,|AFG| KURSHID TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200868
+#EXTINF:-1,##### |AFG| MUSIC #####
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200867
+#EXTINF:-1,|AFG| AMC TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200866
+#EXTINF:-1,|AFG| KAYHAN TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200865
+#EXTINF:-1,|AFG| ZARIN TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200864
+#EXTINF:-1,|AFG| GEM BOLLYWOOD
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200863
+#EXTINF:-1,|AFG| KAYHAN TV HD
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200862
+#EXTINF:-1,|AFG| PAMIR TV
+http://bg.bleutv.net:2089/152060484575226/152045571582489/200861
+ 
 #EXTINF:-1 tvg-id="Win TV" tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" group-title="Shia Channels",Win TV
 https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8
 #EXTINF:-1 tvg-id="Zainabia TV" tvg-logo="https://shiachannel.in/livetv/img/channels/zainabia.jpg" group-title="Shia Channels",Zainabia TV
