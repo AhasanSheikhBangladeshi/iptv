@@ -125,7 +125,7 @@ https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/RJn8pDE.png",Bein Sports-1 HD
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/100
 #EXTINF:-1 tvg-id="SudanTV.sd" status="online",Sudan TV (720p)
-
+http://xtream4.xyz:25461/vipcabelstream/voWknCmq3k/2547
 #EXTINF:-1 tvg-id="MakkahTV.sa" tvg-name="Makkah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" group-title="Religious",Makkah TV (480p)
 http://xtream4.xyz:25461/vipcabelstream/voWknCmq3k/2443
 #EXTINF:-1 tvg-id="NDTV India.in" tvg-name="NDTV India" tvg-country="IN" tvg-language="Urdu,Hindi" tvg-logo=" " group-title="News",NDTV India (480p)
@@ -147,10 +147,9 @@ http://humiptv.live:8080/live/dxcb7664/gsxd3557/141.ts
 #EXTINF:-1 tvg-name="Paigham TV.pk" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1362d353158267.592a758924700.jpg"group-title="Religious",Paigham TV
 http://162.250.201.58:8032/pk/paighamtv/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Al Majd TV" tvg-logo="https://cdn.dribbble.com/users/2577708/screenshots/11585878/media/d96e40ca882560b9aa3639df8f2361b9.jpg" group-title="Relegious",Almajd TV
-MAJID TV
-http://ss123.pro:80/younes2023/younes2023/8216
+http://bestsave.ltd:80/live/2233445566/6655443322/228700.m3u8
 #EXTINF:-1 tvg-name="Zad TV" tvg-logo="https://static10.tgstat.ru/channels/_0/bf/bfac19a765483d6c7a6200919a0aa76c.jpg"group-title="Relegious",Zad TV(96)
-http://myportal.live:8080/Keepitrealexch/MMCCy6XRMX/305705
+http://xtream4.xyz:25461/vipcabelstream/voWknCmq3k/2725
 #EXTINF:-1 tvg-id="BahrainTV.bh" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="General",Bahrain TV (720p)
 http://xtream4.xyz:25461/vipcabelstream/voWknCmq3k/2769
 #EXTINF:-1 tvg-id="" tvg-name="Iqra TV" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="Religious",BT- Iqra Tv
@@ -167,8 +166,8 @@ http://humiptv.live:8080/live/dxcb7664/gsxd3557/129.ts
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-name="Tolo News" tvg-logo="https://www.allfreepng.com/storage/images/Tolo%20News-medium.png" group-title="AFGHANISTAN",Tolo News
 http://ss123.pro:80/younes2023/younes2023/9929
-#EXTINF:-1 tvg-name="Rotana Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Kids_Logo.png/1200px-Rotana_Kids_Logo.png" group-title="Kids",Rotana Kids
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_2.m3u8
+#EXTINF:-1 tvg-id="ToloTV.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://pbs.twimg.com/profile_images/579001245697908737/bSnXEBFo_400x400.jpeg" group-title="AFGHANISTAN",Tolo TV (720p)
+http://ss123.pro:80/younes2023/younes2023/294434
 #EXTINF:1 tvg-country="IR" tvg-logo="https://shialivetv.com/shialive/assets/img/velayatiran.jpg"group-title="Religiouhttps://shialivetv.com/shialive/assets/img/velayatiran.jpg" group-title="Relegious",Al Velayat TV
 https://nl.livekadeh.com/hls2/velayattv.m3u8
 #EXTINF:1 tvg-country="IR" tvg-logo="https://www.altkia.com/wp-content/uploads/2015/04/Al-Wilayah-TV.jpg"group-title="Religious",Alwilayah Velayat Tv Arabic
@@ -183,10 +182,9 @@ http://14.199.164.20:4001/play/a0p5/index.m3u8
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="None",TRT 1 (720p)
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-id="ToloTV.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://pbs.twimg.com/profile_images/579001245697908737/bSnXEBFo_400x400.jpeg" group-title="None",Tolo TV (720p)
-http://ss123.pro:80/younes2023/younes2023/294434
+
 #EXTINF:-1 group-title="News" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg",Al Iraqiya News
-http://95.216.180.111:1935/live/115/playlist.m3u8
+http://xtream4.xyz:25461/vipcabelstream/voWknCmq3k/2594
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="None",Qatar TV
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="Pakistani",PTV World
@@ -210,7 +208,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT Arabi (1080p)
 https://tv-trtarabi.live.trt.com.tr:443/master_720.m3u8
 #EXTINF:0 tvg-id="" group-title="",Yemen Shabab [100]
-http://cheaptv.online:8080/ottkiller/XCqSYUmn55LK3nkM/266321
+http://xtream4.xyz:25461/vipcabelstream/voWknCmq3k/2422
 #EXTINF: group-title="News" tvg-id="SuhailTV.ye" tvg-name="Suhail TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtJwlD-ms5DKPuh6PAu45IK9_H5-vN-oPpxg&usqp=CAU" group-tile="Relegious",Suhail TV
 http://82.212.74.98:8000/live/7726.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
