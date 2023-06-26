@@ -182,7 +182,8 @@ http://14.199.164.20:4001/play/a0p5/index.m3u8
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="None",TRT 1 (720p)
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
-
+#EXTINF:-1 tvg-id="IslamChannel.uk" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png" group-title="Religious",Islam Channel Urdu 
+https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg",Al Iraqiya News
 http://xtream4.xyz:25461/vipcabelstream/voWknCmq3k/2594
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="None",Qatar TV
@@ -200,7 +201,7 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1,CBC
 http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/37932
 #EXTINF:-1 tvg-id="IslamChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png" group-title="Religious",Islam Channel (576p) [Not 24/7]
-https://live.islamchannel.tv:443/islamtv_english/3/prog_index.m3u8
+https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="AlerthAlnabawi.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="Religious",Alerth Alnabawi (576p) [Not 24/7]
 http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1 tvg-id="AlArabiya.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News",Al Arabiya (1080p)
@@ -292,9 +293,9 @@ https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlZahraTVTurkic.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png" group-title="Relegious",Al-Zahra TV Turkic (1080p)
 https://mn-nl.mncdn.com:443/alzahra/alzahra_hd.smil/chunklist_b708000.m3u8
 #EXTINF:-1 tvg-id="Iqraa.sa" tvg-name="Iqraa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa (576p) [Not 24/7]
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+https://jmc-live.ercdn.net/iqraa/iqraa_576p.m3u8
 #EXTINF:-1 tvg-id="IqraaEuropeAfrica.sa" tvg-name="Iqraa Europe Africa" tvg-country="SA" tvg-language="English" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa Europe Africa (576p) [Not 24/7]
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
+https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope_576p.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV.ir" tvg-name="Imam Hussein TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/FPfq4O5.png" group-title="Religious",Imam Hussein TV 1 (360p)
 
 #EXTINF:-1 tvg-id="ImamHusseinTV2Arabic.iq" tvg-name="Imam Hussein TV 2 Arabic" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Religious",Imam Hussein TV 2 Arabic (360p)
