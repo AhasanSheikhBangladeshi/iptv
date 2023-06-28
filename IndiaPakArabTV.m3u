@@ -52,53 +52,20 @@ http://ghostiptv.vip:80/162CBD92F6CE/61e5b790aa649/49971
 http://ghostiptv.vip:80/162CBD92F6CE/61e5b790aa649/49972
 #EXTINF:-1 tvg-id="" tvg-name="YEM: Al Mughtarib Al Yemeni" tvg-logo="" group-title="丕賱賷賲賳",YEM: Al Mughtarib Al Yemeni
 http://ghostiptv.vip:80/162CBD92F6CE/61e5b790aa649/49973
-#EXTINF:-1,|AF| BAHAR TV
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160624
-#EXTINF:-1,|AF| Payam Afgan
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160625
-#EXTINF:-1,|AF| 1TV FHD
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160626
-#EXTINF:-1,|AF| AMC TV
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160627
-#EXTINF:-1,|AF| ARIANA INTERNATIONAL
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160628
-#EXTINF:-1,|AF| ATN USA
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160629
-#EXTINF:-1,|AF| ATV
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160630
-#EXTINF:-1,|AF| Hewad TV
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160631
-#EXTINF:-1,|AF| KHURSHID TV
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160632
-#EXTINF:-1,|AF| Maiwand TV
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160633
-#EXTINF:-1,|AF| ATN AFGHAN
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160634
-#EXTINF:-1,|AF| ATN NEWS
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160635
-#EXTINF:-1,|AF| TOLO HD
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160636
-#EXTINF:-1,|AF| TOLO
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160637
-#EXTINF:-1,|AF| TOLO NEWS
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160638
-#EXTINF:-1,|AF| Zhwandoon TV
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160639
-#EXTINF:-1,|AF| Arezo TV
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160640
-#EXTINF:-1,|AF| Ariana Afghan
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160641
-#EXTINF:-1,|AF| RTA Afganistan
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160642
-#EXTINF:-1,|AF| Kayhan TV
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160643
-#EXTINF:-1,|AF| LEMAR
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160644
-#EXTINF:-1,|AF| SHAMSHAD
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160645
-#EXTINF:-1,|AF| Rah-e-Farda TV
-http://mac-keyf-3.pw:8080/orhanbaran/dpo778413/160646
-#EXTINF:-1,|IR| ----- IRAN -----
+#EXTINF:-1,IRIB TV 1
+https://cdn-azd2047.telewebion.com:443/tv1/live/480p/index.m3u8
+#EXTINF:-1,IRIB TV 3
+https://cdn-azd204e.telewebion.com:443/tv3/live/720p/index.m3u8
+#EXTINF:-1,IRIB IRINN
+https://cdn-azd2049.telewebion.com:443/irinn/live/480p/index.m3u8
+#EXTINF:-1,IRIB Quran
+https://cdn-azd2047.telewebion.com:443/quran/live/480p/index.m3u8
+#EXTINF:-1,IRIB Labbaik TV
+https://cdn-azd204d.telewebion.com:443/labbayk/live/576p/index.m3u8
+#EXTINF:-1,IRIB Varzesh Sports
+https://cdn-azd2042.telewebion.com:443/varzesh/live/480p/index.m3u8
+#EXTINF:-1,IRIB Jame Jam TV 1
+https://cdn-azd2052.telewebion.com:443/jjtv1/live/480p/index.m3u8
 #EXTINF:-1 tvg-id="Win TV" tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" group-title="Shia Channels",Win TV
 https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8
 #EXTINF:-1 tvg-id="Zainabia TV" tvg-logo="https://shiachannel.in/livetv/img/channels/zainabia.jpg" group-title="Shia Channels",Zainabia TV
