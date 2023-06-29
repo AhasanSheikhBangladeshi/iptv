@@ -155,7 +155,7 @@ http://bestsave.ltd:80/live/2233445566/6655443322/12999.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Iqra TV" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="Religious",BT- Iqra Tv
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="None",Saudi TV 1
-https://cllive.itworkscdn.net:443/ksa1live/token=nva=1687987791~dirs=1~hash=0a8839aea1acf6530a83b/ksa1.smil/ksa1_source_chunks_dvr.m3u8 
+https://shls-masr2-ak.akamaized.net:443/out/v1/5ae66b453b62403199811ab78da9982a/index_2.m3u8
 #EXTINF:-1 tvg-id=Madani Urdu tv.pk" tvg-name="Madani TV Urdu" tvg-country="PK" tvg-language="Urdu" tvg-logo= "/sfmr9yZmuhzXhviaQGKeOzaimebuid/1p3se+/QggfM31XtZQzBNlnHqfEYnOLUwNY2tY+pYTIBJTjVrjI3BDri7bC/6nPI1J3tfEHRpRbJeFY3R5owOqqQxlMwDiv8AFxOG49nG92uHTz91fI" group-title="Religious",Madani Channel Urdu
 https://live.mvdn.castnest.io:443/madnitvurdu/madniurduabr/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://dawateislamimidlands.net/wp-content/uploads/2020/01/Madani-Channel-Section-1.png" group-title="Religious",Madani Channel English 
