@@ -101,7 +101,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1 tvg-id="" tvg-name="TAMADON TV" tvg-logo="https://asiagrandiptv.us/logo/TAMADON.jpg" group-title="AFGHANISTAN",TAMADON TV
 http://bestsave.ltd:80/live/2233445566/6655443322/499157.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Salaam_2017.jpg" group-title="India-pakistani",Zee Salaam
-http://ss123.pro:80/younes2023/younes2023/946363
+https://d3i8oqsdv88b3m.cloudfront.net:443/out/v1/08f6360f9104421f90319460c0e03f11/index_4.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODgwNDg5OTd9.Ywh2euLEv8HQVTtldvAi0v7MHI8xZv7PcvxMBeFWvlU
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News TV
 http://starshare.live:8080/live/salam/salam/140.ts
 #EXTINF:-1 tvg-id="" status="online",Sama Dubai (1080p)
