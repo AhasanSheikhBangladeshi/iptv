@@ -52,20 +52,151 @@ http://ghostiptv.vip:80/162CBD92F6CE/61e5b790aa649/49971
 http://ghostiptv.vip:80/162CBD92F6CE/61e5b790aa649/49972
 #EXTINF:-1 tvg-id="" tvg-name="YEM: Al Mughtarib Al Yemeni" tvg-logo="" group-title="丕賱賷賲賳",YEM: Al Mughtarib Al Yemeni
 http://ghostiptv.vip:80/162CBD92F6CE/61e5b790aa649/49973
-#EXTINF:-1,IRIB TV 1
-https://cdn-azd2047.telewebion.com:443/tv1/live/480p/index.m3u8
-#EXTINF:-1,IRIB TV 3
-https://cdn-azd204e.telewebion.com:443/tv3/live/720p/index.m3u8
-#EXTINF:-1,IRIB IRINN
-https://cdn-azd2049.telewebion.com:443/irinn/live/480p/index.m3u8
-#EXTINF:-1,IRIB Quran
-https://cdn-azd2047.telewebion.com:443/quran/live/480p/index.m3u8
-#EXTINF:-1,IRIB Labbaik TV
-https://cdn-azd204d.telewebion.com:443/labbayk/live/576p/index.m3u8
-#EXTINF:-1,IRIB Varzesh Sports
-https://cdn-azd2042.telewebion.com:443/varzesh/live/480p/index.m3u8
-#EXTINF:-1,IRIB Jame Jam TV 1
-https://cdn-azd2052.telewebion.com:443/jjtv1/live/480p/index.m3u8
+#EXTINF:-1,PK | 92 Newsⓧ  HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/306
+#EXTINF:-1,PK | A Plusⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/339
+#EXTINF:-1,PK | A Sports TVⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/116556
+#EXTINF:-1,PK | AAJ Entertainmentⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/346
+#EXTINF:-1,PK | ABB Takk Newsⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/319
+#EXTINF:-1,PK | Al-Quran Al-Kareemⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/293
+#EXTINF:-1,PK | Al Sunnahⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/294
+#EXTINF:-1,PK | Animal Planetⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/363
+#EXTINF:-1,PK | ARY Digitalⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/329
+#EXTINF:-1,PK | ARY Musikⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/368
+#EXTINF:-1,PK | ARY Newsⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/299
+#EXTINF:-1,PK | ARY QTVⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/298
+#EXTINF:-1,PK | Waseb TVⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/355
+#EXTINF:-1,PK | Zindagi TVⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/104847
+#EXTINF:-1,PK | Ahlebait TVⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/123484
+#EXTINF:-1,PK | Ary World ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/128263
+#EXTINF:-1,PK | ARY Zauqⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/360
+#EXTINF:-1,PK | ATVⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/338
+#EXTINF:-1,PK | Awaz TVⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/358
+#EXTINF:-1,PK | BOL Entertainmentⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/335
+#EXTINF:-1,PK | BOL Newsⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/311
+#EXTINF:-1,PK | Capital TVⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/318
+#EXTINF:-1,PK | Cartoon Networkⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/365
+#EXTINF:-1,PK | Channel 5ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/325
+#EXTINF:-1,PK | City 42 Newsⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/321
+#EXTINF:-1,PK | Dawn Newsⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/315
+#EXTINF:-1,PK | DIN Newsⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/326
+EXTINF:-1,PK | 24 Newsⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/312
+#EXTINF:-1,PK | Discover Pakistanⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/345
+#EXTINF:-1,PK | Dunya Newsⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/303
+#EXTINF:-1,PK | Express Entertainmentⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/336
+#EXTINF:-1,PK | Express Newsⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/304
+#EXTINF:-1,PK | Filmaxⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/349
+#EXTINF:-1,PK | GEO Entertainmentⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/332
+#EXTINF:-1,PK | GEO Kahaniⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/333
+#EXTINF:-1,PK | GEO Newsⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/302
+#EXTINF:-1,PK | GEO Superⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/375
+#EXTINF:-1,PK | GEO Tezzⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/323
+#EXTINF:-1,PK | Geo TVⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/97
+#EXTINF:-1,PK | GNN Newsⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/309
+#EXTINF:-1,PK | Hadi TVⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/104849
+#EXTINF:-1,PK | Hidayat TVⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/104850
+#EXTINF:-1,PK | HUM Masalaⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/361
+#EXTINF:-1,PK | HUM Newsⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/307
+#EXTINF:-1,PK | HUM Sitarayⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/331
+#EXTINF:-1,PK | HUM TV Europeⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/300
+#EXTINF:-1,PK | HUM TVⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/330
+#EXTINF:-1,PK | Indus Newsⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/301
+#EXTINF:-1,PK | Kay 2ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/377
+#EXTINF:-1,PK | Khyber Newsⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/327
+#EXTINF:-1,PK | Khyber TVⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/356
+#EXTINF:-1,PK | Lahore Newsⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/316
+#EXTINF:-1,PK | Lahore Rangⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/317
+#EXTINF:-1,PK | Madni Channelⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/297
+#EXTINF:-1,PK | Mehran TVⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/104853
+#EXTINF:-1,PK | NEO Newsⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/314
+#EXTINF:-1,PK | News Oneⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/313
+#EXTINF:-1,PK | PakUS TVⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/342
+#EXTINF:-1,PK | Pashto 1ⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/104856
+#EXTINF:-1,PK | Peace TV Urduⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/296
+#EXTINF:-1,PK | PTV Globalⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/372
+#EXTINF:-1,PK | PTV Homeⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/344
+#EXTINF:-1,PK | PTV Nationalⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/104845
+#EXTINF:-1,PK | PTV Newsⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/322
+#EXTINF:-1,PK | PTV Sportsⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/373
+#EXTINF:-1,PK | Public Newsⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/308
+#EXTINF:-1,PK | Samaa TVⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/305
+#EXTINF:-1,PK | Sindh Newsⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/104851
+#EXTINF:-1,PK | Sindh TVⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/104852
+#EXTINF:-1,PK | Such TVⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/104848
+#EXTINF:-1,PK | TEN Sports PKⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/374
+#EXTINF:-1,PK | Urdu 1ⓧ
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/334
+
 #EXTINF:-1 tvg-id="Win TV" tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" group-title="Shia Channels",Win TV
 https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8
 #EXTINF:-1 tvg-id="Zainabia TV" tvg-logo="https://shiachannel.in/livetv/img/channels/zainabia.jpg" group-title="Shia Channels",Zainabia TV
