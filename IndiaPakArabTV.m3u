@@ -1,15 +1,7 @@
-#EXTINF:-1,|IR| SAHAR AZARI
-http://bg.bleutv.net:2089/152060484575226/152045571582489/201047
-#EXTINF:-1,|IR| SAHAR BOSNIAN
-http://bg.bleutv.net:2089/152060484575226/152045571582489/201046
-#EXTINF:-1,|IR| SAHAR FR-BIH
-http://bg.bleutv.net:2089/152060484575226/152045571582489/201045
-#EXTINF:-1,|IR| SAHAR FRANCOPHONE
-http://bg.bleutv.net:2089/152060484575226/152045571582489/201044
-#EXTINF:-1,|IR| SAHAR URDU
-http://bg.bleutv.net:2089/152060484575226/152045571582489/201043
-#EXTINF:-1,|IR| SAHAR URDU TV
-http://bg.bleutv.net:2089/152060484575226/152045571582489/20104
+#EXTINF:-1,IRIB Quran
+https://cdnw.telewebion.com/quran/live/playlist.m3u8?x_live_session=9b8e848a-378f-4b48-903a-7c1549a6dcdd&x_live_session=9b8e848a-378f-4b48-903a-7c1549a6dcdd&source=https://telewebion.com/live/quran
+#EXTINF:-1,IRIB Sahar Afghanistan 
+https://cdnw.telewebion.com/saharafghan/live/playlist.m3u8?x_live_session=9b8e848a-378f-4b48-903a-7c1549a6dcdd&x_live_session=9b8e848a-378f-4b48-903a-7c1549a6dcdd&source=https://telewebion.com/live/saharafghan
 #EXTINF:-1 tvg-id="" tvg-name="YEM: Almahriah HD" tvg-logo="" group-title="丕賱賷賲賳",YEM: Almahriah HD
 http://ghostiptv.vip:80/162CBD92F6CE/61e5b790aa649/49953
 #EXTINF:-1 tvg-id="" tvg-name="YEM: Suhail TV" tvg-logo="" group-title="丕賱賷賲賳",YEM: Suhail TV
