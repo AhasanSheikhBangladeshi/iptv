@@ -52,7 +52,40 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/16976
 http://new-pro.tv:8080/99622282/etbVXafU6f/16975
 #EXTINF:-1,Kw| Al Adalah TV ATV HD 鉁�
 http://new-pro.tv:8080/99622282/etbVXafU6f/51645
-
+#EXTINF:-1 tvg-id="bab3e066d49f0412ecb89cdaa51ec3ea",PTV-NEWS HD
+http://103.86.134.34:9981/stream/channelid/1726002106?ticket=5481B34E2EF4C515391786DE9DA5674F1B425EA6&profile=pass
+#EXTINF:-1 tvg-id="4d094a512999ca6ff369a8241695fdd8",Geo News
+http://103.86.134.34:9981/stream/channelid/1363806541?ticket=67BD17B9B9B1F46226212EF412E50CC49BA89C88&profile=pass
+#EXTINF:-1 tvg-id="1de112b4d468f0579e5a5c270112f4c9",SAMAA
+http://103.86.134.34:9981/stream/channelid/873652509?ticket=6B13006030C436B39B66170DE703C39C4D4C8991&profile=pass
+#EXTINF:-1 tvg-id="48e182591f4b60a2f4b76f9fb9d8abc7",EXP NEWS
+http://103.86.134.34:9981/stream/channelid/1501749576?ticket=18922AD341D5D6329F7F22623E50E721E095451A&profile=pass
+#EXTINF:-1 tvg-id="2f9a95dbc879817c1a6630fb14686485",Dunya News
+http://103.86.134.34:9981/stream/channelid/1536530991?ticket=5237289D13D226380BC934B4A76E8039CB7A7D91&profile=pass
+#EXTINF:-1 tvg-id="ffa0abe36e9b1a35a2a5a9b3fe1f84e2",ARY NEWS
+http://103.86.134.34:9981/stream/channelid/1672192255?ticket=86FCFE88A405C25465DA050890D21F856CEE9F28&profile=pass
+#EXTINF:-1 tvg-id="03ba8b1d41d8ecb667b5ac9de1c88b6e",AAJ NEWS HD
+http://103.86.134.34:9981/stream/channelid/495696387?ticket=8E21D7CDA880A6DC22E6642F0AABB071E7B55C04&profile=pass
+#EXTINF:-1 tvg-id="2c94c72271abbfda1c0acb2d68c9f9ae",CHANNEL-24
+http://103.86.134.34:9981/stream/channelid/583504940?ticket=A18E2B3DFE08FCB3AA3E80FFF7578DC6F3CAC068&profile=pass
+#EXTINF:-1 tvg-id="db7892658e760bbf8e6cab0095b77957",BOL NEWS HD
+http://103.86.134.34:9981/stream/channelid/1704098011?ticket=36D561DAB77F3FF1831DB50828786075DD23F72C&profile=pass
+EXTINF:-1 tvg-id="7ccd57ca62a9856a2a503b9cfab915ae",Khyber News
+http://103.86.134.34:9981/stream/channelid/1247268220?ticket=8AC3D9B6D48C05F31554DEF7BE68E5EDE05DEA35&profile=pass
+#EXTINF:-1 tvg-id="86f8205b5052b854fc20e1eea7492f97",Dawn News TV
+http://103.86.134.34:9981/stream/channelid/1528887430?ticket=ABD630AEEB295CC36B9F086FD77FA6CF80FAEE56&profile=pass
+#EXTINF:-1 tvg-id="f413f42f02a1d1de1718fed106ae7d4f",NEWS ONE
+http://103.86.134.34:9981/stream/channelid/804525044?ticket=610F49CD4552E5BD60C24B3F5C0870E8F2AE7558&profile=pass
+#EXTINF:-1 tvg-id="9bb5e14a0ab752faf32d5ff9d6e65292",PUBLIC TV HD
+http://103.86.134.34:9981/stream/channelid/1256306075?ticket=82B87ACCF223E0D8E0A9F35D9A1958ABE1F61A41&profile=pass
+#EXTINF:-1 tvg-id="04660b5acb270f0334a114ad77581cb3",SUCH TV
+http://103.86.134.34:9981/stream/channelid/1510696452?ticket=88537DF3369BAFFB9CB96FEA9631C89F9ACC1E51&profile=pass
+#EXTINF:-1 tvg-id="11de5f4bc3a0a3af755faeab8ab85e6a",ABBTAKK HD
+http://103.86.134.34:9981/stream/channelid/1264573969?ticket=B0513309B84D4563FA1C406C185855BB98776707&profile=pass
+#EXTINF:-1 tvg-id="5dfb0bdb6c3346f06bfe4dcb06775137",92 NEWS
+http://103.86.134.34:9981/stream/channelid/1527511901?ticket=612DF636F8911F7553E2EDE54C495E740DBE2789&profile=pass
+#EXTINF:-1 tvg-id="b0bf9db9c094c3bb776312b42112907e",HUM NEWS HD
+http://103.86.134.34:9981/stream/channelid/966639536?ticket=6C2BC5A8535C433BE045D2C74ABA5CBC6C18AD73&profile=pass
 #EXTINF:-1 tvg-id="Win TV" tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" group-title="Shia Channels",Win TV
 https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8
 #EXTINF:-1 tvg-id="Zainabia TV" tvg-logo="https://shiachannel.in/livetv/img/channels/zainabia.jpg" group-title="Shia Channels",Zainabia TV
