@@ -86,13 +86,19 @@ http://103.86.134.34:9981/stream/channelid/1264573969?ticket=B0513309B84D4563FA1
 http://103.86.134.34:9981/stream/channelid/1527511901?ticket=612DF636F8911F7553E2EDE54C495E740DBE2789&profile=pass
 #EXTINF:-1 tvg-id="b0bf9db9c094c3bb776312b42112907e",HUM NEWS HD
 http://103.86.134.34:9981/stream/channelid/966639536?ticket=6C2BC5A8535C433BE045D2C74ABA5CBC6C18AD73&profile=pass
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwURTPDic9avTpG4XwJjigy7u___BZCxujTA&usqp=CAU" group-title="Shia Channels",Ahlebait TV 
+https://stream.wpbond.com/live/ahlebait1.m3u8
+#EXTINF:-1 tvg-id="VelayatTVNetwork.us",Velayat TV (480p) 
+https://nl.livekadeh.com/hls2/velayattv.m3u8
+#EXTINF:-1 tvg-id="AlWilayah.ir",Al Wilayah tv (720p) [Not 24/7]
+https://alwilayah.tv/cdn/alwilayah_tv-manifest.m3u8
+#EXTINF:-1 tvg-id=".AlwilayahHausa",AlWilayah Hausa  (480p) 
+https://nl.livekadeh.com/hls2/alwilayah.tv.hausa_high.m3u8
+#EXTINF:-1 tvg-id="21" tvg-country="Pakistan" tvg-language="Urdu" group-title="Shia #EXTINF:-1  tvg-logo="http://ahlebaittv.net/wp-content/uploads/2017/11/cropped-Ahlebait-Tv-Logo-for-Website.png" tvg-name="Hidayat TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/hidayat.jpg",Hidayat TV (1080)
+https://stream.wpbond.com/live/hidayat1.m3u8
 #EXTINF:-1 tvg-id="Win TV" tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" group-title="Shia Channels",Win TV
 https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8
 #EXTINF:-1 tvg-id="Zainabia TV" tvg-logo="https://shiachannel.in/livetv/img/channels/zainabia.jpg" group-title="Shia Channels",Zainabia TV
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-id="Ali TV" tvg-logo="https://shiachannel.in/livetv/img/channels/alitv.jpg" group-title="Shia Channels",Ali TV
 https://alitv.livebox.co.in/alitvhls/live.m3u8
-#EXTINF:-1,IRIB Mahabad
-http://194.37.92.14:12000/play/a079
-#EXTINF:-1,IRIB Kordestan
-http://194.37.92.14:12000/play/a00d
