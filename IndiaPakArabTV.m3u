@@ -51,7 +51,10 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/16976
 #EXTINF:-1,Kw| Kuwait 2 HD 鉁�
 http://new-pro.tv:8080/99622282/etbVXafU6f/16975
 #EXTINF:-1,Kw| Al Adalah TV ATV HD 鉁�
-http://new-pro.tv:8080/99622282/etbVXafU6f/51645
+http://new-pro.tv:8080/99622282/etbVXafU6f/5164
+#EXTINF:-1,PK| PTV NATIONAL
+http://epg.iptveros.com:80/Brandon/Brandon/854202
+
 #EXTINF:-1 tvg-id="bab3e066d49f0412ecb89cdaa51ec3ea",PTV-NEWS HD
 http://103.86.134.34:9981/stream/channelid/1726002106?ticket=5481B34E2EF4C515391786DE9DA5674F1B425EA6&profile=pass
 #EXTINF:-1 tvg-id="4d094a512999ca6ff369a8241695fdd8",Geo News
