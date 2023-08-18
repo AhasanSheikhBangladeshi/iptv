@@ -52,9 +52,60 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/16976
 http://new-pro.tv:8080/99622282/etbVXafU6f/16975
 #EXTINF:-1,Kw| Al Adalah TV ATV HD 鉁�
 http://new-pro.tv:8080/99622282/etbVXafU6f/5164
+#EXTINF:-1,PK| PTV GLOBAL EU
+http://epg.iptveros.com:80/Brandon/Brandon/42455
+#EXTINF:-1,PK| PTV NEWS
+http://epg.iptveros.com:80/Brandon/Brandon/281145
+#EXTINF:-1,PK| PTV HOME
+http://epg.iptveros.com:80/Brandon/Brandon/281143
+#EXTINF:-1,PK| PTV SPORTS FHD
+http://epg.iptveros.com:80/Brandon/Brandon/281089
+#EXTINF:-1,PK| PTV SPORTS HD
+http://epg.iptveros.com:80/Brandon/Brandon/1116509
 #EXTINF:-1,PK| PTV NATIONAL
 http://epg.iptveros.com:80/Brandon/Brandon/854202
-
+#EXTINF:-1,AR| YEMEN EDUCATION TV
+http://epg.iptveros.com:80/Brandon/Brandon/542155
+#EXTINF:-1,AR| YEMEN AL LAHDAH TV
+http://epg.iptveros.com:80/Brandon/Brandon/542154
+#EXTINF:-1,AR| YEMEN HADRAMOUT TV
+http://epg.iptveros.com:80/Brandon/Brandon/542153
+#EXTINF:-1,AR| YEMEN AL HAWYAH TV
+http://epg.iptveros.com:80/Brandon/Brandon/542151
+#EXTINF:-1,AR| YEMEN AL MAHRIAH FHD
+http://epg.iptveros.com:80/Brandon/Brandon/542150
+#EXTINF:-1,AR| YEMEN AL MASIRAH TV
+http://epg.iptveros.com:80/Brandon/Brandon/542156
+#EXTINF:-1,AR| YEMEN EL EIMAN
+http://epg.iptveros.com:80/Brandon/Brandon/911703
+#EXTINF:-1,AR| AL JOUMHOURIYAH TV
+http://epg.iptveros.com:80/Brandon/Brandon/807698
+#EXTINF:-1,AR| YEMEN AIC TV
+http://epg.iptveros.com:80/Brandon/Brandon/542152
+#EXTINF:-1,AR| YEMEN AL SHAREYYAH
+http://epg.iptveros.com:80/Brandon/Brandon/542149
+#EXTINF:-1,AR| BELQEES
+http://epg.iptveros.com:80/Brandon/Brandon/542148
+#EXTINF:-1,AR| AL GHAD ALMUSHREQ
+http://epg.iptveros.com:80/Brandon/Brandon/542147
+#EXTINF:-1,AR| YEMEN SHABAB FHD
+http://epg.iptveros.com:80/Brandon/Brandon/542145
+#EXTINF:-1,AR| SUHAIL TV
+http://epg.iptveros.com:80/Brandon/Brandon/542144
+#EXTINF:-1,AR| YEMEN AL SAEEDAH
+http://epg.iptveros.com:80/Brandon/Brandon/542143
+#EXTINF:-1,AR| ADEN AL SHAREYYAH LIVE
+http://epg.iptveros.com:80/Brandon/Brandon/542142
+#EXTINF:-1,AR| SHEBA TV
+http://epg.iptveros.com:80/Brandon/Brandon/542141
+#EXTINF:-1,AR| YEMEN TODAY AL HOTHIA TV
+http://epg.iptveros.com:80/Brandon/Brandon/542140
+#EXTINF:-1,AR| YEMEN AL HOTHIA TV
+http://epg.iptveros.com:80/Brandon/Brandon/542139
+#EXTINF:-1,AR| YEMEN TODAY
+http://epg.iptveros.com:80/Brandon/Brandon/815539
+#EXTINF:-1,AR| YEMEN TV
+http://epg.iptveros.com:80/Brandon/Brandon/815538
 #EXTINF:-1 tvg-id="bab3e066d49f0412ecb89cdaa51ec3ea",PTV-NEWS HD
 http://103.86.134.34:9981/stream/channelid/1726002106?ticket=5481B34E2EF4C515391786DE9DA5674F1B425EA6&profile=pass
 #EXTINF:-1 tvg-id="4d094a512999ca6ff369a8241695fdd8",Geo News
