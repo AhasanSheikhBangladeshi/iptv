@@ -1,23 +1,43 @@
-#EXTINF:-1,ARI KUWEIT TV 1 HD 
-http://epg.iptveros.com:80/Brandon/Brandon/6575 
-#EXTINF:-1,ARI KUWEIT TV 2 HD 
-http://epg.iptveros.com:80/Brandon/Brandon/6573 #EXTINF:-1,ARI KUWEIT TV AL ARABI HD 
-http://epg.iptveros.com:80/Brandon/Brandon/6572 #EXTINF:-1,ARI KUWEIT TV ETHRAA HD 
-http://epg.iptveros.com:80/Brandon/Brandon/6571 #EXTINF:-1,ARI KUWAIT KHALILK BILBAIT http://epg.iptveros.com:80/Brandon/Brandon/295588 
-#EXTINF:-1,ARI KUWAIT KIDS http://epg.iptveros.com:80/Brandon/Brandon/138608 
-#EXTINF:-1,AR KUWAIT ETHRAA http://epg.iptveros.com:80/Brandon/Brandon/138607 
-#EXTINF:-1,ARI KUWAIT SPORTS FHD http://epg.iptveros.com:80/Brandon/Brandon/138606 
-#EXTINF:-1,ARI KUWAIT AL ARABI http://epg.iptveros.com:80/Brandon/Brandon/138604 
-#EXTINF:-1,AR KUWAIT PLUS http://epg.iptveros.com:80/Brandon/Brandon/138603 
-#EXTINF:-1,ARI KUWAIT TV 2 http://epg.iptveros.com:80/Brandon/Brandon/138602 
-#EXTINF:-1,ARI KUWAIT TV 1 HD http://epg.iptveros.com:80/Brandon/Brandon/138599
- #EXTINF:-1,ARI KUWEIT TV PLUS HD http://epg.iptveros.com:80/Brandon/Brandon/6574 #EXTINF:-1,ARI AL SHAHED TV 4K http://epg.iptveros.com:80/Brandon/Brandon/1005505 
-#EXTINF:-1,ARI AL MAJLIS http://epg.iptveros.com:80/Brandon/Brandon/1022172 
-#EXTINF:-1,AR AL FUJERA HD http://epg.iptveros.com:80/Brandon/Brandon/83503 
-#EXTINF:-1,AR DRAMA AL BADAWYA http://epg.iptveros.com:80/Brandon/Brandon/138620 
-#EXTINF:-1,AR AL ADALAH TV ATV http://epg.iptveros.com:80/Brandon/Brandon/138618 
-#EXTINF:-1,AR ALRAI TV FHD http://epg.iptveros.com:80/Brandon/Brandon/138613 
-#EXTINF:-1,AR AL SABAH TV http://epg.iptveros.com:80/Brandon/Brandon/138610
+#EXTINF:-1,AR| KUWEIT TV 1 HD
+http://epg.iptveros.com:80/Brandon/Brandon/6575
+#EXTINF:-1,AR| KUWEIT TV 2 HD
+http://epg.iptveros.com:80/Brandon/Brandon/6573
+#EXTINF:-1,AR| KUWEIT TV AL ARABI HD
+http://epg.iptveros.com:80/Brandon/Brandon/6572
+#EXTINF:-1,AR| KUWEIT TV ETHRAA HD
+http://epg.iptveros.com:80/Brandon/Brandon/6571
+#EXTINF:-1,AR| KUWAIT KHALILK BILBAIT
+http://epg.iptveros.com:80/Brandon/Brandon/295588
+#EXTINF:-1,AR| KUWAIT KIDS
+http://epg.iptveros.com:80/Brandon/Brandon/138608
+#EXTINF:-1,AR| KUWAIT ETHRAA
+http://epg.iptveros.com:80/Brandon/Brandon/138607
+#EXTINF:-1,AR| KUWAIT SPORTS FHD
+http://epg.iptveros.com:80/Brandon/Brandon/138606
+#EXTINF:-1,AR| KUWAIT AL ARABI
+http://epg.iptveros.com:80/Brandon/Brandon/138604
+#EXTINF:-1,AR| KUWAIT PLUS
+http://epg.iptveros.com:80/Brandon/Brandon/138603
+#EXTINF:-1,AR| KUWAIT TV 2
+http://epg.iptveros.com:80/Brandon/Brandon/138602
+#EXTINF:-1,AR| KUWAIT TV 1 HD
+http://epg.iptveros.com:80/Brandon/Brandon/138599
+#EXTINF:-1,AR| KUWEIT TV PLUS HD
+http://epg.iptveros.com:80/Brandon/Brandon/6574
+#EXTINF:-1,AR| AL SHAHED TV 4K
+http://epg.iptveros.com:80/Brandon/Brandon/1005505
+#EXTINF:-1,AR|  AL MAJLIS
+http://epg.iptveros.com:80/Brandon/Brandon/1022172
+#EXTINF:-1,AR| AL FUJERA HD
+http://epg.iptveros.com:80/Brandon/Brandon/83503
+#EXTINF:-1,AR| DRAMA AL BADAWYA
+http://epg.iptveros.com:80/Brandon/Brandon/138620
+#EXTINF:-1,AR| AL ADALAH TV ATV
+http://epg.iptveros.com:80/Brandon/Brandon/138618
+#EXTINF:-1,AR| ALRAI TV FHD
+http://epg.iptveros.com:80/Brandon/Brandon/138613
+#EXTINF:-1,AR| AL SABAH TV
+http://epg.iptveros.com:80/Brandon/Brandon/138610
 #EXTINF:-1,Ye| Al Masirah Mubasher TV 鉁�
 http://new-pro.tv:8080/99622282/etbVXafU6f/38637
 #EXTINF:-1,Ye| Yemen TV 鉁�
@@ -230,7 +250,7 @@ https://alwilayah.tv/cdn/alwilayah_tv-manifest.m3u8
 https://nl.livekadeh.com/hls2/alwilayah.tv.hausa_high.m3u8
 #EXTINF:-1 tvg-id="21" tvg-country="Pakistan" tvg-language="Urdu" group-title="Shia #EXTINF:-1  tvg-logo="http://ahlebaittv.net/wp-content/uploads/2017/11/cropped-Ahlebait-Tv-Logo-for-Website.png" tvg-name="Hidayat TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/hidayat.jpg",Hidayat TV (1080)
 https://stream.wpbond.com/live/hidayat1.m3u8
-#EXTINF:-1 tvg-id="Win TV" tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" group-title="Shia Channels",Win TV
+#EXTINF:-1 tvg-id="Win TV" tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" group-title="Shia Channels",Channel Win TV
 https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8
 #EXTINF:-1 tvg-id="Zainabia TV" tvg-logo="https://shiachannel.in/livetv/img/channels/zainabia.jpg" group-title="Shia Channels",Zainabia TV
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
