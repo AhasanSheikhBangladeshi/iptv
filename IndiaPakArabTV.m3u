@@ -186,26 +186,14 @@ http://epg.iptveros.com:80/Brandon/Brandon/156093
 http://epg.iptveros.com:80/Brandon/Brandon/155977
 #EXTINF:-1,HINDI| DD RAJASTHAN
 http://epg.iptveros.com:80/Brandon/Brandon/156091
-#EXTINF:-1,HINDI| DD UP
-http://epg.iptveros.com:80/Brandon/Brandon/156090
 #EXTINF:-1,HINDI| DD URDU
 http://epg.iptveros.com:80/Brandon/Brandon/280827
-#EXTINF:-1,HINDI| DD SPORTS
-http://epg.iptveros.com:80/Brandon/Brandon/280825
-#EXTINF:-1,HINDI| DD NATIONAL
-http://epg.iptveros.com:80/Brandon/Brandon/280822
-#EXTINF:-1,HINDI| DD KISAN
-http://epg.iptveros.com:80/Brandon/Brandon/280820
+#EXTINF:-1,BAN|  DD BANGLA
+http://epg.iptveros.com:80/Brandon/Brandon/225742
 #EXTINF:-1,HINDI| DD KASHIR
 http://epg.iptveros.com:80/Brandon/Brandon/280819
 #EXTINF:-1,TTS| ZEE SALAAM
 http://epg.iptveros.com:80/Brandon/Brandon/946363
-#EXTINF:-1,TTS| ZEE RAJASTHAN NEWS
-http://epg.iptveros.com:80/Brandon/Brandon/946362
-#EXTINF:-1,TTS| ZEE PUNJABI
-http://epg.iptveros.com:80/Brandon/Brandon/946361
-#EXTINF:-1,TTS| ZEE PUNJAB HARYANA HIMACHAL PRADESH
-http://epg.iptveros.com:80/Brandon/Brandon/946360
 #EXTINF:-1 tvg-id="bab3e066d49f0412ecb89cdaa51ec3ea",PTV-NEWS HD
 http://103.86.134.34:9981/stream/channelid/1726002106?ticket=5481B34E2EF4C515391786DE9DA5674F1B425EA6&profile=pass
 #EXTINF:-1 tvg-id="4d094a512999ca6ff369a8241695fdd8",Geo News
