@@ -1,42 +1,15 @@
-#EXTINF:-1,PK: 92 News HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73802
-#EXTINF:-1,PK: A Plus HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73803
-#EXTINF:-1,PK: Aaj Entertainment HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73804
-#EXTINF:-1,PK: Aaj News HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73805
-#EXTINF:-1,PK: Abb Takk HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73806
-#EXTINF:-1,PK: Akaal Channel HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73807
-#EXTINF:-1,PK: Apna Channel HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73808
-#EXTINF:-1,PK: ARY Digital Asia HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73809
-#EXTINF:-1,PK: ARY Musik HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73810
-#EXTINF:-1,PK ARY Musik HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73811
-#EXTINF:-1,PK: ARY News HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73812
-#EXTINF:-1,PK: ARY QTV HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73813
-#EXTINF:-1,PK: ARY World HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73814
-#EXTINF:-1,PK: ARY Zindagi HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73815
-#EXTINF:-1,PK: ATV HD
-#EXTINF:-1,PK: PTV Global HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73869
-#EXTINF:-1,PK: PTV Home FHD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73870
-#EXTINF:-1,PK: PTV News HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73871
-#EXTINF:-1,PK: PTV Sports HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73872
-#EXTINF:-1,PK: PTV World HD
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/73873
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV Global" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef69baad8ca4c0440c3ad04556c08077.png" group-title="♣♦♣------|PA|PAKISTAN |PA|-----♣♦♣",PK: PTV Global
+http://magicoiptv.org:8080/boubker2234/boubker44321/426479
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV Home" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/872c9b8616691f49e0e9ecb489cc8e7c.png" group-title="♣♦♣------|PA|PAKISTAN |PA|-----♣♦♣",PK: PTV Home
+http://magicoiptv.org:8080/boubker2234/boubker44321/426480
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dc8896029d319c9306da49af37badbcf.png" group-title="♣♦♣------|PA|PAKISTAN |PA|-----♣♦♣",PK: PTV News
+http://magicoiptv.org:8080/boubker2234/boubker44321/426481
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7990c9248d459185d9b92ea4665bad06.png" group-title="♣♦♣------|PA|PAKISTAN |PA|-----♣♦♣",PK: PTV Sports
+http://magicoiptv.org:8080/boubker2234/boubker44321/426482
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5515bc09a823ba183bbed530ff34230d.png" group-title="♣♦♣------|PA|PAKISTAN |PA|-----♣♦♣",PK: PTV World
+http://magicoiptv.org:8080/boubker2234/boubker44321/426483
+#EXTINF:-1 tvg-id="" tvg-name="PK: Public News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f2f13bef651adc1c01dfb8e9e1e0042e.png" group-title="♣♦♣------|PA|PAKISTAN |PA|-----♣♦♣",PK: Public News
+http://magicoiptv.org:8080/boubker2234/boubker44321/426484
 #EXTINF:-1,PK| PTV NATIONAL
 https://ptvbkp.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
 #EXTINF:-1,Ly| Al Wasat TV [ WTV ] âŚ
@@ -91,107 +64,62 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/338042
 http://new-pro.tv:8080/99622282/etbVXafU6f/338043
 #EXTINF:-1,Kw| Al Rai HD âŚ
 http://new-pro.tv:8080/99622282/etbVXafU6f/27811
-#EXTINF:-1,[GLF] Yemen Aden
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/4516
-#EXTINF:-1,[GLF] Yemen Al Massira
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/4517
-#EXTINF:-1,[GLF] Yemen Al Massira Mubasher
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/4518
-#EXTINF:-1,[GLF] Yemen Al Mhara
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/4519
-#EXTINF:-1,[GLF] Yemen Al Saeeda
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/4520
-#EXTINF:-1,[GLF] Yemen Belqees TV
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/4521
-#EXTINF:-1,[GLF] Yemen Shabab
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/4522
-#EXTINF:-1,[GLF] Yemen Suhail TV
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/4523
-#EXTINF:-1,[GLF] Yemen TV
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/4524
-#EXTINF:-1,[Yemen] Yemen Today
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/4525
-#EXTINF:-1,[YEMEN] YEMEN SHABAB
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/4526
-#EXTINF:-1,[Yemen] Yemen Tv
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/4527
-#EXTINF:-1,[Yemen] BELQEES
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/4528
-#EXTINF:-1,[YEMEN] ADEN TV
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/4529
-#EXTINF:-1,[Yemen]  Almahriah
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/4530
-#EXTINF:-1,[Yemen] AlSaeedah
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/4531
-#EXTINF:-1,Aden TV
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/394
-#EXTINF:-1,Al Masirah
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/395
-#EXTINF:-1,Al Masirah Mubacher
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/396
-#EXTINF:-1,Alerth TV
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/397
-#EXTINF:-1,Alghad Almushreq
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/398
-#EXTINF:-1,Suhail TV
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/399
-#EXTINF:-1,Yemen Shabab
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/400
-#EXTINF:-1,AR: ADN ALMUSTAKILLAH
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/3050
-
-#EXTINF:-1,[LIB] Libya 218 News
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1179
-#EXTINF:-1,[LIB] Libya 218 TV
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1180
-#EXTINF:-1,[LIB] Libya Al Ahrar
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1181
-#EXTINF:-1,[LIB] Libya Al Ann
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1182
-#EXTINF:-1,[LIB] Libya Al Hadath
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1183
-#EXTINF:-1,[LIB] Libya Al Jamahiria
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1184
-#EXTINF:-1,[LIB] Libya Al Mostaqbal
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1185
-#EXTINF:-1,[LIB] Libya Al Tanasuh
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1186
-#EXTINF:-1,[LIB] Libya Al Watan
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1187
-#EXTINF:-1,[LIB] Libya Al Wataniya
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1188
-#EXTINF:-1,[LIB] Libya Alrasmeia
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1189
-#EXTINF:-1,[LIB] Libya Daawah
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1190
-#EXTINF:-1,[LIB] Libya Febrayer
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1191
-#EXTINF:-1,[LIB] Libya LTV
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1192
-#EXTINF:-1,[LIB] Libya ONE Sat
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1193
-#EXTINF:-1,[LIB] Libya TV
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1197
-#EXTINF:-1,[Libya] TANASUH LIBYA
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1198
-#EXTINF:-1,[Libya] Libyih TV
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1199
-#EXTINF:-1,[Libya] LIBYA_TELEVISION
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1200
-#EXTINF:-1,[Libya] Libyaelwatan
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1201
-#EXTINF:-1,[Libya] LIBYA TV
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1202
-#EXTINF:-1,[Libya] Libya Sport Channel
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1203
-#EXTINF:-1,[Libya] Libya Alrasmia
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1204
-#EXTINF:-1,[Libya] AL_JAMAHIRIA_TV
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1205
-#EXTINF:-1,[Libya] LIBYA ALHADATH
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1206
-#EXTINF:-1,[Libya] Libya Al Ahrar TV
-http://a36m.net:8080/338380207541/204004208637ca6d5880f0/1207
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: ADEN TV" tvg-logo="https://5.top4top.net/p_13995wr917.png" group-title="YEMEN - اليمن",YEMEN: ADEN TV
+http://magicoiptv.org:8080/boubker2234/boubker44321/417214
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: AL GHAD AL MUSHREQ" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: AL GHAD AL MUSHREQ
+http://magicoiptv.org:8080/boubker2234/boubker44321/417215
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: ALHAWYAH TV" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: ALHAWYAH TV
+http://magicoiptv.org:8080/boubker2234/boubker44321/417216
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: ALMAHRIAH" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: ALMAHRIAH
+http://magicoiptv.org:8080/boubker2234/boubker44321/417217
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: ALMASIRAH MUBASHER" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: ALMASIRAH MUBASHER
+http://magicoiptv.org:8080/boubker2234/boubker44321/417218
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: ALMASIRAH TV" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: ALMASIRAH TV
+http://magicoiptv.org:8080/boubker2234/boubker44321/417219
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: ALSAEEDAH" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: ALSAEEDAH
+http://magicoiptv.org:8080/boubker2234/boubker44321/417220
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: BELQEES 4k" tvg-logo="https://4.top4top.net/p_1399mweha1.png" group-title="YEMEN - اليمن",YEMEN: BELQEES 4k
+http://magicoiptv.org:8080/boubker2234/boubker44321/417221
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: HADARMAUT 1" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: HADARMAUT 1
+http://magicoiptv.org:8080/boubker2234/boubker44321/417222
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: HADRMAUT TV RED" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: HADRMAUT TV RED
+http://magicoiptv.org:8080/boubker2234/boubker44321/417223
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: MUSTAKILA AIC" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: MUSTAKILA AIC
+http://magicoiptv.org:8080/boubker2234/boubker44321/417224
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: SUHEIL TV" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: SUHEIL TV
+http://magicoiptv.org:8080/boubker2234/boubker44321/417225
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: YEMEN" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: YEMEN
+http://magicoiptv.org:8080/boubker2234/boubker44321/417226
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: YEMEN DOCUMENTARY" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: YEMEN DOCUMENTARY
+http://magicoiptv.org:8080/boubker2234/boubker44321/417227
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: YEMEN EDUCATION" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: YEMEN EDUCATION
+http://magicoiptv.org:8080/boubker2234/boubker44321/417228
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: YEMEN TODAY" tvg-logo="https://6.top4top.net/p_1399vnij02.png" group-title="YEMEN - اليمن",YEMEN: YEMEN TODAY
+http://magicoiptv.org:8080/boubker2234/boubker44321/417229
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: YEMEN TV" tvg-logo="https://1.top4top.net/p_1399go8nl3.png" group-title="YEMEN - اليمن",YEMEN: YEMEN TV
+http://magicoiptv.org:8080/boubker2234/boubker44321/417230
+#EXTINF:-1 tvg-id="" tvg-name="YEMEN: YEMEN_SHABAB" tvg-logo="https://2.top4top.net/p_1399vrw204.png" group-title="YEMEN - اليمن",YEMEN: YEMEN_SHABAB
+http://magicoiptv.org:8080/boubker2234/boubker44321/417231
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Libya Tanasuh" tvg-logo="" group-title="LIBYA - ليبيا",Ar: Libya Tanasuh
+http://magicoiptv.org:8080/boubker2234/boubker44321/1064
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Libya Channel" tvg-logo="" group-title="LIBYA - ليبيا",Ar: Libya Channel
+http://magicoiptv.org:8080/boubker2234/boubker44321/1062
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Libya Almustaqbal" tvg-logo="" group-title="LIBYA - ليبيا",Ar: Libya Almustaqbal
+http://magicoiptv.org:8080/boubker2234/boubker44321/1061
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Libya Alhadath" tvg-logo="" group-title="LIBYA - ليبيا",Ar: Libya Alhadath
+http://magicoiptv.org:8080/boubker2234/boubker44321/1060
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Libya AlAhrar" tvg-logo="" group-title="LIBYA - ليبيا",Ar: Libya AlAhrar
+http://magicoiptv.org:8080/boubker2234/boubker44321/1059
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Libya TV" tvg-logo="" group-title="LIBYA - ليبيا",Ar: Libya TV
+http://magicoiptv.org:8080/boubker2234/boubker44321/1058
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Libya Alnabaa" tvg-logo="" group-title="LIBYA - ليبيا",Ar: Libya Alnabaa
+http://magicoiptv.org:8080/boubker2234/boubker44321/1057
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Libya 218 akhbar" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/LIBYA218NEWS.png" group-title="LIBYA - ليبيا",Ar: Libya 218 akhbar
+http://magicoiptv.org:8080/boubker2234/boubker44321/1056
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Libya 218" tvg-logo="http://picons.atlaspro.to/picons/PICONS-BOUQUET-ARABIC/LIBYA218NEWS.png" group-title="LIBYA - ليبيا",Ar: Libya 218
+http://magicoiptv.org:8080/boubker2234/boubker44321/1055
+#EXTINF:-1 tvg-id="" tvg-name="Ar: Libya Jamahiria" tvg-logo="" group-title="LIBYA - ليبيا",Ar: Libya Jamahiria
+http://magicoiptv.org:8080/boubker2234/boubker44321/1054
 
 #EXTINF:-1 tvg-id="Ahlebait.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwURTPDic9avTpG4XwJjigy7u___BZCxujTA&usqp=CAU" group-title="Shia Channels",Ahlebait TV 
 https://stream.wpbond.com/live/ahlebait1.m3u8
