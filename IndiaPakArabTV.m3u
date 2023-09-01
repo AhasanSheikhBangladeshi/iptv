@@ -1,13 +1,60 @@
 #EXTINF:-1,PK| PTV NATIONAL
 https://ptvbkp.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="قناة اليمن الفضائية" tvg-logo="http://myserveriptv.com:2082/images/b843f2f6eef7ae93e44d4cb11f9edb7e.png" group-title="Yemen اليمن",قناة اليمن الفضائية
-http://31.42.184.159:2082/Shaimaa12/Shaimaa21/725
-#EXTINF:-1 tvg-id="" tvg-name="عدن الشرعية" tvg-logo="http://myserveriptv.com:2082/images/e00a6e50a0c65ce803200d8a1e5eaf25.png" group-title="Yemen اليمن",عدن الشرعية
-http://31.42.184.159:2082/Shaimaa12/Shaimaa21/17604
-#EXTINF:-1 tvg-id="" tvg-name="شباب Tv" tvg-logo="http://myserveriptv.com:2082/images/47b01ccd92a2df8043833bd26c3b8551.png" group-title="Yemen:Yemen Shabab اليمن",شباب Tv
-http://31.42.184.159:2082/Shaimaa12/Shaimaa21/12953
-#EXTINF:-1 tvg-id="" tvg-name="اليمن اليوم" tvg-logo="http://myserveriptv.com:2082/images/b843f2f6eef7ae93e44d4cb11f9edb7e.png" group-title="Yemen:Yemen Today اليمن",اليمن اليوم
- tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwURTPDic9avTpG4XwJjigy7u___BZCxujTA&usqp=CAU" group-title="Shia Channels",Ahlebait TV 
+#EXTINF:-1,Ly| Al Wasat TV [ WTV ] âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/176220
+#EXTINF:-1,Ye| Al Masirah Mubasher TV âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/38637
+#EXTINF:-1,Ye| Yemen TV âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/2573
+#EXTINF:-1,Ye| Al Saeedah TV âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/42188
+#EXTINF:-1,Ye| Suhail TV âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/45275
+#EXTINF:-1,Ye| Al Erth Alnabawi TV âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/45276
+#EXTINF:-1,Ye| AIC TV âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/67627
+#EXTINF:-1,Ye| Hadramaut TV âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/67628
+#EXTINF:-1,Ye| Yemen Today HD âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/2572
+#EXTINF:-1,Ye| Aden TV âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/10610
+#EXTINF:-1,Ye| Al Masirah TV âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/33765
+#EXTINF:-1,Ye| Al Ghad Al Mushreq âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/69642
+#EXTINF:-1,Ye| Yemen Documentary âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/69625
+#EXTINF:-1,Ye| Yemen Education TV âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/69626
+#EXTINF:-1,Ye| Al Yemen
+http://new-pro.tv:8080/99622282/etbVXafU6f/69628
+#EXTINF:-1,Ye| Sheba TV âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/14261
+#EXTINF:-1,Ye| Al Eiman TV âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/99074
+#EXTINF:-1,Ye| Al Mahrah HD âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/99077
+#EXTINF:-1,Ye| Al Hawyah TV âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/155218
+#EXTINF:-1,Ye| Al Lahdah âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/155214
+#EXTINF:-1,Ye| Al Sahat âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/155217
+#EXTINF:-1,Ye| Belqees TV âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/99075
+#EXTINF:-1,Ye| Yemen Shabab HD âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/99073
+#EXTINF:-1,Ye| Aden Almustakilla âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/338042
+#EXTINF:-1,Ye| Aden Al Shareyyah âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/338043
+#EXTINF:-1,Kw| Al Rai HD âŚ
+http://new-pro.tv:8080/99622282/etbVXafU6f/27811
+
+
+#EXTINF:-1 tvg-id="Ahlebait.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwURTPDic9avTpG4XwJjigy7u___BZCxujTA&usqp=CAU" group-title="Shia Channels",Ahlebait TV 
 https://stream.wpbond.com/live/ahlebait1.m3u8
 #EXTINF:-1 tvg-id="VelayatTVNetwork.us",Velayat TV (480p) 
 https://nl.livekadeh.com/hls2/velayattv.m3u8
