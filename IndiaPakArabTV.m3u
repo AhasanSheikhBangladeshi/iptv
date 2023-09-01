@@ -1,41 +1,13 @@
 #EXTINF:-1,PK| PTV NATIONAL
 https://ptvbkp.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
-
-#EXTINF:-1,AR| ADEN AL SHAREYYAH LIVE
-http://epg.iptveros.com:80/Brandon/Brandon/542142
-#EXTINF:-1,AR| SHEBA TV
-http://epg.iptveros.com:80/Brandon/Brandon/542141
-#EXTINF:-1,AR| YEMEN TODAY AL HOTHIA TV
-http://epg.iptveros.com:80/Brandon/Brandon/542140
-#EXTINF:-1,AR| YEMEN AL HOTHIA TV
-http://epg.iptveros.com:80/Brandon/Brandon/542139
-#EXTINF:-1,AR| YEMEN TODAY
-http://epg.iptveros.com:80/Brandon/Brandon/815539
-#EXTINF:-1,AR| YEMEN TV
-http://epg.iptveros.com:80/Brandon/Brandon/815538
-#EXTINF:-1,HINDI| DD NEWS HD
-http://epg.iptveros.com:80/Brandon/Brandon/155978
-#EXTINF:-1,HINDI| DD BIHAR
-http://epg.iptveros.com:80/Brandon/Brandon/156092
-#EXTINF:-1,HINDI| DD INDIA
-http://epg.iptveros.com:80/Brandon/Brandon/156095
-#EXTINF:-1,HINDI| DD MP
-http://epg.iptveros.com:80/Brandon/Brandon/156093
-#EXTINF:-1,HINDI| DD NATIONAL HD
-http://epg.iptveros.com:80/Brandon/Brandon/155977
-#EXTINF:-1,HINDI| DD RAJASTHAN
-http://epg.iptveros.com:80/Brandon/Brandon/156091
-#EXTINF:-1,HINDI| DD URDU
-http://epg.iptveros.com:80/Brandon/Brandon/280827
-#EXTINF:-1,BAN|  DD BANGLA
-http://epg.iptveros.com:80/Brandon/Brandon/225742
-#EXTINF:-1,HINDI| DD KASHIR
-http://epg.iptveros.com:80/Brandon/Brandon/280819
-#EXTINF:-1,TTS| ZEE SALAAM
-http://epg.iptveros.com:80/Brandon/Brandon/946363
-
-
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwURTPDic9avTpG4XwJjigy7u___BZCxujTA&usqp=CAU" group-title="Shia Channels",Ahlebait TV 
+#EXTINF:-1 tvg-id="" tvg-name="قناة اليمن الفضائية" tvg-logo="http://myserveriptv.com:2082/images/b843f2f6eef7ae93e44d4cb11f9edb7e.png" group-title="Yemen اليمن",قناة اليمن الفضائية
+http://31.42.184.159:2082/Shaimaa12/Shaimaa21/725
+#EXTINF:-1 tvg-id="" tvg-name="عدن الشرعية" tvg-logo="http://myserveriptv.com:2082/images/e00a6e50a0c65ce803200d8a1e5eaf25.png" group-title="Yemen اليمن",عدن الشرعية
+http://31.42.184.159:2082/Shaimaa12/Shaimaa21/17604
+#EXTINF:-1 tvg-id="" tvg-name="شباب Tv" tvg-logo="http://myserveriptv.com:2082/images/47b01ccd92a2df8043833bd26c3b8551.png" group-title="Yemen:Yemen Shabab اليمن",شباب Tv
+http://31.42.184.159:2082/Shaimaa12/Shaimaa21/12953
+#EXTINF:-1 tvg-id="" tvg-name="اليمن اليوم" tvg-logo="http://myserveriptv.com:2082/images/b843f2f6eef7ae93e44d4cb11f9edb7e.png" group-title="Yemen:Yemen Today اليمن",اليمن اليوم
+ tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwURTPDic9avTpG4XwJjigy7u___BZCxujTA&usqp=CAU" group-title="Shia Channels",Ahlebait TV 
 https://stream.wpbond.com/live/ahlebait1.m3u8
 #EXTINF:-1 tvg-id="VelayatTVNetwork.us",Velayat TV (480p) 
 https://nl.livekadeh.com/hls2/velayattv.m3u8
