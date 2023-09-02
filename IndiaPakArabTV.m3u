@@ -1,117 +1,100 @@
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: ARY Digital" tvg-logo="" group-title="Pakistan | باكستان",Pk: ARY Digital
-http://sp4k.cc:2095/A95597921/62537362/114675
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: HUM HD" tvg-logo="" group-title="Pakistan | باكستان",Pk: HUM HD
-http://sp4k.cc:2095/A95597921/62537362/114676
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: HUM Sitaray" tvg-logo="" group-title="Pakistan | باكستان",Pk: HUM Sitaray
-http://sp4k.cc:2095/A95597921/62537362/114677
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: HUM TV Pashto" tvg-logo="" group-title="Pakistan | باكستان",Pk: HUM TV Pashto
-http://sp4k.cc:2095/A95597921/62537362/114678
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Geo Entertainment" tvg-logo="" group-title="Pakistan | باكستان",Pk: Geo Entertainment
-http://sp4k.cc:2095/A95597921/62537362/114679
-
+#EXTINF:-1 tvg-id="aajnews.pk" tvg-name="Aaj News PK" tvg-logo="https://icon2.cleanpng.com/20180816/hge/kisspng-logo-pakistan-aaj-news-television-channel-aaj-news-bing-images-5b759b08446b77.8827527015344340562803.jpg" group-title="Pakistani",Aaj News PK
+http://appleiptv.com:80/7865/7865/43061
+#EXTINF:-1 tvg-id="ptvnews.pk" tvg-name="PTV NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="Pakistani",PTV NEWS
+http://appleiptv.com:80/7865/7865/20928
+#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="Ptv News UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="Pakistani",Ptv News UK
+http://appleiptv.com:80/7865/7865/43063
+#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="PTV GLOBAL" tvg-logo="https://content.pk/wp-content/uploads/2017/09/LIVE-PTV-News-TV-Urdu-Stream-From-Pakistan-HD.jpg" group-title="Pakistani",PTV GLOBAL
+http://appleiptv.com:80/7865/7865/20926
+#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="Ptv Global UK" tvg-logo="https://content.pk/wp-content/uploads/2017/09/LIVE-PTV-News-TV-Urdu-Stream-From-Pakistan-HD.jpg" group-title="Pakistani",Ptv Global UK
+http://appleiptv.com:80/7865/7865/43042
+#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PTV HOME" tvg-logo="http://faizuliptv.myonlineportal.org/logo/ptv_home_pk.png" group-title="Pakistani",PTV HOME
+http://appleiptv.com:80/7865/7865/20927
+#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="Ptv Home PK" tvg-logo="https://content.pk/wp-content/uploads/2017/09/LIVE-PTV-News-TV-Urdu-Stream-From-Pakistan-HD.jpg" group-title="Pakistani",Ptv Home PK
+http://appleiptv.com:80/7865/7865/43043
+#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="Ptv Prime UK"
 #EXTINF:-1,PK| PTV Bolan
 https://ptvbkp.nayatel.com/transcoder/ptvbolantrc_source/playlist.m3u8
 #EXTINF:-1,PK| PTV NATIONAL
 https://ptvbkp.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: ARY NEWS" tvg-logo="http://sp4k.cc:2095/images/510bbb7baceed8fc3421f0e47230e176.png" group-title="Pakistan | باكستان",Pk: ARY NEWS
-http://sp4k.cc:2095/A95597921/62537362/114624
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Hum News" tvg-logo="" group-title="Pakistan | باكستان",Pk: Hum News
-http://sp4k.cc:2095/A95597921/62537362/114626
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Lahore Rang HD" tvg-logo="" group-title="Pakistan | باكستان",Pk: Lahore Rang HD
-http://sp4k.cc:2095/A95597921/62537362/114658
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: A PLUS" tvg-logo="" group-title="Pakistan | باكستان",Pk: A PLUS
-http://sp4k.cc:2095/A95597921/62537362/114662
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: KTN Entertainment" tvg-logo="" group-title="Pakistan | باكستان",Pk: KTN Entertainment
-http://sp4k.cc:2095/A95597921/62537362/114663
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: BOL Entertainment" tvg-logo="" group-title="Pakistan | باكستان",Pk: BOL Entertainment
-http://sp4k.cc:2095/A95597921/62537362/114664
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Express Entertainment" tvg-logo="" group-title="Pakistan | باكستان",Pk: Express Entertainment
-http://sp4k.cc:2095/A95597921/62537362/114665
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: AAJ Entertainment" tvg-logo="" group-title="Pakistan | باكستان",Pk: AAJ Entertainment
-http://sp4k.cc:2095/A95597921/62537362/114666
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: ARY FAMILY" tvg-logo="" group-title="Pakistan | باكستان",Pk: ARY FAMILY
-http://sp4k.cc:2095/A95597921/62537362/114667
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: ARY ZINDAGI" tvg-logo="" group-title="Pakistan | باكستان",Pk: ARY ZINDAGI
-http://sp4k.cc:2095/A95597921/62537362/114668
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Geo News" tvg-logo="" group-title="Pakistan | باكستان",Pk: Geo News
-http://sp4k.cc:2095/A95597921/62537362/114628
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Geo Tezz" tvg-logo="" group-title="Pakistan | باكستان",Pk: Geo Tezz
-http://sp4k.cc:2095/A95597921/62537362/114629
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Samaa News TV" tvg-logo="" group-title="Pakistan | باكستان",Pk: Samaa News TV
-http://sp4k.cc:2095/A95597921/62537362/114644
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: PTV Global" tvg-logo="" group-title="Pakistan | باكستان",Pk: PTV Global
-http://sp4k.cc:2095/A95597921/62537362/114670
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: SINDH TV" tvg-logo="" group-title="Pakistan | باكستان",Pk: SINDH TV
-http://sp4k.cc:2095/A95597921/62537362/114671
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Geo Kahani" tvg-logo="" group-title="Pakistan | باكستان",Pk: Geo Kahani
-http://sp4k.cc:2095/A95597921/62537362/114681
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Geo Super" tvg-logo="" group-title="Pakistan | باكستان",Pk: Geo Super
-http://sp4k.cc:2095/A95597921/62537362/114682
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: URDU 1" tvg-logo="" group-title="Pakistan | باكستان",Pk: URDU 1
-http://sp4k.cc:2095/A95597921/62537362/114683
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: TV ONE" tvg-logo="" group-title="Pakistan | باكستان",Pk: TV ONE
-http://sp4k.cc:2095/A95597921/62537362/114684
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Apna TV" tvg-logo="" group-title="Pakistan | باكستان",Pk: Apna TV
-http://sp4k.cc:2095/A95597921/62537362/114685
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Discover Pakistantv TV" tvg-logo="" group-title="Pakistan | باكستان",Pk: Discover Pakistantv TV
-http://sp4k.cc:2095/A95597921/62537362/114686
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: WASEEB TV" tvg-logo="" group-title="Pakistan | باكستان",Pk: WASEEB TV
-http://sp4k.cc:2095/A95597921/62537362/114689
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Dunya News" tvg-logo="" group-title="Pakistan | باكستان",Pk: Dunya News
-http://sp4k.cc:2095/A95597921/62537362/114645
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: AAJ NEWS" tvg-logo="" group-title="Pakistan | باكستان",Pk: AAJ NEWS
-http://sp4k.cc:2095/A95597921/62537362/114646
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Public News FHD" tvg-logo="" group-title="Pakistan | باكستان",Pk: Public News FHD
-http://sp4k.cc:2095/A95597921/62537362/114647
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: PTV HOME" tvg-logo="" group-title="Pakistan | باكستان",Pk: PTV HOME
-http://sp4k.cc:2095/A95597921/62537362/114693
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: PTV World" tvg-logo="" group-title="Pakistan | باكستان",Pk: PTV World
-http://sp4k.cc:2095/A95597921/62537362/114694
-
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: 92 News HD" tvg-logo="" group-title="Pakistan | باكستان",Pk: 92 News HD
-http://sp4k.cc:2095/A95597921/62537362/114630
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: CITY 41" tvg-logo="" group-title="Pakistan | باكستان",Pk: CITY 41
-http://sp4k.cc:2095/A95597921/62537362/114631
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: CITY 42" tvg-logo="" group-title="Pakistan | باكستان",Pk: CITY 42
-http://sp4k.cc:2095/A95597921/62537362/114632
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: CHANNEL 5" tvg-logo="" group-title="Pakistan | باكستان",Pk: CHANNEL 5
-http://sp4k.cc:2095/A95597921/62537362/114634
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: PTV News" tvg-logo="" group-title="Pakistan | باكستان",Pk: PTV News
-http://sp4k.cc:2095/A95597921/62537362/114635
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: ABB Takk News" tvg-logo="" group-title="Pakistan | باكستان",Pk: ABB Takk News
-http://sp4k.cc:2095/A95597921/62537362/114636
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Lahore News" tvg-logo="" group-title="Pakistan | باكستان",Pk: Lahore News
-http://sp4k.cc:2095/A95597921/62537362/114637
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Dawn News" tvg-logo="" group-title="Pakistan | باكستان",Pk: Dawn News
-http://sp4k.cc:2095/A95597921/62537362/114638
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Neo News" tvg-logo="" group-title="Pakistan | باكستان",Pk: Neo News
-http://sp4k.cc:2095/A95597921/62537362/114639
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: News One" tvg-logo="" group-title="Pakistan | باكستان",Pk: News One
-http://sp4k.cc:2095/A95597921/62537362/114640
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: 24 News" tvg-logo="" group-title="Pakistan | باكستان",Pk: 24 News
-http://sp4k.cc:2095/A95597921/62537362/114641
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: BOL News" tvg-logo="" group-title="Pakistan | باكستان",Pk: BOL News
-http://sp4k.cc:2095/A95597921/62537362/114642
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: GNN News" tvg-logo="" group-title="Pakistan | باكستان",Pk: GNN News
-http://sp4k.cc:2095/A95597921/62537362/114643
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Paigham tv  Urdu" tvg-logo="" group-title="Pakistan | باكستان",Pk: Paigham tv  Urdu
-http://sp4k.cc:2095/A95597921/62537362/114696
-#EXTINF:-1 tvg-ID="" tvg-name="Pk: Paigham TV Pashto" tvg-logo="" group-title="Pakistan | باكستان",Pk: Paigham TV Pashto
-http://sp4k.cc:2095/A95597921/62537362/114697
-#EXTINF:-1 tvg-ID="" tvg-name="IN: DD girnar" tvg-logo="" group-title="India | الهند",IN: DD girnar
-http://sp4k.cc:2095/A95597921/62537362/238415
-#EXTINF:-1 tvg-ID="" tvg-name="IN: DD Kisan" tvg-logo="" group-title="India | الهند",IN: DD Kisan
-http://sp4k.cc:2095/A95597921/62537362/238416
-#EXTINF:-1 tvg-ID="" tvg-name="IN: DD Urdu" tvg-logo="" group-title="India | الهند",IN: DD Urdu
-http://sp4k.cc:2095/A95597921/62537362/238417
-#EXTINF:-1 tvg-ID="" tvg-name="IN: DD Bangla" tvg-logo="" group-title="India | الهند",IN: DD Bangla
-http://sp4k.cc:2095/A95597921/62537362/238337
-#EXTINF:-1 tvg-ID="" tvg-name="IN: DD (Punjabi)" tvg-logo="" group-title="India | الهند",IN: DD (Punjabi)
-http://sp4k.cc:2095/A95597921/62537362/238338
-#EXTINF:-1 tvg-ID="" tvg-name="IN: DD Indian" tvg-logo="" group-title="India | الهند",IN: DD Indian
-http://sp4k.cc:2095/A95597921/62537362/238339
-#EXTINF:-1 tvg-ID="" tvg-name="IN: DD News" tvg-logo="" group-title="India | الهند",IN: DD News
-http://sp4k.cc:2095/A95597921/62537362/238340
+#EXTINF:-1 tvg-id="" tvg-name="Duniya News UK" tvg-logo="https://www.customercarepk.com/wp-content/uploads/2016/07/Dunya-News-1280x720.jpg" group-title="Pakistani",Duniya News UK
+http://appleiptv.com:80/7865/7865/43048
+#EXTINF:-1 tvg-id="samaatv.pk" tvg-name="Samaa News UK" tvg-logo="https://i.pinimg.com/originals/c4/99/3d/c4993dca32f108172d842a5cd6bd4f00.jpg" group-title="Pakistani",Samaa News UK
+http://appleiptv.com:80/7865/7865/43049
+#EXTINF:-1 tvg-id="samaatv.pk" tvg-name="Samaa news" tvg-logo="https://i.pinimg.com/originals/c4/99/3d/c4993dca32f108172d842a5cd6bd4f00.jpg" group-title="Pakistani",Samaa news
+http://appleiptv.com:80/7865/7865/20933
+#EXTINF:-1 tvg-id="" tvg-name="Dawn news PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistani",Dawn news PK
+http://appleiptv.com:80/7865/7865/43054
+#EXTINF:-1 tvg-id="" tvg-name="DAWN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistani",DAWN NEWS
+http://appleiptv.com:80/7865/7865/20896
+#EXTINF:-1 tvg-id="" tvg-name="News One PK" tvg-logo="https://i.ytimg.com/vi/qirL1msYs_k/maxresdefault.jpg" group-title="Pakistani",News One PK
+http://appleiptv.com:80/7865/7865/42980
+EXTINF:-1,Ly| Libya Al Mostakbal TV âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/21382
+#EXTINF:-1,Ly| Libya Al Ahrar TV âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/21381
+#EXTINF:-1,Ly| Al Tanasuh TV âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/33813
+#EXTINF:-1,Ly| Libya Al Hadath âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/21394
+#EXTINF:-1,Ly| Libya Al Rasmia âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/21391
+#EXTINF:-1,Ly| Libya Al Wataniya âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/21390
+#EXTINF:-1,Ly| Libya Febrayer TV âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/21388
+#EXTINF:-1,Ly| Libya Panorama [ LPC ] âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/21387
+#EXTINF:-1,Ly| Libya TV âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/21383
+#EXTINF:-1,Ly| Libya Education âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/302572
+#EXTINF:-1,Ly| Libya WTV âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/302573
+#EXTINF:-1,Ly| Al Salam TV âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/106128
+#EXTINF:-1,Ly| Salam TV âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/36697
+#EXTINF:-1,Ly| Libya Sport 1 HD âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/99702
+#EXTINF:-1,Ly| Libya Sport 2 HD âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/100340
+#EXTINF:-1,LY| Libya Business 4K âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/340383
+#EXTINF:-1,LY| Libya Dardaneel TV âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/340385
+#EXTINF:-1,LY| Al Massar TV 4K âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/340386
+EXTINF:-1,Kw| Kuwait 1 HD âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/16976
+#EXTINF:-1,Kw| Kuwait 2 HD âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/16975
+#EXTINF:-1,Kw| Al Adalah TV ATV HD âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/51645
+#EXTINF:-1,Kw| CGTV Arabic âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/51646
+#EXTINF:-1,Kw| Kuwait Al Arabi HD âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/16974
+#EXTINF:-1,Kw| Kuwait Ethraa âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/16973
+#EXTINF:-1,Kw| Kuwait Sport HD âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/33477
+#EXTINF:-1,Kw| Kuwait Khallik Bilbait Plus âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/33478
+#EXTINF:-1,Kw| Al Maaly âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/99421
+#EXTINF:-1,Kw| Al Majlis âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/99754
+#EXTINF:-1,Kw| Al Sabah TV âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/179890
+#EXTINF:-1,Kw| Funoon TV âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/179892
+#EXTINF:-1,Kw| Khallik Bilbait âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/99755
+#EXTINF:-1,Kw| Kuwait Sport Plus âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/99756
+#EXTINF:-1,Kw| Kuwait Qurain âœ¦
+http://new-pro.tv:8080/99622282/etbVXafU6f/338075
 #EXTINF:-1,Ye| Al Masirah Mubasher TV âŚ
 http://new-pro.tv:8080/99622282/etbVXafU6f/38637
 #EXTINF:-1,Ye| Yemen TV âŚ
