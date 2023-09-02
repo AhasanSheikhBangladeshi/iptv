@@ -9,7 +9,9 @@ http://magicoiptv.org:8080/boubker2234/boubker44321/426482
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5515bc09a823ba183bbed530ff34230d.png" group-title="♣♦♣------|PA|PAKISTAN |PA|-----♣♦♣",PK: PTV World
 http://magicoiptv.org:8080/boubker2234/boubker44321/426483
 #EXTINF:-1 tvg-id="" tvg-name="PK: Public News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f2f13bef651adc1c01dfb8e9e1e0042e.png" group-title="♣♦♣------|PA|PAKISTAN |PA|-----♣♦♣",PK: Public News
-http://magicoiptv.org:8080/boubker2234/boubker44321/426484
+http://magicoiptv.org:8080/boubker2234/boubker44321/42648
+#EXTINF:-1,PK| PTV Bolan
+https://ptvbkp.nayatel.com/transcoder/ptvbolantrc_source/playlist.m3u8
 #EXTINF:-1,PK| PTV NATIONAL
 https://ptvbkp.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
 #EXTINF:-1,Ly| Al Wasat TV [ WTV ] âŚ
