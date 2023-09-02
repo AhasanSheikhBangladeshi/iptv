@@ -1,20 +1,31 @@
 #EXTINF:-1 tvg-id="aajnews.pk" tvg-name="Aaj News PK" tvg-logo="https://icon2.cleanpng.com/20180816/hge/kisspng-logo-pakistan-aaj-news-television-channel-aaj-news-bing-images-5b759b08446b77.8827527015344340562803.jpg" group-title="Pakistani",Aaj News PK
 http://appleiptv.com:80/7865/7865/43061
+#EXTINF:-1,PK: HUM TV-HD
+http://humiptv.live:8080/live/639572614395/639572614395/122.ts
+#EXTINF:-1,PK : HUM TV EUROPE
+http://humiptv.live:8080/live/639572614395/639572614395/121.ts
+#EXTINF:-1,PK : ARY ZINDAGI
+http://humiptv.live:8080/live/639572614395/639572614395/123.ts
+#EXTINF:-1,PK: ARY DIGITAL-HD
+http://humiptv.live:8080/live/639572614395/639572614395/124.ts
+#EXTINF:-1,PK: ARY DIGITAL (UK)
+http://humiptv.live:8080/live/639572614395/639572614395/125.ts
+#EXTINF:-1,PK : GEO TV
+http://humiptv.live:8080/live/639572614395/639572614395/119.ts
+#EXTINF:-1,PK: BOL ENTERTAINMENT TV
+http://humiptv.live:8080/live/639572614395/639572614395/99.ts
+#EXTINF:-1,PK : EXPRESS TV
+http://humiptv.live:8080/live/639572614395/639572614395/118.ts
+#EXTINF:-1,PK: URDU 1
+http://humiptv.live:8080/live/639572614395/639572614395/100.ts
 #EXTINF:-1 tvg-id="ptvnews.pk" tvg-name="PTV NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="Pakistani",PTV NEWS
 http://appleiptv.com:80/7865/7865/20928
-#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="Ptv News UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="Pakistani",Ptv News UK
-http://appleiptv.com:80/7865/7865/43063
-#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="PTV GLOBAL" tvg-logo="https://content.pk/wp-content/uploads/2017/09/LIVE-PTV-News-TV-Urdu-Stream-From-Pakistan-HD.jpg" group-title="Pakistani",PTV GLOBAL
-http://appleiptv.com:80/7865/7865/20926
-#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="Ptv Global UK" tvg-logo="https://content.pk/wp-content/uploads/2017/09/LIVE-PTV-News-TV-Urdu-Stream-From-Pakistan-HD.jpg" group-title="Pakistani",Ptv Global UK
-http://appleiptv.com:80/7865/7865/43042
-#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PTV HOME" tvg-logo="http://faizuliptv.myonlineportal.org/logo/ptv_home_pk.png" group-title="Pakistani",PTV HOME
-http://appleiptv.com:80/7865/7865/20927
-#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="Ptv Home PK" tvg-logo="https://content.pk/wp-content/uploads/2017/09/LIVE-PTV-News-TV-Urdu-Stream-From-Pakistan-HD.jpg" group-title="Pakistani",Ptv Home PK
-http://appleiptv.com:80/7865/7865/43043
-#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="Ptv Prime UK"
-#EXTINF:-1,PK| PTV Bolan
-https://ptvbkp.nayatel.com/transcoder/ptvbolantrc_source/playlist.m3u8
+#EXTINF:-1,PK: PTV HOME
+http://humiptv.live:8080/live/639572614395/639572614395/110.ts
+#EXTINF:-1,PK: PTV GLOBAL
+http://humiptv.live:8080/live/639572614395/639572614395/109.ts
+#EXTINF:-1,PK : PTV WORLD
+http://humiptv.live:8080/live/639572614395/639572614395/111.ts
 #EXTINF:-1,PK| PTV NATIONAL
 https://ptvbkp.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Duniya News UK" tvg-logo="https://www.customercarepk.com/wp-content/uploads/2016/07/Dunya-News-1280x720.jpg" group-title="Pakistani",Duniya News UK
