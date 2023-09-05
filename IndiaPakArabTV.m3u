@@ -40,6 +40,35 @@ http://appleiptv.com:80/7865/7865/43054
 http://appleiptv.com:80/7865/7865/20896
 #EXTINF:-1 tvg-id="" tvg-name="News One PK" tvg-logo="https://i.ytimg.com/vi/qirL1msYs_k/maxresdefault.jpg" group-title="Pakistani",News One PK
 http://appleiptv.com:80/7865/7865/42980
+
+#EXTINF:-1,IN:  DD National HD
+http://humiptv.live:8080/live/639572614395/639572614395/4037.ts
+#EXTINF:-1,IN:  DD Bihar
+http://humiptv.live:8080/live/639572614395/639572614395/4038.ts
+#EXTINF:-1,IN: DD India
+http://humiptv.live:8080/live/639572614395/639572614395/4039.ts
+#EXTINF:-1,IN:  DD Kashir
+http://humiptv.live:8080/live/639572614395/639572614395/4041.ts
+#EXTINF:-1,IN: DD Kisan
+http://humiptv.live:8080/live/639572614395/639572614395/4042.ts
+#EXTINF:-1,IN:  DD News
+http://humiptv.live:8080/live/639572614395/639572614395/4043.ts
+#EXTINF:-1,IN:  DD Sports
+http://humiptv.live:8080/live/639572614395/639572614395/4044.ts
+#EXTINF:-1,Guj:  DD Girnar
+http://humiptv.live:8080/live/639572614395/639572614395/4055.ts
+#EXTINF:-1,IN: Zee Salam
+http://humiptv.live:8080/live/639572614395/639572614395/4065.ts
+#EXTINF:-1,IN:  DD Uttar Pradesh
+http://humiptv.live:8080/live/639572614395/639572614395/4048.ts
+#EXTINF:-1,IN: DD Bangla
+http://humiptv.live:8080/live/639572614395/639572614395/4049.ts
+#EXTINF:-1,IN:  DD North East
+http://humiptv.live:8080/live/639572614395/639572614395/23949.ts
+#EXTINF:-1,IN:  DD Sahayadri
+http://humiptv.live:8080/live/639572614395/639572614395/4050.ts
+#EXTINF:-1,IN: DD Odia
+http://humiptv.live:8080/live/639572614395/639572614395/4052.ts
 EXTINF:-1,Ly| Libya Al Mostakbal TV âœ¦
 http://new-pro.tv:8080/99622282/etbVXafU6f/21382
 #EXTINF:-1,Ly| Libya Al Ahrar TV âœ¦
@@ -156,42 +185,7 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/338042
 http://new-pro.tv:8080/99622282/etbVXafU6f/338043
 #EXTINF:-1,Kw| Al Rai HD âŚ
 http://new-pro.tv:8080/99622282/etbVXafU6f/27811
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: ADEN TV" tvg-logo="https://5.top4top.net/p_13995wr917.png" group-title="YEMEN - اليمن",YEMEN: ADEN TV
-http://magicoiptv.org:8080/boubker2234/boubker44321/417214
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: AL GHAD AL MUSHREQ" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: AL GHAD AL MUSHREQ
-http://magicoiptv.org:8080/boubker2234/boubker44321/417215
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: ALHAWYAH TV" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: ALHAWYAH TV
-http://magicoiptv.org:8080/boubker2234/boubker44321/417216
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: ALMAHRIAH" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: ALMAHRIAH
-http://magicoiptv.org:8080/boubker2234/boubker44321/417217
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: ALMASIRAH MUBASHER" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: ALMASIRAH MUBASHER
-http://magicoiptv.org:8080/boubker2234/boubker44321/417218
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: ALMASIRAH TV" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: ALMASIRAH TV
-http://magicoiptv.org:8080/boubker2234/boubker44321/417219
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: ALSAEEDAH" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: ALSAEEDAH
-http://magicoiptv.org:8080/boubker2234/boubker44321/417220
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: BELQEES 4k" tvg-logo="https://4.top4top.net/p_1399mweha1.png" group-title="YEMEN - اليمن",YEMEN: BELQEES 4k
-http://magicoiptv.org:8080/boubker2234/boubker44321/417221
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: HADARMAUT 1" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: HADARMAUT 1
-http://magicoiptv.org:8080/boubker2234/boubker44321/417222
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: HADRMAUT TV RED" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: HADRMAUT TV RED
-http://magicoiptv.org:8080/boubker2234/boubker44321/417223
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: MUSTAKILA AIC" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: MUSTAKILA AIC
-http://magicoiptv.org:8080/boubker2234/boubker44321/417224
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: SUHEIL TV" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: SUHEIL TV
-http://magicoiptv.org:8080/boubker2234/boubker44321/417225
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: YEMEN" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: YEMEN
-http://magicoiptv.org:8080/boubker2234/boubker44321/417226
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: YEMEN DOCUMENTARY" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: YEMEN DOCUMENTARY
-http://magicoiptv.org:8080/boubker2234/boubker44321/417227
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: YEMEN EDUCATION" tvg-logo="" group-title="YEMEN - اليمن",YEMEN: YEMEN EDUCATION
-http://magicoiptv.org:8080/boubker2234/boubker44321/417228
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: YEMEN TODAY" tvg-logo="https://6.top4top.net/p_1399vnij02.png" group-title="YEMEN - اليمن",YEMEN: YEMEN TODAY
-http://magicoiptv.org:8080/boubker2234/boubker44321/417229
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: YEMEN TV" tvg-logo="https://1.top4top.net/p_1399go8nl3.png" group-title="YEMEN - اليمن",YEMEN: YEMEN TV
-http://magicoiptv.org:8080/boubker2234/boubker44321/417230
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN: YEMEN_SHABAB" tvg-logo="https://2.top4top.net/p_1399vrw204.png" group-title="YEMEN - اليمن",YEMEN: YEMEN_SHABAB
-http://magicoiptv.org:8080/boubker2234/boubker44321/417231
+
 
 #EXTINF:-1 tvg-id="Ahlebait.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwURTPDic9avTpG4XwJjigy7u___BZCxujTA&usqp=CAU" group-title="Shia Channels",Ahlebait TV 
 https://stream.wpbond.com/live/ahlebait1.m3u8
