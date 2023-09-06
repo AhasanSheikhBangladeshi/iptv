@@ -1,5 +1,11 @@
-#EXTINF:-1 tvg-id="aajnews.pk" tvg-name="Aaj News PK" tvg-logo="https://icon2.cleanpng.com/20180816/hge/kisspng-logo-pakistan-aaj-news-television-channel-aaj-news-bing-images-5b759b08446b77.8827527015344340562803.jpg" group-title="Pakistani",Aaj News PK
-http://appleiptv.com:80/7865/7865/43061
+#EXTINF:-1,PK : 92 NEWS-HD
+http://humiptv.live:8080/live/639572614395/639572614395/141.ts
+#EXTINF:-1,PK : GNN NEWS-HD
+http://humiptv.live:8080/live/639572614395/639572614395/139.ts
+#EXTINF:-1,PK : ARY NEWS-HD
+http://humiptv.live:8080/live/639572614395/639572614395/143.ts
+#EXTINF:-1,PK : GEO NEWS-HD
+http://humiptv.live:8080/live/639572614395/639572614395/129.ts
 #EXTINF:-1,PK: HUM TV-HD
 http://humiptv.live:8080/live/639572614395/639572614395/122.ts
 #EXTINF:-1,PK : HUM TV EUROPE
@@ -28,19 +34,44 @@ http://humiptv.live:8080/live/639572614395/639572614395/109.ts
 http://humiptv.live:8080/live/639572614395/639572614395/111.ts
 #EXTINF:-1,PK| PTV NATIONAL
 https://ptvbkp.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Duniya News UK" tvg-logo="https://www.customercarepk.com/wp-content/uploads/2016/07/Dunya-News-1280x720.jpg" group-title="Pakistani",Duniya News UK
-http://appleiptv.com:80/7865/7865/43048
-#EXTINF:-1 tvg-id="samaatv.pk" tvg-name="Samaa News UK" tvg-logo="https://i.pinimg.com/originals/c4/99/3d/c4993dca32f108172d842a5cd6bd4f00.jpg" group-title="Pakistani",Samaa News UK
-http://appleiptv.com:80/7865/7865/43049
-#EXTINF:-1 tvg-id="samaatv.pk" tvg-name="Samaa news" tvg-logo="https://i.pinimg.com/originals/c4/99/3d/c4993dca32f108172d842a5cd6bd4f00.jpg" group-title="Pakistani",Samaa news
-http://appleiptv.com:80/7865/7865/20933
-#EXTINF:-1 tvg-id="" tvg-name="Dawn news PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistani",Dawn news PK
-http://appleiptv.com:80/7865/7865/43054
-#EXTINF:-1 tvg-id="" tvg-name="DAWN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="Pakistani",DAWN NEWS
-http://appleiptv.com:80/7865/7865/20896
-#EXTINF:-1 tvg-id="" tvg-name="News One PK" tvg-logo="https://i.ytimg.com/vi/qirL1msYs_k/maxresdefault.jpg" group-title="Pakistani",News One PK
-http://appleiptv.com:80/7865/7865/42980
-
+#EXTINF:-1,PK : HUM NEWS-HD
+http://humiptv.live:8080/live/639572614395/639572614395/103.ts
+#EXTINF:-1,UK: HUM NEWS
+http://humiptv.live:8080/live/639572614395/639572614395/4087.ts
+#EXTINF:-1,PK : SAMAA NEWS
+http://humiptv.live:8080/live/639572614395/639572614395/140.ts
+#EXTINF:-1,PK : CAPITAL TV NEWS
+http://humiptv.live:8080/live/639572614395/639572614395/132.ts
+#EXTINF:-1,PK : BOL NEWS-HD
+http://humiptv.live:8080/live/639572614395/639572614395/135.ts
+#EXTINF:-1,PK : DUNYA NEWS
+http://humiptv.live:8080/live/639572614395/639572614395/134.ts
+#EXTINF:-1,PK : 24 NEWS HD
+http://humiptv.live:8080/live/639572614395/639572614395/138.ts
+#EXTINF:-1,PK : DAWN NEWS
+http://humiptv.live:8080/live/639572614395/639572614395/133.ts
+#EXTINF:-1,PK : KHYBER NEWS
+http://humiptv.live:8080/live/639572614395/639572614395/130.ts
+#EXTINF:-1,PK: SINDH NEWS
+http://humiptv.live:8080/live/639572614395/639572614395/2505.ts
+#EXTINF:-1,PK: EXPRESS NEWS
+http://humiptv.live:8080/live/639572614395/639572614395/58.ts
+#EXTINF:-1,PK : PUBLIC NEWS
+http://humiptv.live:8080/live/639572614395/639572614395/1384.ts
+#EXTINF:-1,PK: LAHORE NEWS-HD
+http://humiptv.live:8080/live/639572614395/639572614395/861.ts
+#EXTINF:-1,PK: LAHORE RUNG
+http://humiptv.live:8080/live/639572614395/639572614395/860.ts
+#EXTINF:-1,PK : AAJ NEWS
+http://humiptv.live:8080/live/639572614395/639572614395/137.ts
+#EXTINF:-1,PK : NEWS ONE
+http://humiptv.live:8080/live/639572614395/639572614395/142.ts
+#EXTINF:-1,PK : ABB TAK
+http://humiptv.live:8080/live/639572614395/639572614395/136.ts
+#EXTINF:-1,PK: SACH NEWS
+http://humiptv.live:8080/live/639572614395/639572614395/2011.ts
+#EXTINF:-1,PK: NEO NEWS 
+http://humiptv.live:8080/live/639572614395/639572614395/2009.ts
 #EXTINF:-1,IN:  DD National HD
 http://humiptv.live:8080/live/639572614395/639572614395/4037.ts
 #EXTINF:-1,IN:  DD Bihar
