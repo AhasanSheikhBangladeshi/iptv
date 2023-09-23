@@ -33,6 +33,8 @@ http://humiptv.live:8080/live/639572614395/639572614395/110.ts
 http://humiptv.live:8080/live/639572614395/639572614395/109.ts
 #EXTINF:-1,PK : PTV WORLD
 http://humiptv.live:8080/live/639572614395/639572614395/111.ts
+#EXTINF:-1,PK| PTV Bolan
+https://ptvbkp.nayatel.com/transcoder/ptvbolantrc_source/playlist.m3u8
 #EXTINF:-1,PK| PTV NATIONAL
 https://ptvbkp.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
 #EXTINF:-1,PK : HUM NEWS-HD
