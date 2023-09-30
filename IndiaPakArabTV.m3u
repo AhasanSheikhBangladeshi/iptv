@@ -1,139 +1,181 @@
-#EXTINF:-1 tvg-id="" tvg-name="Bahrain TV ARB" tvg-logo="http://176.119.25.16:5890/images/ec5141ab71d81c452cd871b767cbb548.png" group-title="|AR| OTHER",Bahrain TV ARB
-http://amazontv.me:8519/4670115788/5623525065/156
-#EXTINF:-1 tvg-id="" tvg-name="Alrai TV ARB" tvg-logo="http://176.119.25.16:5890/images/dcb0b12b913c8850bf4fa57cf6d5b805.png" group-title="|AR| OTHER",Alrai TV ARB
-http://amazontv.me:8519/4670115788/5623525065/157
-#EXTINF:-1,PK : 92 NEWS-HD
-http://humiptv.live:8080/live/639572614395/639572614395/141.ts
-#EXTINF:-1,PK : GNN NEWS-HD
-http://humiptv.live:8080/live/639572614395/639572614395/139.ts
-#EXTINF:-1,PK : ARY NEWS-HD
-http://humiptv.live:8080/live/639572614395/639572614395/143.ts
-#EXTINF:-1,PK : GEO NEWS-HD
-http://humiptv.live:8080/live/639572614395/639572614395/129.ts
-#EXTINF:-1,PK: HUM TV-HD
-http://humiptv.live:8080/live/639572614395/639572614395/122.ts
-#EXTINF:-1,PK : HUM TV EUROPE
-http://humiptv.live:8080/live/639572614395/639572614395/121.ts
-#EXTINF:-1,PK : ARY ZINDAGI
-http://humiptv.live:8080/live/639572614395/639572614395/123.ts
-#EXTINF:-1,PK: ARY DIGITAL-HD
-http://humiptv.live:8080/live/639572614395/639572614395/124.ts
-#EXTINF:-1,PK: ARY DIGITAL (UK)
-http://humiptv.live:8080/live/639572614395/639572614395/125.ts
-#EXTINF:-1,PK : GEO TV
-http://humiptv.live:8080/live/639572614395/639572614395/119.ts
-#EXTINF:-1,PK: BOL ENTERTAINMENT TV
-http://humiptv.live:8080/live/639572614395/639572614395/99.ts
-#EXTINF:-1,PK : EXPRESS TV
-http://humiptv.live:8080/live/639572614395/639572614395/118.ts
-#EXTINF:-1,PK: URDU 1
-http://humiptv.live:8080/live/639572614395/639572614395/100.ts
-#EXTINF:-1 tvg-id="ptvnews.pk" tvg-name="PTV NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/PTV_news_logo.png" group-title="Pakistani",PTV NEWS
-http://appleiptv.com:80/7865/7865/20928
-#EXTINF:-1,PK: PTV HOME
-http://humiptv.live:8080/live/639572614395/639572614395/110.ts
-#EXTINF:-1,PK: PTV GLOBAL
-http://humiptv.live:8080/live/639572614395/639572614395/109.ts
-#EXTINF:-1,PK : PTV WORLD
-http://humiptv.live:8080/live/639572614395/639572614395/111.ts
+#EXTINF:-1,Al Majlis KW
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111569
+#EXTINF:-1,Al Rai TV KW
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111568
+#EXTINF:-1,Al Shahed TV HD KW
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111567
+#EXTINF:-1,KTV 1 FHD KW
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/35274
+#EXTINF:-1,KTV Al Arabi FHD KW
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/35272
+#EXTINF:-1,KTV Al Majlis FHD KW
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/35271
+#EXTINF:-1,KTV Plus FHD KW
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/35270
+#EXTINF:-1,Kuwait Ithraa HEVC KW
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111571
+#EXTINF:-1,Kuwait Plus HEVC KW
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111573
+#EXTINF:-1,Kuwait TV 1 HEVC KW
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111574
+#EXTINF:-1,Kuwait TV 2 HEVC KW
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111575
+EXTINF:-1,Al Aoula HD MA
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/18257
+#EXTINF:-1,Assadissa FHD MA
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/18256
+#EXTINF:-1,92 News HD PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16129
+#EXTINF:-1,Capital TV HD PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16106
+#EXTINF:-1,City 24/42 News PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16104
+#EXTINF:-1,City 42 PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16103
+#EXTINF:-1,Dawn News PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16102
+#EXTINF:-1,Ptv Global PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16063
+#EXTINF:-1,Ptv Home PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16062
+#EXTINF:-1,PTV News PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16061
+#EXTINF:-1,PTV Sport PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16060
 #EXTINF:-1,PK| PTV Bolan
 https://ptvbkp.nayatel.com/transcoder/ptvbolantrc_source/playlist.m3u8
 #EXTINF:-1,PK| PTV NATIONAL
 https://ptvbkp.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
-#EXTINF:-1,PK : HUM NEWS-HD
-http://humiptv.live:8080/live/639572614395/639572614395/103.ts
-#EXTINF:-1,UK: HUM NEWS
-http://humiptv.live:8080/live/639572614395/639572614395/4087.ts
-#EXTINF:-1,PK : SAMAA NEWS
-http://humiptv.live:8080/live/639572614395/639572614395/140.ts
-#EXTINF:-1,PK : CAPITAL TV NEWS
-http://humiptv.live:8080/live/639572614395/639572614395/132.ts
-#EXTINF:-1,PK : BOL NEWS-HD
-http://humiptv.live:8080/live/639572614395/639572614395/135.ts
-#EXTINF:-1,PK : DUNYA NEWS
-http://humiptv.live:8080/live/639572614395/639572614395/134.ts
-#EXTINF:-1,PK : 24 NEWS HD
-http://humiptv.live:8080/live/639572614395/639572614395/138.ts
-#EXTINF:-1,PK : DAWN NEWS
-http://humiptv.live:8080/live/639572614395/639572614395/133.ts
-#EXTINF:-1,PK : KHYBER NEWS
-http://humiptv.live:8080/live/639572614395/639572614395/130.ts
-#EXTINF:-1,PK: SINDH NEWS
-http://humiptv.live:8080/live/639572614395/639572614395/2505.ts
-#EXTINF:-1,PK: EXPRESS NEWS
-http://humiptv.live:8080/live/639572614395/639572614395/58.ts
-#EXTINF:-1,PK : PUBLIC NEWS
-http://humiptv.live:8080/live/639572614395/639572614395/1384.ts
-#EXTINF:-1,PK: LAHORE NEWS-HD
-http://humiptv.live:8080/live/639572614395/639572614395/861.ts
-#EXTINF:-1,PK: LAHORE RUNG
-http://humiptv.live:8080/live/639572614395/639572614395/860.ts
-#EXTINF:-1,PK : AAJ NEWS
-http://humiptv.live:8080/live/639572614395/639572614395/137.ts
-#EXTINF:-1,PK : NEWS ONE
-http://humiptv.live:8080/live/639572614395/639572614395/142.ts
-#EXTINF:-1,PK : ABB TAK
-http://humiptv.live:8080/live/639572614395/639572614395/136.ts
-#EXTINF:-1,PK: SACH NEWS
-http://humiptv.live:8080/live/639572614395/639572614395/2011.ts
-#EXTINF:-1,PK: NEO NEWS 
-http://humiptv.live:8080/live/639572614395/639572614395/2009.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Libya TV ARB" tvg-logo="http://176.119.25.16:5890/images/22b43975fca652eb10858013e9dcda52.png" group-title="|AR| OTHER",Libya TV ARB
-http://amazontv.me:8519/4670115788/5623525065/328
-#EXTINF:-1 tvg-id="" tvg-name="Libya Watan ARB" tvg-logo="http://176.119.25.16:5890/images/6c0a40859a13d200d060d3118fb78599.png" group-title="|AR| OTHER",Libya Watan ARB
-http://amazontv.me:8519/4670115788/5623525065/329
-#EXTINF:-1 tvg-id="" tvg-name="Libya Alrasmeya ARB" tvg-logo="http://176.119.25.16:5890/images/897bc195ca30b829d6bfe4d00a9470ff.png" group-title="|AR| OTHER",Libya Alrasmeya ARB
-http://amazontv.me:8519/4670115788/5623525065/330
-#EXTINF:-1 tvg-id="" tvg-name="Libya hadath ARB" tvg-logo="" group-title="|AR| OTHER",Libya hadath ARB
-http://amazontv.me:8519/4670115788/5623525065/331
-#EXTINF:-1 tvg-id="" tvg-name="Libya Al wad ARB" tvg-logo="http://176.119.25.16:5890/images/ef350115fe385a7dc0b9249e7bd22a04.png" group-title="|AR| OTHER",Libya Al wad ARB
-http://amazontv.me:8519/4670115788/5623525065/332
-#EXTINF:-1 tvg-id="" tvg-name="Libya Al Masar ARB" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almasartvlibya.jpg?v=6" group-title="|AR| OTHER",Libya Al Masar ARB
-http://amazontv.me:8519/4670115788/5623525065/333
-#EXTINF:-1 tvg-id="" tvg-name="Libya 218 ARB" tvg-logo="http://176.119.25.16:5890/images/bf26a8fee8a70cc7049cc295a1a3c9d3.png" group-title="|AR| OTHER",Libya 218 ARB
-http://amazontv.me:8519/4670115788/5623525065/334
-#EXTINF:-1 tvg-id="" tvg-name="El Mouritania ARB" tvg-logo="" group-title="|AR| OTHER",El Mouritania ARB
-http://amazontv.me:8519/4670115788/5623525065/344
-#EXTINF:-1 tvg-id="" tvg-name="El Mouritania 2 ARB" tvg-logo="" group-title="|AR| OTHER",El Mouritania 2 ARB
-http://amazontv.me:8519/4670115788/5623525065/348
-#EXTINF:-1 tvg-id="" tvg-name="--AR | Yemen--" tvg-logo="http://www.elahmad.com/tv/images/flagtv/ye.png?v=6" group-title="|AR| OTHER",--AR | Yemen--
-http://amazontv.me:8519/4670115788/5623525065/318
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN TV ARB" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/yemen_tv.jpg?v=6" group-title="|AR| OTHER",YEMEN TV ARB
-http://amazontv.me:8519/4670115788/5623525065/319
-#EXTINF:-1 tvg-id="" tvg-name="Yemen Masirah ARB" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almasirah_tv.jpg?v=6" group-title="|AR| OTHER",Yemen Masirah ARB
-http://amazontv.me:8519/4670115788/5623525065/296912
-#EXTINF:-1 tvg-id="" tvg-name="Yemen Masirah Live ARB" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almasirah_tv.jpg?v=6" group-title="|AR| OTHER",Yemen Masirah Live ARB
-http://amazontv.me:8519/4670115788/5623525065/296913
-#EXTINF:-1 tvg-id="" tvg-name="Yemen Suhail TV ARB" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/suhail_tv.jpg?v=6" group-title="|AR| OTHER",Yemen Suhail TV ARB
-http://amazontv.me:8519/4670115788/5623525065/320
-#EXTINF:-1 tvg-id="" tvg-name="Yemen Shabab ARB" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/yemen_shabab.jpg?v=6" group-title="|AR| OTHER",Yemen Shabab ARB
-http://amazontv.me:8519/4670115788/5623525065/322
-#EXTINF:-1 tvg-id="" tvg-name="Yemen Al Maheria ARB" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almahriah_tv.jpg?v=6" group-title="|AR| OTHER",Yemen Al Maheria ARB
-http://amazontv.me:8519/4670115788/5623525065/323
-#EXTINF:-1 tvg-id="" tvg-name="Yemen Al Youm ARB" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/yementoday.jpg?v=6" group-title="|AR| OTHER",Yemen Al Youm ARB
-http://amazontv.me:8519/4670115788/5623525065/324
-#EXTINF:-1 tvg-id="" tvg-name="Al Ghad Al Mushreq ARB" tvg-logo="https://www.alghadye.com/wp-content/uploads/2018/07/image1.png" group-title="|AR| OTHER",Al Ghad Al Mushreq ARB
-http://amazontv.me:8519/4670115788/5623525065/325
-#EXTINF:-1 tvg-id="" tvg-name="TUNISIE 1 TN" tvg-logo="http://176.119.25.16:5890/images/d868d86da854db56a8fa42ee604a4b5e.png" group-title="|AR| TUNISIA",TUNISIE 1 TN
-http://amazontv.me:8519/4670115788/5623525065/451
-#EXTINF:-1 tvg-id="" tvg-name="TUNISIE 2 TN" tvg-logo="http://176.119.25.16:5890/images/712325f30c991d4232728c262e7ddc1d.png" group-title="|AR| TUNISIA",TUNISIE 2 TN
-http://amazontv.me:8519/4670115788/5623525065/452
-#EXTINF:-1 tvg-id="" tvg-name="Hannibal TV TN" tvg-logo="http://176.119.25.16:5890/images/6d5202642c5c8a4f56ebc3fec3cca75c.png" group-title="|AR| TUNISIA",Hannibal TV TN
-http://amazontv.me:8519/4670115788/5623525065/453
-#EXTINF:-1 tvg-id="" tvg-name="Nessma TN" tvg-logo="http://176.119.25.16:5890/images/8b3ffe6a5c24cd2bfd0807e91d7dd72e.png" group-title="|AR| TUNISIA",Nessma TN
-http://amazontv.me:8519/4670115788/5623525065/454
-#EXTINF:-1 tvg-id="" tvg-name="Zaytoona TN" tvg-logo="http://176.119.25.16:5890/images/65d210f53fee77f26e818c04ea62e248.png" group-title="|AR| TUNISIA",Zaytoona TN
-http://amazontv.me:8519/4670115788/5623525065/455
-#EXTINF:-1 tvg-id="" tvg-name="--AR | SUDAN--" tvg-logo="http://www.elahmad.com/tv/images/flagtv/sd.png?v=6" group-title="|AR| OTHER",--AR | SUDAN--
-http://amazontv.me:8519/4670115788/5623525065/335
-#EXTINF:-1 tvg-id="" tvg-name="SUDAN TV ARB" tvg-logo="http://176.119.25.16:5890/images/790a167b87bfeb9894e9b819fef05b90.png" group-title="|AR| OTHER",SUDAN TV ARB
-http://amazontv.me:8519/4670115788/5623525065/339
-#EXTINF:-1 tvg-id="" tvg-name="Tayba ARB" tvg-logo="http://176.119.25.16:5890/images/4c046d91c951e9e90eb2e9de84e0d718.png" group-title="|AR| OTHER",Tayba ARB
-http://amazontv.me:8519/4670115788/5623525065/336
-#EXTINF:-1 tvg-id="" tvg-name="Sudan 24 ARB" tvg-logo="http://176.119.25.16:5890/images/f63c39ef9bbbdedb2fcf12963ff3bf14.png" group-title="|AR| OTHER",Sudan 24 ARB
-http://amazontv.me:8519/4670115788/5623525065/337
-
+#EXTINF:-1,Din News PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16101
+#EXTINF:-1,Dunya News PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16098
+#EXTINF:-1,Express Entertinment PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16094
+#EXTINF:-1,Express News PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16093
+#EXTINF:-1,Geo News PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16089
+#EXTINF:-1,Geo Super PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16088
+#EXTINF:-1,Geo Tez PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16087
+#EXTINF:-1,Geo TV PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16086
+#EXTINF:-1,Hadi TV PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16085
+#EXTINF:-1,A Sports HD PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16084
+#EXTINF:-1,Hum TV Europe HD PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16083
+#EXTINF:-1,Hum Masala PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16082
+#EXTINF:-1,Hum Sitaray PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16081
+#EXTINF:-1,Hum StarB PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16080
+#EXTINF:-1,Hum TV PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16077
+#EXTINF:-1,Hum TV World PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16078
+#EXTINF:-1,A plus HD PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16127
+#EXTINF:-1,AAJ News PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16125
+#EXTINF:-1,ABB TAK PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16872
+#EXTINF:-1,Apna HD PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16123
+#EXTINF:-1,Roze News PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16057
+#EXTINF:-1,Samaa News PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16056
+#EXTINF:-1,SEE TV HD PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16055
+#EXTINF:-1,Sindh News PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16054
+#EXTINF:-1,Sindh TV PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16053
+#EXTINF:-1,Such TV PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16052
+#EXTINF:-1,TV One Global PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16049
+#EXTINF:-1,URDU 1 PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16048
+#EXTINF:-1,Urdu TV PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16047
+#EXTINF:-1,Khayber TV PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16073
+#EXTINF:-1,Khyber News PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16072
+#EXTINF:-1,Kohenoor TV PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16888
+#EXTINF:-1,KTN TV PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16071
+#EXTINF:-1,Lahore News PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16877
+#EXTINF:-1,Madani TV PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16068
+#EXTINF:-1,Metro One PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16066
+#EXTINF:-1,News One PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16065
+#EXTINF:-1,Peace TV Urdu PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16064
+#EXTINF:-1,Phasto 1 PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16868
+#EXTINF:-1,GNN News HD PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16046
+#EXTINF:-1,Waseb TV PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16045
+#EXTINF:-1,Noor TV PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16677
+#EXTINF:-1,Ary Digital PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16122
+#EXTINF:-1,Ary Music PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16119
+#EXTINF:-1,Ary News PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16117
+#EXTINF:-1,Ary QTV PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16116
+#EXTINF:-1,Ary Zindagi PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16113
+#EXTINF:-1,ATV PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16111
+#EXTINF:-1,AVT Khyber PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16874
+#EXTINF:-1,Awaz TV PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16110
+#EXTINF:-1,Bol Entertainment FHD PK
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16109
+#EXTINF:-1,Libya Al Ahrar TV
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111554
+#EXTINF:-1,Libya Alhadath LY
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111553
+#EXTINF:-1,Libya Alrasmia LY
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111560
+#EXTINF:-1,Libya Alwataniya LY
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111562
+#EXTINF:-1,Libya Febrayer LY
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111550
+#EXTINF:-1,Libya Channel LY
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111561
+#EXTINF:-1,Tanasuh Libya LY
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111558
+#EXTINF:-1,Aden TV YE
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111587
+#EXTINF:-1,Al Saeedah YE
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111582
+#EXTINF:-1,Belqees TV YE
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/10895
+#EXTINF:-1,Hadramoot YE
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111583
+#EXTINF:-1,Yemen Shabab YE
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111584
+#EXTINF:-1,Yemen Today YE
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111585
+#EXTINF:-1,Yemen TV YE
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111586
 #EXTINF:-1 tvg-id="Ahlebait.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwURTPDic9avTpG4XwJjigy7u___BZCxujTA&usqp=CAU" group-title="Shia Channels",Ahlebait TV 
 https://stream.wpbond.com/live/ahlebait1.m3u8
 #EXTINF:-1 tvg-id="VelayatTVNetwork.us",Velayat TV (480p) 
