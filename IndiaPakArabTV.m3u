@@ -176,14 +176,45 @@ http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111584
 http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111585
 #EXTINF:-1,Yemen TV YE
 http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/111586
+
+#EXTINF:-1,IRIB TV 1 IR
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/11172
+#EXTINF:-1,IRIB TV 2 HD IR
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/15516
+#EXTINF:-1,IRIB TV 3 HD IR
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/15515
+#EXTINF:-1,IRIB TV2 IR
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/11171
+#EXTINF:-1,IRIB TV3 IR
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/11170
+#EXTINF:-1,IRIB TV5 IR
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/11168
+#EXTINF:-1,IRIB Varzesh IR
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/15512
+#EXTINF:-1,IRIB Taban TV (Yazd) IR
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/29553
+#EXTINF:-1,IRIB Tabarestan TV (Mazandaran) IR
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/29558
+#EXTINF:-1,IRIB Zagros TV (Kermanshah) IR
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/29567
+#EXTINF:-1,IRIB Sabalan TV (Ardabil) IR
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/29555
+#EXTINF:-1,IRIB Sahand TV (Tabriz) IR
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/29554
+#EXTINF:-1,IRIB Khalij-e Fars TV (Hormozgan) IR
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/29566
+#EXTINF:-1,IRIB Khavaran TV (Khorasan Jonoobi) IR
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/29565
+#EXTINF:-1,IRIB Khorasan Jonoobi IR
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/29549
+#EXTINF:-1,IRIB Khorasan Razavi TV IR
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/29564
+#EXTINF:-1,IRIB Mahabad TV IR
+http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/29571
+
 #EXTINF:-1 tvg-id="Ahlebait.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwURTPDic9avTpG4XwJjigy7u___BZCxujTA&usqp=CAU" group-title="Shia Channels",Ahlebait TV 
 https://stream.wpbond.com/live/ahlebait1.m3u8
-#EXTINF:-1 tvg-id="VelayatTVNetwork.us",Velayat TV (480p) 
-https://nl.livekadeh.com/hls2/velayattv.m3u8
-#EXTINF:-1 tvg-id="AlWilayah.ir",Al Wilayah tv (720p) [Not 24/7]
-https://alwilayah.tv/cdn/alwilayah_tv-manifest.m3u8
-#EXTINF:-1 tvg-id=".AlwilayahHausa",AlWilayah Hausa  (480p) 
-https://nl.livekadeh.com/hls2/alwilayah.tv.hausa_high.m3u8
+
 #EXTINF:-1 tvg-id="21" tvg-country="Pakistan" tvg-language="Urdu" group-title="Shia #EXTINF:-1  tvg-logo="http://ahlebaittv.net/wp-content/uploads/2017/11/cropped-Ahlebait-Tv-Logo-for-Website.png" tvg-name="Hidayat TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/hidayat.jpg",Hidayat TV (1080)
 https://stream.wpbond.com/live/hidayat1.m3u8
 #EXTINF:-1 tvg-id="Win TV" tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" group-title="Shia Channels",Channel Win TV
