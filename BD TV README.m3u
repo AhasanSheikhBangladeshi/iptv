@@ -239,17 +239,17 @@ http://cloud.cdn-proxy.win:2052/tqDGxCKBp7/R5Z3IFRPcu/1331
 EXTINF:-1 tvg-id="HaditvDua" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Dua Channel Hadi TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/dua-channel.jpg",Dua Channel (1080)
 https://live.ishiacloud.com:443/hls/fec3fb16-b9bd-44b1-ae9b-a1e4e91c84fc_720p.m3u8
 #EXTINF:-1 tvg-id="Haditv1" tvg-country=" " tvg-language=" i" group-title="Relegious " tvg-name="Hadi TV 1" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 1
-https://live.ishiacloud.com:443/hls/8012c071-8eb2-4f38-b6d3-0f540484c513_480p.m3u8
+https://g.decdn.net/haditv.co.uk/haditv1.m3u8
 #EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious " tvg-name="Hadi TV 2" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 2 
-https://live.ishiacloud.com:443/hls/65c2ae12-a4e1-40fa-900c-def00dc25616_480p.m3u8
+https://g.decdn.net/haditv.co.uk/haditv2.m3u8
 #EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious " tvg-name="Hadi TV 3" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 3
-https://live.ishiacloud.com:443/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_480p.m3u8
+https://g.decdn.net/haditv.co.uk/haditv3.m3u8
 #EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious " tvg-name="Hadi TV 4" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 4
-https://live.ishiacloud.com:443/hls/a90aa780-0f38-481a-82e2-6f22518947ad_480p.m3u8
+https://g.decdn.net/haditv.co.uk/haditv4.m3u8
 #EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious " tvg-name="Hadi TV 5" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 5
-https://live.ishiacloud.com:443/hls/972e2b0e-933e-403f-88c8-56264d5ca793_480p.m3u8
+https://g.decdn.net/haditv.co.uk/haditv5.m3u8
 #EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious" tvg-name="Hadi TV 6" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 6
-https://live.ishiacloud.com:443/hls/079f59ba-119d-45de-94c0-27c257de35d1_480p.m3u8
+https://g.decdn.net/haditv.co.uk/haditv6.m3u8
 #EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious" tvg-name="Hadi TV 7" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 7
 https://live.ishiacloud.com:443/hls/37166b77-128d-425c-91bf-8195071c217d_480p.m3u8
 #EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious" tvg-name="Hadi TV 8" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 8
