@@ -91,11 +91,11 @@ https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"group-title="India-Pakistani",ARY NEWS (PK)
-http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16117 
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/299 
 #EXTINF:-1 ch-id="ARY DIGITAL (PK)" tvg-logo="https://1.bp.blogspot.com/--wDE2l82PT0/YRepmImjWvI/AAAAAAAAA4g/QfuH2Q9yP_I7D6RrkC5IiaEGRLRvPg6JwCLcBGAsYHQ/s200/PicsArt_08-14-05.01.13.jpg"  group-title="India-Pakistani",ARY DIGITAL (PK)
-http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16122 
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/329 
 #EXTINF:-1 ch-id="GEO HD (PK)" tvg-logo="https://1.bp.blogspot.com/-fktS4IURByc/YO43k9xSajI/AAAAAAAAAbM/gex7jop3fIQ62kO64RiVFEmqfg8439VTQCLcBGAsYHQ/s200/PicsArt_07-14-06.29.55.jpg"  group-title="India-Pakistani",GEO TV HD (PK)
-http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16086 
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/97 
 #EXTINF:-1,tvg-logo="http://www.arirang.com/images/index/arirang.png" group-title="General",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TAMADON TV" tvg-logo="https://asiagrandiptv.us/logo/TAMADON.jpg" group-title="AFGHANISTAN",TAMADON TV
@@ -115,7 +115,7 @@ http://forevertv.me:8080/342553618183/180888433334/1771
 #EXTINF:-1 tvg-name="ATN National" tvg-logo="https://i.imgur.com/m6tBPia.png" group-title="AFGHANISTAN",ATN National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w1532942397.m3u8
 #EXTINF:1 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png"https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png group-title="Religious",ARY QTV
-http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/16116 
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/298 
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/NWljgKa.png",Eman Channel (576p)
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:0,Rotana Khalijia HD (1080p)[Saudi Arab]
@@ -135,7 +135,7 @@ https://5c75277727cd1.streamlock.net/iplustv/iplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Huda Tv" tvg-logo="http://2.bp.blogspot.com/-cSfP2QGNX28/VYv3Az7jdqI/AAAAAAAAARo/IfXNZKE0_Fk/s1600/Huda%2BLogo%2BSMALL.jpg" group-title="En-Religious",EN- Huda Tv
 http://bestsave.ltd:80/live/2233445566/6655443322/139967.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxGY7_yuYYzSh1-EAbphivlU-EFuxe3bO6jQ&usqp=CAU" group-title="General",Yemen TV
-http://new-pro.tv:8080/99622282/etbVXafU6f/2573
+http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/472881
 #EXTINF:-1 tvg-id="OmanTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C7kfubs.png" group-title="General",Oman TV (1080p)
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlraiTV-200x150.png" ,Al Rai 
