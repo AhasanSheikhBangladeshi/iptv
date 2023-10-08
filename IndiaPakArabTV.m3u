@@ -1,3 +1,16 @@
+#EXTINF:-1,AR | Hadramaut TV | Yemen ⓧ SD
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/77917
+#EXTINF:-1,AR | Aden TV ⓧ
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/77960
+#EXTINF:-1, AR | Yemen tv ⓧ SD
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/78090
+#EXTINF:-1,AR | Yemen Documentary ⓧ SD 
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/78091
+#EXTINF:-1,AR | Education | Yemen ⓧ OFFLINE
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/78092
+#EXTINF:-1,AR | EL Eiman TV  ⓧ  SD
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/78093
+
 #EXTINF:-1,PK | 92 Newsⓧ  HD
 http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/306
 #EXTINF:-1,PK | A Plusⓧ
@@ -51,13 +64,50 @@ http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/128263
 #EXTINF:-1,PK | ARY Zauqⓧ
 http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/360
 
+#EXTINF:-1,IN | DD Punjabiⓧ
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/74425
+#EXTINF:-1,IN | DD Sportsⓧ
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/53386
+#EXTINF:-1,IN | DD Girnarⓧ
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/93021
+#EXTINF:-1,IN | DD Malayalamⓧ 
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/53470
+#EXTINF:-1,IN | DD Nationalⓧ
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/53471
+#EXTINF:-1,IN | DD Newsⓧ
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/53472
+#EXTINF:-1,IR | IRIB Semnanⓧ
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/3020
+#EXTINF:-1,IR | IRIB Sahandⓧ
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/3017
+#EXTINF:-1,IR | IRIB Kordestanⓧ
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/3010
+#EXTINF:-1,IR | IRIB TV1ⓧ
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/2964
+#EXTINF:-1,IR | IRIB TV2ⓧ
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/3027
+#EXTINF:-1,IR | IRIB TV3ⓧ
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/93043
+#EXTINF:-1,IR | IRIB Varzeshⓧ HD
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/3022
+#EXTINF:-1,IR | IRIB Quranⓧ
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/2997
+#EXTINF:-1,IR | IRIB IRINNⓧ
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/3009
+#EXTINF:-1,IR | IRIB iFilm Arabicⓧ
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/3006
+#EXTINF:-1,IR | IRIB iFilm Englishⓧ
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/3007
+#EXTINF:-1,IR | Simaye Azadiⓧ
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/3049
+
 #EXTINF:-1 tvg-id="Ahlebait.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwURTPDic9avTpG4XwJjigy7u___BZCxujTA&usqp=CAU" group-title="Shia Channels",Ahlebait TV 
 https://stream.wpbond.com/live/ahlebait1.m3u8
 
 #EXTINF:-1 tvg-id="21" tvg-country="Pakistan" tvg-language="Urdu" group-title="Shia #EXTINF:-1  tvg-logo="http://ahlebaittv.net/wp-content/uploads/2017/11/cropped-Ahlebait-Tv-Logo-for-Website.png" tvg-name="Hidayat TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/hidayat.jpg",Hidayat TV (1080)
 https://stream.wpbond.com/live/hidayat1.m3u8
 #EXTINF:-1 tvg-id="Win TV" tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" group-title="Shia Channels",Channel Win TV
-https://streamer.winfoundation.in:8081/live/winstream/playlist.m3u8
+http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/92455
 #EXTINF:-1 tvg-id="Zainabia TV" tvg-logo="https://shiachannel.in/livetv/img/channels/zainabia.jpg" group-title="Shia Channels",Zainabia TV
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-id="Ali TV" tvg-logo="https://shiachannel.in/livetv/img/channels/alitv.jpg" group-title="Shia Channels",Ali TV
