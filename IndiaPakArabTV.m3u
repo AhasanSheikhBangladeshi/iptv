@@ -1,4 +1,29 @@
-
+#EXTINF:-1 tvg-id="" tvg-name="PK: Ary Digital HD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c6a9cc1.png" group-title="PAKISTANI" ,PK: Ary Digital HD
+http://195.26.87.217:80/live.ts?channelId=380&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Ary Digital HD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c6a9cc1.png" group-title="PAKISTANI" ,PK: Ary Digital HD.
+http://195.26.87.217:80/live.ts?channelId=382&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Ary Digital UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d36f1b2.png" group-title="PAKISTANI" ,PK: Ary Digital UK
+http://195.26.87.217:80/live.ts?channelId=377&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Ary Music" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/ec4f501.png" group-title="PAKISTANI" ,PK: Ary Music
+http://195.26.87.217:80/live.ts?channelId=384&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Ary News" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/6668954.png" group-title="PAKISTANI" ,PK: Ary News
+http://195.26.87.217:80/live.ts?channelId=386&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Ary News World" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/70ec8f4.png" group-title="PAKISTANI" ,PK: Ary News World
+http://195.26.87.217:80/live.ts?channelId=365&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: HUM NEWS HD" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/5495de3.png" group-title="PAKISTANI" ,PK: HUM NEWS HD
+http://195.26.87.217:80/live.ts?channelId=419&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Hum Pashto 1" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d20d246.png" group-title="PAKISTANI" ,PK: Hum Pashto 1
+http://195.26.87.217:80/live.ts?channelId=439&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Hum Sitary" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8e310ce.png" group-title="PAKISTANI" ,PK: Hum Sitary
+http://195.26.87.217:80/live.ts?channelId=420&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Hum TV Europe" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/69ba1a0.png" group-title="PAKISTANI" ,PK: Hum TV Europe
+http://195.26.87.217:80/live.ts?channelId=421&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Hum TV HD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/1d11c67.png" group-title="PAKISTANI" ,PK: Hum TV HD
+http://195.26.87.217:80/live.ts?channelId=422&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Hum TV HD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/93f36bb.png" group-title="PAKISTANI" ,PK: Hum TV HD.
+http://195.26.87.217:80/live.ts?channelId=423&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Hum World" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/bd3f90e.png" group-title="PAKISTANI" ,PK: Hum World
+http://195.26.87.217:80/live.ts?channelId=424&uid=12374&deviceMac=00:1A:79:2E:F0:59
 #EXTINF:-1,KW: Alanwar TV
 http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/472819
 #EXTINF:-1,KW: Albawadi TV
@@ -55,22 +80,97 @@ http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/472908
 #EXTINF:-1,LY: Lebda
 http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/472909
 #EXTINF:-1,LY: Libya Alhadath
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/472910
-#EXTINF:-1,LY: Libya Education
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/472911
-#EXTINF:-1,LY: Libya Sport TV
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/472912
-#EXTINF:-1,LY: Libya Sport TV 2
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/472913
-#EXTINF:-1,LY: Libyan Business
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/472914
-#EXTINF:-1,LY: Libyas
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/472915
-#EXTINF:-1,LY: Salam TV
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/472916
+http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/472910
 #EXTINF:-1,LY: Tanasuh TV
 http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/472917
-
+#EXTINF:-1 tvg-id="" tvg-name="AFG: 1 TV Afghan FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/1tv.png" group-title="AFGHANI" ,AFG: 1 TV Afghan FHD
+http://195.26.87.217:80/live.ts?channelId=52&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Afghanistan International TV FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/afghanint.png" group-title="AFGHANI" ,AFG: Afghanistan International TV FHD
+http://195.26.87.217:80/live.ts?channelId=77886&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: AFGHAN TIME FHD" tvg-link="" tvg-logo="" group-title="AFGHANI" ,AFG: AFGHAN TIME FHD
+http://195.26.87.217:80/live.ts?channelId=89354&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: AMU TV FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/amutv.png" group-title="AFGHANI" ,AFG: AMU TV FHD
+http://195.26.87.217:80/live.ts?channelId=89355&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Arezo TV FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/arezotv.png" group-title="AFGHANI" ,AFG: Arezo TV FHD
+http://195.26.87.217:80/live.ts?channelId=54&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: ARIA TV" tvg-link="" tvg-logo="" group-title="AFGHANI" ,AFG: ARIA TV
+http://195.26.87.217:80/live.ts?channelId=89357&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: ATN Europe" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/c8b3075.png" group-title="AFGHANI" ,AFG: ATN Europe
+http://195.26.87.217:80/live.ts?channelId=45943&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: ATN News FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/atnnews.png" group-title="AFGHANI" ,AFG: ATN News FHD
+http://195.26.87.217:80/live.ts?channelId=56&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: ATN TV FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/atn.png" group-title="AFGHANI" ,AFG: ATN TV FHD
+http://195.26.87.217:80/live.ts?channelId=55&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: AVA FAMILY" tvg-link="" tvg-logo="http://195.26.87.217/images/avafamily.png" group-title="AFGHANI" ,AFG: AVA FAMILY
+http://195.26.87.217:80/live.ts?channelId=77802&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Barya TV FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/baryatv.png" group-title="AFGHANI" ,AFG: Barya TV FHD
+http://195.26.87.217:80/live.ts?channelId=74561&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Dunya Naw TV" tvg-link="" tvg-logo="http://195.26.87.217/images/dunyanawtv.png" group-title="AFGHANI" ,AFG: Dunya Naw TV
+http://195.26.87.217:80/live.ts?channelId=77804&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Eslah TV FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/eslah.png" group-title="AFGHANI" ,AFG: Eslah TV FHD
+http://195.26.87.217:80/live.ts?channelId=77615&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Hasti TV Network FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/hastitv.png" group-title="AFGHANI" ,AFG: Hasti TV Network FHD
+http://195.26.87.217:80/live.ts?channelId=61895&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: HW TV" tvg-link="" tvg-logo="http://195.26.87.217/images/hwtv.png" group-title="AFGHANI" ,AFG: HW TV
+http://195.26.87.217:80/live.ts?channelId=57774&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Iman TV FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/imantv.png" group-title="AFGHANI" ,AFG: Iman TV FHD
+http://195.26.87.217:80/live.ts?channelId=29201&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Lemar TV FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/lemartv.png" group-title="AFGHANI" ,AFG: Lemar TV FHD
+http://195.26.87.217:80/live.ts?channelId=62&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: MERAJ TV FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/merajtv.png" group-title="AFGHANI" ,AFG: MERAJ TV FHD
+http://195.26.87.217:80/live.ts?channelId=89359&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Negaah TV" tvg-link="" tvg-logo="http://195.26.87.217/images/negahtv.png" group-title="AFGHANI" ,AFG: Negaah TV
+http://195.26.87.217:80/live.ts?channelId=77801&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Noor TV" tvg-link="" tvg-logo="http://195.26.87.217/images/nooraf.png" group-title="AFGHANI" ,AFG: Noor TV
+http://195.26.87.217:80/live.ts?channelId=65&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: NOUR TV FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/nourtv.png" group-title="AFGHANI" ,AFG: NOUR TV FHD
+http://195.26.87.217:80/live.ts?channelId=89360&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Pamir TV FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/pamir.png" group-title="AFGHANI" ,AFG: Pamir TV FHD
+http://195.26.87.217:80/live.ts?channelId=29204&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Payam e Afghan" tvg-link="" tvg-logo="http://195.26.87.217/images/payameafghan.png" group-title="AFGHANI" ,AFG: Payam e Afghan
+http://195.26.87.217:80/live.ts?channelId=67&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: RTA News FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/rta.png" group-title="AFGHANI" ,AFG: RTA News FHD
+http://195.26.87.217:80/live.ts?channelId=69&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: RTA Sports FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/rtasport.png" group-title="AFGHANI" ,AFG: RTA Sports FHD
+http://195.26.87.217:80/live.ts?channelId=45945&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Sada E Haq TV FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/sadaehaqtv.png" group-title="AFGHANI" ,AFG: Sada E Haq TV FHD
+http://195.26.87.217:80/live.ts?channelId=89356&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Shamshad TV" tvg-link="" tvg-logo="http://195.26.87.217/images/shamshadtv.png" group-title="AFGHANI" ,AFG: Shamshad TV
+http://195.26.87.217:80/live.ts?channelId=70&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Sharq Global" tvg-link="" tvg-logo="http://195.26.87.217/images/sharqglobal.png" group-title="AFGHANI" ,AFG: Sharq Global
+http://195.26.87.217:80/live.ts?channelId=77887&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Sohail TV FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/sohailtv.png" group-title="AFGHANI" ,AFG: Sohail TV FHD
+http://195.26.87.217:80/live.ts?channelId=45939&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Solh TV HD" tvg-link="" tvg-logo="http://195.26.87.217/images/solhtv.png" group-title="AFGHANI" ,AFG: Solh TV HD
+http://195.26.87.217:80/live.ts?channelId=74558&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Tamadon TV HD" tvg-link="" tvg-logo="http://195.26.87.217/images/tamadontv.png" group-title="AFGHANI" ,AFG: Tamadon TV HD
+http://195.26.87.217:80/live.ts?channelId=71&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Tolo News FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/tolonews.png" group-title="AFGHANI" ,AFG: Tolo News FHD
+http://195.26.87.217:80/live.ts?channelId=72&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Tolo TV FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/tolotv.png" group-title="AFGHANI" ,AFG: Tolo TV FHD
+http://195.26.87.217:80/live.ts?channelId=73&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Tuti TV FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/tutitv.png" group-title="AFGHANI" ,AFG: Tuti TV FHD
+http://195.26.87.217:80/live.ts?channelId=8&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Watan E Maa TV" tvg-link="" tvg-logo="http://195.26.87.217/images/watanemaatv.png" group-title="AFGHANI" ,AFG: Watan E Maa TV
+http://195.26.87.217:80/live.ts?channelId=36130&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Zarin TV FHD" tvg-link="" tvg-logo="http://195.26.87.217/images/zarintv.png" group-title="AFGHANI" ,AFG: Zarin TV FHD
+http://195.26.87.217:80/live.ts?channelId=29203&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Zhwandoon TV" tvg-link="" tvg-logo="http://195.26.87.217/images/zhwandoontv.png" group-title="AFGHANI" ,AFG: Zhwandoon TV
+http://195.26.87.217:80/live.ts?channelId=75&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="BBC PERSIAN" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/a260433c" group-title="IRAN" ,BBC PERSIAN
+http://195.26.87.217:80/live.ts?channelId=58&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: 92 News HD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/7c8d885.png" group-title="PAKISTANI" ,PK: 92 News HD UK
+http://195.26.87.217:80/live.ts?channelId=391&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Aaj Entertainment" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/af92ebd.png" group-title="PAKISTANI" ,PK: Aaj Entertainment
+http://195.26.87.217:80/live.ts?channelId=375&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Aaj News" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/a318e19.png" group-title="PAKISTANI" ,PK: Aaj News
+http://195.26.87.217:80/live.ts?channelId=376&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Abb Tak" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/3c79e70.png" group-title="PAKISTANI" ,PK: Abb Tak
+http://195.26.87.217:80/live.ts?channelId=378&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: ABN NEWS" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d71bea2.png" group-title="PAKISTANI" ,PK: ABN NEWS
+http://195.26.87.217:80/live.ts?channelId=115212&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: A-Plus TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/79e2abb.png" group-title="PAKISTANI" ,PK: A-Plus TV
+http://195.26.87.217:80/live.ts?channelId=373&uid=12374&deviceMac=00:1A:79:2E:F0:59
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV Global UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/07e3e57.png" group-title="PAKISTANI" ,PK: PTV Global UK
 http://195.26.87.217:80/live.ts?channelId=443&uid=12374&deviceMac=00:1A:79:2E:F0:59
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV Home" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/b85493f.png" group-title="PAKISTANI" ,PK: PTV Home
@@ -85,74 +185,31 @@ http://195.26.87.217:80/live.ts?channelId=447&uid=12374&deviceMac=00:1A:79:2E:F0
 https://ptvbkp.nayatel.com/transcoder/ptvbolantrc_source/playlist.m3u8
 #EXTINF:-1,PK| PTV NATIONAL
 https://ptvbkp.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK: Ary Zindagi" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/e007a0e.png" group-title="PAKISTANI" ,PK: Ary Zindagi
+http://195.26.87.217:80/live.ts?channelId=392&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: ATV ENTERTAINMENT" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d4ec6d6.png" group-title="PAKISTANI" ,PK: ATV ENTERTAINMENT
+http://195.26.87.217:80/live.ts?channelId=394&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: AVT KHYBER" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/037f6b4.png" group-title="PAKISTANI" ,PK: AVT KHYBER
+http://195.26.87.217:80/live.ts?channelId=464&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Khyber News" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/3ba0523.png" group-title="PAKISTANI" ,PK: Khyber News
+http://195.26.87.217:80/live.ts?channelId=459&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Kohenoor Tv" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/be695c5.png" group-title="PAKISTANI" ,PK: Kohenoor Tv
+http://195.26.87.217:80/live.ts?channelId=430&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: KTN ENTERTAINMENT" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/b99447c.png" group-title="PAKISTANI" ,PK: KTN ENTERTAINMENT
+http://195.26.87.217:80/live.ts?channelId=22758&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: KTN NEWS" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/51625fb.png" group-title="PAKISTANI" ,PK: KTN NEWS
+http://195.26.87.217:80/live.ts?channelId=22757&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Lahore News HD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/bbc7561.png" group-title="PAKISTANI" ,PK: Lahore News HD
+http://195.26.87.217:80/live.ts?channelId=431&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: AWAZ ENTERTAINMENT" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/9de8f20.png" group-title="PAKISTANI" ,PK: AWAZ ENTERTAINMENT
+http://195.26.87.217:80/live.ts?channelId=22762&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: AWAZ TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/0468ea5.png" group-title="PAKISTANI" ,PK: AWAZ TV
+http://195.26.87.217:80/live.ts?channelId=57494&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Bol Entertainment HD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c18bb1a.png" group-title="PAKISTANI" ,PK: Bol Entertainment HD
+http://195.26.87.217:80/live.ts?channelId=396&uid=12374&deviceMac=00:1A:79:2E:F0:59
+#EXTINF:-1 tvg-id="" tvg-name="PK: Bol News HD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/529ea14.png" group-title="PAKISTANI" ,PK: Bol News HD
+http://195.26.87.217:80/live.ts?channelId=397&uid=12374&deviceMac=00:1A:79:2E:F0:59
 
-#EXTINF:-1,PK: 92 News
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/467465
-
-
-
-#EXTINF:-1,IR: IRIB 1
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463251
-#EXTINF:-1,IR: IRIB 2
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463252
-#EXTINF:-1,IR: IRIB 3
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463253
-#EXTINF:-1,IR: IRIB 3 satellite
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463254
-#EXTINF:-1,IR: IRIB 4
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463255
-#EXTINF:-1,IR: IRIB 5
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463256
-#EXTINF:-1,IR: IRIB IRINN
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463277
-#EXTINF:-1,IR: IRIB Jahanbin
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463278
-#EXTINF:-1,IR: IRIB Jam
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463279
-#EXTINF:-1,IR: IRIB Jamejam 1
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463280
-#EXTINF:-1,IR: IRIB Jamejam 2
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463281
-#EXTINF:-1,IR: IRIB Jamejam 3
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463282
-#EXTINF:-1,IR: IRIB Labbayk
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463292
-#EXTINF:-1,IR: IRIB Mahabad
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463293
-#EXTINF:-1,IR: IRIB Kordestan
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463291
-#EXTINF:-1,IR: IRIB Abadan
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463257
-#EXTINF:-1,IR: IRIB Aflak
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463258
-#EXTINF:-1,IR: IRIB Aftab
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463259
-#EXTINF:-1,IR: IRIB Alborz
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463260
-#EXTINF:-1,IR: IRIB Esfahan
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463269
-#EXTINF:-1,IR: IRIB Eshragh
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463270
-#EXTINF:-1,IR: IRIB Fars
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463271
-#EXTINF:-1,IR: IRIB Gardesh
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463272
-#EXTINF:-1,IR: IRIB Hamoon
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463274
-#EXTINF:-1,IR: IRIB IFilm
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463275
-#EXTINF:-1,IR: IRIB Ilam
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463276
-#EXTINF:-1,IR: IRIB Amouzesh
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463261
-#EXTINF:-1,IR: IRIB Ara
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463262
-#EXTINF:-1,IR: IRIB Atrak
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463263
-#EXTINF:-1,IR: IRIB Ayam
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463264
-#EXTINF:-1,IR: IRIB Azarbayjangharbi
-http://av.dyndns.org:8000/Macarenajerez/XhgGbS9qBj/463265
 
 #EXTINF:-1 tvg-id="Ahlebait.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwURTPDic9avTpG4XwJjigy7u___BZCxujTA&usqp=CAU" group-title="Shia Channels",Ahlebait TV 
 https://stream.wpbond.com/live/ahlebait1.m3u8
