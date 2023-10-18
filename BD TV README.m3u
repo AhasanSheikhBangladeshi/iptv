@@ -10,7 +10,7 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla", Bangladesh Television BTV CTG Chattogram
 http://103.106.2.152:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-name="RTA Afghan" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA TV Afghan
-http://195.230.27.108:8004/play/a00q/index.m3u8
+http://startv365.com/live/1352163117/2441663492/23104.ts
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision  (BDIX0)
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" tvg-country="IN" tvg-language="English" tvg-logo=" " group-title="News",NDTV(480p)
@@ -81,7 +81,7 @@ http://95.216.180.111:1935/live/46/chunklist_w874853809.m3u8
 #EXTINF:0 tvg-logo="https://sawahhost.com/wp-content/uploads/2020/11/MBC.jpg" group-title="Arabic",MBC Channel 1
 https://shls-mbc1na-prod-dub.shahid.net:443/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_2.m3u8
 #EXTINF:-1 tvg-name="Imam Ali Najaf HD Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Imam_Ali_shrine_-_1_May_2015_19.jpg" group-title="Relegious",Imam Ali Najaf Live HD
-http://ghostiptv.vip:80/admin1000/8888/49584
+http://startv365.com/live/1352163117/2441663492/360707.ts
 #EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
 http://new-pro.tv:8080/99622282/etbVXafU6f/1912
 #EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
@@ -185,7 +185,8 @@ https://d1u68oyra9spme.cloudfront.net/master.m3u8
 https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg",Al Iraqiya News
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-
+#EXTINF:0 tvg-id="" group-title="ARAB",Palestine/Quds Today TV 
+http://62.171.146.44:8080/hls/alqudstv/alqudstv.m3u8?v=1778398403
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="None",Qatar TV
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="Pakistani",PTV World
@@ -213,7 +214,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT Arabi (1080p)
 https://tv-trtarabi.live.trt.com.tr:443/master_720.m3u8
 #EXTINF:0 tvg-id="" group-title="ARAB",Yemen Shabab [100]
-http://new-pro.tv:8080/99622282/etbVXafU6f/99073
+http://startv365.com/live/1352163117/2441663492/14967.ts
 #EXTINF: group-title="ARAB" tvg-id="SuhailTV.ye" tvg-name="Suhail TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtJwlD-ms5DKPuh6PAu45IK9_H5-vN-oPpxg&usqp=CAU" group-tile="Relegious",Suhail TV
 http://82.212.74.98:8000/live/7726.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
