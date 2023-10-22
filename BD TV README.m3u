@@ -61,7 +61,7 @@ http://103.55.144.46:80/hls/nexus.m3u8
 #EXTINF:-1 tvg-id="IqraBangla.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/GK5BlnN.jpg" group-title="Religious",Iqra Bangla (576p)
 https://cdn5.iqsat.net:443/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="RELIGIOUS",Madani TV Bangla
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+https://raw.githubusercontent.com/gift4bd/ytm/main/MadaniBangla.m3u8
 #EXTINF:-1 tvg-id="32" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Ahlulbayt TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ahlulbayt.jpg",Ahlulbayt TV (1080p)
 http://forevertv.me:8080/342553618183/180888433334/105567
 #EXTINF:-1 tvg-id="30" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Safeer TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/safeer-tv.jpg",Safeer TV (1080)
@@ -279,8 +279,8 @@ https://svs.itworkscdn.net:443/smc1live/smc1.smil/smc1tv_chunks.m3u8
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
 #EXTINF:-1 tvg-id="Syriantv.sy" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Syria_tv_logo.webp" group-title="General",Syrian TV
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="AlAqsaChannel.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" group-title="Religious",Al Aqsa Channel (416p) [Not 24/7]
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/284411
+#EXTINF:-1 tvg-id="AlAqsaChannel.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" group-title="Arab",Al Aqsa Channel (416p) [Not 24/7]
+https://vsd191.mycdn.me:443/hls/5468424768074.m3u8
 #EXTINF:-1 tvg-id="KalemehTV.us" tvg-name="Kalemeh TV" tvg-country="US" tvg-language="Farsi" tvg-logo="https://i.imgur.com/j4VjHWN.jpg" group-title="Religious",Kalemeh TV (1080p) [Not 24/7]
 http://51.210.199.37/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="IRIB Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News",Al Alam (576p)
