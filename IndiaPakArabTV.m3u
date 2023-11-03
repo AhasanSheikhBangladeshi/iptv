@@ -1,5 +1,14 @@
 #EXTINF:-1,IR Simaye Azadi Iranntv
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
+#EXTINF:-1, Al Manar Tv (Lebanon)
+https://manar.live:443/iptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Al Mayadeen Tv (Lebanon) 
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1,Egypt Qaf TV
+https://mn-nl.mncdn.com:443/qaf/live/chunklist.m3u8
+#EXTINF:-1,Egypt TEN (Tahrir Network) TV
+https://weyyak-live.akamaized.net:443/weyyak_ten_tv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1,PK| PTV Bolan
 https://ptvbkp.nayatel.com/transcoder/ptvbolantrc_source/playlist.m3u8
