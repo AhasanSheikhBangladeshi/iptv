@@ -8,128 +8,88 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://mn-nl.mncdn.com:443/qaf/live/chunklist.m3u8
 #EXTINF:-1,Egypt TEN (Tahrir Network) TV
 https://weyyak-live.akamaized.net:443/weyyak_ten_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,|.AFG.| TAMADON TV
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/59195.ts
-#EXTINF:-1,|.AFG.| TOLO
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/59196.ts
-#EXTINF:-1,|.AFG.| TOLO NEWS
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/59197.ts
-#EXTINF:-1,|.AR.| SUDAN TV
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/16113.ts
-#EXTINF:-1,|.AR.| SUDAN 24
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/16155.ts#EXTINF:-1,|.AR.| YEMEN
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/15811.ts
-#EXTINF:-1,|.AR.| YEMEN SAMA
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/16088.ts
-#EXTINF:-1,|.AR.| YEMEN SHABAB
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/15784.ts
-#EXTINF:-1,|.AR.| YEMEN TODAY TV
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/15783.ts
-#EXTINF:-1,|.AR.| Yemen TV 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151587.ts
-#EXTINF:-1,|.AR.| Yemen Today 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151589.ts
-#EXTINF:-1,|.AR.| Yemen Shabab 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151590.ts
-#EXTINF:-1,|.AR.| Yemen Education TV 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151591.ts
-#EXTINF:-1,|.AR.| Yemen Documentary 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151592.ts
-#EXTINF:-1,|.AR.| Suhail TV 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151593.ts
-#EXTINF:-1,|.AR.| Sheba TV 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151594.ts
-#EXTINF:-1,|.AR.| Aden TV 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151595.ts
-#EXTINF:-1,|.AR.| Aden Al Shareyyah 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151596.ts
-#EXTINF:-1,|.AR.| Aden Almustakilla 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151597.ts
-#EXTINF:-1,|.AR.| Al Saeedah TV 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151598.ts
-#EXTINF:-1,|.AR.| Hadramaut TV 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151599.ts
-#EXTINF:-1,|.AR.| Al Ghad Al Mushreq 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151600.ts
-#EXTINF:-1,|.AR.| AIC TV 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151601.ts
-#EXTINF:-1,|.AR.| Al Eiman TV 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151602.ts
-#EXTINF:-1,|.AR.| Al Masirah TV 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151603.ts
-#EXTINF:-1,|.AR.| Al Masirah Mubasher TV 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151604.ts
-#EXTINF:-1,|.AR.| Belqees TV 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151605.ts
-#EXTINF:-1,|.AR.| Al Erth Alnabawi TV 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151606.ts
-#EXTINF:-1,|.AR.| Al Mahrah 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151607.ts
-#EXTINF:-1,|.AR.| Al Shareyah 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151608.ts
-#EXTINF:-1,|.AR.| Al Hawyah TV 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151609.ts
-#EXTINF:-1,|.AR.| Al Lahdah 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151610.ts
-#EXTINF:-1,|.AR.| Al Sahat 
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/151611.ts
-#EXTINF:-1,|.AR.| AL MASRIYA
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/64278.ts
-#EXTINF:-1,|.AR.| ALMASSAR AL OULA
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/64288.ts
-#EXTINF:-1,|.AR.| ALQANAT 9
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/64289.ts
-#EXTINF:-1,|.AR.| ALTHANIA
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/64291.ts
-#EXTINF:-1,|.AR.| WATAN TV
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/64292.ts
-#EXTINF:-1,|.PK.A| 92 NEWS HD
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115448.ts
-#EXTINF:-1,|.PK.A| 92 NEWS PLUS HD
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115449.ts
-#EXTINF:-1,|.PK.A| BOL ENTERTAINMENT
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115487.ts
-#EXTINF:-1,|.PK.A| BOL NEWS FHD
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115488.ts
-#EXTINF:-1,|.PK.A| BOL NEWS URDU FHD
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115489.ts
-#EXTINF:-1,|.PK.A| ARY DIGITAL HD
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115463.ts
-#EXTINF:-1,|.PK.A| ARY FAMILY
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115464.ts
-#EXTINF:-1,|.PK.A| ARY MUSIC
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115465.ts
-#EXTINF:-1,PK ARY MUSIC
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115466.ts
-#EXTINF:-1,|.PK.A| ARY MUSIK
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115467.ts
-#EXTINF:-1,PK ARY MUSIK
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115468.ts
-#EXTINF:-1,|.PK.A| ARY NEWS HD
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115469.ts
-#EXTINF:-1,|.PK.A| ARY NEWS LIVE
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115470.ts
-#EXTINF:-1,|.PK.A| ARY NEWS WORLD
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115471.ts
-#EXTINF:-1,|.PK.A| ARY QTV
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115472.ts
-#EXTINF:-1,|.PK.A| ARY WORLD
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115473.ts
-#EXTINF:-1,|.PK.A| ARY ZAIQA
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115474.ts
-#EXTINF:-1,|.PK.A| ARY ZAUQ
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115475.ts
-#EXTINF:-1,|.PK.A| ARY ZINDAGI HD
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115476.ts
-#EXTINF:-1,|.PK.A| AVT KHYBER TV
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115482.ts
-#EXTINF:-1,|.PK.A| PTV GLOBAL
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115589.ts
-#EXTINF:-1,|.PK.A| PTV HOME
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115590.ts
-#EXTINF:-1,|.PK.A| PTV NEWS
-http://tv.pro-ott.com:25443/live/tino9127/234DB9XMR8/115591.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| ADEN ALMUSTAKILLA SD" tvg-logo="" group-title="Arabic",AR: YEMEN| ADEN ALMUSTAKILLA SD
+http://721688521481667816.of1030ok.xyz:80/play/Nael624L/NaelM122/667816.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| AL GHAD AL MUSHREQ SD" tvg-logo="" group-title="Arabic",AR: YEMEN| AL GHAD AL MUSHREQ SD
+http://721688521481667818.of1030ok.xyz:80/play/Nael624L/NaelM122/667818.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| AL SAHAT SD" tvg-logo="https://www.elqmaa.com/wp-content/uploads/2022/05/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%A7%D9%8A%D9%84-%D8%B3%D8%A7%D8%AA.jpg" group-title="Arabic",AR: YEMEN| AL SAHAT SD
+http://721688521481667819.of1030ok.xyz:80/play/Nael624L/NaelM122/667819.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| ALHAWYAH TV SD" tvg-logo="" group-title="Arabic",AR: YEMEN| ALHAWYAH TV SD
+http://721688521481667820.of1030ok.xyz:80/play/Nael624L/NaelM122/667820.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| ALLAHDAH TV SD" tvg-logo="" group-title="Arabic",AR: YEMEN| ALLAHDAH TV SD
+http://721688521481667821.of1030ok.xyz:80/play/Nael624L/NaelM122/667821.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| HADRAMAUT TV SD" tvg-logo="" group-title="Arabic",AR: YEMEN| HADRAMAUT TV SD
+http://721688521481667826.of1030ok.xyz:80/play/Nael624L/NaelM122/667826.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| SUHAIL TV SD" tvg-logo="" group-title="Arabic",AR: YEMEN| SUHAIL TV SD
+http://721688521481667828.of1030ok.xyz:80/play/Nael624L/NaelM122/667828.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| YEMEN EDUCATION TV SD" tvg-logo="" group-title="Arabic",AR: YEMEN| YEMEN EDUCATION TV SD
+http://721688521481667829.of1030ok.xyz:80/play/Nael624L/NaelM122/667829.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| YEMEN SHABAB FHD" tvg-logo="" group-title="Arabic",AR: YEMEN| YEMEN SHABAB FHD
+http://721688521481667830.of1030ok.xyz:80/play/Nael624L/NaelM122/667830.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| YEMEN TODAY TV SD" tvg-logo="" group-title="Arabic",AR: YEMEN| YEMEN TODAY TV SD
+http://721688521481667831.of1030ok.xyz:80/play/Nael624L/NaelM122/667831.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| YEMEN TODAY SD" tvg-logo="" group-title="Arabic",AR: YEMEN| YEMEN TODAY SD
+http://721688521481667832.of1030ok.xyz:80/play/Nael624L/NaelM122/667832.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| YEMEN FHD" tvg-logo="" group-title="Arabic",AR: YEMEN| YEMEN FHD
+http://721688521481667834.of1030ok.xyz:80/play/Nael624L/NaelM122/667834.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN TV FHD" tvg-logo="https://asiagrandiptv.us/logo/yementv.png" group-title="Arabic",AR: YEMEN TV FHD
+http://721688521481670154.of1030ok.xyz:80/play/Nael624L/NaelM122/670154.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN TV FHD" tvg-logo="https://asiagrandiptv.us/logo/yementv.png" group-title="Arabic",AR: YEMEN TV FHD
+http://721688521481670154.of1030ok.xyz:80/play/Nael624L/NaelM122/670154.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: ADEN TV SD" tvg-logo="https://asiagrandiptv.us/logo/adentv.png" group-title="Arabic",AR: ADEN TV SD
+http://721688521481636710.of1030ok.xyz:80/play/Nael624L/NaelM122/636710.ts
+#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="PK: PTV GLOBAL SD" tvg-logo="https://asiagrandiptv.us/logo/ptvglobal.png" group-title="Pakistan",PK: PTV GLOBAL SD
+http://721688521481599440.of1030ok.xyz:80/play/Nael624L/NaelM122/599440.ts
+#EXTINF:-1 tvg-id="" tvg-name="PK: HUM TV FHD" tvg-logo="https://asiagrandiptv.us/logo/humtv.png" group-title="Pakistan",PK: HUM TV FHD
+http://721688521481600950.of1030ok.xyz:80/play/Nael624L/NaelM122/600950.ts
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS SD" tvg-logo="https://asiagrandiptv.us/logo/ptvsports.png" group-title="Pakistan",PK: PTV SPORTS SD
+http://721688521481602834.of1030ok.xyz:80/play/Nael624L/NaelM122/602834.ts
+#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PK: PTV HOME SD" tvg-logo="https://asiagrandiptv.us/logo/ptvhome.png" group-title="Pakistan",PK: PTV HOME SD
+http://721688521481606623.of1030ok.xyz:80/play/Nael624L/NaelM122/606623.ts
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY NEWS WORLD SD" tvg-logo="https://asiagrandiptv.us/logo//ARYNEWSWORLD.jpg" group-title="Pakistan",PK: ARY NEWS WORLD SD
+http://721688521481631921.of1030ok.xyz:80/play/Nael624L/NaelM122/631921.ts
+#EXTINF:-1 tvg-id="aryzindagi.pk" tvg-name="PK: ARY ZINDAGI SD" tvg-logo="https://asiagrandiptv.us/logo/aryzindagi.png" group-title="Pakistan",PK: ARY ZINDAGI SD
+http://721688521481661500.of1030ok.xyz:80/play/Nael624L/NaelM122/661500.ts
+#EXTINF:-1 tvg-id="" tvg-name="PK: EXPRESS ENTERTAINMENT FHD" tvg-logo="https://asiagrandiptv.us/logo/expressentertainment.png" group-title="Pakistan",PK: EXPRESS ENTERTAINMENT FHD
+http://721688521481661504.of1030ok.xyz:80/play/Nael624L/NaelM122/661504.ts
+#EXTINF:-1 tvg-id="" tvg-name="PK: KHYBER NEWS SD" tvg-logo="https://asiagrandiptv.us/logo/khybernews.png" group-title="Pakistan",PK: KHYBER NEWS SD
+http://721688521481661509.of1030ok.xyz:80/play/Nael624L/NaelM122/661509.ts
+#EXTINF:-1 tvg-id="" tvg-name="PK: LAHORE NEWS HD" tvg-logo="https://asiagrandiptv.us/logo/lahorenews.png" group-title="Pakistan",PK: LAHORE NEWS HD
+http://721688521481661511.of1030ok.xyz:80/play/Nael624L/NaelM122/661511.ts
+#EXTINF:-1 tvg-id="" tvg-name="PK: AVT KHYBER TV SD" tvg-logo="https://asiagrandiptv.us/logo//AVTKHYBERTV.png" group-title="Pakistan",PK: AVT KHYBER TV SD
+http://721688521481673204.of1030ok.xyz:80/play/Nael624L/NaelM122/673204.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: KOWEIT| AL-MA'ALY SD" tvg-logo="" group-title="Arabic",AR: KOWEIT| AL-MA'ALY SD
+http://721688521481667543.of1030ok.xyz:80/play/Nael624L/NaelM122/667543.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: KOWEIT| ALMAJLIS FHD" tvg-logo="" group-title="Arabic",AR: KOWEIT| ALMAJLIS FHD
+http://721688521481667544.of1030ok.xyz:80/play/Nael624L/NaelM122/667544.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: KOWEIT| KUWAIT AL-ARABI FHD" tvg-logo="" group-title="Arabic",AR: KOWEIT| KUWAIT AL-ARABI FHD
+http://721688521481667545.of1030ok.xyz:80/play/Nael624L/NaelM122/667545.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: KOWEIT| KUWAIT ETHRAA FHD" tvg-logo="" group-title="Arabic",AR: KOWEIT| KUWAIT ETHRAA FHD
+http://721688521481667546.of1030ok.xyz:80/play/Nael624L/NaelM122/667546.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: KOWEIT| KUWAIT TV 1 FHD" tvg-logo="" group-title="Arabic",AR: KOWEIT| KUWAIT TV 1 FHD
+http://721688521481667550.of1030ok.xyz:80/play/Nael624L/NaelM122/667550.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: KOWEIT| KUWAIT TV 2 FHD" tvg-logo="" group-title="Arabic",AR: KOWEIT| KUWAIT TV 2 FHD
+http://721688521481667551.of1030ok.xyz:80/play/Nael624L/NaelM122/667551.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: LBC FHD" tvg-logo="https://asiagrandiptv.us/logo/lbcsat.png" group-title="Arabic",AR: LBC FHD
+http://721688521481667565.of1030ok.xyz:80/play/Nael624L/NaelM122/667565.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| AL KAHERA WAL NAS +2 SD" tvg-logo="" group-title="Arabic",AR: EGYPTIEN| AL KAHERA WAL NAS +2 SD
+http://721688521481667321.of1030ok.xyz:80/play/Nael624L/NaelM122/667321.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| AL OULA FHD" tvg-logo="" group-title="Arabic",AR: EGYPTIEN| AL OULA FHD
+http://721688521481667324.of1030ok.xyz:80/play/Nael624L/NaelM122/667324.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| AL RAHMA SD" tvg-logo="" group-title="Arabic",AR: EGYPTIEN| AL RAHMA SD
+http://721688521481667325.of1030ok.xyz:80/play/Nael624L/NaelM122/667325.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| ALHAYAT FHD" tvg-logo="" group-title="Arabic",AR: EGYPTIEN| ALHAYAT FHD
+http://721688521481667334.of1030ok.xyz:80/play/Nael624L/NaelM122/667334.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| CBC SD" tvg-logo="" group-title="Arabic",AR: EGYPTIEN| CBC SD
+http://721688521481667341.of1030ok.xyz:80/play/Nael624L/NaelM122/667341.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| DMC MASRAHEYAT SD" tvg-logo="" group-title="Arabic",AR: EGYPTIEN| DMC MASRAHEYAT SD
+http://721688521481667346.of1030ok.xyz:80/play/Nael624L/NaelM122/667346.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| DMC NEWS FHD" tvg-logo="http://arabi21.com/Content/Upload/large/920184223433721.jpg" group-title="Arabic",AR: EGYPTIEN| DMC NEWS FHD
+http://721688521481667347.of1030ok.xyz:80/play/Nael624L/NaelM122/667347.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| DMC SD" tvg-logo="" group-title="Arabic",AR: EGYPTIEN| DMC SD
+http://721688521481667348.of1030ok.xyz:80/play/Nael624L/NaelM122/667348.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| EGYPTIAN TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSniOG2uRS97P7NykSb6NtNb7O8OPfSccXhtE20PedJZTcsDOsz_j6DWcgL-DzhYZdUaIk&usqp=CAU" group-title="Arabic",AR: EGYPTIEN| EGYPTIAN TV FHD
+http://721688521481667353.of1030ok.xyz:80/play/Nael624L/NaelM122/667353.ts
 
 #EXTINF:-1,PK| PTV Bolan
 https://ptvbkp.nayatel.com/transcoder/ptvbolantrc_source/playlist.m3u8
