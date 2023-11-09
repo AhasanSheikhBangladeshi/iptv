@@ -263,8 +263,7 @@ http://721688521481667346.of1030ok.xyz:80/play/Nael624L/NaelM122/667346.ts
 http://721688521481667347.of1030ok.xyz:80/play/Nael624L/NaelM122/667347.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| DMC SD" tvg-logo="" group-title="Arabic",AR: EGYPTIEN| DMC SD
 http://721688521481667348.of1030ok.xyz:80/play/Nael624L/NaelM122/667348.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| EGYPTIAN TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSniOG2uRS97P7NykSb6NtNb7O8OPfSccXhtE20PedJZTcsDOsz_j6DWcgL-DzhYZdUaIk&usqp=CAU" group-title="Arabic",AR: EGYPTIEN| EGYPTIAN TV FHD
-http://721688521481667353.of1030ok.xyz:80/play/Nael624L/NaelM122/667353.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/7a72febb637901c474b0241f9839e173.png" group-title="Iran",IR: IRIB 1
 http://iptvtree.net:8080/cinepk2021/KyLGh1tdiJ0ZE1fv/5492
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/f34a9a3baaefa4dabd7306d3548eb785.png" group-title="Iran",IR: IRIB 2
@@ -319,16 +318,13 @@ http://iptvtree.net:8080/cinepk2021/KyLGh1tdiJ0ZE1fv/285280
 http://iptvtree.net:8080/cinepk2021/KyLGh1tdiJ0ZE1fv/285267
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Sabalan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/5c5d4722a1137ce15ec4391bc7f6a59f" group-title="Iran",IR: IRIB Sabalan
 http://iptvtree.net:8080/cinepk2021/KyLGh1tdiJ0ZE1fv/285274
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Sabz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/52c29b4541036eebae082b3333a33a31" group-title="Iran",IR: IRIB Sabz
-http://iptvtree.net:8080/cinepk2021/KyLGh1tdiJ0ZE1fv/296460
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Sahar Afghan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/22c7bde0e802485e1708847bbb053256.png" group-title="Iran",IR: IRIB Sahar Afghan
 http://iptvtree.net:8080/cinepk2021/KyLGh1tdiJ0ZE1fv/299616
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Sahar Kurdi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/88537a6f6a1ac66d8914fb1506165f71.png" group-title="Iran",IR: IRIB Sahar Kurdi
 http://iptvtree.net:8080/cinepk2021/KyLGh1tdiJ0ZE1fv/14710
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Taban" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/9427770eac6a908e7f433bfcdc813cc9" group-title="Iran",IR: IRIB Taban
 http://iptvtree.net:8080/cinepk2021/KyLGh1tdiJ0ZE1fv/285271
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Tabarestan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/a526c5c0707f6ef32d4e47fc828511ef" group-title="Iran",IR: IRIB Tabarestan
-http://iptvtree.net:8080/cinepk2021/KyLGh1tdiJ0ZE1fv/296718
+
 #EXTINF:-1 tvg-id="" tvg-name="EG: CBC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/b6c964a3434c30307e25798220096716.png" group-title="Egypt",EG: CBC
 http://iptvtree.net:8080/cinepk2021/KyLGh1tdiJ0ZE1fv/1265
 #EXTINF:-1 tvg-id="" tvg-name="EG: CBC Drama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/dce3a2fde4ad6cdca4b4b074f271d7c8.png" group-title="Egypt",EG: CBC Drama
