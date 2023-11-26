@@ -147,45 +147,44 @@ http://iptvtree.net:8080/F24365/058a5194/1262
 http://iptvtree.net:8080/F24365/058a5194/4958
 #EXTINF:-1,MBC Maser
 http://iptvtree.net:8080/F24365/058a5194/297543
-#EXTINF:-1, Alwatania TV
-http://iptvtree.net:8080/F24365/058a5194/268583
-#EXTINF:-1,218 news
-http://iptvtree.net:8080/F24365/058a5194/11242
-#EXTINF:-1,Al Aan TV
-http://iptvtree.net:8080/F24365/058a5194/300778
-#EXTINF:-1,Al Ahrar TV
-http://iptvtree.net:8080/F24365/058a5194/13645
-#EXTINF:-1,Almasar TV
-http://iptvtree.net:8080/F24365/058a5194/300777
-#EXTINF:-1,Almustaqbal
-http://iptvtree.net:8080/F24365/058a5194/21708
-#EXTINF:-1,Alrasmia
-http://iptvtree.net:8080/F24365/058a5194/268619
-#EXTINF:-1,February
-http://iptvtree.net:8080/F24365/058a5194/11258
-#EXTINF:-1,Jamahiria
-http://iptvtree.net:8080/F24365/058a5194/283982
-#EXTINF:-1,Lebda
-http://iptvtree.net:8080/F24365/058a5194/296919
-#EXTINF:-1,Libya AL Mostakbal TV
-http://iptvtree.net:8080/F24365/058a5194/300779
-#EXTINF:-1,Libya Alhadath
-http://iptvtree.net:8080/F24365/058a5194/11165
-#EXTINF:-1,Libya Education
-http://iptvtree.net:8080/F24365/058a5194/296920
-#EXTINF:-1,Libya Sport TV
-http://iptvtree.net:8080/F24365/058a5194/269430
-#EXTINF:-1,Libya Sport TV 2
-http://iptvtree.net:8080/F24365/058a5194/296800
-#EXTINF:-1,Libyan Business
-http://iptvtree.net:8080/F24365/058a5194/296917
-#EXTINF:-1,Libyas
-http://iptvtree.net:8080/F24365/058a5194/11182
-#EXTINF:-1,Salam TV
-http://iptvtree.net:8080/F24365/058a5194/290464
-#EXTINF:-1,Tanasuh TV
-http://iptvtree.net:8080/F24365/058a5194/44286
-
+#EXTINF:-1,LY:  Alwatania TV
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/268583
+#EXTINF:-1,LY: 218 news
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/11242
+#EXTINF:-1,LY: Al Aan TV
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/300778
+#EXTINF:-1,LY: Al Ahrar TV
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/13645
+#EXTINF:-1,LY: Almasar TV
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/300777
+#EXTINF:-1,LY: Almustaqbal
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/21708
+#EXTINF:-1,LY: Alrasmia
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/268619
+#EXTINF:-1,LY: February
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/11258
+#EXTINF:-1,LY: Jamahiria
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/283982
+#EXTINF:-1,LY: Lebda
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/296919
+#EXTINF:-1,LY: Libya AL Mostakbal TV
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/300779
+#EXTINF:-1,LY: Libya Alhadath
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/11165
+#EXTINF:-1,LY: Libya Education
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/296920
+#EXTINF:-1,LY: Libya Sport TV
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/269430
+#EXTINF:-1,LY: Libya Sport TV 2
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/296800
+#EXTINF:-1,LY: Libyan Business
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/296917
+#EXTINF:-1,LY: Libyas
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/11182
+#EXTINF:-1,LY: Salam TV
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/290464
+#EXTINF:-1,LY: Tanasuh TV
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/44286
 #EXTINF:-1,Komala
 http://iptvtree.net:8080/F24365/058a5194/69520
 #EXTINF:-1,Komall
@@ -417,70 +416,6 @@ https://mn-nl.mncdn.com:443/qaf/live/chunklist.m3u8
 #EXTINF:-1,Egypt TEN (Tahrir Network) TV
 https://weyyak-live.akamaized.net:443/weyyak_ten_tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| YEMEN SHABAB FHD" tvg-logo="" group-title="Arabic",AR: YEMEN| YEMEN SHABAB FHD
-http://721688521481667830.of1030ok.xyz:80/play/Nael624L/NaelM122/667830.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| YEMEN TODAY TV SD" tvg-logo="" group-title="Arabic",AR: YEMEN| YEMEN TODAY TV SD
-http://721688521481667831.of1030ok.xyz:80/play/Nael624L/NaelM122/667831.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| YEMEN TODAY SD" tvg-logo="" group-title="Arabic",AR: YEMEN| YEMEN TODAY SD
-http://721688521481667832.of1030ok.xyz:80/play/Nael624L/NaelM122/667832.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| YEMEN FHD" tvg-logo="" group-title="Arabic",AR: YEMEN| YEMEN FHD
-http://721688521481667834.of1030ok.xyz:80/play/Nael624L/NaelM122/667834.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN TV FHD" tvg-logo="https://asiagrandiptv.us/logo/yementv.png" group-title="Arabic",AR: YEMEN TV FHD
-http://721688521481670154.of1030ok.xyz:80/play/Nael624L/NaelM122/670154.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN TV FHD" tvg-logo="https://asiagrandiptv.us/logo/yementv.png" group-title="Arabic",AR: YEMEN TV FHD
-http://721688521481670154.of1030ok.xyz:80/play/Nael624L/NaelM122/670154.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: ADEN TV SD" tvg-logo="https://asiagrandiptv.us/logo/adentv.png" group-title="Arabic",AR: ADEN TV SD
-http://721688521481636710.of1030ok.xyz:80/play/Nael624L/NaelM122/636710.ts
-#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="PK: PTV GLOBAL SD" tvg-logo="https://asiagrandiptv.us/logo/ptvglobal.png" group-title="Pakistan",PK: PTV GLOBAL SD
-http://721688521481599440.of1030ok.xyz:80/play/Nael624L/NaelM122/599440.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: HUM TV FHD" tvg-logo="https://asiagrandiptv.us/logo/humtv.png" group-title="Pakistan",PK: HUM TV FHD
-http://721688521481600950.of1030ok.xyz:80/play/Nael624L/NaelM122/600950.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS SD" tvg-logo="https://asiagrandiptv.us/logo/ptvsports.png" group-title="Pakistan",PK: PTV SPORTS SD
-http://721688521481602834.of1030ok.xyz:80/play/Nael624L/NaelM122/602834.ts
-#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PK: PTV HOME SD" tvg-logo="https://asiagrandiptv.us/logo/ptvhome.png" group-title="Pakistan",PK: PTV HOME SD
-http://721688521481606623.of1030ok.xyz:80/play/Nael624L/NaelM122/606623.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY NEWS WORLD SD" tvg-logo="https://asiagrandiptv.us/logo//ARYNEWSWORLD.jpg" group-title="Pakistan",PK: ARY NEWS WORLD SD
-http://721688521481631921.of1030ok.xyz:80/play/Nael624L/NaelM122/631921.ts
-#EXTINF:-1 tvg-id="aryzindagi.pk" tvg-name="PK: ARY ZINDAGI SD" tvg-logo="https://asiagrandiptv.us/logo/aryzindagi.png" group-title="Pakistan",PK: ARY ZINDAGI SD
-http://721688521481661500.of1030ok.xyz:80/play/Nael624L/NaelM122/661500.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: EXPRESS ENTERTAINMENT FHD" tvg-logo="https://asiagrandiptv.us/logo/expressentertainment.png" group-title="Pakistan",PK: EXPRESS ENTERTAINMENT FHD
-http://721688521481661504.of1030ok.xyz:80/play/Nael624L/NaelM122/661504.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: KHYBER NEWS SD" tvg-logo="https://asiagrandiptv.us/logo/khybernews.png" group-title="Pakistan",PK: KHYBER NEWS SD
-http://721688521481661509.of1030ok.xyz:80/play/Nael624L/NaelM122/661509.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: LAHORE NEWS HD" tvg-logo="https://asiagrandiptv.us/logo/lahorenews.png" group-title="Pakistan",PK: LAHORE NEWS HD
-http://721688521481661511.of1030ok.xyz:80/play/Nael624L/NaelM122/661511.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: AVT KHYBER TV SD" tvg-logo="https://asiagrandiptv.us/logo//AVTKHYBERTV.png" group-title="Pakistan",PK: AVT KHYBER TV SD
-http://721688521481673204.of1030ok.xyz:80/play/Nael624L/NaelM122/673204.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: KOWEIT| AL-MA'ALY SD" tvg-logo="" group-title="Arabic",AR: KOWEIT| AL-MA'ALY SD
-http://721688521481667543.of1030ok.xyz:80/play/Nael624L/NaelM122/667543.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: KOWEIT| ALMAJLIS FHD" tvg-logo="" group-title="Arabic",AR: KOWEIT| ALMAJLIS FHD
-http://721688521481667544.of1030ok.xyz:80/play/Nael624L/NaelM122/667544.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: KOWEIT| KUWAIT AL-ARABI FHD" tvg-logo="" group-title="Arabic",AR: KOWEIT| KUWAIT AL-ARABI FHD
-http://721688521481667545.of1030ok.xyz:80/play/Nael624L/NaelM122/667545.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: KOWEIT| KUWAIT ETHRAA FHD" tvg-logo="" group-title="Arabic",AR: KOWEIT| KUWAIT ETHRAA FHD
-http://721688521481667546.of1030ok.xyz:80/play/Nael624L/NaelM122/667546.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: KOWEIT| KUWAIT TV 1 FHD" tvg-logo="" group-title="Arabic",AR: KOWEIT| KUWAIT TV 1 FHD
-http://721688521481667550.of1030ok.xyz:80/play/Nael624L/NaelM122/667550.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: KOWEIT| KUWAIT TV 2 FHD" tvg-logo="" group-title="Arabic",AR: KOWEIT| KUWAIT TV 2 FHD
-http://721688521481667551.of1030ok.xyz:80/play/Nael624L/NaelM122/667551.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: LBC FHD" tvg-logo="https://asiagrandiptv.us/logo/lbcsat.png" group-title="Arabic",AR: LBC FHD
-http://721688521481667565.of1030ok.xyz:80/play/Nael624L/NaelM122/667565.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| AL KAHERA WAL NAS +2 SD" tvg-logo="" group-title="Arabic",AR: EGYPTIEN| AL KAHERA WAL NAS +2 SD
-http://721688521481667321.of1030ok.xyz:80/play/Nael624L/NaelM122/667321.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| AL OULA FHD" tvg-logo="" group-title="Arabic",AR: EGYPTIEN| AL OULA FHD
-http://721688521481667324.of1030ok.xyz:80/play/Nael624L/NaelM122/667324.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| AL RAHMA SD" tvg-logo="" group-title="Arabic",AR: EGYPTIEN| AL RAHMA SD
-http://721688521481667325.of1030ok.xyz:80/play/Nael624L/NaelM122/667325.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| ALHAYAT FHD" tvg-logo="" group-title="Arabic",AR: EGYPTIEN| ALHAYAT FHD
-http://721688521481667334.of1030ok.xyz:80/play/Nael624L/NaelM122/667334.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| CBC SD" tvg-logo="" group-title="Arabic",AR: EGYPTIEN| CBC SD
-http://721688521481667341.of1030ok.xyz:80/play/Nael624L/NaelM122/667341.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| DMC MASRAHEYAT SD" tvg-logo="" group-title="Arabic",AR: EGYPTIEN| DMC MASRAHEYAT SD
-http://721688521481667346.of1030ok.xyz:80/play/Nael624L/NaelM122/667346.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| DMC NEWS FHD" tvg-logo="http://arabi21.com/Content/Upload/large/920184223433721.jpg" group-title="Arabic",AR: EGYPTIEN| DMC NEWS FHD
-http://721688521481667347.of1030ok.xyz:80/play/Nael624L/NaelM122/667347.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: EGYPTIEN| DMC SD" tvg-logo="" group-title="Arabic",AR: EGYPTIEN| DMC SD
-http://721688521481667348.of1030ok.xyz:80/play/Nael624L/NaelM122/667348.ts
 
 
 #EXTINF:-1,PK| PTV Bolan
