@@ -147,44 +147,48 @@ http://iptvtree.net:8080/F24365/058a5194/1262
 http://iptvtree.net:8080/F24365/058a5194/4958
 #EXTINF:-1,MBC Maser
 http://iptvtree.net:8080/F24365/058a5194/297543
-#EXTINF:-1,LY:  Alwatania TV
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/268583
-#EXTINF:-1,LY: 218 news
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/11242
-#EXTINF:-1,LY: Al Aan TV
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/300778
-#EXTINF:-1,LY: Al Ahrar TV
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/13645
-#EXTINF:-1,LY: Almasar TV
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/300777
-#EXTINF:-1,LY: Almustaqbal
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/21708
-#EXTINF:-1,LY: Alrasmia
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/268619
-#EXTINF:-1,LY: February
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/11258
-#EXTINF:-1,LY: Jamahiria
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/283982
-#EXTINF:-1,LY: Lebda
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/296919
-#EXTINF:-1,LY: Libya AL Mostakbal TV
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/300779
-#EXTINF:-1,LY: Libya Alhadath
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/11165
-#EXTINF:-1,LY: Libya Education
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/296920
-#EXTINF:-1,LY: Libya Sport TV
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/269430
-#EXTINF:-1,LY: Libya Sport TV 2
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/296800
-#EXTINF:-1,LY: Libyan Business
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/296917
-#EXTINF:-1,LY: Libyas
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/11182
-#EXTINF:-1,LY: Salam TV
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/290464
-#EXTINF:-1,LY: Tanasuh TV
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/44286
+#EXTINF:-1,AR: Libya Al Hadath 4K
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/4516
+#EXTINF:-1,AR: Libya Al Wasat TV 4K
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/23
+#EXTINF:-1,AR: Libya Alwataniya 4K
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/3197
+#EXTINF:-1,AR: Libya Alwataniya HD
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/498906
+#EXTINF:-1,AR: Libya Lebda TV 4K
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/322809
+#EXTINF:-1,AR: Libya Lebda TV HD
+
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/498907
+
+#EXTINF:-1,AR: Al Massar TV 4K
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/323666
+#EXTINF:-1,AR: Libya Salam TV 4K
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/365940
+#EXTINF:-1,AR: Libya Salam TV HD
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/499076
+#EXTINF:-1,AR: New Libya News 4K
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/488682
+#EXTINF:-1,AR: New Libya News HD
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/499080
+
+#EXTINF:-1,AR: Libya Drama NLC 4K
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/399907
+#EXTINF:-1,AR: Libya Drama NLC HD
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/499079
+
+#EXTINF:-1,AR: Libya Alrasmia
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/248994
+#EXTINF:-1,AR: Libya Mostaqbal HD
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/3111
+#EXTINF:-1,AR: Libya Education
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/320693
+
+#EXTINF:-1,AR: Libya Febrauary
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/341189
+
+#EXTINF:-1,AR: Tanasuh TV
+http://king4k.tv:80/1e469ad3a7/25hzvp1pdo/4260
 #EXTINF:-1,Komala
 http://iptvtree.net:8080/F24365/058a5194/69520
 #EXTINF:-1,Komall
