@@ -156,9 +156,9 @@ https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
 #EXTINF:0 tvg-country="SA" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="None",Saudi TV 1
 https://shls-masr2-ak.akamaized.net:443/out/v1/5ae66b453b62403199811ab78da9982a/index_2.m3u8
 #EXTINF:-1 tvg-id=Madani Urdu tv.pk" tvg-name="Madani TV Urdu" tvg-country="PK" tvg-language="Urdu" tvg-logo= "/sfmr9yZmuhzXhviaQGKeOzaimebuid/1p3se+/QggfM31XtZQzBNlnHqfEYnOLUwNY2tY+pYTIBJTjVrjI3BDri7bC/6nPI1J3tfEHRpRbJeFY3R5owOqqQxlMwDiv8AFxOG49nG92uHTz91fI" group-title="Religious",Madani Channel Urdu
-https://live.mvdn.castnest.io:443/madnitvurdu/madniurduabr/tracks-v1a1/mono.m3u8?token=
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
 #EXTINF:-1 tvg-logo="https://dawateislamimidlands.net/wp-content/uploads/2020/01/Madani-Channel-Section-1.png" group-title="Religious",Madani Channel English 
-https://live.mvdn.castnest.io:443/madnitvenglish/madnienglishabr/tracks-v3a1/mono.m3u8?token=
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
 #EXTINF:-1 tvg-id=Geo News.pk" tvg-name="Geo news TV" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="India-Pakistani",GEO news
 http://humiptv.live:8080/live/639572614395/639572614395/129.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="NEWS", CGTN
