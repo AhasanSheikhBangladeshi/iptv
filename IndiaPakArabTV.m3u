@@ -26,7 +26,17 @@ http://iptvtree.net:8080/F24365/058a5194/19711
 http://838091063785701468.of1207.xyz:80/play/vi124912/N9NxcfYWSJNC/701468.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN EDU SD" tvg-logo="https://asiagrandiptv.us/logo//YEMENEDU.png" group-title="Arabic",AR: YEMEN EDU SD
 http://838091063785614099.of1207.xyz:80/play/vi124912/N9NxcfYWSJNC/614099.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| ALMASIRAH TV HD" tvg-logo="" group-title="Arabic",AR: YEMEN| ALMASIRAH TV HD
+http://838091063785681012.of1207.xyz:80/play/vi124912/N9NxcfYWSJNC/681012.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| AL GHAD AL MUSHREQ SD" tvg-logo="" group-title="Arabic",AR: YEMEN| AL GHAD AL MUSHREQ SD
+http://838091063785685811.of1207.xyz:80/play/vi124912/N9NxcfYWSJNC/685811.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| YEMEN SHABAB FHD" tvg-logo="" group-title="Arabic",AR: YEMEN| YEMEN SHABAB FHD
+http://838091063785685812.of1207.xyz:80/play/vi124912/N9NxcfYWSJNC/685812.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="AR: TUNISIA| TUNISIA NAT1 SD" tvg-logo="" group-title="Arabic",AR: TUNISIA| TUNISIA NAT1 SD
+http://838091063785667796.of1207.xyz:80/play/vi124912/N9NxcfYWSJNC/667796.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: TUNISIE| AL JANOUBIA TV SD" tvg-logo="" group-title="Arabic",AR: TUNISIE| AL JANOUBIA TV SD
+http://838091063785667799.of1207.xyz:80/play/vi124912/N9NxcfYWSJNC/667799.ts
 
 #EXTINF:-1,IR Simaye Azadi Iranntv
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
