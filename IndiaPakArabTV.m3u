@@ -1,69 +1,3 @@
-#EXTINF:-1,PK: 92 News
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1402
-#EXTINF:-1,PK: A Plus
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/49504
-#EXTINF:-1,PK: A Sports
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/295025
-#EXTINF:-1,PK: Aaj News
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1401
-#EXTINF:-1,PK: Abb Takk
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1400
-#EXTINF:-1,PK: ARY Digital Asia
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/49510
-#EXTINF:-1,PK: ARY Musik
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1398
-#EXTINF:-1,PK: ARY News
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1397
-#EXTINF:-1,PK: ARY QTV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/5058
-#EXTINF:-1,PK: ARY World
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/49494
-#EXTINF:-1,PK: ARY Zindagi
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1396
-#EXTINF:-1,PK: ATV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/34630
-#EXTINF:-1,PK: AVT Khyber
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/287724
-#EXTINF:-1,PK: Bol Entertainment
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/49517
-#EXTINF:-1,PK: Bol News
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1395
-#EXTINF:-1,PK: Capital TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/16625
-#EXTINF:-1,PK: Channel Five
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/49501
-#EXTINF:-1,PK: Geo News
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1391
-#EXTINF:-1,PK: Geo Super
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/16626
-#EXTINF:-1,PK: Geo Tez
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/5106
-#EXTINF:-1,PK: Geo TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1389
-#EXTINF:-1,PK: Gourmet News Network (GNN)
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/297566
-#EXTINF:-1,PK: Hum Masala
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/19746
-#EXTINF:-1,PK: Hum News
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/49493
-#EXTINF:-1,PK: Hum Sitaray
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1386
-#EXTINF:-1,PK: Hum TV Europe
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1387
-#EXTINF:-1,PK: PTV Global
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1382
-#EXTINF:-1,PK: PTV Home
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1381
-#EXTINF:-1,PK: PTV News
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1380
-#EXTINF:-1,PK: PTV Sports
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/16633
-#EXTINF:-1,PK: PTV World
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1379
-#EXTINF:-1,PK: Public News
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/49522
-#EXTINF:-1,PK: Such News
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/197116
 #EXTINF:-1,IR Simaye Azadi Iranntv
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 #EXTINF:-1, Al Manar Tv (Lebanon)
@@ -75,110 +9,55 @@ https://mn-nl.mncdn.com:443/qaf/live/chunklist.m3u8
 #EXTINF:-1,Egypt TEN (Tahrir Network) TV
 https://weyyak-live.akamaized.net:443/weyyak_ten_tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,YE: Aden TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/266324
-#EXTINF:-1,YE: Al Eman TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/300991
-#EXTINF:-1,YE: AL Mahrah TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/266325
-#EXTINF:-1,YE: Alghad Almushreq
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/281959
-#EXTINF:-1,YE: Alhawyah
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/298407
-#EXTINF:-1,YE: Almahriah TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/266326
-#EXTINF:-1,YE: Almasirah Mubasher
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/166341
-#EXTINF:-1,YE: AlMasirah TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/166245
-#EXTINF:-1,YE: Belqees TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/266323
-#EXTINF:-1,YE: Hadramout
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/266328
-#EXTINF:-1,YE: Sheba
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/298404
-#EXTINF:-1,YE: Suhail TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/268914
-#EXTINF:-1,YE: Yemen Documentary
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/298401
-#EXTINF:-1,YE: Yemen Education
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/298402
-#EXTINF:-1,YE: Yemen Shabab
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/266321
-#EXTINF:-1,YE: Yemen Today TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/266320
-#EXTINF:-1,YE: Yemen TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/266322
-#EXTINF:-1,PS: Ajyal
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1293
-#EXTINF:-1,PS: Al Aqsa
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/284411
-#EXTINF:-1,PS: Al Fajer
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/266285
-#EXTINF:-1,PS: Al Haqiqa
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/266282
-#EXTINF:-1,PS: Al Quds Today TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/21471
-#EXTINF:-1,PS: Alkofiya TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/266281
-#EXTINF:-1,PS: Awdeh
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/85570
+#EXTINF:-1 tvg-id="" tvg-name="AR| PALESTINE TODAY" group-title="AR| PALASTINA",AR| PALESTINE TODAY
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=826882&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| PALESTINE LIVE" group-title="AR| PALASTINA",AR| PALESTINE LIVE
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=826881&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| PALESTINE SAT" group-title="AR| PALASTINA",AR| PALESTINE SAT
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=826880&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| PALESTINE" group-title="AR| PALASTINA",AR| PALESTINE
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=826879&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| PALESTINE NEWS" group-title="AR| PALASTINA",AR| PALESTINE NEWS
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=826878&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL SERAJ AL AQSA" group-title="AR| PALASTINA",AR| AL SERAJ AL AQSA
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=826877&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL QUDS TODAY TV" group-title="AR| PALASTINA",AR| AL QUDS TODAY TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=826876&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALFAJER TV" group-title="AR| PALASTINA",AR| ALFAJER TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=1163412&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| MAAN TV" group-title="AR| PALASTINA",AR| MAAN TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=826875&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| HEBRON SAT TV" group-title="AR| PALASTINA",AR| HEBRON SAT TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=826866&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL SALAM TV HD" group-title="AR| PALASTINA",AR| AL SALAM TV HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=826861&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| WATAN PALASTINE HD" group-title="AR| PALASTINA",AR| WATAN PALASTINE HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=1057223&extension=ts
 
-#EXTINF:-1,PS: Palestine Al Yawm
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/298411
-#EXTINF:-1,PS: Palestine Mobasher
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/279682
-#EXTINF:-1,PS: Palestine TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/266278
-#EXTINF:-1,PS: Rajeen TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/284422
-#EXTINF:-1,KW: Al Maaly TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/245625
-#EXTINF:-1,KW: Al Sabah
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/245616
-#EXTINF:-1,KW: Al Shahed
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/284383
-#EXTINF:-1,KW: Alanwar TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/225970
-#EXTINF:-1,KW: Albawadi TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/245630
-#EXTINF:-1,KW: Alrai TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/4960
-#EXTINF:-1,KW: ATV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/245631
-#EXTINF:-1,KW: Funoon TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/2928
-#EXTINF:-1,KW: KTV 1
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/3747
-#EXTINF:-1,KW: KTV 2
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/3748
-#EXTINF:-1,KW: KTV Al Qurain
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/245620
-#EXTINF:-1,KW: KTV Arabe
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/165387
-#EXTINF:-1,KW: KTV Drama
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/283162
-#EXTINF:-1,KW: KTV Ethraa
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/11321
-#EXTINF:-1,KW: KTV Sport
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1250
-#EXTINF:-1,KW: KTV Sport 2
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/245622
-#EXTINF:-1,KW: Kuwait TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/266532
-#EXTINF:-1,KW: Marina TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/245629
-
-#EXTINF:-1,TN: Tunisna TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/11172
-#EXTINF:-1,TN: Watania 1
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1210
-#EXTINF:-1,TN: Watania 2
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1209
-#EXTINF:-1,TN: Elhiwar Ettounsi TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1255
-#EXTINF:-1,TN: Hannibal TV
-http://iptvtree.net:8080/fastmedia/UP4B28mSye5ZHA6u/1253
 
 
 
