@@ -1,55 +1,217 @@
-#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK : 92 NEWS-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="PAKISTAN NEWS",PK : 92 NEWS-HD
-http://livetvbox.live:8080/live/Richard/Richard/141.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK : GNN NEWS-HD" tvg-logo="https://www.dishurdu.com/images/GNN-News-Logo.png" group-title="PAKISTAN NEWS",PK : GNN NEWS-HD
-http://livetvbox.live:8080/live/Richard/Richard/139.ts
-#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK : ARY NEWS-HD" tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="PAKISTAN NEWS",PK : ARY NEWS-HD
-http://livetvbox.live:8080/live/Richard/Richard/143.ts
-#EXTINF:-1 tvg-id="geonews.pk" tvg-name="PK : GEO NEWS-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="PAKISTAN NEWS",PK : GEO NEWS-HD
-http://livetvbox.live:8080/live/Richard/Richard/129.ts
-#EXTINF:-1 tvg-id="humnews.pk" tvg-name="PK : HUM NEWS-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/HUM_News_Logo.png" group-title="PAKISTAN NEWS",PK : HUM NEWS-HD
-http://livetvbox.live:8080/live/Richard/Richard/103.ts
-#EXTINF:-1 tvg-id="humnews.pk" tvg-name="UK: HUM NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/HUM_News_Logo.png" group-title="PAKISTAN NEWS",UK: HUM NEWS
-http://livetvbox.live:8080/live/Richard/Richard/4087.ts
-#EXTINF:-1 tvg-id="samaatv.pk" tvg-name="PK : SAMAA NEWS" tvg-logo="https://i1.sndcdn.com/avatars-000467647407-tush2q-t500x500.jpg" group-title="PAKISTAN NEWS",PK : SAMAA NEWS
-http://livetvbox.live:8080/live/Richard/Richard/140.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK : BOL NEWS-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAKISTAN NEWS",PK : BOL NEWS-HD
-http://livetvbox.live:8080/live/Richard/Richard/135.ts
-#EXTINF:-1 tvg-id="dunyanews.pk" tvg-name="PK : DUNYA NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg" group-title="PAKISTAN NEWS",PK : DUNYA NEWS
-http://livetvbox.live:8080/live/Richard/Richard/134.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK : 24 NEWS HD" tvg-logo="https://i.pinimg.com/474x/18/dc/d3/18dcd3fe6af95f701e2887a21d075f5a.jpg" group-title="PAKISTAN NEWS",PK : 24 NEWS HD
-http://livetvbox.live:8080/live/Richard/Richard/138.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: 24 NEWS-HD" tvg-logo="https://i.pinimg.com/474x/18/dc/d3/18dcd3fe6af95f701e2887a21d075f5a.jpg" group-title="PAKISTAN NEWS",PK: 24 NEWS-HD
-http://livetvbox.live:8080/live/Richard/Richard/6626.ts
-#EXTINF:-1 tvg-id="dawnnews.pk" tvg-name="PK : DAWN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Dawn_News.jpg" group-title="PAKISTAN NEWS",PK : DAWN NEWS
-http://livetvbox.live:8080/live/Richard/Richard/133.ts
-#EXTINF:-1 tvg-id="expressnews.pk" tvg-name="PK: EXPRESS NEWS" tvg-logo="https://i2.wp.com/www.thedesidesign.com/wp-content/uploads/2011/11/express_news.png" group-title="PAKISTAN NEWS",PK: EXPRESS NEWS
-http://livetvbox.live:8080/live/Richard/Richard/58.ts
-#EXTINF:-1 tvg-id="aajnews.pk" tvg-name="PK : AAJ NEWS" tvg-logo="" group-title="PAKISTAN NEWS",PK : AAJ NEWS
-http://livetvbox.live:8080/live/Richard/Richard/137.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK : NEWS ONE" tvg-logo="https://i.ytimg.com/vi/ty9-E7IQY3E/hqdefault.jpg" group-title="PAKISTAN NEWS",PK : NEWS ONE
-http://livetvbox.live:8080/live/Richard/Richard/142.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK : ABB TAK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Abb_Tak_news_logo.png" group-title="PAKISTAN NEWS",PK : ABB TAK
-http://livetvbox.live:8080/live/Richard/Richard/136.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: SACH NEWS" tvg-logo="https://yt3.ggpht.com/a/AATXAJxF6lvGksVXE4lJUw3Q7wD5ozWDz3PXXEKIWjvC=s900-c-k-c0xffffffff-no-rj-mo" group-title="PAKISTAN NEWS",PK: SACH NEWS
-http://livetvbox.live:8080/live/Richard/Richard/2011.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: NEO NEWS " tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Neo_News_logo.jpg" group-title="PAKISTAN NEWS",PK: NEO NEWS 
-http://livetvbox.live:8080/live/Richard/Richard/2009.ts
-#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK : PTV News-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/PTV_News_Logo.png" group-title="PAKISTAN NEWS",PK : PTV News-HD
-http://livetvbox.live:8080/live/Richard/Richard/131.ts
-#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK: HUM TV (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="PAKISTAN",PK: HUM TV (FHD)
-http://livetvbox.live:8080/live/Richard/Richard/49584.ts
-#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK: HUM TV-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="PAKISTAN",PK: HUM TV-HD
-http://livetvbox.live:8080/live/Richard/Richard/122.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: Islam Channel Urdu" tvg-logo="https://lh3.googleusercontent.com/3X7b05ZLwxhP22j6HpWbfj_OKpw5sAYajyobCav-OWhMcew-nJlhQtVe9vVR7w8v3Q" group-title="ISLAMIC",PK: Islam Channel Urdu
-http://livetvbox.live:8080/live/Richard/Richard/92.ts
-#EXTINF:-1 tvg-id="ptvworld.pk" tvg-name="PK : PTV WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="ENGLISH NEWS",PK : PTV WORLD
-http://livetvbox.live:8080/live/Richard/Richard/111.ts
-#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK: ARY DIGITAL (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN",PK: ARY DIGITAL (4K)
-http://livetvbox.live:8080/live/Richard/Richard/257229.ts
-#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK: ARY DIGITAL-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN",PK: ARY DIGITAL-HD
-http://livetvbox.live:8080/live/Richard/Richard/124.ts
-#EXTINF:-1 tvg-id="aryfamily.uk" tvg-name="PK: ARY DIGITAL (UK)"group-title="PAKISTAN",PK: ARY DIGITAL (UK)
-http://livetvbox.live:8080/live/Richard/Richard/125.ts
+#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK | 92 News" tvg-logo="https://static.epg.best/pk/92News.pk.png" group-title="PAKISTAN | NEWS",PK | 92 News
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/221345
+#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK | 92 News HD" tvg-logo="https://static.epg.best/pk/92News.pk.png" group-title="PAKISTAN | NEWS",PK | 92 News HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/25996
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | HUM TV HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/25981
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | HUM SITARAY
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/25983
+#EXTINF:-1 tvg-id="humtvworld.pk" tvg-name="PK: HUM EUROPE*" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: HUM EUROPE*
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/103688
+#EXTINF:-1 tvg-id="" tvg-name="PK: HUM PASHTO*" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: HUM PASHTO*
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/207397
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | Hum News HD" tvg-logo="" group-title="PAKISTAN | NEWS",PK | Hum News HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/26018
+#EXTINF:-1 tvg-id="arynews.eg" tvg-name="PK | ARY News HD" tvg-logo="https://static.epg.best/pk/ARYNews.pk.png" group-title="PAKISTAN | NEWS",PK | ARY News HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/25980
+#EXTINF:-1 tvg-id="arynews.eg" tvg-name="PK | ARY News" tvg-logo="https://static.epg.best/pk/ARYNews.pk.png" group-title="PAKISTAN | NEWS",PK | ARY News
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/221344
+#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK | ARY DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY DIGITAL
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/221337
+#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK | ARY DIGITAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY DIGITAL HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/25989
+#EXTINF:-1 tvg-id="aryzindagi.pk" tvg-name="PK | ARY ZINDAGI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY ZINDAGI
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/25990
+#EXTINF:-1 tvg-id="aryqtv.pk" tvg-name="ARY QTV" tvg-logo="" group-title=" ISLAMIC",ARY QTV
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/3
+#EXTINF:-1 tvg-id="samaatv.pk" tvg-name="PK | Samaa News" tvg-logo="https://www.samaa.tv/assets/images/logo.png" group-title="PAKISTAN | NEWS",PK | Samaa News
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/26036
+#EXTINF:-1 tvg-id="" tvg-name="PK | Bol News HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol_news_pk.png" group-title="PAKISTAN | NEWS",PK | Bol News HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/26046
+#EXTINF:-1 tvg-id="" tvg-name="PK | Bol Entertainment HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Bol Entertainment HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/26045
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV NATIONAL" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV NATIONAL
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/110050
+#EXTINF:-1 tvg-id="" tvg-name="PK | PTV NEWS" tvg-logo="https://static.epg.best/pk/PTVNews.pk.png" group-title="PAKISTAN | NEWS",PK | PTV NEWS
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/25988
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV HOME" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV HOME
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/221342
+#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PK: PTV HOME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV HOME HD
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/103703
+#EXTINF:-1 tvg-id="" tvg-name="PAK: Ptv World" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ptv_world_pk.jpg" group-title="PAKISTAN | NEWS",PAK: Ptv World
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/167657
+#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="PK | PTV GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK | PTV GLOBAL
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/25994
+
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL OULA MASRIA HEVC" group-title="AR| EGYPT",AR| AL OULA MASRIA HEVC
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=543724&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL THANYA 2" group-title="AR| EGYPT",AR| AL THANYA 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=543723&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL KAHERA 3" group-title="AR| EGYPT",AR| AL KAHERA 3
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=543722&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL KANAL MASR 4" group-title="AR| EGYPT",AR| AL KANAL MASR 4
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=543721&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL ASKANDARIA 5" group-title="AR| EGYPT",AR| AL ASKANDARIA 5
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=543720&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL DELTA MASR 6" group-title="AR| EGYPT",AR| AL DELTA MASR 6
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=543719&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL SAEED MASR 7" group-title="AR| EGYPT",AR| AL SAEED MASR 7
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=543718&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| TEBE 8" group-title="AR| EGYPT",AR| TEBE 8
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=543717&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| DMC TV HD" group-title="AR| EGYPT",AR| DMC TV HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=543715&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| ELSHARQ TV FHD" group-title="AR| EGYPT",AR| ELSHARQ TV FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=647910&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| MEKAMELEEN TV" group-title="AR| EGYPT",AR| MEKAMELEEN TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=543730&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| NILE TV" group-title="AR| EGYPT",AR| NILE TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=543703&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| CBC" group-title="AR| EGYPT",AR| CBC
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=543683&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| CBC DRAMA" group-title="AR| EGYPT",AR| CBC DRAMA
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=543682&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AR| TAYBA SUDAN" group-title="AR| SUDAN",AR| TAYBA SUDAN
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=740180&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL ISTIJABA TV" group-title="AR| SUDAN",AR| AL ISTIJABA TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=1049061&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| DABANGO SUDAN" group-title="AR| SUDAN",AR| DABANGO SUDAN
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=807964&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| SUDANIA 24 HD" group-title="AR| SUDAN",AR| SUDANIA 24 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=8088&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| SUDANIA 24 SD" group-title="AR| SUDAN",AR| SUDANIA 24 SD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=23623&extension=ts
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=7863&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| SUDAN NOOR TV" group-title="AR| SUDAN",AR| SUDAN NOOR TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=808553&extension=ts
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=916141&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| MOURITANIYA" group-title="AR| MAURITANIA",AR| MOURITANIYA
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=173461&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| EL MOURITANIYA 2" group-title="AR| MAURITANIA",AR| EL MOURITANIYA 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=173458&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| MOURITANIA ATHAGAVIA TV" group-title="AR| MAURITANIA",AR| MOURITANIA ATHAGAVIA TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=173460&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| KUWEIT TV 1 HD" group-title="AR| KUWAIT",AR| KUWEIT TV 1 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=6575&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| KUWEIT TV 2 HD" group-title="AR| KUWAIT",AR| KUWEIT TV 2 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=6573&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| KUWEIT TV AL ARABI HD" group-title="AR| KUWAIT",AR| KUWEIT TV AL ARABI HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=6572&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| KUWEIT TV ETHRAA HD" group-title="AR| KUWAIT",AR| KUWEIT TV ETHRAA HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=6571&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| KUWAIT KHALILK BILBAIT" group-title="AR| KUWAIT",AR| KUWAIT KHALILK BILBAIT
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=295588&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| KUWAIT ETHRAA" group-title="AR| KUWAIT",AR| KUWAIT ETHRAA
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=138607&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| KUWAIT SPORTS FHD" group-title="AR| KUWAIT",AR| KUWAIT SPORTS FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=138606&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| KUWAIT AL ARABI" group-title="AR| KUWAIT",AR| KUWAIT AL ARABI
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=138604&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| KUWAIT PLUS" group-title="AR| KUWAIT",AR| KUWAIT PLUS
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=138603&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| KUWAIT TV 2" group-title="AR| KUWAIT",AR| KUWAIT TV 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=138602&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| KUWAIT TV 1 HD" group-title="AR| KUWAIT",AR| KUWAIT TV 1 HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=138599&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| KUWEIT TV PLUS HD" group-title="AR| KUWAIT",AR| KUWEIT TV PLUS HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=6574&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL SHAHED TV 4K" group-title="AR| KUWAIT",AR| AL SHAHED TV 4K
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=1005505&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR|  AL MAJLIS" group-title="AR| SAUDIA ARABIA",AR|  AL MAJLIS
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=1022172&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL FUJERA HD" group-title="AR| KUWAIT",AR| AL FUJERA HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=83503&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL ADALAH TV ATV" group-title="AR| KUWAIT",AR| AL ADALAH TV ATV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=138618&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALRAI TV FHD" group-title="AR| KUWAIT",AR| ALRAI TV FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=138613&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL SABAH TV" group-title="AR| KUWAIT",AR| AL SABAH TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=138610&extension=ts
 
 #EXTINF:-1,IR Simaye Azadi Iranntv
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
@@ -61,34 +223,6 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://mn-nl.mncdn.com:443/qaf/live/chunklist.m3u8
 #EXTINF:-1,Egypt TEN (Tahrir Network) TV
 https://weyyak-live.akamaized.net:443/weyyak_ten_tv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="KW | Al-Sabah TV" tvg-logo="" group-title="KUWAIT",KW | Al-Sabah TV
-http://livetvbox.live:8080/live/Richard/Richard/29984.ts
-#EXTINF:-1 tvg-id="" tvg-name="KW | AL MAJLIS" tvg-logo="" group-title="KUWAIT",KW | AL MAJLIS
-http://livetvbox.live:8080/live/Richard/Richard/29985.ts
-#EXTINF:-1 tvg-id="" tvg-name="KW | Al Maaref TV" tvg-logo="" group-title="KUWAIT",KW | Al Maaref TV
-http://livetvbox.live:8080/live/Richard/Richard/29986.ts
-#EXTINF:-1 tvg-id="" tvg-name="KW | Alrai TV" tvg-logo="" group-title="KUWAIT",KW | Alrai TV
-http://livetvbox.live:8080/live/Richard/Richard/29987.ts
-#EXTINF:-1 tvg-id="" tvg-name="KW | Kuwait Sport Plus" tvg-logo="" group-title="KUWAIT",KW | Kuwait Sport Plus
-http://livetvbox.live:8080/live/Richard/Richard/29988.ts
-#EXTINF:-1 tvg-id="" tvg-name="KW | Kuwait Sports" tvg-logo="" group-title="KUWAIT",KW | Kuwait Sports
-http://livetvbox.live:8080/live/Richard/Richard/29989.ts
-#EXTINF:-1 tvg-id="" tvg-name="KW | Kuwait TV 1" tvg-logo="" group-title="KUWAIT",KW | Kuwait TV 1
-http://livetvbox.live:8080/live/Richard/Richard/29992.ts
-#EXTINF:-1 tvg-id="" tvg-name="KW | KUWAIT TV 2" tvg-logo="" group-title="KUWAIT",KW | KUWAIT TV 2
-http://livetvbox.live:8080/live/Richard/Richard/29993.ts
-#EXTINF:-1 tvg-id="" tvg-name="KW | KUWAIT TV ARABI HD" tvg-logo="" group-title="KUWAIT",KW | KUWAIT TV ARABI HD
-http://livetvbox.live:8080/live/Richard/Richard/29994.ts
-#EXTINF:-1 tvg-id="" tvg-name="KW | Kuwait Qurain" tvg-logo="" group-title="KUWAIT",KW | Kuwait Qurain
-http://livetvbox.live:8080/live/Richard/Richard/29995.ts
-#EXTINF:-1 tvg-id="" tvg-name="KW | Kuwait Ethraa" tvg-logo="" group-title="KUWAIT",KW | Kuwait Ethraa
-http://livetvbox.live:8080/live/Richard/Richard/29996.ts
-#EXTINF:-1 tvg-id="" tvg-name="KW | Kuwait Drama" tvg-logo="" group-title="KUWAIT",KW | Kuwait Drama
-http://livetvbox.live:8080/live/Richard/Richard/29997.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: Asharq News " tvg-logo="" group-title="ARABIC NEWS",AR: Asharq News 
-http://livetvbox.live:8080/live/Richard/Richard/30112.ts
-
 
 #EXTINF:-1 tvg-id="" tvg-name="AR| PALESTINE TODAY" group-title="AR| PALASTINA",AR| PALESTINE TODAY
 #EXTVLCOPT:cache=17238
