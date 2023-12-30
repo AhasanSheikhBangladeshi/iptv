@@ -10,7 +10,7 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla", Bangladesh Television BTV CTG Chattogram
 http://103.106.2.152:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-name="RTA Afghan" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA TV Afghan
-http://iptvtree.net:8080/F24365/058a5194/300674
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/300674
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision  (BDIX0)
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" tvg-country="IN" tvg-language="English" tvg-logo=" " group-title="News",NDTV(480p)
@@ -90,11 +90,11 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/1899
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
-#EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"group-title="India-Pakistani",ARY NEWS (PK)
-http://iptvtree.net:8080/F24365/058a5194/1397
 
+#EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"group-title="India-Pakistani",ARY NEWS (PK)
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/221344
 #EXTINF:-1 ch-id="ARY DIGITAL (PK)" tvg-logo="https://1.bp.blogspot.com/--wDE2l82PT0/YRepmImjWvI/AAAAAAAAA4g/QfuH2Q9yP_I7D6RrkC5IiaEGRLRvPg6JwCLcBGAsYHQ/s200/PicsArt_08-14-05.01.13.jpg"  group-title="India-Pakistani",ARY DIGITAL (PK)
-http://iptvtree.net:8080/F24365/058a5194/49510
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/221337
 #EXTINF:-1 ch-id="GEO HD (PK)" tvg-logo="https://1.bp.blogspot.com/-fktS4IURByc/YO43k9xSajI/AAAAAAAAAbM/gex7jop3fIQ62kO64RiVFEmqfg8439VTQCLcBGAsYHQ/s200/PicsArt_07-14-06.29.55.jpg"  group-title="India-Pakistani",GEO TV HD (PK)
 http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/97 
 #EXTINF:-1,tvg-logo="http://www.arirang.com/images/index/arirang.png" group-title="General",Arirang Korea
@@ -135,8 +135,8 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8?DVR&v=1778398403
 https://5c75277727cd1.streamlock.net/iplustv/iplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Huda Tv" tvg-logo="http://2.bp.blogspot.com/-cSfP2QGNX28/VYv3Az7jdqI/AAAAAAAAARo/IfXNZKE0_Fk/s1600/Huda%2BLogo%2BSMALL.jpg" group-title="En-Religious",EN- Huda Tv
 http://bestsave.ltd:80/live/2233445566/6655443322/139967.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxGY7_yuYYzSh1-EAbphivlU-EFuxe3bO6jQ&usqp=CAU" group-title="General",Yemen TV
-http://idlib.link:2082/dolpi1/dolpia1/3751
+#EXTINF:0 tvg-id="" tvg-name="Yemen Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxGY7_yuYYzSh1-EAbphivlU-EFuxe3bO6jQ&usqp=CAU" group-title="General",Yemen TV
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=815538&extension=ts
 #EXTINF:-1 tvg-id="OmanTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C7kfubs.png" group-title="General",Oman TV (1080p)
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlraiTV-200x150.png" ,Al Rai 
@@ -198,7 +198,7 @@ http://113.203.244.4:8000/play/a08s/index.m3u8
 #EXTINF:-1 tvg-id="PTVHome.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/mJxpdBU.png" group-title="Pakistani",PTV Home (238p)
 https://ptvbkp.nayatel.com/transcoder/ptvhometrc_source/playlist.m3u8 
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/LyqGxwv.jpg" group-title="News",PTV News (1080p) [Not 24/7]
-https://ptvbkp.nayatel.com/transcoder/ptvnewstrc_source/playlist.m3u8 
+http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/25988
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber (720p)
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (1080p)
@@ -228,7 +228,7 @@ http://clientsportals.com:2095/2BZpCyBDhd/gwbbBttx/13451
 #EXTINF:-1 tvg-id= "Al Resalah Tv" tvg-logo="https://www.thematv.com/images/channels/al-resalah.png" group-title="Relegious",Al Resalah TV
 http://iptvtree.net:8080/Vladisergeevic/2f71144da3/225180
 #EXTINF:-1 tvg-id="AlAqsaChannel.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" group-title="Arab",Al Aqsa Channel (416p) [Not 24/7]
-http://idlib.link:2082/dolpi1/dolpia1/3679
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=826877&extension=ts
 #EXTINF:-1 tvg-id="AlIraqiyaAl3ama.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya Al 3ama (720p) [Not 24/7]
 https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 tvg-id="Yemen Today.Ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="" group-title=" ",Yemen.Today (576p)
