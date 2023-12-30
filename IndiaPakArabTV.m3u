@@ -116,18 +116,12 @@ http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=807964&extensi
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=8088&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| SUDANIA 24 SD" group-title="AR| SUDAN",AR| SUDANIA 24 SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=23623&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AR| SUDAN TV" group-title="AR| SUDAN",AR| SUDAN TV
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=7863&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| SUDAN NOOR TV" group-title="AR| SUDAN",AR| SUDAN NOOR TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=808553&extension=ts
-http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=916141&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="AR| MOURITANIYA" group-title="AR| MAURITANIA",AR| MOURITANIYA
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -604,3 +598,63 @@ http://xplatinmedia.com:8080/Dedicadonet/dbPER0LdnRBQQHWOMYuKxXzfF7/92455
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-id="Ali TV" tvg-logo="https://shiachannel.in/livetv/img/channels/alitv.jpg" group-title="Shia Channels",Ali TV
 https://alitv.livebox.co.in/alitvhls/live.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AR| EN TV ALGERIA" group-title="AR| ALGERIA",AR| EN TV ALGERIA
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=6724&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| CANAL ALGERIE" group-title="AR| ALGERIA",AR| CANAL ALGERIE
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=6723&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| A3 ALGERIE" group-title="AR| ALGERIA",AR| A3 ALGERIE
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=6722&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| TUNISIA 1 FHD" group-title="AR| TUNISIA",AR| TUNISIA 1 FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=851476&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| TUNISIA NAT 1" group-title="AR| TUNISIA",AR| TUNISIA NAT 1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=6696&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| TUNISIA NAT 2" group-title="AR| TUNISIA",AR| TUNISIA NAT 2
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=6695&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AR| Al AOULA INTER HD" group-title="AR| MOROCCO",AR| Al AOULA INTER HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=891367&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| Al AOULA INTER FHD" group-title="AR| MOROCCO",AR| Al AOULA INTER FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=7625&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| 2M MONDE" group-title="AR| MOROCCO",AR| 2M MONDE
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=6736&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| 2M NATIONAL" group-title="AR| MOROCCO",AR| 2M NATIONAL
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=208315&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| ARRIADIA TNT HD" group-title="AR| MOROCCO",AR| ARRIADIA TNT HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=969051&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| ASSADISSA HD" group-title="AR| MOROCCO",AR| ASSADISSA HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=7620&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| TAMAZIGHT HD" group-title="AR| MOROCCO",AR| TAMAZIGHT HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=7621&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| MEDI 1 TV HD" group-title="AR| MOROCCO",AR| MEDI 1 TV HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=7622&extension=ts
+
