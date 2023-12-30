@@ -218,142 +218,106 @@ https://mn-nl.mncdn.com:443/qaf/live/chunklist.m3u8
 #EXTINF:-1,Egypt TEN (Tahrir Network) TV
 https://weyyak-live.akamaized.net:443/weyyak_ten_tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,AFG: Payam e Afghan TV
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/66174
-#EXTINF:-1,AFG: RTA
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/300674
-#EXTINF:-1,AFG: RTA Sport
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/66167
-#EXTINF:-1,AFG: Shamshad TV
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/159104
-#EXTINF:-1,AFG: Tamadon TV
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/54330
-#EXTINF:-1,AFG: Tolo News
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/66181
-#EXTINF:-1,AFG: Tolo TV
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/66165
-#EXTINF:-1,AFG: Afghanistan International
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/296838
-#EXTINF:-1,AFG: AMC
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/66385
-#EXTINF:-1,AFG: Arezo TV
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/5499
-#EXTINF:-1,AFG: Ariana TV
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/285853
-#EXTINF:-1,AFG: ATN International
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/296645
-#EXTINF:-1,AFG: ATN Jahani
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/296646
-#EXTINF:-1,AFG: ATN Jahani News
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/296647
-#EXTINF:-1,AFG: ATN News
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/54314
-#EXTINF:-1,AFG: Dunya Naw
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/272812
-#EXTINF:-1,AFG: Hasti TV
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/287454
-#EXTINF:-1,AFG: Hewad TV
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/285855
-#EXTINF:-1,AFG: Iman TV
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/166201
-#EXTINF:-1,AFG: Lemar TV
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/66177
-#EXTINF:-1,AFG: Noor TV
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/66178
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IQ: Afaq TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/9406549d09fe5b92f850d147c11f4c0f.png" group-title="Iraq",IQ: Afaq TV
-http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/351248
-#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Aqila TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/b9c913630a1fbafe6afbd240b7bd0cf6.jpg" group-title="Iraq",IQ: Al Aqila TV
-http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/351249
-#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Etejah" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/d0fb82154b82150a91e3d63ff36029b0.jpg" group-title="Iraq",IQ: Al Etejah
-http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/351251
-#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Janoubia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/cbfa11bf43b64d374dfd744cc2fba30a.png" group-title="Iraq",IQ: Al Janoubia
-http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/351252
-#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Mawsleya TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3a977b7fe95483c687cce734e94c48cb.png" group-title="Iraq",IQ: Al Mawsleya TV
-http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/351253
-#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Naeem TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/22df46555902b11a8e47ad92297dad9d.jpg" group-title="Iraq",IQ: Al Naeem TV
-http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/351254
-#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Nujaba TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/f8fbe68c43dfda53c4ea37df45448597.jpg" group-title="Iraq",IQ: Al Nujaba TV
-http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/351255
-#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Rafidain TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/9296efba8e765b033ec5793eab781e76.png" group-title="Iraq",IQ: Al Rafidain TV
-http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/351256
-#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Rasheed TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f2054408b7411c6efb80a193d3377f73.png" group-title="Iraq",IQ: Al Rasheed TV
-http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/351257
-#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Salam TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/9345918a076a1d10cbcfebb30e3db79e.png" group-title="Iraq",IQ: Al Salam TV
-http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/351258
-
-#EXTINF:-1,IR: Alwilayah TV
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/300663
-#EXTINF:-1,IR: Iran International 720
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/301076
-#EXTINF:-1,IR: Kalemeh TV
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/199220
-#EXTINF:-1,IR: Nour TV
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/196366
-#EXTINF:-1,IR: IRIB 1
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/5492
-#EXTINF:-1,IR: IRIB 2
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/5387
-#EXTINF:-1,IR: IRIB 3
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/5386
-#EXTINF:-1,IR: IRIB 3 satellite
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/296739
-#EXTINF:-1,IR: IRIB 4
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/56814
-#EXTINF:-1,IR: IRIB Abadan
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/285275
-#EXTINF:-1,IR: IRIB Aflak
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/294884
-#EXTINF:-1,IR: IRIB Aftab
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/285284
-#EXTINF:-1,IR: IRIB Alborz
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/196357
-#EXTINF:-1,IR: IRIB Hamoon
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/285268
-#EXTINF:-1,IR: IRIB Kerman
-http://iptvtree.net:8080/Miglior
-/TVQfjSwFKWN26Hu3qy4Pkx/285270
-#EXTINF:-1,IR: IRIB Noor
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/296454
-#EXTINF:-1,IR: IRIB Sahar Afghan
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/299616
-#EXTINF:-1,IR: IRIB Sahar Kurdi
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/14710
-#EXTINF:-1,IR: IRIB Jamejam 1
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/5443
-#EXTINF:-1,IR: IRIB Jamejam 2
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/296427
-#EXTINF:-1,IR: IRIB Jamejam 3
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/296428
-#EXTINF:-1,IR: IRIB Esfahan
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/296253
-#EXTINF:-1,IR: IRIB Kordestan
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/64958
-#EXTINF:-1,IR: IRIB Labbayk
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/296704
-#EXTINF:-1,IR: IRIB Mahabad
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/285276
-#EXTINF:-1,IR: IRIB Eshragh
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/296449
-#EXTINF:-1,IR: IRIB Fars
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/296452
-#EXTINF:-1,IR: IRIB Khalijefars
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/21967
-#EXTINF:-1,IR: IRIB khoozestan
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/296448
-#EXTINF:-1,IR: IRIB Khorasanrazavi
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/285280
-#EXTINF:-1,IR: IRIB Sabalan
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/285274
-#EXTINF:-1,IR: IRIB Zagros
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/296457
-#EXTINF:-1,IR: manoto
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/98
-#EXTINF:-1,IR: manoto +1
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/282309
-#EXTINF:-1,IR: Simaye Azadi
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/5398
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL FORAT" group-title="AR| IRAQ",AR| AL FORAT
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=260874&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALRASHEED" group-title="AR| IRAQ",AR| ALRASHEED
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=260873&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALBAEENAH IRAQ" group-title="AR| IRAQ",AR| ALBAEENAH IRAQ
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=260872&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| DIJLAH TARAB" group-title="AR| IRAQ",AR| DIJLAH TARAB
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=260871&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AFAQ" group-title="AR| IRAQ",AR| AFAQ
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=260870&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL TAGHIR HD" group-title="AR| IRAQ",AR| AL TAGHIR HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=260869&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL SHAAER TV" group-title="AR| IRAQ",AR| AL SHAAER TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=260867&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| IRAQIA SYRIA" group-title="AR| IRAQ",AR| IRAQIA SYRIA
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=260866&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| IRAQIA SPORT FHD" group-title="AR| IRAQ",AR| IRAQIA SPORT FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=591576&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| IRAQ TV NEWS FHD" group-title="AR| IRAQ",AR| IRAQ TV NEWS FHD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=922106&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| IRAQIA EDUCATION" group-title="AR| IRAQ",AR| IRAQIA EDUCATION
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=23584&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| IRAQIA" group-title="AR| IRAQ",AR| IRAQIA
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=8117&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL ETEJAH HD" group-title="AR| IRAQ",AR| AL ETEJAH HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=260863&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL EBAA TV" group-title="AR| IRAQ",AR| AL EBAA TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=260862&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL TALEAA TV" group-title="AR| IRAQ",AR| AL TALEAA TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=260861&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL HURA HD" group-title="AR| IRAQ",AR| AL HURA HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=260859&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| OM AL BANEEN TV" group-title="AR| IRAQ",AR| OM AL BANEEN TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=273018&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| SAOUT ALAQILA" group-title="AR| IRAQ",AR| SAOUT ALAQILA
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=274154&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL BAGHDADIA" group-title="AR| IRAQ",AR| AL BAGHDADIA
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=274153&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| ASIL TV" group-title="AR| IRAQ",AR| ASIL TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=275091&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALNUJABA TV" group-title="AR| IRAQ",AR| ALNUJABA TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=280532&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL BAGHDADIA" group-title="AR| IRAQ",AR| AL BAGHDADIA
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=441566&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL FALLOJAH TV" group-title="AR| IRAQ",AR| AL FALLOJAH TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=505550&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| INEWS TV ARABIC HD" group-title="AR| IRAQ",AR| INEWS TV ARABIC HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=530384&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALKOMAIL CHANNEL" group-title="AR| IRAQ",AR| ALKOMAIL CHANNEL
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=530383&extension=ts
 
 
 
