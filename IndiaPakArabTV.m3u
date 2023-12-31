@@ -250,6 +250,9 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://mn-nl.mncdn.com:443/qaf/live/chunklist.m3u8
 #EXTINF:-1,Egypt TEN (Tahrir Network) TV
 https://weyyak-live.akamaized.net:443/weyyak_ten_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="[YEMEN] ADEN TV" tvg-logo="http://138.199.27.237:8080/ASIA/YEMEN/ADENTV.png" group-title="AR| YEMEN",[YEMEN] ADEN TV
+http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/28177
+
 
 #EXTINF:-1 tvg-id="" tvg-name="AR| AL FORAT" group-title="AR| IRAQ",AR| AL FORAT
 #EXTVLCOPT:cache=17238
