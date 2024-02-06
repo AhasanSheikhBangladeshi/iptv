@@ -1,47 +1,109 @@
-#EXTINF:-1 tvg-id="9dd4874f15c234c832c4e7a89ec44dae",PAIGHAM TV
-http://103.131.214.129:9985/stream/channelid/1334301853?ticket=29E801E52A905872C4EB1984D7836AF536E8CD75&profile=pass
-#EXTINF:-1 tvg-id="432af9ab4e9cb1e232bd8d8150d6bc43",ARYQTV
-http://103.131.214.129:9985/stream/channelid/737749571?ticket=13A50E2AE2BD20B0F04182ADB0847DB9AD9DD1EA&profile=pass
-#EXTINF:-1 tvg-id="f8bb8238cf68cee7485e82db420208b8",MADANI TV
-http://103.131.214.129:9985/stream/channelid/948091896?ticket=98D88B6EF62F0D707D1759E464CD3A75B78AB0A7&profile=pass
-#EXTINF:-1 tvg-id="f083deb5e297776a91d5166046b96dcd",92 NEWS HD
-http://103.131.214.129:9985/stream/channelid/903775216?ticket=D0694D467FF909A1E625842FB4B06CE6D8FD0D6B&profile=pass
-#EXTINF:-1 tvg-id="76579e692adeaefaf4ac1e643d8c2c67",HUM NEWS HD
-http://103.131.214.129:9985/stream/channelid/1771984758?ticket=7B1CB45AF73DDBF007DFB7FB8559DE2324B47A4F&profile=pass
-#EXTINF:-1 tvg-id="b0a1dadf59159e906dfecf23f880d325",ARY News HD
-http://103.131.214.129:9985/stream/channelid/1608163760?ticket=C08634A68786E9DA9474EDD5352B5D2477D2C8FF&profile=pass
-#EXTINF:-1 tvg-id="5ba1db85e4bc37f1106f700b3ed14897",ARYZindagi
-http://103.131.214.129:9985/stream/channelid/98279771?ticket=74E58D550C2220754EEDEF6E65A0EE6940376D92&profile=pass
-#EXTINF:-1 tvg-id="bd4e8c6cacb00e88222ec6e1bd1bc550",ARY Digital HD
-http://103.131.214.129:9985/stream/channelid/1821134525?ticket=8F9EC031D14353036D2E6D0BC832DB30B15B86F1&profile=pass
-#EXTINF:-1 tvg-id="4bcd22508c8fdb5eba40c2e4189ddf00",GEO ENT HD
-http://103.131.214.129:9985/stream/channelid/1344458059?ticket=D882AC84ED937183C863630D0020DC4E846CF41C&profile=pass
-#EXTINF:-1 tvg-id="b54eede70795889747cf0421b5325eb2",GEO KAHANI HD
-http://103.131.214.129:9985/stream/channelid/1743605429?ticket=7CE0D26C3EA0EA316554324E8178B2B1C7D66E8B&profile=pass
-#EXTINF:-1 tvg-id="74854efdfa69d579c32f864bfd0c22c1",Geo News
-http://103.131.214.129:9985/stream/channelid/2102297972?ticket=0564A375661F703CC5BD542A9D1319DD3BF58E40&profile=pass
-#EXTINF:-1 tvg-id="8a0b301ee4447a7262c249c53424021f",SAMAA News
-http://103.131.214.129:9985/stream/channelid/506465162?ticket=C5EB99A6206607AFCC082AF5B15775383EEAEC8E&profile=pass
-#EXTINF:-1 tvg-id="119d45f08f483a1a444d3467a4e1b3cd",BOL NEWS HD
-http://103.131.214.129:9985/stream/channelid/1883610385?ticket=C1E30397AD0DFCBFA02940077BAE3E6923B0A569&profile=pass
-#EXTINF:-1 tvg-id="8e17947098070a6afa68c0d02f98d68d",Dawn News 
-http://103.131.214.129:9985/stream/channelid/1888753550?ticket=8F90BF76DC34EA089ABD5A6052DEA230E90B4CDF&profile=pass
-
-#EXTINF:-1 tvg-id="4e8f5c082fbe668f34483888a93c599c",EXP NEWS
-http://103.131.214.129:9985/stream/channelid/140283726?ticket=A3D1645468CDBE3BC6C2142A8DBA5FDDF02DE812&profile=pass
-#EXTINF:-1 tvg-id="f0245245c01b20702b24048b6b930bd3",Dunya News
-http://103.131.214.129:9985/stream/channelid/1163011312?ticket=CF8ABA9A32DA3A41D08CEAE4A76FAE3581176FCE&profile=pass#EXTINF:-1 tvg-id="51eb7c551bdb3f3eb4d0deaeb1273fcc",PTV-NEWS HD
-http://103.131.214.129:9985/stream/channelid/1434250065?ticket=234B7A31EA91CF1335DA69F8699BA42C0BB31BF4&profile=pass
-#EXTINF:-1 tvg-id="da10fc6aacc0b2c742ef2dab40323398",PTV-Home HD
-http://103.131.214.129:9985/stream/channelid/1794904282?ticket=3B8F683C351753F82F29457A6D4A4948D314CF01&profile=pass
-#EXTINF:-1 tvg-id="3076f63f5f5870dbbc390b9eb02ff9f0",SUCH TV
-http://103.131.214.129:9985/stream/channelid/1073116720?ticket=681F68D458E2C5EA55204A1B1FB935AE5B75E99B&profile=pass
-#EXTINF:-1 tvg-id="46970093ea4e7ab9dfab2272b0a82357",ABBTAKK NEWS
-http://103.131.214.129:9985/stream/channelid/318805830?ticket=5E572AEE8D30883E4452C2E8090070EEDF09FA38&profile=pass
-#EXTINF:-1 tvg-id="8ea5c30bd8e25a27e0332e5054e0e13b",AAJ NEWS
-http://103.131.214.129:9985/stream/channelid/197371278?ticket=2031B37D3AF4D59C971223152D15F6D882E1F756&profile=pass
-#EXTINF:-1 tvg-id="fcdfeeec7f21436436d8a1aa36fb21c9",CHANNEL-24
-http://103.131.214.129:9985/stream/channelid/1827594236?ticket=0477B49913765C6A7035638BE1D387C62B298DF8&profile=pass
+#EXTINF:-1,92 NEWS HD
+http://sonyiptv.net:8080/maazqamar/002450/267969
+#EXTINF:-1,ARY NEWS HD
+http://sonyiptv.net:8080/maazqamar/002450/267944
+#EXTINF:-1,DUNYA NEWS HD
+http://sonyiptv.net:8080/maazqamar/002450/267945
+#EXTINF:-1,BOL NEWS HD
+http://sonyiptv.net:8080/maazqamar/002450/267946
+#EXTINF:-1,EXPRESS NEWS HD
+http://sonyiptv.net:8080/maazqamar/002450/267947
+#EXTINF:-1,GEO NEWS HD
+http://sonyiptv.net:8080/maazqamar/002450/267948
+#EXTINF:-1,GNN NEWS HD
+http://sonyiptv.net:8080/maazqamar/002450/267949
+#EXTINF:-1,GEO TEZ
+http://sonyiptv.net:8080/maazqamar/002450/267950
+#EXTINF:-1,GTV NEWS
+http://sonyiptv.net:8080/maazqamar/002450/267951
+#EXTINF:-1,HUM NEWS HD
+http://sonyiptv.net:8080/maazqamar/002450/267952
+#EXTINF:-1,KHYBER NEWS
+http://sonyiptv.net:8080/maazqamar/002450/267953
+#EXTINF:-1,METRO 1 NEWS
+http://sonyiptv.net:8080/maazqamar/002450/267954
+#EXTINF:-1,NEO NEWS
+http://sonyiptv.net:8080/maazqamar/002450/267955
+#EXTINF:-1,PTV NEWS HD
+http://sonyiptv.net:8080/maazqamar/002450/267956
+#EXTINF:-1,PTV WORLD
+http://sonyiptv.net:8080/maazqamar/002450/267957
+#EXTINF:-1,PTV NATIONAL
+http://sonyiptv.net:8080/maazqamar/002450/267929
+#EXTINF:-1,SAMAA NEWS
+http://sonyiptv.net:8080/maazqamar/002450/267958
+#EXTINF:-1,NEWS ONE
+http://sonyiptv.net:8080/maazqamar/002450/267959
+#EXTINF:-1,SUCH NEWS
+http://sonyiptv.net:8080/maazqamar/002450/267960
+#EXTINF:-1,ARY QTV HD
+http://sonyiptv.net:8080/maazqamar/002450/267937
+#EXTINF:-1,PEACE TV URDU HD
+http://sonyiptv.net:8080/maazqamar/002450/267938
+#EXTINF:-1,PEACE TV ENG HD
+http://sonyiptv.net:8080/maazqamar/002450/267939
+#EXTINF:-1,AAJ NEWS HD
+http://sonyiptv.net:8080/maazqamar/002450/267941
+#EXTINF:-1,ABBTAK NEWS HD
+http://sonyiptv.net:8080/maazqamar/002450/267942
+#EXTINF:-1,CITY 42 NEWS
+http://sonyiptv.net:8080/maazqamar/002450/267970
+#EXTINF:-1,SUNO NEWS
+http://sonyiptv.net:8080/maazqamar/002450/267971
+#EXTINF:-1,PUBLIC NEWS
+http://sonyiptv.net:8080/maazqamar/002450/267972
+#EXTINF:-1,92 NEWS 
+http://sonyiptv.net:8080/maazqamar/002450/52034
+#EXTINF:-1,92 NEWS HD
+http://sonyiptv.net:8080/maazqamar/002450/52035
+#EXTINF:-1,BOL NEWS
+http://sonyiptv.net:8080/maazqamar/002450/52036
+#EXTINF:-1,BOL NEWS HD
+http://sonyiptv.net:8080/maazqamar/002450/52037
+#EXTINF:-1,EXPRESS NEWS 
+http://sonyiptv.net:8080/maazqamar/002450/52038
+#EXTINF:-1,HUM TV 
+http://sonyiptv.net:8080/maazqamar/002450/110033
+#EXTINF:-1,HUM TV HD
+http://sonyiptv.net:8080/maazqamar/002450/110034
+#EXTINF:-1,ARY DIGITAL
+http://sonyiptv.net:8080/maazqamar/002450/110036
+#EXTINF:-1,ARY DIGITAL HD
+http://sonyiptv.net:8080/maazqamar/002450/110038
+#EXTINF:-1,GEO ENTERTAINMENT
+http://sonyiptv.net:8080/maazqamar/002450/110040
+#EXTINF:-1,BOL ENTERTAINMENT HD
+http://sonyiptv.net:8080/maazqamar/002450/110044
+#EXTINF:-1,EXPRESS ENTERTAINMENT 
+http://sonyiptv.net:8080/maazqamar/002450/110046
+#EXTINF:-1,AAJ ENTERTAINMENT
+http://sonyiptv.net:8080/maazqamar/002450/110055
+#EXTINF:-1,HUM SITARY
+http://sonyiptv.net:8080/maazqamar/002450/110058
+#EXTINF:-1,A PLUS HD
+http://sonyiptv.net:8080/maazqamar/002450/110062
+#EXTINF:-1,ATV HD
+http://sonyiptv.net:8080/maazqamar/002450/110065
+#EXTINF:-1,PTV HOME 
+http://sonyiptv.net:8080/maazqamar/002450/110067
+#EXTINF:-1,NEO NEWS
+http://sonyiptv.net:8080/maazqamar/002450/246983
+#EXTINF:-1,PTV NEWS HD
+http://sonyiptv.net:8080/maazqamar/002450/246984
+#EXTINF:-1,PTV WORLD
+http://sonyiptv.net:8080/maazqamar/002450/246985
+#EXTINF:-1,GEO NEWS 
+http://sonyiptv.net:8080/maazqamar/002450/52040
+#EXTINF:-1,GEO NEWS HD
+http://sonyiptv.net:8080/maazqamar/002450/52041
+#EXTINF:-1,ARY NEWS 
+http://sonyiptv.net:8080/maazqamar/002450/52042
+#EXTINF:-1,ARY NEWS HD
+http://sonyiptv.net:8080/maazqamar/002450/52043
+#EXTINF:-1,SAMAA NEWS 
+http://sonyiptv.net:8080/maazqamar/002450/52044
+#EXTINF:-1,SAMAA NEWS HD
+http://sonyiptv.net:8080/maazqamar/002450/52045
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AR| AL OULA MASRIA HEVC" group-title="AR| EGYPT",AR| AL OULA MASRIA HEVC
