@@ -257,59 +257,34 @@ http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=138613&extensi
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0D:29:8A&stream=138610&extension=ts
 #EXTINF:-1 tvg-ID="" tvg-name="|IR|  IRIB Mahabad TV IR" tvg-logo="" group-title="IRAN",|IR|  IRIB Mahabad TV IR
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/151525
-#EXTINF:-1 tvg-ID="" tvg-name="|IR| IRIB Kurdistan" tvg-logo="" group-title="IRAN",|IR| IRIB Kurdistan
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/184013
-#EXTINF:-1 tvg-ID="" tvg-name="|IR|  IRIB Hamoon TV (Sistan and Baluchestan) IR" tvg-logo="" group-title="IRAN",|IR|  IRIB Hamoon TV (Sistan and Baluchestan) IR
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/151514
-#EXTINF:-1 tvg-ID="" tvg-name="|IR|  IRIB Ilam TV IR" tvg-logo="" group-title="IRAN",|IR|  IRIB Ilam TV IR
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/151516
-#EXTINF:-1 tvg-ID="" tvg-name="|IR|  IRIB Isfahan TV IR" tvg-logo="" group-title="IRAN",|IR|  IRIB Isfahan TV IR
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/151518
-#EXTINF:-1 tvg-ID="" tvg-name="|IR|  IRIB Kerman TV IR" tvg-logo="" group-title="IRAN",|IR|  IRIB Kerman TV IR
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/151519
-#EXTINF:-1 tvg-ID="" tvg-name="|IR|  IRIB Khalij-e Fars TV (Hormozgan) IR" tvg-logo="" group-title="IRAN",|IR|  IRIB Khalij-e Fars TV (Hormozgan) IR
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/151520
-#EXTINF:-1 tvg-ID="" tvg-name="|IR|  IRIB Khorasan Razavi TV IR" tvg-logo="" group-title="IRAN",|IR|  IRIB Khorasan Razavi TV IR
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/151523
-#EXTINF:-1 tvg-ID="" tvg-name="|IR|  IRIB TABAN TV (YAZD)" tvg-logo="" group-title="IRAN",|IR|  IRIB TABAN TV (YAZD)
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/151543
-#EXTINF:-1 tvg-ID="" tvg-name="|IR|  IRIB SABALAN TV (ARDABIL)" tvg-logo="" group-title="IRAN",|IR|  IRIB SABALAN TV (ARDABIL)
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/151533
-#EXTINF:-1 tvg-ID="" tvg-name="|IR|  IRIB Sahand TV (Tabriz) IR" tvg-logo="" group-title="IRAN",|IR|  IRIB Sahand TV (Tabriz) IR
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/151534
-
-#EXTINF:-1 tvg-ID="" tvg-name="|IR| BBC Persian" tvg-logo="http://138.199.27.237:8080/POLONIA/BBC.png" group-title="IRAN",|IR| BBC Persian
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/50328
-#EXTINF:-1 tvg-ID="" tvg-name="|IR| Iran International TV" tvg-logo="" group-title="IRAN",|IR| Iran International TV
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/50329
-#EXTINF:-1 tvg-ID="" tvg-name="|IR| Iran International HD" tvg-logo="" group-title="IRAN",|IR| Iran International HD
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/50330
-#EXTINF:-1 tvg-ID="" tvg-name="|IR| Manoto 1" tvg-logo="" group-title="IRAN",|IR| Manoto 1
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/50334
-#EXTINF:-1 tvg-ID="" tvg-name="|IR| IRIB IRINN" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3241.png?72289" group-title="IRAN",|IR| IRIB IRINN
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/288307
-#EXTINF:-1 tvg-ID="" tvg-name="|IRAQ| Imam Ali 1 FA TV" tvg-logo="http://138.199.27.237:8080/ASIA/IRAQ/imam-ali.png" group-title="AR| IRAQ",|IRAQ| Imam Ali 1 FA TV
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/231614
-#EXTINF:-1 tvg-ID="" tvg-name="|IRAQ| Al Wilayah TV" tvg-logo="http://138.199.27.237:8080/ARABE/WILAYA.png" group-title="AR| IRAQ",|IRAQ| Al Wilayah TV
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/231338
-#EXTINF:-1 tvg-ID="" tvg-name="|IR|  IRIB TV 1 IR" tvg-logo="" group-title="IRAN",|IR|  IRIB TV 1 IR
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/151546
-#EXTINF:-1 tvg-ID="" tvg-name="|IR|  IRIB TV 2 HD IR" tvg-logo="" group-title="IRAN",|IR|  IRIB TV 2 HD IR
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/151547
-#EXTINF:-1 tvg-ID="" tvg-name="|IR|  IRIB TV2 IR" tvg-logo="" group-title="IRAN",|IR|  IRIB TV2 IR
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/151551
-#EXTINF:-1 tvg-ID="" tvg-name="|IR|  IRIB TV 3 HD IR" tvg-logo="" group-title="IRAN",|IR|  IRIB TV 3 HD IR
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/151548
-#EXTINF:-1 tvg-ID="" tvg-name="|IR|  IRIB TV3 IR" tvg-logo="" group-title="IRAN",|IR|  IRIB TV3 IR
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/151552
-#EXTINF:-1 tvg-ID="" tvg-name="|IR|  IRIB TV 4 HD IR" tvg-logo="" group-title="IRAN",|IR|  IRIB TV 4 HD IR
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/151549
-#EXTINF:-1 tvg-ID="" tvg-name="|IR| Irib Quran TV" tvg-logo="" group-title="IRAN",|IR| Irib Quran TV
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/50292
-#EXTINF:-1 tvg-ID="" tvg-name="|IR| IRIB Quran" tvg-logo="" group-title="IRAN",|IR| IRIB Quran
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/50295
-
+#EXTINF:-1 tvg-id="" tvg-name="IR - IRIB TV 1 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/IRIB-TV-1.png" group-title="|AS| IRAN",IR - IRIB TV 1 HEVC
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556665
+#EXTINF:-1 tvg-id="" tvg-name="IR - IRIB TV1" tvg-logo="http://logo.protv.cc/picons-dino/logos/IRIB-TV-1.png" group-title="|AS| IRAN",IR - IRIB TV1
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556772
+#EXTINF:-1 tvg-id="" tvg-name="IR - IRIB TV2" tvg-logo="http://logo.protv.cc/picons-dino/logos/IRIB-TV-2.png" group-title="|AS| IRAN",IR - IRIB TV2
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556771
+#EXTINF:-1 tvg-id="" tvg-name="IR - IRIB TV 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/IRIB-TV-3.png" group-title="|AS| IRAN",IR - IRIB TV 3 HD
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556770
+#EXTINF:-1 tvg-id="" tvg-name="IR - IRIB TV 3 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/IRIB-TV-3.png" group-title="|AS| IRAN",IR - IRIB TV 3 HEVC
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556675
+#EXTINF:-1 tvg-id="" tvg-name="IR - IRIB TV 4" tvg-logo="http://logo.protv.cc/picons-dino/logos/IRIB-TV-4.png" group-title="|AS| IRAN",IR - IRIB TV 4
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556769
+#EXTINF:-1 tvg-id="" tvg-name="IR - IRIB QURAN" tvg-logo="http://logo.protv.cc/picons-dino/logos/iribquran.png" group-title="|AS| IRAN",IR - IRIB QURAN
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556743
+#EXTINF:-1 tvg-id="" tvg-name="IR - IRIB SALAMAT" tvg-logo="http://logo.protv.cc/picons-dino/logos/IRIB-SALAMAT.png" group-title="|AS| IRAN",IR - IRIB SALAMAT
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556762
+#EXTINF:-1 tvg-id="" tvg-name="IR - IRIB SEPEHR HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/IRIB-SEPEHR.jpg" group-title="|AS| IRAN",IR - IRIB SEPEHR HD
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556724
+#EXTINF:-1 tvg-id="" tvg-name="IR - IRIB IRINN" tvg-logo="http://logo.protv.cc/picons-dino/logos/irinn.png" group-title="|AS| IRAN",IR - IRIB IRINN
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556744
+#EXTINF:-1 tvg-id="" tvg-name="IR - IRIB VARZESH" tvg-logo="http://logo.protv.cc/picons-dino/logos/IRIB-VARZESH.jpg" group-title="|AS| IRAN",IR - IRIB VARZESH
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556780
+#EXTINF:-1 tvg-id="" tvg-name="IR - SAHAR (URDU)" tvg-logo="http://logo.protv.cc/picons-dino/logos/sahar.png" group-title="|AS| IRAN",IR - SAHAR (URDU)
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556827
+#EXTINF:-1 tvg-id="" tvg-name="IR - SAHAR AZARI" tvg-logo="http://logo.protv.cc/picons-dino/logos/SAHAR-AZARI.jpeg" group-title="|AS| IRAN",IR - SAHAR AZARI
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556741
+#EXTINF:-1 tvg-id="" tvg-name="IR - SAHAR BALKAN" tvg-logo="http://logo.protv.cc/picons-dino/logos/SAHAR-BALKAN.png" group-title="|AS| IRAN",IR - SAHAR BALKAN
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556740
 #EXTINF:-1,IR Simaye Azadi Iranntv
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 #EXTINF:-1, Al Manar Tv (Lebanon)
@@ -320,8 +295,6 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://mn-nl.mncdn.com:443/qaf/live/chunklist.m3u8
 #EXTINF:-1,Egypt TEN (Tahrir Network) TV
 https://weyyak-live.akamaized.net:443/weyyak_ten_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="[YEMEN] ADEN TV" tvg-logo="http://138.199.27.237:8080/ASIA/YEMEN/ADENTV.png" group-title="AR| YEMEN",[YEMEN] ADEN TV
-http://4u.eagle4u.org:8080/wrdhf26gwv/zz6kkehsfw/28177
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AR| AL FORAT" group-title="AR| IRAQ",AR| AL FORAT
