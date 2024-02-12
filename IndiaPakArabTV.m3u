@@ -38,6 +38,8 @@ http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292971
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292972
 #EXTINF:-1 tvg-id="" tvg-name="PAK - PTV WORLD" tvg-logo="http://logo.protv.cc/picons/logos/INDIA_PAKISTAN/PTV.png" group-title="|AS| PAKISTAN",PAK - PTV WORLD
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/842718
+#EXTINF:-1 tvg-id="" tvg-name="PAK - PTV GLOBAL EU" tvg-logo="http://logo.protv.cc/picons-dino/logos/ptvglobal.png" group-title="|AS| PAKISTAN",PAK - PTV GLOBAL EU
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292902
 #EXTINF:-1 tvg-id="" tvg-name="PAK - SUNO NEWS" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SUNO-NEWS.png" group-title="|AS| PAKISTAN",PAK - SUNO NEWS
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/859218
 #EXTINF:-1 tvg-id="" tvg-name="PAK - CITY 42" tvg-logo="http://logo.protv.cc/picons-dino/logos/CITY-42.png" group-title="|AS| PAKISTAN",PAK - CITY 42
@@ -62,14 +64,6 @@ http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292863
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292862
 #EXTINF:-1 tvg-id="" tvg-name="PAK - ABB TAKK" tvg-logo="http://logo.protv.cc/picons-dino/logos/ABB-TAKK.png" group-title="|AS| PAKISTAN",PAK - ABB TAKK
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292861
-#EXTINF:-1 tvg-id="" tvg-name="PAK - APNA CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/APNA-CHANNEL.png" group-title="|AS| PAKISTAN",PAK - APNA CHANNEL
-http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292860
-#EXTINF:-1 tvg-id="" tvg-name="PAK - ARY NEWS (NA)" tvg-logo="http://logo.protv.cc/picons-dino/logos/arynews.png" group-title="|AS| PAKISTAN",PAK - ARY NEWS (NA)
-http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292815
-#EXTINF:-1 tvg-id="" tvg-name="PAK - ARY DIGITAL (NA)" tvg-logo="http://logo.protv.cc/picons-dino/logos/arydigital.png" group-title="|AS| PAKISTAN",PAK - ARY DIGITAL (NA)
-http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292814
-#EXTINF:-1 tvg-id="" tvg-name="PAK - GTV NEWS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/GTV-NEWS-HD.png" group-title="|AS| PAKISTAN",PAK - GTV NEWS FHD
-http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292813
 #EXTINF:-1 tvg-id="" tvg-name="PAK - HUM NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/humnews.png" group-title="|AS| PAKISTAN",PAK - HUM NEWS UHD
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292812
 #EXTINF:-1 tvg-id="" tvg-name="PAK - AAP NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/AAP-NEWS.jpeg" group-title="|AS| PAKISTAN",PAK - AAP NEWS UHD
@@ -88,10 +82,6 @@ http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292805
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292804
 #EXTINF:-1 tvg-id="" tvg-name="PAK - AVT KHYBER" tvg-logo="http://logo.protv.cc/picons/logos/AVT-KHYBER.png" group-title="|AS| PAKISTAN",PAK - AVT KHYBER
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/810734
-#EXTINF:-1 tvg-id="" tvg-name="PAK - PNN" tvg-logo="http://logo.protv.cc/picons/logos/PNN-TV.jpg" group-title="|AS| PAKISTAN",PAK - PNN
-http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/842737
-#EXTINF:-1 tvg-id="" tvg-name="PAK - GTV" tvg-logo="http://logo.protv.cc/picons/logos/gtv.jpg" group-title="|AS| PAKISTAN",PAK - GTV
-http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/842736
 
 #EXTINF:-1 tvg-id="" tvg-name="AR| AL OULA MASRIA HEVC" group-title="AR| EGYPT",AR| AL OULA MASRIA HEVC
 #EXTVLCOPT:cache=17238
