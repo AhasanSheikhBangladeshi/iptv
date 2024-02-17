@@ -48,16 +48,7 @@ http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/646764
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292874
 #EXTINF:-1 tvg-id="" tvg-name="PAK - MADANI TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/MADANI-TV.png" group-title="|AS| PAKISTAN",PAK - MADANI TV
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292869
-#EXTINF:-1 tvg-id="" tvg-name="PAK - HADI TV 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/haditv.png" group-title="|AS| PAKISTAN",PAK - HADI TV 2
-http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292868
-#EXTINF:-1 tvg-id="" tvg-name="PAK - HADI TV 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/haditv3.png" group-title="|AS| PAKISTAN",PAK - HADI TV 3
-http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292867
-#EXTINF:-1 tvg-id="" tvg-name="PAK - HADI TV 5" tvg-logo="http://logo.protv.cc/picons-dino/logos/haditv.png" group-title="|AS| PAKISTAN",PAK - HADI TV 5
-http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292866
-#EXTINF:-1 tvg-id="" tvg-name="PAK - HADI TV 6" tvg-logo="http://logo.protv.cc/picons-dino/logos/haditv.png" group-title="|AS| PAKISTAN",PAK - HADI TV 6
-http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292865
-#EXTINF:-1 tvg-id="" tvg-name="PAK - HADI TV 7 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/HADI-TV-7.png" group-title="|AS| PAKISTAN",PAK - HADI TV 7 UHD
-http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292864
+
 #EXTINF:-1 tvg-id="" tvg-name="PAK - HUM MASALA" tvg-logo="http://logo.protv.cc/picons-dino/logos/hummasala.png" group-title="|AS| PAKISTAN",PAK - HUM MASALA
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292863
 #EXTINF:-1 tvg-id="" tvg-name="PAK - HUM UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/HUM-HD.jpeg" group-title="|AS| PAKISTAN",PAK - HUM UHD
@@ -66,8 +57,7 @@ http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292862
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292861
 #EXTINF:-1 tvg-id="" tvg-name="PAK - HUM NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/humnews.png" group-title="|AS| PAKISTAN",PAK - HUM NEWS UHD
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292812
-#EXTINF:-1 tvg-id="" tvg-name="PAK - AAP NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/AAP-NEWS.jpeg" group-title="|AS| PAKISTAN",PAK - AAP NEWS UHD
-http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292811
+
 #EXTINF:-1 tvg-id="" tvg-name="PAK - A - SPORTS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/INDUS-TV.jpg" group-title="|AS| PAKISTAN",PAK - A - SPORTS UHD
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292810
 #EXTINF:-1 tvg-id="" tvg-name="PAK - 92 NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/92news.png" group-title="|AS| PAKISTAN",PAK - 92 NEWS UHD
@@ -269,8 +259,16 @@ http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556724
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556744
 #EXTINF:-1 tvg-id="" tvg-name="IR - IRIB VARZESH" tvg-logo="http://logo.protv.cc/picons-dino/logos/IRIB-VARZESH.jpg" group-title="|AS| IRAN",IR - IRIB VARZESH
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556780
-#EXTINF:-1 tvg-id="" tvg-name="IR - SAHAR (URDU)" tvg-logo="http://logo.protv.cc/picons-dino/logos/sahar.png" group-title="|AS| IRAN",IR - SAHAR (URDU)
-http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556827
+#EXTINF:-1 tvg-id="" tvg-name="IR - MANOTO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/manoto.png" group-title="|AS| IRAN",IR - MANOTO HD
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556843
+#EXTINF:-1 tvg-id="" tvg-name="IR - MANOTO 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/manoto1.png" group-title="|AS| IRAN",IR - MANOTO 1
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556731
+#EXTINF:-1 tvg-id="" tvg-name="IR - IRAN INTERNATIONAL HD*" tvg-logo="http://logo.protv.cc/picons-dino/logos/iraninternational.png" group-title="|AS| IRAN",IR - IRAN INTERNATIONAL HD*
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556844
+#EXTINF:-1 tvg-id="" tvg-name="IR - VOA PERSIAN HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/VOA-PERSIAN.png" group-title="|AS| IRAN",IR - VOA PERSIAN HD
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556714
+#EXTINF:-1 tvg-id="" tvg-name="IR - BBC PERSIAN" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbcpersian.png" group-title="|AS| IRAN",IR - BBC PERSIAN
+http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556732
 #EXTINF:-1 tvg-id="" tvg-name="IR - SAHAR AZARI" tvg-logo="http://logo.protv.cc/picons-dino/logos/SAHAR-AZARI.jpeg" group-title="|AS| IRAN",IR - SAHAR AZARI
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/556741
 #EXTINF:-1 tvg-id="" tvg-name="IR - SAHAR BALKAN" tvg-logo="http://logo.protv.cc/picons-dino/logos/SAHAR-BALKAN.png" group-title="|AS| IRAN",IR - SAHAR BALKAN
