@@ -69,7 +69,67 @@ http://bostv.one:8080/987654321/987654321/101190
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV 5" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7Xka5sbL_EKLJgdMh7nZy6VV5jnyvknXFgwGDgC_nZTuN.png" group-title="Iran",IR: IRIB TV 5
 http://bostv.one:8080/987654321/987654321/101191
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Varzesh HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7Xka5sbL_EKLJgdMh7nZy6VXZCwqRlakzj9YjQxZq8iT4.png" group-title="Iran",IR: IRIB Varzesh HD
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV GLOBAL" tvg-logo="https://docdog.top/logo/countries/pakistan/ptvglobal.png" group-title="ASIA | PAKISTAN",PK: PTV GLOBAL
+http://loflato.top:8080/261689344449099/2371689344449932/23662
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV HOME" tvg-logo="https://docdog.top/logo/countries/pakistan/ptvhome.png" group-title="ASIA | PAKISTAN",PK: PTV HOME
+http://loflato.top:8080/261689344449099/2371689344449932/23663
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV NEWS HD" tvg-logo="https://docdog.top/logo/countries/pakistan/ptvnews.png" group-title="ASIA | PAKISTAN",PK: PTV NEWS HD
+http://loflato.top:8080/261689344449099/2371689344449932/23664
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS HD" tvg-logo="https://docdog.top/logo/countries/pakistan/ptvsports.png" group-title="ASIA | PAKISTAN",PK: PTV SPORTS HD
+http://loflato.top:8080/261689344449099/2371689344449932/23665
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV WORLD" tvg-logo="https://docdog.top/logo/countries/pakistan/ptvworld.png" group-title="ASIA | PAKISTAN",PK: PTV WORLD
+http://loflato.top:8080/261689344449099/2371689344449932/23666
 
+#EXTINF:-1 tvg-id="" tvg-name="Ariana International AFG" tvg-logo="" group-title="Afghanstan HD",Ariana International AFG
+http://bostv.one:8080/987654321/987654321/95351
+#EXTINF:-1 tvg-id="" tvg-name="Ariana National AFG" tvg-logo="" group-title="Afghanstan HD",Ariana National AFG
+http://bostv.one:8080/987654321/987654321/95352
+#EXTINF:-1 tvg-id="" tvg-name="Ariana News AFG" tvg-logo="" group-title="Afghanstan HD",Ariana News AFG
+http://bostv.one:8080/987654321/987654321/95353
+#EXTINF:-1 tvg-id="" tvg-name="Ariana USA HD AFG" tvg-logo="" group-title="Afghanstan HD",Ariana USA HD AFG
+http://bostv.one:8080/987654321/987654321/95354
+#EXTINF:-1 tvg-id="" tvg-name="Ariana World AFG" tvg-logo="" group-title="Afghanstan HD",Ariana World AFG
+http://bostv.one:8080/987654321/987654321/95355
+#EXTINF:-1 tvg-id="" tvg-name="ATN Afghan AFG" tvg-logo="" group-title="Afghanstan HD",ATN Afghan AFG
+http://bostv.one:8080/987654321/987654321/95356
+#EXTINF:-1 tvg-id="" tvg-name="ATN NEWS AFG" tvg-logo="" group-title="Afghanstan HD",ATN NEWS AFG
+http://bostv.one:8080/987654321/987654321/95357
+#EXTINF:-1 tvg-id="" tvg-name="ATN TV AFG" tvg-logo="" group-title="Afghanstan HD",ATN TV AFG
+http://bostv.one:8080/987654321/987654321/95358
+#EXTINF:-1 tvg-id="" tvg-name="ATN USA AFG" tvg-logo="" group-title="Afghanstan HD",ATN USA AFG
+http://bostv.one:8080/987654321/987654321/95359
+#EXTINF:-1 tvg-id="" tvg-name="Bahar TV HD AFG" tvg-logo="" group-title="Afghanstan HD",Bahar TV HD AFG
+http://bostv.one:8080/987654321/987654321/95360
+#EXTINF:-1 tvg-id="" tvg-name="Batur AFG" tvg-logo="" group-title="Afghanstan HD",Batur AFG
+http://bostv.one:8080/987654321/987654321/95361
+#EXTINF:-1 tvg-id="" tvg-name="HAZARA WORLD AFG" tvg-logo="" group-title="Afghanstan HD",HAZARA WORLD AFG
+http://bostv.one:8080/987654321/987654321/95362
+#EXTINF:-1 tvg-id="" tvg-name="Hewad TV AFG" tvg-logo="" group-title="Afghanstan HD",Hewad TV AFG
+http://bostv.one:8080/987654321/987654321/95363
+#EXTINF:-1 tvg-id="" tvg-name="Iman TV AFG" tvg-logo="" group-title="Afghanstan HD",Iman TV AFG
+http://bostv.one:8080/987654321/987654321/95364
+#EXTINF:-1 tvg-id="" tvg-name="Lemar TV AFG" tvg-logo="" group-title="Afghanstan HD",Lemar TV AFG
+http://bostv.one:8080/987654321/987654321/95369
+#EXTINF:-1 tvg-id="" tvg-name="Lemar TV AFG" tvg-logo="" group-title="Afghanstan HD",Lemar TV AFG
+http://bostv.one:8080/987654321/987654321/95370
+#EXTINF:-1 tvg-id="" tvg-name="Lemar TV HD AFG" tvg-logo="" group-title="Afghanstan HD",Lemar TV HD AFG
+http://bostv.one:8080/987654321/987654321/95371
+#EXTINF:-1 tvg-id="" tvg-name="Maiwand TV AFG" tvg-logo="" group-title="Afghanstan HD",Maiwand TV AFG
+http://bostv.one:8080/987654321/987654321/95372
+#EXTINF:-1 tvg-id="" tvg-name="RTA TV AFG" tvg-logo="" group-title="Afghanstan HD",RTA TV AFG
+http://bostv.one:8080/987654321/987654321/95379
+#EXTINF:-1 tvg-id="" tvg-name="RTA Sports AFG" tvg-logo="" group-title="Afghanstan HD",RTA Sports AFG
+http://bostv.one:8080/987654321/987654321/95380
+#EXTINF:-1 tvg-id="" tvg-name="Shamshad AFG" tvg-logo="" group-title="Afghanstan HD",Shamshad AFG
+http://bostv.one:8080/987654321/987654321/95382
+#EXTINF:-1 tvg-id="" tvg-name="Tolo News HD AFG" tvg-logo="" group-title="Afghanstan HD",Tolo News HD AFG
+http://bostv.one:8080/987654321/987654321/95384
+#EXTINF:-1 tvg-id="" tvg-name="Tolo TV HD AFG" tvg-logo="" group-title="Afghanstan HD",Tolo TV HD AFG
+http://bostv.one:8080/987654321/987654321/95385
+#EXTINF:-1 tvg-id="" tvg-name="Tuti TV AFG" tvg-logo="" group-title="Afghanstan HD",Tuti TV AFG
+http://bostv.one:8080/987654321/987654321/95386
+#EXTINF:-1 tvg-id="" tvg-name="Watan AFG" tvg-logo="" group-title="Afghanstan HD",Watan AFG
+http://bostv.one:8080/987654321/987654321/95387
 #EXTINF:-1 tvg-id="ptvworld.pk" tvg-name="PK: PTV WORLD SD" tvg-logo="https://asiagrandiptv.us/logo/ptvworld.png" group-title="Pakistan",PK: PTV WORLD SD
 http://841378651646688499.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/688499.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK: SAMAA NEWS SD" tvg-logo="https://asiagrandiptv.us/logo//SAMAANEWS.jpg" group-title="Pakistan",PK: SAMAA NEWS SD
