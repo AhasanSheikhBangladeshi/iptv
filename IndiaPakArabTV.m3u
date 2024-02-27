@@ -12,13 +12,44 @@ http://bostv.one:8080/987654321/987654321/118193
 http://bostv.one:8080/987654321/987654321/118891
 #EXTINF:-1 tvg-id="" tvg-name="Peace TV English" tvg-logo="https://assets.peacetv.tv/images/intro/en-logo.png" group-title="Pak Islamic Tv",Peace TV English
 http://bostv.one:8080/987654321/987654321/118892
-
-http://bostv.one:8080/987654321/987654321/86129
+#EXTINF:-1 tvg-id="" tvg-name="PK: 92 NEWS岽瘁窗" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="PAKISTAN NEWS",PK: 92 NEWS岽瘁窗
+http://bostv.one:8080/987654321/987654321/50012
+#EXTINF:-1 tvg-id="" tvg-name="PK: DUNYA NEWS岽瘁窗" tvg-logo="https://thelogofinder.com/wp-content/uploads/edd/2021/11/Dunya-News.png" group-title="PAKISTAN NEWS",PK: DUNYA NEWS岽瘁窗
+http://bostv.one:8080/987654321/987654321/50013
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY NEWS岽瘁窗" tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="PAKISTAN NEWS",PK: ARY NEWS岽瘁窗
+http://bostv.one:8080/987654321/987654321/50014
+#EXTINF:-1 tvg-id="" tvg-name="PK: GEO NEWS岽瘁窗" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="PAKISTAN NEWS",PK: GEO NEWS岽瘁窗
+http://bostv.one:8080/987654321/987654321/50015
+#EXTINF:-1 tvg-id="" tvg-name="PK: EXPRESS NEWS岽瘁窗" tvg-logo="https://seeklogo.com/images/E/express-news-logo-548646E4CD-seeklogo.com.png" group-title="PAKISTAN NEWS",PK: EXPRESS NEWS岽瘁窗
+http://bostv.one:8080/987654321/987654321/50016
+#EXTINF:-1 tvg-id="" tvg-name="PK: BOL NEWS岽瘁窗" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAKISTAN NEWS",PK: BOL NEWS岽瘁窗
+http://bostv.one:8080/987654321/987654321/50017
+#EXTINF:-1 tvg-id="" tvg-name="PK: GNN NEWS岽瘁窗" tvg-logo="https://www.dthsat.com/images/GNN-News-Logo.png" group-title="PAKISTAN NEWS",PK: GNN NEWS岽瘁窗
+http://bostv.one:8080/987654321/987654321/50018
+#EXTINF:-1 tvg-id="" tvg-name="PK: HUM NEWS岽瘁窗" tvg-logo="https://www.mtctutorials.com/wp-content/uploads/2022/01/Hum-news-logo-png-template-mtc-tutorials.png" group-title="PAKISTAN NEWS",PK: HUM NEWS岽瘁窗
+http://bostv.one:8080/987654321/987654321/50019
+#EXTINF:-1 tvg-id="" tvg-name="PK: PUBLIC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Public-News-Logo-1.jpg" group-title="PAKISTAN NEWS",PK: PUBLIC NEWS
+http://bostv.one:8080/987654321/987654321/50020
+#EXTINF:-1 tvg-id="" tvg-name="PK: SAMAA TV岽瘁窗" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Samaa_TV.png/revision/latest?cb=20111002122950" group-title="PAKISTAN NEWS",PK: SAMAA TV岽瘁窗
+http://bostv.one:8080/987654321/987654321/50021
+#EXTINF:-1 tvg-id="" tvg-name="PK: 24 NEWS岽瘁窗" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIxUMOhKjXkDCYI02QZBBVW0U8WJMXxnBMkrov3PF61ZjtYiXV97RzCjqLeNOoSgAg90&usqp=CAU" group-title="PAKISTAN NEWS",PK: 24 NEWS岽瘁窗
+http://bostv.one:8080/987654321/987654321/50022
+#EXTINF:-1 tvg-id="" tvg-name="PK: AAJ NEWS岽瘁窗" tvg-logo="https://jazztv.pk/jazzlive/uploads/channels/logo/aaj-news-live.png" group-title="PAKISTAN NEWS",PK: AAJ NEWS岽瘁窗
+http://bostv.one:8080/987654321/987654321/50023
+#EXTINF:-1 tvg-id="" tvg-name="PK: SUCH TV" tvg-logo="https://jazztv.pk/jazzlive/uploads/channels/logo/such-tv-live.png" group-title="PAKISTAN NEWS",PK: SUCH TV
+http://bostv.one:8080/987654321/987654321/50033
+#EXTINF:-1 tvg-id="" tvg-name="PK: Khyber News" tvg-logo="https://img-cdn.curl.pk/chimg/3600670140.png" group-title="PAKISTAN NEWS",PK: Khyber News
+http://bostv.one:8080/987654321/987654321/50056
+#EXTINF:-1 tvg-id="" tvg-name="PK: Ktn News TV" tvg-logo="https://img-cdn.curl.pk/chimg/9867238021.png" group-title="PAKISTAN NEWS",PK: Ktn News TV
+http://bostv.one:8080/987654321/987654321/50057
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV News" tvg-logo="https://img-cdn.curl.pk/channels_icon/61161592421.png" group-title="PAKISTAN NEWS",PK: PTV News
+http://bostv.one:8080/987654321/987654321/50061
+#EXTINF:-1 tvg-id="" tvg-name="PK: Public News HD TV" tvg-logo="https://img-cdn.curl.pk/chimg/1920018479.png" group-title="PAKISTAN NEWS",PK: Public News HD TV
+http://bostv.one:8080/987654321/987654321/50062
 #EXTINF:-1 tvg-id="" tvg-name="|PK| PTV HOME HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/ptv_home_pk.png" group-title=" Pakistan Entertainment 獗结吹岽�",|PK| PTV HOME HD
 http://bostv.one:8080/987654321/987654321/86130
 #EXTINF:-1 tvg-id="" tvg-name="|PK| BOL ENTERTAINMENT HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bol-entertainment-pk.png" group-title=" Pakistan Entertainment 獗结吹岽�",|PK| BOL ENTERTAINMENT HD
 http://bostv.one:8080/987654321/987654321/86131
-http://bostv.one:8080/987654321/987654321/86118
 #EXTINF:-1 tvg-id="" tvg-name="|PK| ARY DIGITAL HD 岽瘁窗" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ary_digital_me.png" group-title=" Pakistan Entertainment 獗结吹岽�",|PK| ARY DIGITAL HD 岽瘁窗
 http://bostv.one:8080/987654321/987654321/86119
 #EXTINF:-1 tvg-id="" tvg-name="|PK| ARY ZINDAGI HD 岽瘁窗" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_zindagi_pk.png" group-title=" Pakistan Entertainment 獗结吹岽�",|PK| ARY ZINDAGI HD 岽瘁窗
@@ -27,7 +58,6 @@ http://bostv.one:8080/987654321/987654321/86120
 http://bostv.one:8080/987654321/987654321/86121
 #EXTINF:-1 tvg-id="" tvg-name="|PK| GEO ENTERTAINMENT HD 岽瘁窗" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/geo_tv_uk.png" group-title=" Pakistan Entertainment 獗结吹岽�",|PK| GEO ENTERTAINMENT HD 岽瘁窗
 http://bostv.one:8080/987654321/987654321/86122
-http://bostv.one:8080/987654321/987654321/101186
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV 1" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7Xka5sbL_EKLJgdMh7nZy6VUtfVbgE1kf7OEJnvTliyF5.png" group-title="Iran",IR: IRIB TV 1
 http://bostv.one:8080/987654321/987654321/101187
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV 2" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7Xka5sbL_EKLJgdMh7nZy6VVBB00A838dNUhEbOBFUHgd.png" group-title="Iran",IR: IRIB TV 2
@@ -39,43 +69,7 @@ http://bostv.one:8080/987654321/987654321/101190
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV 5" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7Xka5sbL_EKLJgdMh7nZy6VV5jnyvknXFgwGDgC_nZTuN.png" group-title="Iran",IR: IRIB TV 5
 http://bostv.one:8080/987654321/987654321/101191
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Varzesh HD" tvg-logo="http://live.phenixiptv.com:8080/images/y1P9oQWOYjjCozO6Rgs7Xka5sbL_EKLJgdMh7nZy6VXZCwqRlakzj9YjQxZq8iT4.png" group-title="Iran",IR: IRIB Varzesh HD
-http://bostv.one:8080/987654321/987654321/101192
-#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK: ARY DIGITAL FHD" tvg-logo="https://asiagrandiptv.us/logo/arydigital.png" group-title="Pakistan",PK: ARY DIGITAL FHD
-http://841378651646764629.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/764629.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY FAMILY SD" tvg-logo="https://asiagrandiptv.us/logo/aryfamily.png" group-title="Pakistan",PK: ARY FAMILY SD
-http://841378651646764630.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/764630.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY MUSIC FHD" tvg-logo="https://asiagrandiptv.us/logo//ARYMUSIC.png" group-title="Pakistan",PK: ARY MUSIC FHD
-http://841378651646764631.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/764631.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY NEWS WORLD FHD" tvg-logo="https://asiagrandiptv.us/logo//ARYNEWSWORLD.jpg" group-title="Pakistan",PK: ARY NEWS WORLD FHD
-http://841378651646764632.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/764632.ts
-#EXTINF:-1 tvg-id="aryqtv.pk" tvg-name="PK: ARY QTV FHD" tvg-logo="https://asiagrandiptv.us/logo/aryqtv.png" group-title="Pakistan",PK: ARY QTV FHD
-http://841378651646764634.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/764634.ts
-#EXTINF:-1 tvg-id="aryzindagi.pk" tvg-name="PK: ARY ZINDAGI FHD" tvg-logo="https://asiagrandiptv.us/logo/aryzindagi.png" group-title="Pakistan",PK: ARY ZINDAGI FHD
-http://841378651646764636.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/764636.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: BOL NEWS URDU SD" tvg-logo="https://asiagrandiptv.us/logo//BOLNEWSURDU.png" group-title="Pakistan",PK: BOL NEWS URDU SD
-http://841378651646764638.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/764638.ts
-#EXTINF:-1 tvg-id="expressentertainment.pk" tvg-name="PK: EXPRESS ENTERTAINMENT FHD" tvg-logo="https://asiagrandiptv.us/logo/expressentertainment.png" group-title="Pakistan",PK: EXPRESS ENTERTAINMENT FHD
-http://841378651646764645.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/764645.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: KHYBER NEWS HD" tvg-logo="https://asiagrandiptv.us/logo/khybernews.png" group-title="Pakistan",PK: KHYBER NEWS HD
-http://841378651646764655.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/764655.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: NOOR TV SD" tvg-logo="https://asiagrandiptv.us/logo/noortv.png" group-title="Pakistan",PK: NOOR TV SD
-http://841378651646764659.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/764659.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: PEACE TV ENGLISH HD" tvg-logo="https://asiagrandiptv.us/logo//PEACETVENGLISH.jpg" group-title="Pakistan",PK: PEACE TV ENGLISH HD
-http://841378651646764660.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/764660.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: KHYBER NEWS HD" tvg-logo="https://asiagrandiptv.us/logo/khybernews.png" group-title="Pakistan",PK: KHYBER NEWS HD
-http://841378651646764655.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/764655.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: HUM NEWS SD" tvg-logo="https://asiagrandiptv.us/logo/humnews.png" group-title="Pakistan",PK: HUM NEWS SD
-http://841378651646778503.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/778503.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY NEWS FHD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZjsyDHtZiJDK9wLM212tx1ly_K8WBjdS80mqtbNgqKXMw.png" group-title="Pakistan",PK: ARY NEWS FHD
-http://841378651646779473.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/779473.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: KHYBER TV SD" tvg-logo="https://asiagrandiptv.us/logo//logokhybertv1.png" group-title="Pakistan",PK: KHYBER TV SD
-http://841378651646779991.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/779991.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: DIN NEWS HD" tvg-logo="https://asiagrandiptv.us/logo/dinnews.png" group-title="Pakistan",PK: DIN NEWS HD
-http://841378651646780858.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/780858.ts
-#EXTINF:-1 tvg-id="dawnnews.pk" tvg-name="PK: DAWN NEWS HD" tvg-logo="https://asiagrandiptv.us/logo/dawnnews.png" group-title="Pakistan",PK: DAWN NEWS HD
-http://841378651646714645.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/714645.ts
-#EXTINF:-1 tvg-id="ptvnews.pk" tvg-name="PK: PTV NEWS HD" tvg-logo="https://asiagrandiptv.us/logo//ptvnews.png" group-title="Pakistan",PK: PTV NEWS HD
-http://841378651646717587.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/717587.ts
+
 #EXTINF:-1 tvg-id="ptvworld.pk" tvg-name="PK: PTV WORLD SD" tvg-logo="https://asiagrandiptv.us/logo/ptvworld.png" group-title="Pakistan",PK: PTV WORLD SD
 http://841378651646688499.0222ofd.xyz:80/play/SNLSNRLPST/KxyxRTp9cr/688499.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK: SAMAA NEWS SD" tvg-logo="https://asiagrandiptv.us/logo//SAMAANEWS.jpg" group-title="Pakistan",PK: SAMAA NEWS SD
