@@ -195,7 +195,7 @@ http://62.171.146.44:8080/hls/alqudstv/alqudstv.m3u8?v=1778398403
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="None",Qatar TV
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="Pakistani",PTV World
-http://113.203.244.4:8000/play/a08s/index.m3u8
+http://filex.tv:8080/live/999999999/999999999/246985.ts
 #EXTINF:-1 tvg-id="PTVHome.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/mJxpdBU.png" group-title="Pakistani",PTV Home (238p)
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/646763 
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/LyqGxwv.jpg" group-title="News",PTV News (1080p) [Not 24/7]
