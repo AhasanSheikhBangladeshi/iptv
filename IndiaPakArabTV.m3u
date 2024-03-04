@@ -34,6 +34,7 @@ http://xtv.ooo:8080/Adriaan173/77044006/221342
 http://xtv.ooo:8080/Adriaan173/77044006/110050
 #EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="PK | PTV GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK | PTV GLOBAL
 http://xtv.ooo:8080/Adriaan173/77044006/25994
+
 #EXTINF:-1 tvg-id="" tvg-name="PAK: Ptv World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png" group-title="PAKISTAN | NEWS",PAK: Ptv World
 http://xtv.ooo:8080/Adriaan173/77044006/167657
 #EXTINF:-1 tvg-id="" tvg-name="PK | PTV NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png" group-title="PAKISTAN | NEWS",PK | PTV NEWS
@@ -85,7 +86,83 @@ http://xtv.ooo:8080/Adriaan173/77044006/25997
 #EXTINF:-1 tvg-id="aajnews.pk" tvg-name="PK | AAJ NEWS" tvg-logo="http://b1g.fun/logos2/aaj_news.jpg" group-title="PAKISTAN | NEWS",PK | AAJ NEWS
 http://xtv.ooo:8080/Adriaan173/77044006/26001
 
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/7a72febb637901c474b0241f9839e173.png" group-title="Iran",IR: IRIB 1
+http://xtv.ooo:8080/Adriaan173/77044006/351120
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f34a9a3baaefa4dabd7306d3548eb785.png" group-title="Iran",IR: IRIB 2
+http://xtv.ooo:8080/Adriaan173/77044006/351121
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1b9b1cd3c518b9b24e2e3bf0058c8b12.png" group-title="Iran",IR: IRIB 3
+http://xtv.ooo:8080/Adriaan173/77044006/351122
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 3 satellite" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/0812c50d77135f0c63395f5d3224c7d3" group-title="Iran",IR: IRIB 3 satellite
+http://xtv.ooo:8080/Adriaan173/77044006/351123
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Esfahan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/3c70cbdaf7276b57631c809e253ee6db" group-title="Iran",IR: IRIB Esfahan
+http://xtv.ooo:8080/Adriaan173/77044006/351138
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Jahanbin" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/8b737794821c6cf187dde5c89b515321" group-title="Iran",IR: IRIB Jahanbin
+http://xtv.ooo:8080/Adriaan173/77044006/351147
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Jam" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/575aab53949ebf3a2e421476239320b8" group-title="Iran",IR: IRIB Jam
+http://xtv.ooo:8080/Adriaan173/77044006/351148
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Jamejam 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/474b5c8d9393397f825ba3e18aecc969" group-title="Iran",IR: IRIB Jamejam 1
+http://xtv.ooo:8080/Adriaan173/77044006/351149
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Jamejam 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/a5b78bdd102297666baac0dd3f34e84c" group-title="Iran",IR: IRIB Jamejam 2
+http://xtv.ooo:8080/Adriaan173/77044006/351150
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Jamejam 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/42440c851d537adba48b800b8af2f36e" group-title="Iran",IR: IRIB Jamejam 3
+http://xtv.ooo:8080/Adriaan173/77044006/351151
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB khoozestan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/cda7d96d8e835baf4238021a2ff8d506" group-title="Iran",IR: IRIB khoozestan
+http://xtv.ooo:8080/Adriaan173/77044006/351157
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Kordestan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/716e8df761d7688ad670b01f09c614af" group-title="Iran",IR: IRIB Kordestan
+http://xtv.ooo:8080/Adriaan173/77044006/351160
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Labbayk" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/f1d5c2eab175a1d1751c2ab3d51aa720" group-title="Iran",IR: IRIB Labbayk
+http://xtv.ooo:8080/Adriaan173/77044006/351161
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Mahabad" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/cdcf4cc511b3e60a6099426f9e0fd1ff" group-title="Iran",IR: IRIB Mahabad
+http://xtv.ooo:8080/Adriaan173/77044006/351162
 
+#EXTINF:-1 tvg-id="" tvg-name="IR: BBC Persian" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f6be86cce0186542529d22a2e9937325.png" group-title="Iran",IR: BBC Persian
+http://xtv.ooo:8080/Adriaan173/77044006/351073
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Kordestan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/716e8df761d7688ad670b01f09c614af" group-title="Iran",IR: IRIB Kordestan
+http://xtv.ooo:8080/Adriaan173/77044006/351160
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Labbayk" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/f1d5c2eab175a1d1751c2ab3d51aa720" group-title="Iran",IR: IRIB Labbayk
+http://xtv.ooo:8080/Adriaan173/77044006/351161
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Mahabad" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/cdcf4cc511b3e60a6099426f9e0fd1ff" group-title="Iran",IR: IRIB Mahabad
+http://xtv.ooo:8080/Adriaan173/77044006/351162
+#EXTINF:-1 tvg-id="" tvg-name="IR: Iran International" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ea33633aba1b6e1d15146eeea7d8832f.png" group-title="Iran",IR: Iran International
+http://xtv.ooo:8080/Adriaan173/77044006/351118
+#EXTINF:-1 tvg-id="" tvg-name="KW: Al Maaly TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/93d98029c6a10f2813a01cbf8ac2ef09.jpg" group-title="Kuwait",KW: Al Maaly TV
+http://xtv.ooo:8080/Adriaan173/77044006/351779
+#EXTINF:-1 tvg-id="" tvg-name="KW: Al Maaref TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/45096834e1f4dc5017d8dc44f2c87d1e.png" group-title="Kuwait",KW: Al Maaref TV
+http://xtv.ooo:8080/Adriaan173/77044006/351780
+#EXTINF:-1 tvg-id="" tvg-name="KW: Al Majlis TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-11/20fd904108b2635015fab697ddb6aea5.png" group-title="Kuwait",KW: Al Majlis TV
+http://xtv.ooo:8080/Adriaan173/77044006/351781
+#EXTINF:-1 tvg-id="" tvg-name="KW: Al Sabah" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/c5390652a144988f878696d111c735df.png" group-title="Kuwait",KW: Al Sabah
+http://xtv.ooo:8080/Adriaan173/77044006/351782
+#EXTINF:-1 tvg-id="" tvg-name="KW: Al Shahed" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/061f7a0ce2c5aed1ac7f6cfdfb7b13f2.png" group-title="Kuwait",KW: Al Shahed
+http://xtv.ooo:8080/Adriaan173/77044006/351783
+#EXTINF:-1 tvg-id="" tvg-name="KW: Alanwar TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/679b6d7ff15fbe29eab41b1fd22991e7.png" group-title="Kuwait",KW: Alanwar TV
+http://xtv.ooo:8080/Adriaan173/77044006/351784
+#EXTINF:-1 tvg-id="" tvg-name="KW: Albawadi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/3f2a856415ff2918c540c5904a641f1e.png" group-title="Kuwait",KW: Albawadi TV
+http://xtv.ooo:8080/Adriaan173/77044006/351785
+#EXTINF:-1 tvg-id="" tvg-name="KW: Alrai TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/13b912eff74674d20c52fc49ba1f43a9.png" group-title="Kuwait",KW: Alrai TV
+http://xtv.ooo:8080/Adriaan173/77044006/351786
+#EXTINF:-1 tvg-id="" tvg-name="KW: ATV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/5a01c22e5275b33a7f8f1d7cb5d59482.png" group-title="Kuwait",KW: ATV
+http://xtv.ooo:8080/Adriaan173/77044006/351787
+#EXTINF:-1 tvg-id="" tvg-name="KW: Funoon TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-11/f07ab2f6d193bbc421141a370f764b7c.png" group-title="Kuwait",KW: Funoon TV
+http://xtv.ooo:8080/Adriaan173/77044006/351788
+#EXTINF:-1 tvg-id="" tvg-name="KW: KTV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-11/123b30ee86b91d350ad0495de8510eab.png" group-title="Kuwait",KW: KTV 1
+http://xtv.ooo:8080/Adriaan173/77044006/351789
+#EXTINF:-1 tvg-id="" tvg-name="KW: KTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-11/6f7731ead6ce6d885f0df89a9a668eff.png" group-title="Kuwait",KW: KTV 2
+http://xtv.ooo:8080/Adriaan173/77044006/351790
+#EXTINF:-1 tvg-id="" tvg-name="KW: KTV Al Qurain" tvg-logo="http://s3.i3ns.net/portal/picon/2020-11/38cdf1cc66f9d50b1366622e40ac1905.png" group-title="Kuwait",KW: KTV Al Qurain
+http://xtv.ooo:8080/Adriaan173/77044006/351791
+#EXTINF:-1 tvg-id="" tvg-name="KW: KTV Arabe" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6778e7ec12ad7518b43d73a1182d2e73.png" group-title="Kuwait",KW: KTV Arabe
+http://xtv.ooo:8080/Adriaan173/77044006/351792
+#EXTINF:-1 tvg-id="" tvg-name="KW: KTV Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/573902cb08546699a6245487dc6080b4.png" group-title="Kuwait",KW: KTV Drama
+http://xtv.ooo:8080/Adriaan173/77044006/351793
+#EXTINF:-1 tvg-id="" tvg-name="KW: KTV Ethraa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/473253f46392ab04170b747dc4bbe3b1.png" group-title="Kuwait",KW: KTV Ethraa
+http://xtv.ooo:8080/Adriaan173/77044006/351794
+#EXTINF:-1 tvg-id="" tvg-name="KW: KTV Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/17661dce11a86e01a2d34e96d9b39f68.png" group-title="Kuwait",KW: KTV Sport
+http://xtv.ooo:8080/Adriaan173/77044006/351795
+#EXTINF:-1 tvg-id="" tvg-name="KW: KTV Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/78950aa0d9e81794c73186c7a38824c3.png" group-title="Kuwait",KW: KTV Sport 2
+http://xtv.ooo:8080/Adriaan173/77044006/351796
+#EXTINF:-1 tvg-id="" tvg-name="KW: Kuwait TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/df720352bda21e0658f21c3e6fcd3a41.png" group-title="Kuwait",KW: Kuwait TV
+http://xtv.ooo:8080/Adriaan173/77044006/351797
 
 #EXTINF:-1,IR Simaye Azadi Iranntv
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
