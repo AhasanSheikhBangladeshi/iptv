@@ -114,17 +114,11 @@ http://xtv.ooo:8080/Adriaan173/77044006/351160
 http://xtv.ooo:8080/Adriaan173/77044006/351161
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Mahabad" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/cdcf4cc511b3e60a6099426f9e0fd1ff" group-title="Iran",IR: IRIB Mahabad
 http://xtv.ooo:8080/Adriaan173/77044006/351162
-
 #EXTINF:-1 tvg-id="" tvg-name="IR: BBC Persian" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f6be86cce0186542529d22a2e9937325.png" group-title="Iran",IR: BBC Persian
 http://xtv.ooo:8080/Adriaan173/77044006/351073
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Kordestan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/716e8df761d7688ad670b01f09c614af" group-title="Iran",IR: IRIB Kordestan
-http://xtv.ooo:8080/Adriaan173/77044006/351160
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Labbayk" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/f1d5c2eab175a1d1751c2ab3d51aa720" group-title="Iran",IR: IRIB Labbayk
-http://xtv.ooo:8080/Adriaan173/77044006/351161
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Mahabad" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/cdcf4cc511b3e60a6099426f9e0fd1ff" group-title="Iran",IR: IRIB Mahabad
-http://xtv.ooo:8080/Adriaan173/77044006/351162
 #EXTINF:-1 tvg-id="" tvg-name="IR: Iran International" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ea33633aba1b6e1d15146eeea7d8832f.png" group-title="Iran",IR: Iran International
 http://xtv.ooo:8080/Adriaan173/77044006/351118
+
 #EXTINF:-1 tvg-id="" tvg-name="KW: Al Maaly TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/93d98029c6a10f2813a01cbf8ac2ef09.jpg" group-title="Kuwait",KW: Al Maaly TV
 http://xtv.ooo:8080/Adriaan173/77044006/351779
 #EXTINF:-1 tvg-id="" tvg-name="KW: Al Maaref TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/45096834e1f4dc5017d8dc44f2c87d1e.png" group-title="Kuwait",KW: Al Maaref TV
@@ -163,6 +157,110 @@ http://xtv.ooo:8080/Adriaan173/77044006/351795
 http://xtv.ooo:8080/Adriaan173/77044006/351796
 #EXTINF:-1 tvg-id="" tvg-name="KW: Kuwait TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/df720352bda21e0658f21c3e6fcd3a41.png" group-title="Kuwait",KW: Kuwait TV
 http://xtv.ooo:8080/Adriaan173/77044006/351797
+#EXTINF:-1 tvg-id="" tvg-name="PS: Al Quds Today TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/cb8275e29b74b744d21ce7708434f8f5.png" group-title="Palestine",PS: Al Quds Today TV
+http://xtv.ooo:8080/Adriaan173/77044006/352529
+#EXTINF:-1 tvg-id="" tvg-name="PS: Alkofiya TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/5eddf76c3377d8e0c9e0779c8968b8da.png" group-title="Palestine",PS: Alkofiya TV
+http://xtv.ooo:8080/Adriaan173/77044006/352530
+#EXTINF:-1 tvg-id="" tvg-name="PS: Awdeh" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/419250c667bdfd667c672fd618cc268d.png" group-title="Palestine",PS: Awdeh
+http://xtv.ooo:8080/Adriaan173/77044006/352531
+#EXTINF:-1 tvg-id="" tvg-name="PS: Maan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f08cfdeda95fabe280b8f0a9f1b1fc08.png" group-title="Palestine",PS: Maan TV
+http://xtv.ooo:8080/Adriaan173/77044006/352532
+#EXTINF:-1 tvg-id="" tvg-name="PS: Musawa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/624b5b46036cc1c9915cf73e70401553.png" group-title="Palestine",PS: Musawa
+http://xtv.ooo:8080/Adriaan173/77044006/352533
+#EXTINF:-1 tvg-id="" tvg-name="PS: Nablus TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/5a38684a28f4f8a1e6c990bfbbdf702a.png" group-title="Palestine",PS: Nablus TV
+http://xtv.ooo:8080/Adriaan173/77044006/352534
+#EXTINF:-1 tvg-id="" tvg-name="PS: Palestine Al Yawm" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/18e6c16cc8d73ad1cdb25d84a64830ba.png" group-title="Palestine",PS: Palestine Al Yawm
+http://xtv.ooo:8080/Adriaan173/77044006/352535
+#EXTINF:-1 tvg-id="" tvg-name="PS: Palestine Mobasher" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/62ce6c930662a1cf2d9ba80138d96da0.png" group-title="Palestine",PS: Palestine Mobasher
+http://xtv.ooo:8080/Adriaan173/77044006/352536
+#EXTINF:-1 tvg-id="" tvg-name="PS: Palestine Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/f9efc60fddbb39861995c5ebfe219a55.png" group-title="Palestine",PS: Palestine Sport
+http://xtv.ooo:8080/Adriaan173/77044006/352537
+#EXTINF:-1 tvg-id="" tvg-name="PS: Palestine Today" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/ceb6dc02875ebef99618704c35cfb1b8.jpg" group-title="Palestine",PS: Palestine Today
+http://xtv.ooo:8080/Adriaan173/77044006/352538
+#EXTINF:-1 tvg-id="" tvg-name="PS: Palestine TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/8f0d918a2a97f8250e7e111a23bbae1b.png" group-title="Palestine",PS: Palestine TV
+http://xtv.ooo:8080/Adriaan173/77044006/352539
+#EXTINF:-1 tvg-id="" tvg-name="PS: Rajeen TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3c8ce67605cfac17fea174dc18375399.png" group-title="Palestine",PS: Rajeen TV
+http://xtv.ooo:8080/Adriaan173/77044006/352540
+#EXTINF:-1 tvg-id="" tvg-name="PS: Al Aqsa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/74f3df9906c6d220123ba7d104484121.png" group-title="Palestine",PS: Al Aqsa
+http://xtv.ooo:8080/Adriaan173/77044006/352522
+#EXTINF:-1 tvg-id="" tvg-name="PS: Al Fajer" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/610f9163ea40448054b9e66c58955227.jpg" group-title="Palestine",PS: Al Fajer
+http://xtv.ooo:8080/Adriaan173/77044006/352523
+#EXTINF:-1 tvg-id="" tvg-name="PS: Al Fajer 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/77847887acca6ce6b027be59b93a7f55.jpg" group-title="Palestine",PS: Al Fajer 2
+http://xtv.ooo:8080/Adriaan173/77044006/352524
+
+#EXTINF:-1 tvg-id="" tvg-name="EG: CBC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b6c964a3434c30307e25798220096716.png" group-title="Egypt",EG: CBC
+http://xtv.ooo:8080/Adriaan173/77044006/349708
+#EXTINF:-1 tvg-id="" tvg-name="EG: CBC Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/dce3a2fde4ad6cdca4b4b074f271d7c8.png" group-title="Egypt",EG: CBC Drama
+http://xtv.ooo:8080/Adriaan173/77044006/349709
+#EXTINF:-1 tvg-id="" tvg-name="EG: Alghad TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/7f3138829f64948015e96d17638cb428.png" group-title="Egypt",EG: Alghad TV
+http://xtv.ooo:8080/Adriaan173/77044006/349702
+#EXTINF:-1 tvg-id="" tvg-name="EG: AlHadath Alyoum" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ebf782b8e0a95cc70e1e0d9f50bc3307.png" group-title="Egypt",EG: AlHadath Alyoum
+http://xtv.ooo:8080/Adriaan173/77044006/349703
+#EXTINF:-1 tvg-id="" tvg-name="EG: Alhayah" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2fd46d9667f14278e41bd414634619a9.png" group-title="Egypt",EG: Alhayah
+http://xtv.ooo:8080/Adriaan173/77044006/349704
+#EXTINF:-1 tvg-id="" tvg-name="EG: Alhayat Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/16a024e39ff4da2d3d0838f07a1319eb.png" group-title="Egypt",EG: Alhayat Drama
+http://xtv.ooo:8080/Adriaan173/77044006/349705
+#EXTINF:-1 tvg-id="" tvg-name="EG: Al Kahera Wal Nas" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d81966f6a2dadce74034cd6cd6418d7b.png" group-title="Egypt",EG: Al Kahera Wal Nas
+http://xtv.ooo:8080/Adriaan173/77044006/349693
+#EXTINF:-1 tvg-id="" tvg-name="EG: Al Kahera Wal Nas 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/26f3eea49d558680f61d9f070b8a46a7.png" group-title="Egypt",EG: Al Kahera Wal Nas 2
+http://xtv.ooo:8080/Adriaan173/77044006/349694
+#EXTINF:-1 tvg-id="" tvg-name="EG: Al Masriyah" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ed5a568c95e5fa89e3a021ebcfea7b17.png" group-title="Egypt",EG: Al Masriyah
+http://xtv.ooo:8080/Adriaan173/77044006/349695
+#EXTINF:-1 tvg-id="" tvg-name="EG: El Moled" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/cf4d7ac6f1f8130abda3e40764df8b20.png" group-title="Egypt",EG: El Moled
+http://xtv.ooo:8080/Adriaan173/77044006/349721
+#EXTINF:-1 tvg-id="" tvg-name="EG: Elnas TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/984b4f567c2b960e596cff6a2e2e1c2a.png" group-title="Egypt",EG: Elnas TV
+http://xtv.ooo:8080/Adriaan173/77044006/349722
+#EXTINF:-1 tvg-id="" tvg-name="EG: Elsharq" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6ef1ba946f3ffee5995192ff4fdc70e2.png" group-title="Egypt",EG: Elsharq
+http://xtv.ooo:8080/Adriaan173/77044006/349723
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/73e470c9d252ce282882a8bff79f9c7d.png" group-title="Egypt",EG: ERTU 2
+http://xtv.ooo:8080/Adriaan173/77044006/349724
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 3 Al Kahera" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f4339cc3d6f44b487e602a1c21631f18.png" group-title="Egypt",EG: ERTU 3 Al Kahera
+http://xtv.ooo:8080/Adriaan173/77044006/349725
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 4 Al Kanal" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/d7a7164f6b680c896d17935ad1816746.png" group-title="Egypt",EG: ERTU 4 Al Kanal
+http://xtv.ooo:8080/Adriaan173/77044006/349726
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 5 Al Askandria" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/3e8b1c3c8c5752dbbe21dd6c212ceadd.png" group-title="Egypt",EG: ERTU 5 Al Askandria
+http://xtv.ooo:8080/Adriaan173/77044006/349727
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 6 Al Delta" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/db63626ade850e58e6a91f2c9ef143e3.png" group-title="Egypt",EG: ERTU 6 Al Delta
+http://xtv.ooo:8080/Adriaan173/77044006/349728
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 8 Teba" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5ef33ba361d92de405582c48f5358db3.png" group-title="Egypt",EG: ERTU 8 Teba
+http://xtv.ooo:8080/Adriaan173/77044006/349729
+#EXTINF:-1 tvg-id="" tvg-name="EG: ETC" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/867ef153c4aa0ca1eee57c8db38c067b.png" group-title="Egypt",EG: ETC
+http://xtv.ooo:8080/Adriaan173/77044006/349730
+#EXTINF:-1 tvg-id="" tvg-name="EG: Extra News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/faad585a566db021be172101c78d7c3b.png" group-title="Egypt",EG: Extra News
+http://xtv.ooo:8080/Adriaan173/77044006/349731
+#EXTINF:-1 tvg-id="" tvg-name="EG: Mekameleen TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/bcbf5de0f8597e9d04d844beb463aed6.png" group-title="Egypt",EG: Mekameleen TV
+http://xtv.ooo:8080/Adriaan173/77044006/349744
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile Culture" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/752d876e9685a7c1a6805d0cb3cb3309.png" group-title="Egypt",EG: Nile Culture
+http://xtv.ooo:8080/Adriaan173/77044006/349751
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/8d74c72fb6be18262a05b9666105f377.png" group-title="Egypt",EG: Nile Drama
+http://xtv.ooo:8080/Adriaan173/77044006/349752
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/ea446693bdfc24900f1c6b1353466da8.png" group-title="Egypt",EG: Nile Family
+http://xtv.ooo:8080/Adriaan173/77044006/349753
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile Life" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5c046528ee016541712f9e831f950a14.png" group-title="Egypt",EG: Nile Life
+http://xtv.ooo:8080/Adriaan173/77044006/349754
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5a233184e123ebaab3dd76605a70e318.png" group-title="Egypt",EG: Nile News
+http://xtv.ooo:8080/Adriaan173/77044006/349755
+
+#EXTINF:-1 tvg-id="" tvg-name="SD: Dabanga TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/526a458c072ed51d005d2b81702bd6ee.png" group-title="Sudan",SD: Dabanga TV
+http://xtv.ooo:8080/Adriaan173/77044006/354307
+#EXTINF:-1 tvg-id="" tvg-name="SD: Kassala TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/47f07e3fffdf13d6cc6fa45b588105a0.jfif" group-title="Sudan",SD: Kassala TV
+http://xtv.ooo:8080/Adriaan173/77044006/354308
+#EXTINF:-1 tvg-id="" tvg-name="SD: Khartoum TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d9d60c649a1dc38fb1c1573cbf9e75f3.jfif" group-title="Sudan",SD: Khartoum TV
+http://xtv.ooo:8080/Adriaan173/77044006/354309
+#EXTINF:-1 tvg-id="" tvg-name="SD: Red Sea" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/a2e707d0240427751e498cb2e2eff563.png" group-title="Sudan",SD: Red Sea
+http://xtv.ooo:8080/Adriaan173/77044006/354310
+#EXTINF:-1 tvg-id="" tvg-name="SD: SSBC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/571c7be6b34f82e5be0d499b76219cde.png" group-title="Sudan",SD: SSBC TV
+http://xtv.ooo:8080/Adriaan173/77044006/354311
+#EXTINF:-1 tvg-id="" tvg-name="SD: Sudan Bukra" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/56d1c195afbd85c16abe8ad71a5eb3b5.png" group-title="Sudan",SD: Sudan Bukra
+http://xtv.ooo:8080/Adriaan173/77044006/354312
+#EXTINF:-1 tvg-id="" tvg-name="SD: Sudan Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/f02e482c0804ce6012afeddfb7ba6d22.png" group-title="Sudan",SD: Sudan Drama
+http://xtv.ooo:8080/Adriaan173/77044006/354313
+#EXTINF:-1 tvg-id="" tvg-name="SD: Sudan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/3f5ed893931f4ed240d726afbf0f4541.png" group-title="Sudan",SD: Sudan TV
+http://xtv.ooo:8080/Adriaan173/77044006/354314
+#EXTINF:-1 tvg-id="" tvg-name="SD: Sudania 24 TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/f29eccd3dc22b9a4a2b8119979993035.png" group-title="Sudan",SD: Sudania 24 TV
+http://xtv.ooo:8080/Adriaan173/77044006/354315
+#EXTINF:-1 tvg-id="" tvg-name="SD: Tayba TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/18bc09ada40deb090c94505bb26aab6e.png" group-title="Sudan",SD: Tayba TV
+http://xtv.ooo:8080/Adriaan173/77044006/354316
 
 #EXTINF:-1,IR Simaye Azadi Iranntv
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
