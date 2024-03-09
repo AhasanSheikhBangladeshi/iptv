@@ -79,7 +79,7 @@ http://103.55.144.46/hls/aljazeera.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangladeshi",T sports HD (BDIX2)
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-id="YemenAdenTV.ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngWUNpXzAs04osFsyrr1-mfZYF-0cmvES_83dPYcg=s900-c-k-c0x00ffffff-no-rj" group-title="General",Yemen Aden TV 
-http://95.216.180.111:1935/live/46/chunklist_w874853809.m3u8
+https://cdn1.ipslow.com/tv526_www.elahmad.com_tvaden/index.m3u8?token=4dcce2be3dfdf4fa9504d665ba2f163ab9d4ff0e-3201305d0e2326ed82435bd64e97f38c-1709979541-1709968741
 #EXTINF:0 tvg-logo="https://sawahhost.com/wp-content/uploads/2020/11/MBC.jpg" group-title="Arabic",MBC Channel 1
 https://shls-mbc1na-prod-dub.shahid.net:443/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_2.m3u8
 #EXTINF:-1 tvg-name="Imam Ali Najaf HD Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Imam_Ali_shrine_-_1_May_2015_19.jpg" group-title="Relegious",Imam Ali Najaf Live HD
@@ -156,7 +156,7 @@ http://ghostiptv.vip:80/admin1000/8888/49525
 #EXTINF:-1 tvg-id="" tvg-name="Iqra TV" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="Religious",BT- Iqra Tv
 http://line.tivi-one.net:80/live/RLHNCDE/N0iE82ur6Z/373089.ts
 #EXTINF:0 tvg-country="SA" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="None",Saudi TV 1
-https://shls-masr2-ak.akamaized.net:443/out/v1/5ae66b453b62403199811ab78da9982a/index_2.m3u8
+https://live.kwikmotion.com:443/ksa1live/ksa1.smil/ksa1publish/ksa1_source/hdntl=exp=1710055674~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=3afbb16874193f51508efd58458faf38f2a58c000c399ddca9f4b42b1f3e1dad/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id=Madani Urdu tv.pk" tvg-name="Madani TV Urdu" tvg-country="PK" tvg-language="Urdu" tvg-logo= "/sfmr9yZmuhzXhviaQGKeOzaimebuid/1p3se+/QggfM31XtZQzBNlnHqfEYnOLUwNY2tY+pYTIBJTjVrjI3BDri7bC/6nPI1J3tfEHRpRbJeFY3R5owOqqQxlMwDiv8AFxOG49nG92uHTz91fI" group-title="Religious",Madani Channel Urdu
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
 #EXTINF:-1 tvg-logo="https://dawateislamimidlands.net/wp-content/uploads/2020/01/Madani-Channel-Section-1.png" group-title="Religious",Madani Channel English 
