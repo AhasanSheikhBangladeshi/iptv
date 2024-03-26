@@ -40,497 +40,107 @@ http://1tv1.net:8080/live/Hasan2222/654321/158302.ts
 http://1tv1.net:8080/live/Hasan2222/654321/158303.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | PTV HOME" tvg-logo="http://b1g.me/logos2/ptv_home.jpg" group-title="PAKISTAN",PK | PTV HOME
 http://1tv1.net:8080/live/Hasan2222/654321/158304.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | ARY NEWS" tvg-logo="http://b1g.me/logos2/ary_news.jpg" group-title="PAKISTAN",PK | ARY NEWS
+http://1tv1.net:8080/live/Hasan2222/654321/158336.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | ARY NEWS SD" tvg-logo="http://b1g.me/logos2/ary_news.jpg" group-title="PAKISTAN",PK | ARY NEWS SD
+http://1tv1.net:8080/live/Hasan2222/654321/158337.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | GEO NEWS FHD" tvg-logo="http://b1g.me/logos2/geo_news.jpg" group-title="PAKISTAN",PK | GEO NEWS FHD
+http://1tv1.net:8080/live/Hasan2222/654321/158338.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | GEO TEZZ" tvg-logo="http://b1g.me/logos2/geo_tezz.jpg" group-title="PAKISTAN",PK | GEO TEZZ
+http://1tv1.net:8080/live/Hasan2222/654321/158339.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | SAMAA NEWS" tvg-logo="http://b1g.me/logos2/samaa_news.jpg" group-title="PAKISTAN",PK | SAMAA NEWS
+http://1tv1.net:8080/live/Hasan2222/654321/158341.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | GNN FHD" tvg-logo="http://b1g.me/logos2/gnn_news.jpg" group-title="PAKISTAN",PK | GNN FHD
+http://1tv1.net:8080/live/Hasan2222/654321/158342.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | 7 NEWS FHD" tvg-logo="http://b1g.me/logos2/7_news.jpg" group-title="PAKISTAN",PK | 7 NEWS FHD
+http://1tv1.net:8080/live/Hasan2222/654321/158343.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | GTV FHD" tvg-logo="http://b1g.me/logos2/gtv.jpg" group-title="PAKISTAN",PK | GTV FHD
+http://1tv1.net:8080/live/Hasan2222/654321/158344.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | 92 NEWS FHD" tvg-logo="http://b1g.me/logos2/92_news.jpg" group-title="PAKISTAN",PK | 92 NEWS FHD
+http://1tv1.net:8080/live/Hasan2222/654321/158345.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | BOL NEWS UHD" tvg-logo="http://b1g.me/logos2/bol_news.jpg" group-title="PAKISTAN",PK | BOL NEWS UHD
+http://1tv1.net:8080/live/Hasan2222/654321/158346.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | HUM NEWS FHD" tvg-logo="http://b1g.me/logos2/hum_news.jpg" group-title="PAKISTAN",PK | HUM NEWS FHD
+http://1tv1.net:8080/live/Hasan2222/654321/158347.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | PUBLIC NEWS FHD" tvg-logo="http://b1g.me/logos2/public_news.jpg" group-title="PAKISTAN",PK | PUBLIC NEWS FHD
+http://1tv1.net:8080/live/Hasan2222/654321/158348.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | CHANNEL 24 FHD" tvg-logo="http://b1g.me/logos2/24_channel.jpg" group-title="PAKISTAN",PK | CHANNEL 24 FHD
+http://1tv1.net:8080/live/Hasan2222/654321/158349.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | PTV NEWS" tvg-logo="http://b1g.me/logos2/ptv_newshd.jpg" group-title="PAKISTAN",PK | PTV NEWS
+http://1tv1.net:8080/live/Hasan2222/654321/158365.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | NEO NEWS FHD" tvg-logo="http://b1g.me/logos2/neo_news.jpg" group-title="PAKISTAN",PK | NEO NEWS FHD
+http://1tv1.net:8080/live/Hasan2222/654321/158352.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UK-Dawn News SD" tvg-logo="http://b1g.me/logos2/dawn_news.jpg" group-title="PAKISTAN",UK-Dawn News SD
+http://1tv1.net:8080/live/Hasan2222/654321/158353.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | DAWN NEWS" tvg-logo="http://b1g.me/logos2/dawn_news.jpg" group-title="PAKISTAN",PK | DAWN NEWS
+http://1tv1.net:8080/live/Hasan2222/654321/158354.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | DUNYA NEWS" tvg-logo="http://b1g.me/logos2/dunya_news.jpg" group-title="PAKISTAN",PK | DUNYA NEWS
+http://1tv1.net:8080/live/Hasan2222/654321/158355.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | EXPRESS NEWS" tvg-logo="http://b1g.me/logos2/express_news.jpg" group-title="PAKISTAN",PK | EXPRESS NEWS
+http://1tv1.net:8080/live/Hasan2222/654321/158356.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | NEWS ONE" tvg-logo="http://b1g.me/logos2/news_one.jpg" group-title="PAKISTAN",PK | NEWS ONE
+http://1tv1.net:8080/live/Hasan2222/654321/158357.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | CAPITAL TV" tvg-logo="http://b1g.me/logos2/capital_tv.jpg" group-title="PAKISTAN",PK | CAPITAL TV
+http://1tv1.net:8080/live/Hasan2222/654321/158358.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | K-21" tvg-logo="http://b1g.me/logos2/k21.jpg" group-title="PAKISTAN",PK | K-21
+http://1tv1.net:8080/live/Hasan2222/654321/158359.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | AAJ NEWS" tvg-logo="http://b1g.me/logos2/aaj_news.jpg" group-title="PAKISTAN",PK | AAJ NEWS
+http://1tv1.net:8080/live/Hasan2222/654321/158360.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | KHYBER NEWS" tvg-logo="http://b1g.me/logos2/khyber_news.jpg" group-title="PAKISTAN",PK | KHYBER NEWS
+http://1tv1.net:8080/live/Hasan2222/654321/158371.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | KTN NEWS" tvg-logo="http://b1g.me/logos2/ktn_news.jpg" group-title="PAKISTAN",PK | KTN NEWS
+http://1tv1.net:8080/live/Hasan2222/654321/158373.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | SINDH NEWS" tvg-logo="http://b1g.me/logos2/sindh_news.jpg" group-title="PAKISTAN",PK | SINDH NEWS
+http://1tv1.net:8080/live/Hasan2222/654321/158374.ts
 
-#EXTINF:-1,AFG: ATN
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2134
-#EXTINF:-1,AFG: 1TV HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/340853
-#EXTINF:-1,AFG: Atn News HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2170
-#EXTINF:-1,AFG: TOLO HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2125
-#EXTINF:-1,AFG: TOLO NEWS
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2127
-#EXTINF:-1,AFG: Muqam TV HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/323195
-#EXTINF:-1,AFG: Watan 2
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/308023
-#EXTINF:-1,AFG: Eslah TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/257599
-#EXTINF:-1,AFG: Barya TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/256392
-#EXTINF:-1,AFG: RTA Afghanistan HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/146848
-#EXTINF:-1,AFG: Payam-e-Afghan TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/224366
-#EXTINF:-1,AFG: ZhwandoonTV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2126
-#EXTINF:-1,AFG: Tamadon
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2130
-#EXTINF:-1,AFG: Noor TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2131
-#EXTINF:-1,AFG: Shamshed TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2137
-#EXTINF:-1,AFG: LEMAR
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2139
-#EXTINF:-1,AFG: RTA Sports HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/146868
-#EXTINF:-1,AFG: Sahar Afghanistan
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/428694
-#EXTINF:-1,AFG: AFGHAN INTERNATIONAL HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/296113
-
-#EXTINF:-1,IR: IRIB TV1
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2215
-#EXTINF:-1,IR: IRIB TV 1 HEVC
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/220066
-#EXTINF:-1,IR: IRIB TV2
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2216
-#EXTINF:-1,IR: IRIB TV 3 HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2217
-#EXTINF:-1,IR: IRIB TV 3 RAW
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/220054
-#EXTINF:-1,IR: IRIB TV 4
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2218
-#EXTINF:-1,IR: IRIB TV 5
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/225456
-#EXTINF:-1,IR: IRIB Nasim TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2219
-#EXTINF:-1,IR: IRIB IRINN
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3457
-#EXTINF:-1,IR: IRIB VARZESH
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2208
-#EXTINF:-1,IR: IRIB Jame-Jam 1 TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3453
-#EXTINF:-1,IR: IRIB Jame-Jam 2 TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/187928
-#EXTINF:-1,IR: IRIB Jame-Jam 3 TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/428690
-#EXTINF:-1,IR: IRIB Alborz
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/7136
-#EXTINF:-1,IR: IRIB Azarbayjan-e Gharbi TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2210
-#EXTINF:-1,IR: IRIB Baran TV Guilan
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2220
-#EXTINF:-1,IR: IRIB Fars Shiraz
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2212
-#EXTINF:-1,IR: IRIB Golestan SABZ TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2230
-#EXTINF:-1,IR: IRIB Hamoon
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2221
-#EXTINF:-1,IR: Khalij e Fars TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/7151
-
-#EXTINF:-1,IR: Khoozestan TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/7137
-#EXTINF:-1,IR: Sabalan TV (Ardebil)
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/7150
-#EXTINF:-1,IR: Sahand TV (TABRIZ)
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/7149
-#EXTINF:-1,IR: IRIB Jahanbin TV (Chaharmahal and Bakhtiari)
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/169853
-#EXTINF:-1,IR: IRIB Kermanshah Zagros
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2229
-#EXTINF:-1,IR: IRIB Khorasan Razavi
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2234
-#EXTINF:-1,IR: IRIB Kurdistan
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2228
-#EXTINF:-1,IR: IRIB Mahabad
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2213
-#EXTINF:-1,IR: IRIB Mazandaran Tabarestan TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2231
-#EXTINF:-1,IR: IRIB Ilam
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2227
-#EXTINF:-1,IR: IRIB Abadan TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/435875
-#EXTINF:-1,IR: Aftab TV (Markazi)
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/234798
-#EXTINF:-1,IR: Kalmeah Farsi
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3456
-#EXTINF:-1,IR: BBC Persian 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4520
-#EXTINF:-1,IR: VOA Persian 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/76771
-#EXTINF:-1,IR: Iran International 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3464
-#EXTINF:-1,IR: Simaye Azadi 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3465
-
-#EXTINF:-1,AR: Al Oula Masria QAF 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3195
-#EXTINF:-1,AR: Al Oula Masria QAF HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/497871
-#EXTINF:-1,AR: Al Masryia Air TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/133715
-#EXTINF:-1,AR: Al Ghad Al Araby 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3096
-#EXTINF:-1,AR: Al Ghad Al Araby HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/498337
-#EXTINF:-1,AR: Al Hiwar 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4337
-#EXTINF:-1,AR: Egyptian TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/186482
-#EXTINF:-1,AR: Nile News 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/350383
-#EXTINF:-1,AR: Al Hayat 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/137569
-#EXTINF:-1,AR: DMC Drama TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3227
-#EXTINF:-1,AR: DMC TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3092
-#EXTINF:-1,AR: DMC TV HD
-http://king4k.tv:80/b9d4aaebf7/29f40f662/497880
-
-#EXTINF:-1,AR: ON E HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/497884
-#EXTINF:-1,AR: OSM Cinema
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/468361
-#EXTINF:-1,AR: Al Thanya 2
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4216
-#EXTINF:-1,AR: Al Kahera 3
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4238
-#EXTINF:-1,AR: Al Kanal Masr 4
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4281
-#EXTINF:-1,AR: Al Askandaria 5
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4294
-#EXTINF:-1,AR: Al Delta Masr 6
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4282
-#EXTINF:-1,AR: Al Saeed Masr 7
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4283
-#EXTINF:-1,AR: Tebe 8
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/165986
-#EXTINF:-1,AR: Al Qanat 9 TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4384
-#EXTINF:-1,AR: Al Mehwer
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3293
-#EXTINF:-1,AR: Extra News
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4221
-#EXTINF:-1,AR: Mekameleen TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4300
-
-#EXTINF:-1,AR: Al Hayat
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3251
-#EXTINF:-1,AR: Al Hayat Drama
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/6534
-#EXTINF:-1,AR: Al Kahera Wa Alnas
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3192
-#EXTINF:-1,AR: Al Kahera Wa Alnas Plus 2
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/9844
-#EXTINF:-1,AR: Al Nahar One
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4217
-
-#EXTINF:-1,AR: Alnas
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3295
-#EXTINF:-1,AR: CBC
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4220
-#EXTINF:-1,AR: CBC Sofra
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4222
-#EXTINF:-1,AR: Nile Culture
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3163
-#EXTINF:-1,AR: Nile Drama
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3160
-#EXTINF:-1,AR: Nile Family
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3194
-#EXTINF:-1,AR: Nile Live
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3159
-#EXTINF:-1,AR: Nile News
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3157
-#EXTINF:-1,AR: Nile TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3237
-
-#EXTINF:-1,AR: Iraq TV News 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3091
-#EXTINF:-1,AR: Iraq TV News HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/497878
-#EXTINF:-1,AR: Al Sharqiya News 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4474
-#EXTINF:-1,AR: Al Sharqiya TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3103
-#EXTINF:-1,AR: Al Sharqiya TV HD 鈼�
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/497952
-#EXTINF:-1,AR: Al Sumaria 4K 鈼�
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3250
-#EXTINF:-1,AR: Al Rashed 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3292
-#EXTINF:-1,AR: Al Baghdadia TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/184939
-#EXTINF:-1,AR: Al Etejah TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4366
-#EXTINF:-1,AR: Al Etejah TV HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/498892
-#EXTINF:-1,AR: Al Rafiden TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4426
-#EXTINF:-1,AR: Iraq 24 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/166668
-#EXTINF:-1,AR: AFAQ TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/599406
-#EXTINF:-1,AR: Iraq Education 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4328
-#EXTINF:-1,AR: Al-Farahidi University TV HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/499151
-EXTINF:-1,AR: Al Fallojah TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/239034
-#EXTINF:-1,AR: Al Karama News
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/226480
-#EXTINF:-1,AR: Al Mawsleya
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4480
-#EXTINF:-1,AR: Al Taghier 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4233
-#EXTINF:-1,AR: Al Taghier HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/498893
-#EXTINF:-1,AR: Iraq Al Salam TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/148767
-#EXTINF:-1,AR: Iraqia Syriac HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/498895
-#EXTINF:-1,AR: Samrra TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3234
-#EXTINF:-1,AR: Al Hurra Iraq HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4229
-#EXTINF:-1,AR: iNews TV Arabic HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/247723
-#EXTINF:-1,AR: Al Turkmenia TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3156
-#EXTINF:-1,AR: Al Baeenah HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4387
-#EXTINF:-1,AR: Al Eshraq TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/194844
-#EXTINF:-1,AR: Fursan Aliraq
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/504898
-#EXTINF:-1,AR: Al Shaaer TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/172733
-#EXTINF:-1,AR: Alnajaf Alashraf
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/247722
-#EXTINF:-1,AR: Al Forat
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3199
-#EXTINF:-1,AR: Iraq Future TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3207
-#EXTINF:-1,AR: Al Ghadeer TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3233
-#EXTINF:-1,AR: Al Anwar 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3296
-#EXTINF:-1,AR: Al Wilayah TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4786
-#EXTINF:-1,AR: Al Qamar
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4376
-#EXTINF:-1,AR: WTV Watan TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/225917
-#EXTINF:-1,AR: Asil TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/353178
-
-#EXTINF:-1,AR: Al Taleaa TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4483
-#EXTINF:-1,AR: Kuwait TV 1 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4355
-#EXTINF:-1,AR: Kuwait TV 2 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4351
-#EXTINF:-1,AR: Kuwait TV Plus 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/196792
-#EXTINF:-1,AR: Kuwait Ethraa 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4352
-#EXTINF:-1,AR: Al Shahed TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2334
-#EXTINF:-1,AR: Alrai TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/218388
-#EXTINF:-1,AR: Al Majlis 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/186822
-#EXTINF:-1,AR: Al Bawadi 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/212647
-#EXTINF:-1,AR: Kuwait Drama 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3104
-#EXTINF:-1,AR: Al Adalah TV ATV HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2309
-#EXTINF:-1,AR: Kuwait Qurain TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/357497
-#EXTINF:-1,AR: Funoon TV HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3166
-#EXTINF:-1,AR: Kuwait Al Arabi
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4353
-#EXTINF:-1,AR: Al Maaly
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4432
-#EXTINF:-1,AR: Al Sabah TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/212648
-
-#EXTINF:-1,AR: Qatar TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4415
-#EXTINF:-1,AR: Qatar TV HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/499144
-#EXTINF:-1,AR: Qatar 2 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/184832
-#EXTINF:-1,AR: Qatar 2 HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/499145
-#EXTINF:-1,AR: Rayyan 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2321
-#EXTINF:-1,AR: Al Rayyan Al Qadeem 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/7160
-#EXTINF:-1,###### OMAN TV ######
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/251805
-#EXTINF:-1,AR: Oman TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4439
-#EXTINF:-1,AR: Oman TV Live
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/248992
-#EXTINF:-1,AR: Oman Culture TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4420
-#EXTINF:-1,AR: Oman Alistiqama TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/17795
-#EXTINF:-1,###### BAHRAIN TV ######
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/251806
-#EXTINF:-1,AR: Bahrain 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4503
-#EXTINF:-1,AR: Bahrain International 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4288
-#EXTINF:-1,AR: Bahrain Lawal
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/170187
-#EXTINF:-1,AR: LuaLua TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/316409
-
-#EXTINF:-1,AR: Roya TV HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/497953
-#EXTINF:-1,AR: Jordan TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4440
-#EXTINF:-1,AR: Almamlaka TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3101
-#EXTINF:-1,AR: Almamlaka TV HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/497948
-#EXTINF:-1,AR: Amman TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3236
-#EXTINF:-1,AR: Amman TV HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/499147
-#EXTINF:-1,AR: Jordan Aman TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/461175
-#EXTINF:-1,AR: Yarmouk
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/326934
-
-
-#EXTINF:-1,AR: Yemen TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/319847
-#EXTINF:-1,AR: Yemen TV HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/499136
-#EXTINF:-1,AR: Aden Almustakilla 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/168646
-#EXTINF:-1,AR: Aden Almustakilla HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/499137
-#EXTINF:-1,AR: Yemen Al Mahriah 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/120733
-#EXTINF:-1,AR: Yemen Shabab 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4381
-#EXTINF:-1,AR: Belqees 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4468
-#EXTINF:-1,AR: Belqees HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/499138
-#EXTINF:-1,AR: Yemen Today
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/319846
-#EXTINF:-1,AR: Yemen Al Hawyah TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/120736
-#EXTINF:-1,AR: Yemen Al Hothia TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2290
-#EXTINF:-1,AR: Yemen Al Lahdah TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/242392
-#EXTINF:-1,AR: Yemen Al Masirah TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/242394
-#EXTINF:-1,AR: Yemen Al Saeedah
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3203
-#EXTINF:-1,AR: Yemen Education TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/242393
-#EXTINF:-1,AR: Yemen Hadramout TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/186387
-#EXTINF:-1,AR: Yemen Hadramout TV 1
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/343538
-#EXTINF:-1,AR: Yemen Today Al Hothia TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2289
-#EXTINF:-1,AR: Yemen Documentary
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/321191
-#EXTINF:-1,AR: Yemen El Eiman
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/348307
-#EXTINF:-1,AR: Al  Jomhoria Yemen TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/682493
-#EXTINF:-1,AR: Aden Al Shareyyah Live
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2292
-#EXTINF:-1,AR: Sheba TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2291
-#EXTINF:-1,AR: Suhail TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4356
-#EXTINF:-1,AR: Al Sahat TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/321902
-#EXTINF:-1,###### LIBYA TV ######
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/251800
-#EXTINF:-1,AR: Libya Alhrar 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4239
-#EXTINF:-1,AR: Libya Alhrar HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/498909
-#EXTINF:-1,AR: Libya Al Hadath 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4516
-#EXTINF:-1,AR: Libya Al Wasat TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2331
-#EXTINF:-1,AR: Libya Alwataniya 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3197
-#EXTINF:-1,AR: Libya Alwataniya HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/498906
-#EXTINF:-1,AR: Libya Lebda TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/322809
-#EXTINF:-1,AR: Libya Lebda TV HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/498907
-#EXTINF:-1,AR: Al Massar TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/323666
-#EXTINF:-1,AR: Libya Salam TV 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/365940
-#EXTINF:-1,AR: Libya Salam TV HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/499076
-#EXTINF:-1,AR: New Libya News 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/488682
-#EXTINF:-1,AR: New Libya News HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/499080
-#EXTINF:-1,AR: Libya Drama NLC 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/399907
-#EXTINF:-1,AR: Libya Drama NLC HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/499079
-#EXTINF:-1,AR: Libya Alrasmia
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/248994
-#EXTINF:-1,AR: Libya Mostaqbal HD
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/3111
-#EXTINF:-1,AR: Libya Education
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/320693
-#EXTINF:-1,AR: Libya Febrauary
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/341189
-#EXTINF:-1,AR:  Al Libia 4K
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/411439
-#EXTINF:-1,AR: Tanasuh TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4260
-
-#EXTINF:-1,AR: Sudan TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4438
-#EXTINF:-1,AR: Sudan Bukra
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2288
-#EXTINF:-1,AR: Alzarga TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/342544
-#EXTINF:-1,AR: Sudan Al Barlemania
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/169850
-#EXTINF:-1,AR: Sudan Basic Edu
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/362559
-#EXTINF:-1,AR: Blue Nile TV BNTV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2272
-#EXTINF:-1,AR: Elmourabiton TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4306
-#EXTINF:-1,AR: Khartoum TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2273
-#EXTINF:-1,AR: Mouritana Arriadia TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/4464
-#EXTINF:-1,AR: Shamalia TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/2271
-#EXTINF:-1,AR: South Sudan SSBC
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/288168
-#EXTINF:-1,AR: Dabango Sudan
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/317979
-#EXTINF:-1,AR: Sudan Chinguit TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/318057
-#EXTINF:-1,AR: Sudan Dava TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/318058
-#EXTINF:-1,AR: Sudan El Watania TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/318059
-#EXTINF:-1,AR: TDM Promotional
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/318061
-#EXTINF:-1,AR: Tayba TV
-http://king4k.tv:80/b9d4aaebf7/29f40f6629/339731
-
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.BELQEES" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.BELQEES
+http://1tv1.net:8080/live/Hasan2222/654321/66528.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.Sheba TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.Sheba TV
+http://1tv1.net:8080/live/Hasan2222/654321/66529.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.Al Erth Alnabawi TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.Al Erth Alnabawi TV
+http://1tv1.net:8080/live/Hasan2222/654321/14910.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.ADEN TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.ADEN TV
+http://1tv1.net:8080/live/Hasan2222/654321/66527.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.AL Hawyah TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.AL Hawyah TV
+http://1tv1.net:8080/live/Hasan2222/654321/66530.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.YEMEN TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.YEMEN TV
+http://1tv1.net:8080/live/Hasan2222/654321/14864.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.Al Masirah Mubasher TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.Al Masirah Mubasher TV
+http://1tv1.net:8080/live/Hasan2222/654321/14790.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.YEMEN SHABAB 4K" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.YEMEN SHABAB 4K
+http://1tv1.net:8080/live/Hasan2222/654321/14865.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.Al Saeedah TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.Al Saeedah TV
+http://1tv1.net:8080/live/Hasan2222/654321/21172.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.AL JOMHORIA YEMEN TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.AL JOMHORIA YEMEN TV
+http://1tv1.net:8080/live/Hasan2222/654321/329366.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.ELIMAN TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.ELIMAN TV
+http://1tv1.net:8080/live/Hasan2222/654321/329367.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.ADEN2 TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.ADEN2 TV
+http://1tv1.net:8080/live/Hasan2222/654321/329368.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.AL SAHAT" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.AL SAHAT
+http://1tv1.net:8080/live/Hasan2222/654321/329369.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.ALMASIRAH TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.ALMASIRAH TV
+http://1tv1.net:8080/live/Hasan2222/654321/329370.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.ALLAHDAH TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.ALLAHDAH TV
+http://1tv1.net:8080/live/Hasan2222/654321/329371.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.YEMEN EDUCATION TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.YEMEN EDUCATION TV
+http://1tv1.net:8080/live/Hasan2222/654321/329372.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.ALYEMEN TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.ALYEMEN TV
+http://1tv1.net:8080/live/Hasan2222/654321/329373.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.ADEN ALMUSTAKILLA 4K" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.ADEN ALMUSTAKILLA 4K
+http://1tv1.net:8080/live/Hasan2222/654321/329374.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.ALMAHRIAH 4K" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.ALMAHRIAH 4K
+http://1tv1.net:8080/live/Hasan2222/654321/329375.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.NABAA TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.NABAA TV
+http://1tv1.net:8080/live/Hasan2222/654321/329376.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.HADRAMOUT TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.HADRAMOUT TV
+http://1tv1.net:8080/live/Hasan2222/654321/329377.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.YEMEN TODAY" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.YEMEN TODAY
+http://1tv1.net:8080/live/Hasan2222/654321/14866.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.HADRAMOOT" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.HADRAMOOT
+http://1tv1.net:8080/live/Hasan2222/654321/21216.ts
+#EXTINF:-1 tvg-ID="" tvg-name="YEM.SUHAIL TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.SUHAIL TV
+http://1tv1.net:8080/live/Hasan2222/654321/21181.ts
 
 
 #EXTINF:-1,IR Simaye Azadi Iranntv
