@@ -176,6 +176,25 @@ http://1tv1.net:8080/live/Hasan2222/654321/66527.ts
 http://1tv1.net:8080/live/Hasan2222/654321/66530.ts
 #EXTINF:-1 tvg-ID="" tvg-name="YEM.YEMEN TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.YEMEN TV
 http://1tv1.net:8080/live/Hasan2222/654321/14864.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| ALMASIRAH TV FHD" tvg-logo="" group-title="Arabic",AR: YEMEN| ALMASIRAH TV FHD
+http://351679285690807413.ofds0328.xyz:80/play/aito1227B/Apfmtdafp121/807413.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| HADRAMAUT TV SD" tvg-logo="" group-title="Arabic",AR: YEMEN| HADRAMAUT TV SD
+http://351679285690807415.ofds0328.xyz:80/play/aito1227B/Apfmtdafp121/807415.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| YEMEN TODAY SD" tvg-logo="" group-title="Arabic",AR: YEMEN| YEMEN TODAY SD
+http://351679285690807416.ofds0328.xyz:80/play/aito1227B/Apfmtdafp121/807416.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| YEMEN SHABAB FHD" tvg-logo="" group-title="Arabic",AR: YEMEN| YEMEN SHABAB FHD
+http://351679285690798660.ofds0328.xyz:80/play/aito1227B/Apfmtdafp121/798660.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| YEMEN TODAY TV SD" tvg-logo="" group-title="Arabic",AR: YEMEN| YEMEN TODAY TV SD
+http://351679285690798661.ofds0328.xyz:80/play/aito1227B/Apfmtdafp121/798661.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| YEMEN TV FHD" tvg-logo="" group-title="Arabic",AR: YEMEN| YEMEN TV FHD
+http://351679285690798663.ofds0328.xyz:80/play/aito1227B/Apfmtdafp121/798663.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| YEMEN FHD" tvg-logo="" group-title="Arabic",AR: YEMEN| YEMEN FHD
+http://351679285690798664.ofds0328.xyz:80/play/aito1227B/Apfmtdafp121/798664.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN TV FHD" tvg-logo="https://asiagrandiptv.us/logo/yementv.png" group-title="Arabic",AR: YEMEN TV FHD
+http://351679285690782088.ofds0328.xyz:80/play/aito1227B/Apfmtdafp121/782088.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN EDU SD" tvg-logo="https://asiagrandiptv.us/logo//YEMENEDU.png" group-title="Arabic",AR: YEMEN EDU SD
+http://351679285690754550.ofds0328.xyz:80/play/aito1227B/Apfmtdafp121/754550.ts
 #EXTINF:-1 tvg-ID="" tvg-name="YEM.Al Masirah Mubasher TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.Al Masirah Mubasher TV
 http://1tv1.net:8080/live/Hasan2222/654321/14790.ts
 #EXTINF:-1 tvg-ID="" tvg-name="YEM.YEMEN SHABAB 4K" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.YEMEN SHABAB 4K
