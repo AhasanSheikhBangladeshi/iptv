@@ -158,7 +158,7 @@ http://line.tivi-one.net:80/live/RLHNCDE/N0iE82ur6Z/373089.ts
 #EXTINF:0 tvg-country="SA" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="None",Saudi TV 1
 https://live.kwikmotion.com:443/ksa1live/ksa1.smil/ksa1publish/ksa1_source/hdntl=exp=1710055674~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=3afbb16874193f51508efd58458faf38f2a58c000c399ddca9f4b42b1f3e1dad/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id=Madani Urdu tv.pk" tvg-name="Madani TV Urdu" tvg-country="PK" tvg-language="Urdu" tvg-logo= "/sfmr9yZmuhzXhviaQGKeOzaimebuid/1p3se+/QggfM31XtZQzBNlnHqfEYnOLUwNY2tY+pYTIBJTjVrjI3BDri7bC/6nPI1J3tfEHRpRbJeFY3R5owOqqQxlMwDiv8AFxOG49nG92uHTz91fI" group-title="Religious",Madani Channel Urdu
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
+http://4ksuper.live/live/Michael88/Michael88/863792.ts
 #EXTINF:-1 tvg-logo="https://dawateislamimidlands.net/wp-content/uploads/2020/01/Madani-Channel-Section-1.png" group-title="Religious",Madani Channel English 
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
 #EXTINF:-1 tvg-id=Geo News.pk" tvg-name="Geo news TV" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png" group-title="India-Pakistani",GEO news
