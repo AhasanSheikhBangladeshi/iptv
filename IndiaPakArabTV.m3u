@@ -14,6 +14,18 @@ http://1tv1.net:8080/live/Hasan2222/654321/158289.ts
 http://1tv1.net:8080/live/Hasan2222/654321/158290.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | ARY ZINDAGI" tvg-logo="http://b1g.me/logos2/ary_zindagai.jpg" group-title="PAKISTAN",PK | ARY ZINDAGI
 http://1tv1.net:8080/live/Hasan2222/654321/158291.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | ARY QTV" tvg-logo="http://b1g.me:80/images/787b54174ace58a813dde6b35d4fb38c.png" group-title="PAKISTAN",PK | ARY QTV
+http://1tv1.net:8080/live/Hasan2222/654321/158376.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | MADANI TV" tvg-logo="http://b1g.me:80/images/7d86e64be4a61315b9c2c68e1de43eb8.jpg" group-title="PAKISTAN",PK | MADANI TV
+http://1tv1.net:8080/live/Hasan2222/654321/158377.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | PEACE TV ENGLISH" tvg-logo="http://b1g.ca:80/images/eb9a12306bf180d15677efa639894423.png" group-title="PAKISTAN",PK | PEACE TV ENGLISH
+http://1tv1.net:8080/live/Hasan2222/654321/158378.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | PEACE TV URDU" tvg-logo="http://b1g.ca:80/images/cc043f52d8e35867bb341ab084ba134b.png" group-title="PAKISTAN",PK | PEACE TV URDU
+http://1tv1.net:8080/live/Hasan2222/654321/158379.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | PTV BOLAN" tvg-logo="http://b1g.me/logos2/ptv_bolan.jpg" group-title="PAKISTAN",PK | PTV BOLAN
+http://1tv1.net:8080/live/Hasan2222/654321/158411.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PK | PNN NEWS HD" tvg-logo="http://b1g.me/logos2/pnn_news.jpg" group-title="PAKISTAN",PK | PNN NEWS HD
+http://1tv1.net:8080/live/Hasan2222/654321/158412.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | GEO ENT FHD" tvg-logo="http://b1g.me/logos2/geo_entertainment.jpg" group-title="PAKISTAN",PK | GEO ENT FHD
 http://1tv1.net:8080/live/Hasan2222/654321/158292.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | GEO ENTERTAINMENT SD" tvg-logo="http://b1g.me/logos2/geo_entertainment.jpg" group-title="PAKISTAN",PK | GEO ENTERTAINMENT SD
