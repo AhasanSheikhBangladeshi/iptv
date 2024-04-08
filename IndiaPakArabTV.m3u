@@ -135,6 +135,39 @@ http://1tv1.net:8080/live/Hasan2222/654321/122567.ts
 http://1tv1.net:8080/live/Hasan2222/654321/66504.ts
 
 
+#EXTINF:-1,IR| IRIB IRINN
+http://4ksuper.live:80/Michael88/Michael88/469203
+#EXTINF:-1,IR| IRIB TV1
+http://4ksuper.live:80/Michael88/Michael88/469231
+#EXTINF:-1,IR| IRIB TV2
+http://4ksuper.live:80/Michael88/Michael88/469230
+#EXTINF:-1,IR| IRIB 3
+http://4ksuper.live:80/Michael88/Michael88/839915
+#EXTINF:-1,IR| IRIB TV 3 LOCAL
+http://4ksuper.live:80/Michael88/Michael88/836111
+#EXTINF:-1,IR| IRIB TV 3 HD
+http://4ksuper.live:80/Michael88/Michael88/469229
+#EXTINF:-1,IR| IRIB TV 4
+http://4ksuper.live:80/Michael88/Michael88/469228
+#EXTINF:-1,IR| IRIB JAAMEJAM 1
+http://4ksuper.live:80/Michael88/Michael88/469205
+#EXTINF:-1,IR| IRIB JAAMEJAM 2
+http://4ksuper.live:80/Michael88/Michael88/469149
+#EXTINF:-1,IR| IRIB JAAMEJAM 3
+http://4ksuper.live:80/Michael88/Michael88/469148
+#EXTINF:-1,IR| VARZESH FHD
+http://4ksuper.live:80/Michael88/Michael88/1058483
+#EXTINF:-1,IR| VARZESH AIO
+http://4ksuper.live:80/Michael88/Michael88/1064387
+#EXTINF:-1,IR| IRAN INTERNATIONAL HD*
+http://4ksuper.live:80/Michael88/Michael88/502362
+#EXTINF:-1,IR| IRAN INTERNATIONAL HD
+http://4ksuper.live:80/Michael88/Michael88/469198
+#EXTINF:-1,IR| VOA PERSIAN HD
+http://4ksuper.live:80/Michael88/Michael88/469172
+#EXTINF:-1,IR| BBC PERSIAN
+http://4ksuper.live:80/Michael88/Michael88/469191
+
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="YEM.ADEN TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.ADEN TV
