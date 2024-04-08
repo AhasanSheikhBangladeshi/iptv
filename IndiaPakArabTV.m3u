@@ -1,13 +1,5 @@
 #EXTINF:-1 tvg-ID="" tvg-name="PK | HUM TV FHD" tvg-logo="http://b1g.me/logos2/humhd.jpg" group-title="PAKISTAN",PK | HUM TV FHD
 http://1tv1.net:8080/live/Hasan2222/654321/158282.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | HUM SITARY" tvg-logo="http://b1g.me/logos2/hum_sitaray.jpg" group-title="PAKISTAN",PK | HUM SITARY
-http://1tv1.net:8080/live/Hasan2222/654321/158285.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | Hum Masala TV" tvg-logo="http://b1g.me/logos2/hum_masala.jpg" group-title="PAKISTAN",PK | Hum Masala TV
-http://1tv1.net:8080/live/Hasan2222/654321/158286.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | HUM PASHTOO 1" tvg-logo="http://b1g.me/logos2/hum_pashtoo.jpg" group-title="PAKISTAN",PK | HUM PASHTOO 1
-http://1tv1.net:8080/live/Hasan2222/654321/158287.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | A SPORTS HD-1" tvg-logo="http://b1g.me/logos2/A_sportshd.jpg" group-title="PAKISTAN",PK | A SPORTS HD-1
-http://1tv1.net:8080/live/Hasan2222/654321/158288.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | ARY DIGITAL FHD" tvg-logo="http://b1g.me/logos2/ary_digitalhd.jpg" group-title="PAKISTAN",PK | ARY DIGITAL FHD
 http://1tv1.net:8080/live/Hasan2222/654321/158289.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | ARY DIGITAL SD" tvg-logo="http://b1g.me/logos2/ary_digital.jpg" group-title="PAKISTAN",PK | ARY DIGITAL SD
@@ -22,88 +14,95 @@ http://1tv1.net:8080/live/Hasan2222/654321/158377.ts
 http://1tv1.net:8080/live/Hasan2222/654321/158378.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | PEACE TV URDU" tvg-logo="http://b1g.ca:80/images/cc043f52d8e35867bb341ab084ba134b.png" group-title="PAKISTAN",PK | PEACE TV URDU
 http://1tv1.net:8080/live/Hasan2222/654321/158379.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | PTV BOLAN" tvg-logo="http://b1g.me/logos2/ptv_bolan.jpg" group-title="PAKISTAN",PK | PTV BOLAN
-http://1tv1.net:8080/live/Hasan2222/654321/158411.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | PNN NEWS HD" tvg-logo="http://b1g.me/logos2/pnn_news.jpg" group-title="PAKISTAN",PK | PNN NEWS HD
-http://1tv1.net:8080/live/Hasan2222/654321/158412.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | GEO ENT FHD" tvg-logo="http://b1g.me/logos2/geo_entertainment.jpg" group-title="PAKISTAN",PK | GEO ENT FHD
-http://1tv1.net:8080/live/Hasan2222/654321/158292.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | GEO ENTERTAINMENT SD" tvg-logo="http://b1g.me/logos2/geo_entertainment.jpg" group-title="PAKISTAN",PK | GEO ENTERTAINMENT SD
 http://1tv1.net:8080/live/Hasan2222/654321/158293.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | GEO KAHANI FHD" tvg-logo="http://b1g.me/logos2/geo_kahani.jpg" group-title="PAKISTAN",PK | GEO KAHANI FHD
 http://1tv1.net:8080/live/Hasan2222/654321/158294.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | SAB ENTERTAINMENT HD" tvg-logo="http://b1g.me/logos2/sab_tv.jpg" group-title="PAKISTAN",PK | SAB ENTERTAINMENT HD
-http://1tv1.net:8080/live/Hasan2222/654321/158295.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | LTN FAMILY" tvg-logo="http://b1g.me/logos2/ltn_family.jpg" group-title="PAKISTAN",PK | LTN FAMILY
-http://1tv1.net:8080/live/Hasan2222/654321/158296.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | BOL ENTERTAINMENT FHD" tvg-logo="http://b1g.me/logos2/bol_ent.jpg" group-title="PAKISTAN",PK | BOL ENTERTAINMENT FHD
 http://1tv1.net:8080/live/Hasan2222/654321/158297.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | A PLUS" tvg-logo="http://b1g.me/logos2/aplus.jpg" group-title="PAKISTAN",PK | A PLUS
 http://1tv1.net:8080/live/Hasan2222/654321/158298.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | URDU 1 HD" tvg-logo="http://b1g.me/logos2/urdu1.jpg" group-title="PAKISTAN",PK | URDU 1 HD
-http://1tv1.net:8080/live/Hasan2222/654321/158299.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | EXPRESS ENTERTAINMENT" tvg-logo="http://b1g.me/logos2/express_ent.jpg" group-title="PAKISTAN",PK | EXPRESS ENTERTAINMENT
-http://1tv1.net:8080/live/Hasan2222/654321/158300.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | TV ONE" tvg-logo="http://b1g.me/logos2/tv_one.jpg" group-title="PAKISTAN",PK | TV ONE
-http://1tv1.net:8080/live/Hasan2222/654321/158301.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | AAJ ENTERTAINMENT" tvg-logo="http://b1g.me/logos2/aaj_ent.jpg" group-title="PAKISTAN",PK | AAJ ENTERTAINMENT
-http://1tv1.net:8080/live/Hasan2222/654321/158302.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | APNA CHANNEL" tvg-logo="http://b1g.me/logos2/apna_channel.jpg" group-title="PAKISTAN",PK | APNA CHANNEL
-http://1tv1.net:8080/live/Hasan2222/654321/158303.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | PTV HOME" tvg-logo="http://b1g.me/logos2/ptv_home.jpg" group-title="PAKISTAN",PK | PTV HOME
-http://1tv1.net:8080/live/Hasan2222/654321/158304.ts
+#EXTINF:-1,PK| A - SPORTS
+http://4ksuper.live:80/Michael88/Michael88/104791
+#EXTINF:-1,PK| A - SPORTS FHD
+http://4ksuper.live:80/Michael88/Michael88/165565
+#EXTINF:-1,PK| GEO TV
+http://4ksuper.live:80/Michael88/Michael88/281121
+#EXTINF:-1,PK| GEO TEZZ
+http://4ksuper.live:80/Michael88/Michael88/281120
+#EXTINF:-1,PK| GEO NEWS
+http://4ksuper.live:80/Michael88/Michael88/281119
+#EXTINF:-1,PK| GEO KAHANI
+http://4ksuper.live:80/Michael88/Michael88/281118
+#EXTINF:-1,PK| GEO NEWS (NA)
+http://4ksuper.live:80/Michael88/Michael88/118539
+#EXTINF:-1,PK| HUM TV
+http://4ksuper.live:80/Michael88/Michael88/281125
+#EXTINF:-1,PK| HUM SITARAY
+http://4ksuper.live:80/Michael88/Michael88/281124
+#EXTINF:-1,PK| HUM EUROPE
+http://4ksuper.live:80/Michael88/Michael88/104861
+
+#EXTINF:-1,PK| HUM NEWS HD
+http://4ksuper.live:80/Michael88/Michael88/1116508
+#EXTINF:-1,PK| HUM PASHTO
+http://4ksuper.live:80/Michael88/Michael88/165633
+#EXTINF:-1,PK| ARY ZINDAGI
+http://4ksuper.live:80/Michael88/Michael88/281104
+#EXTINF:-1,PK| ARY QTV
+http://4ksuper.live:80/Michael88/Michael88/281103
+#EXTINF:-1,PK| ARY NEWS ASIA
+http://4ksuper.live:80/Michael88/Michael88/281102
+#EXTINF:-1,PK| ARY NEWS (NA)
+http://4ksuper.live:80/Michael88/Michael88/118540
+#EXTINF:-1,PK| ARY DIGITAL ASIA
+http://4ksuper.live:80/Michael88/Michael88/281099
+#EXTINF:-1,PK| ARY DIGITAL (NA)
+http://4ksuper.live:80/Michael88/Michael88/118535
+#EXTINF:-1,PK| PTV WORLD
+http://4ksuper.live:80/Michael88/Michael88/1112807
+#EXTINF:-1,PK| PTV GLOBAL EU
+http://4ksuper.live:80/Michael88/Michael88/42455
+#EXTINF:-1,PK| PTV NEWS
+http://4ksuper.live:80/Michael88/Michael88/281145
+#EXTINF:-1,PK| PTV HOME
+http://4ksuper.live:80/Michael88/Michael88/281143
+#EXTINF:-1,PK| PTV SPORTS FHD
+http://4ksuper.live:80/Michael88/Michael88/281089
+#EXTINF:-1,PK| PTV SPORTS HD
+http://4ksuper.live:80/Michael88/Michael88/1116509
+
+#EXTINF:-1,PK| AJJ NEWS
+http://4ksuper.live:80/Michael88/Michael88/1112806
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="PK | ARY NEWS" tvg-logo="http://b1g.me/logos2/ary_news.jpg" group-title="PAKISTAN",PK | ARY NEWS
 http://1tv1.net:8080/live/Hasan2222/654321/158336.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | ARY NEWS SD" tvg-logo="http://b1g.me/logos2/ary_news.jpg" group-title="PAKISTAN",PK | ARY NEWS SD
 http://1tv1.net:8080/live/Hasan2222/654321/158337.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | GEO NEWS FHD" tvg-logo="http://b1g.me/logos2/geo_news.jpg" group-title="PAKISTAN",PK | GEO NEWS FHD
 http://1tv1.net:8080/live/Hasan2222/654321/158338.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | GEO TEZZ" tvg-logo="http://b1g.me/logos2/geo_tezz.jpg" group-title="PAKISTAN",PK | GEO TEZZ
-http://1tv1.net:8080/live/Hasan2222/654321/158339.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | SAMAA NEWS" tvg-logo="http://b1g.me/logos2/samaa_news.jpg" group-title="PAKISTAN",PK | SAMAA NEWS
 http://1tv1.net:8080/live/Hasan2222/654321/158341.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | GNN FHD" tvg-logo="http://b1g.me/logos2/gnn_news.jpg" group-title="PAKISTAN",PK | GNN FHD
 http://1tv1.net:8080/live/Hasan2222/654321/158342.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | 7 NEWS FHD" tvg-logo="http://b1g.me/logos2/7_news.jpg" group-title="PAKISTAN",PK | 7 NEWS FHD
-http://1tv1.net:8080/live/Hasan2222/654321/158343.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | GTV FHD" tvg-logo="http://b1g.me/logos2/gtv.jpg" group-title="PAKISTAN",PK | GTV FHD
-http://1tv1.net:8080/live/Hasan2222/654321/158344.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="PK | 92 NEWS FHD" tvg-logo="http://b1g.me/logos2/92_news.jpg" group-title="PAKISTAN",PK | 92 NEWS FHD
 http://1tv1.net:8080/live/Hasan2222/654321/158345.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | BOL NEWS UHD" tvg-logo="http://b1g.me/logos2/bol_news.jpg" group-title="PAKISTAN",PK | BOL NEWS UHD
 http://1tv1.net:8080/live/Hasan2222/654321/158346.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | HUM NEWS FHD" tvg-logo="http://b1g.me/logos2/hum_news.jpg" group-title="PAKISTAN",PK | HUM NEWS FHD
 http://1tv1.net:8080/live/Hasan2222/654321/158347.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | PUBLIC NEWS FHD" tvg-logo="http://b1g.me/logos2/public_news.jpg" group-title="PAKISTAN",PK | PUBLIC NEWS FHD
-http://1tv1.net:8080/live/Hasan2222/654321/158348.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | CHANNEL 24 FHD" tvg-logo="http://b1g.me/logos2/24_channel.jpg" group-title="PAKISTAN",PK | CHANNEL 24 FHD
-http://1tv1.net:8080/live/Hasan2222/654321/158349.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | PTV NEWS" tvg-logo="http://b1g.me/logos2/ptv_newshd.jpg" group-title="PAKISTAN",PK | PTV NEWS
-http://1tv1.net:8080/live/Hasan2222/654321/158365.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | NEO NEWS FHD" tvg-logo="http://b1g.me/logos2/neo_news.jpg" group-title="PAKISTAN",PK | NEO NEWS FHD
-http://1tv1.net:8080/live/Hasan2222/654321/158352.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UK-Dawn News SD" tvg-logo="http://b1g.me/logos2/dawn_news.jpg" group-title="PAKISTAN",UK-Dawn News SD
-http://1tv1.net:8080/live/Hasan2222/654321/158353.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | DAWN NEWS" tvg-logo="http://b1g.me/logos2/dawn_news.jpg" group-title="PAKISTAN",PK | DAWN NEWS
-http://1tv1.net:8080/live/Hasan2222/654321/158354.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | DUNYA NEWS" tvg-logo="http://b1g.me/logos2/dunya_news.jpg" group-title="PAKISTAN",PK | DUNYA NEWS
-http://1tv1.net:8080/live/Hasan2222/654321/158355.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | EXPRESS NEWS" tvg-logo="http://b1g.me/logos2/express_news.jpg" group-title="PAKISTAN",PK | EXPRESS NEWS
-http://1tv1.net:8080/live/Hasan2222/654321/158356.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | NEWS ONE" tvg-logo="http://b1g.me/logos2/news_one.jpg" group-title="PAKISTAN",PK | NEWS ONE
-http://1tv1.net:8080/live/Hasan2222/654321/158357.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | CAPITAL TV" tvg-logo="http://b1g.me/logos2/capital_tv.jpg" group-title="PAKISTAN",PK | CAPITAL TV
-http://1tv1.net:8080/live/Hasan2222/654321/158358.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="PK | K-21" tvg-logo="http://b1g.me/logos2/k21.jpg" group-title="PAKISTAN",PK | K-21
 http://1tv1.net:8080/live/Hasan2222/654321/158359.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | AAJ NEWS" tvg-logo="http://b1g.me/logos2/aaj_news.jpg" group-title="PAKISTAN",PK | AAJ NEWS
 http://1tv1.net:8080/live/Hasan2222/654321/158360.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | KHYBER NEWS" tvg-logo="http://b1g.me/logos2/khyber_news.jpg" group-title="PAKISTAN",PK | KHYBER NEWS
 http://1tv1.net:8080/live/Hasan2222/654321/158371.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | KTN NEWS" tvg-logo="http://b1g.me/logos2/ktn_news.jpg" group-title="PAKISTAN",PK | KTN NEWS
-http://1tv1.net:8080/live/Hasan2222/654321/158373.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | SINDH NEWS" tvg-logo="http://b1g.me/logos2/sindh_news.jpg" group-title="PAKISTAN",PK | SINDH NEWS
-http://1tv1.net:8080/live/Hasan2222/654321/158374.ts
+
+
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="KWT.ETHRAA 4K" tvg-logo="http://stariptv.org:80/logo/countryies/kw.png" group-title="Kuwait",KWT.ETHRAA 4K
 http://1tv1.net:8080/live/Hasan2222/654321/66480.ts
@@ -206,7 +205,11 @@ http://4ksuper.live:80/Michael88/Michael88/542154
 http://4ksuper.live:80/Michael88/Michael88/542151
 #EXTINF:-1,ARI YEMEN TODAY AL HOTHIA TV 
 http://4ksuper.live:80/Michael88/Michael88/542140
-
+#EXTINF:-1,AR| YEMEN AL HOTHIA TVhttp://4ksuper.live:80/Michael88/Michael88/542139
+#EXTINF:-1,AR| YEMEN TODAY
+http://4ksuper.live:80/Michael88/Michael88/815539
+#EXTINF:-1,AR| YEMEN TV
+http://4ksuper.live:80/Michael88/Michael88/815538
 
 
 #EXTINF:-1,AR| PALESTINE TODAY
