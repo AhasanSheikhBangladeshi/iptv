@@ -154,6 +154,9 @@ http://4ksuper.live:80/Michael88/Michael88/469205
 http://4ksuper.live:80/Michael88/Michael88/469149
 #EXTINF:-1,IR| IRIB JAAMEJAM 3
 http://4ksuper.live:80/Michael88/Michael88/469148
+#EXTINF:-1,IR| IRIB QURAN
+http://4ksuper.live:80/Michael88/Michael88/469202
+
 #EXTINF:-1,IR| VARZESH FHD
 http://4ksuper.live:80/Michael88/Michael88/1058483
 #EXTINF:-1,IR| VARZESH AIO
@@ -168,12 +171,15 @@ http://4ksuper.live:80/Michael88/Michael88/469172
 http://4ksuper.live:80/Michael88/Michael88/469191
 #EXTINF:-1,IR| IRIB JAHANBIN TV
 http://4ksuper.live:80/Michael88/Michael88/469169
-
+#EXTINF:-1,IR| VELAYAT TV
+http://4ksuper.live:80/Michael88/Michael88/476035
 #EXTINF:-1,IR| IRIB KERMAN
 http://4ksuper.live:80/Michael88/Michael88/469220
 #EXTINF:-1,IR| IRIB KERMANSHAH
 http://4ksuper.live:80/Michael88/Michael88/469217
 
+#EXTINF:-1,IR| YAZD TV TABAN
+http://4ksuper.live:80/Michael88/Michael88/469182
 #EXTINF:-1,IR| IRIB KHORASAN JONOOBI
 http://4ksuper.live:80/Michael88/Michael88/469214
 
@@ -181,17 +187,20 @@ http://4ksuper.live:80/Michael88/Michael88/469214
 http://4ksuper.live:80/Michael88/Michael88/469212
 #EXTINF:-1,IR| IRIB KORDESTAN
 http://4ksuper.live:80/Michael88/Michael88/469218
-
+#EXTINF:-1,IR| IRIB MAHABAD
+http://4ksuper.live:80/Michael88/Michael88/469234
+#EXTINF:-1,IR| IRIB MAZANDARAN
+http://4ksuper.live:80/Michael88/Michael88/469215
 #EXTINF:-1,IR| IRIB LORESTAN
 http://4ksuper.live:80/Michael88/Michael88/469238
-
-#EXTINF:-1,IR| IRIB MAHABAD
+#EXTINF:-1,IR| SABALAN TV
+http://4ksuper.live:80/Michael88/Michael88/469180
+#EXTINF:-1,IR| SAHAND TV
+http://4ksuper.live:80/Michael88/Michael88/469181
 h#EXTINF:-1,IR| IRIB ZANJAN
 http://4ksuper.live:80/Michael88/Michael88/469173
 #EXTINF:-1,IR| IRIB KHOOZESTAN
 http://4ksuper.live:80/Michael88/Michael88/1167090ttp://4ksuper.live:80/Michael88/Michael88/469234
-#EXTINF:-1,IR| IRIB QURAN
-http://4ksuper.live:80/Michael88/Michael88/469202
 
 #EXTINF:-1 tvg-ID="" tvg-name="YEM.ADEN TV" tvg-logo="http://stariptv.org:80/logo/countryies/yemen.png" group-title="YEMEN",YEM.ADEN TV
 http://1tv1.net:8080/live/Hasan2222/654321/66527.ts
@@ -229,7 +238,8 @@ http://4ksuper.live:80/Michael88/Michael88/542154
 http://4ksuper.live:80/Michael88/Michael88/542151
 #EXTINF:-1,ARI YEMEN TODAY AL HOTHIA TV 
 http://4ksuper.live:80/Michael88/Michael88/542140
-#EXTINF:-1,AR| YEMEN AL HOTHIA TVhttp://4ksuper.live:80/Michael88/Michael88/542139
+#EXTINF:-1,AR| YEMEN AL HOTHIA TV
+http://4ksuper.live:80/Michael88/Michael88/542139
 #EXTINF:-1,AR| YEMEN TODAY
 http://4ksuper.live:80/Michael88/Michael88/815539
 #EXTINF:-1,AR| YEMEN TV
@@ -316,40 +326,8 @@ http://4ksuper.live:80/Michael88/Michael88/62563
 http://1tv1.net:8080/live/Hasan2222/654321/107036.ts
 #EXTINF:-1 tvg-ID="" tvg-name="IRQ.Iraqi News" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Iraqi News
 http://1tv1.net:8080/live/Hasan2222/654321/107037.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Afaq" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Afaq
-http://1tv1.net:8080/live/Hasan2222/654321/107039.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Al Ahed" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Al Ahed
-http://1tv1.net:8080/live/Hasan2222/654321/107040.ts
 #EXTINF:-1 tvg-ID="" tvg-name="IRQ.Al Forat" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Al Forat
 http://1tv1.net:8080/live/Hasan2222/654321/107041.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.AL QAMAR" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.AL QAMAR
-http://1tv1.net:8080/live/Hasan2222/654321/107042.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Al Sumaria TV" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Al Sumaria TV
-http://1tv1.net:8080/live/Hasan2222/654321/107043.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Anb" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Anb
-http://1tv1.net:8080/live/Hasan2222/654321/107044.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.AL Hurra Iraq" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.AL Hurra Iraq
-http://1tv1.net:8080/live/Hasan2222/654321/107045.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Dijlah" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Dijlah
-http://1tv1.net:8080/live/Hasan2222/654321/107046.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Iraq Future TV" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Iraq Future TV
-http://1tv1.net:8080/live/Hasan2222/654321/107047.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.AL Anwar" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.AL Anwar
-http://1tv1.net:8080/live/Hasan2222/654321/107048.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Anwar 2" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Anwar 2
-http://1tv1.net:8080/live/Hasan2222/654321/107049.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Karbala" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Karbala
-http://1tv1.net:8080/live/Hasan2222/654321/107050.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Al Masar" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Al Masar
-http://1tv1.net:8080/live/Hasan2222/654321/107051.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.AL SHARQIYA HD" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.AL SHARQIYA HD
-http://1tv1.net:8080/live/Hasan2222/654321/107052.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.ALBAEENAH" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.ALBAEENAH
-http://1tv1.net:8080/live/Hasan2222/654321/107053.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.ALMASSAR ALOULA" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.ALMASSAR ALOULA
-http://1tv1.net:8080/live/Hasan2222/654321/107054.ts
-
-
 #EXTINF:-1 tvg-ID="" tvg-name="IRQ.Alitejah TV" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Alitejah TV
 http://1tv1.net:8080/live/Hasan2222/654321/107055.ts
 #EXTINF:-1 tvg-ID="" tvg-name="IRQ.Al Rafiden" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Al Rafiden
@@ -358,34 +336,7 @@ http://1tv1.net:8080/live/Hasan2222/654321/107056.ts
 http://1tv1.net:8080/live/Hasan2222/654321/107057.ts
 #EXTINF:-1 tvg-ID="" tvg-name="IRQ.Al Ghadeer" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Al Ghadeer
 http://1tv1.net:8080/live/Hasan2222/654321/107058.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Al Sharqiya News" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Al Sharqiya News
-http://1tv1.net:8080/live/Hasan2222/654321/107059.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Sharqiya From Kalba" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Sharqiya From Kalba
-http://1tv1.net:8080/live/Hasan2222/654321/107060.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Altaghier" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Altaghier
-http://1tv1.net:8080/live/Hasan2222/654321/107061.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Houna Baghdad" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Houna Baghdad
-http://1tv1.net:8080/live/Hasan2222/654321/107062.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Al Mawsleya" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Al Mawsleya
-http://1tv1.net:8080/live/Hasan2222/654321/107063.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Al Taleaa" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Al Taleaa
-http://1tv1.net:8080/live/Hasan2222/654321/107065.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Iraq Medical" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Iraq Medical
-http://1tv1.net:8080/live/Hasan2222/654321/112679.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Iraq 24 HD" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Iraq 24 HD
-http://1tv1.net:8080/live/Hasan2222/654321/112680.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Samarra TV" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Samarra TV
-http://1tv1.net:8080/live/Hasan2222/654321/112681.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.AL Ahd Iraq TV" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.AL Ahd Iraq TV
-http://1tv1.net:8080/live/Hasan2222/654321/112682.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.Al Awhad TV" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Al Awhad TV
-http://1tv1.net:8080/live/Hasan2222/654321/112683.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.ALHIWAR TV NEWS" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.ALHIWAR TV NEWS
-http://1tv1.net:8080/live/Hasan2222/654321/112684.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.IRAQIA SYRIAC" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.IRAQIA SYRIAC
-http://1tv1.net:8080/live/Hasan2222/654321/112685.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IRQ.IRAQ EDUCATION TV" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.IRAQ EDUCATION TV
-http://1tv1.net:8080/live/Hasan2222/654321/112686.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="IRQ.IRAQIA TURKUMAN" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.IRAQIA TURKUMAN
 http://1tv1.net:8080/live/Hasan2222/654321/112687.ts
 
