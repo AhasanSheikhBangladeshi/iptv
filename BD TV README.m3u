@@ -120,7 +120,7 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w1532942397.m3u8
 #EXTINF:1 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png"https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png group-title="Religious",ARY QTV
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292932 
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/NWljgKa.png",Eman Channel (576p)
-https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+https://pull-cdnw.anystream.uk/live/251888cb018c1000a1a47e5500000000/playlist.m3u8
 #EXTINF:0,Rotana Khalijia HD (1080p)[Saudi Arab]
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/RJn8pDE.png",Bein Sports-1 HD
