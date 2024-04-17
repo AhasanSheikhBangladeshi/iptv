@@ -200,7 +200,7 @@ http://4ksuper.live:80/Michael88/Michael88/469176
 
 #EXTINF:-1,###### TOJIKISTON ######
 http://4ksuper.live:80/Michael88/Michael88/827354
-#EXTINF:-1,group-title="Tajikistan" TGK| TOJIKISTON
+#EXTINF:-1,TGK| TOJIKISTON
 http://4ksuper.live:80/Michael88/Michael88/827343
 #EXTINF:-1,TGK| VARZISH SPORT HD
 http://4ksuper.live:80/Michael88/Michael88/827347
@@ -214,8 +214,34 @@ http://4ksuper.live:80/Michael88/Michael88/855545
 http://4ksuper.live:80/Michael88/Michael88/855547
 #EXTINF:-1,TGK| SAFINA TV
 http://4ksuper.live:80/Michael88/Michael88/855546
+#EXTINF:-1,UZ| OZBEKOISTON 24 HD
+http://4ksuper.live:80/Michael88/Michael88/1093946
 
-#EXTINF:-1,group-title="IRAN" IR| IRIB IRINN
+#EXTINF:-1,UZ| TOSHKENT
+http://4ksuper.live:80/Michael88/Michael88/1093945
+
+#EXTINF:-1,UZ| OZBEKISTON
+http://4ksuper.live:80/Michael88/Michael88/1093943
+
+#EXTINF:-1,UZ| MILLIY TV
+http://4ksuper.live:80/Michael88/Michael88/1093941
+
+#EXTINF:-1,UZ| MAHALLA
+http://4ksuper.live:80/Michael88/Michael88/1093940
+
+#EXTINF:-1,UZ| MADANIYAT VA MARIFAT
+http://4ksuper.live:80/Michael88/Michael88/1093939
+
+#EXTINF:-1,UZ| KINOTEATR HD
+http://4ksuper.live:80/Michael88/Michael88/1093938
+
+#EXTINF:-1,UZ| DUNYO BOLAB
+http://4ksuper.live:80/Michael88/Michael88/1093937
+
+#EXTINF:-1,UZ| BOLAJON
+http://4ksuper.live:80/Michael88/Michael88/1093936 
+
+#EXTINF:-1, IR| IRIB IRINN
 http://4ksuper.live:80/Michael88/Michael88/469203
 #EXTINF:-1,IR| IRIB TV1
 http://4ksuper.live:80/Michael88/Michael88/469231
@@ -326,7 +352,7 @@ http://4ksuper.live:80/Michael88/Michael88/815539
 #EXTINF:-1,AR| YEMEN TV
 http://4ksuper.live:80/Michael88/Michael88/815538
 
-#EXTINF:-1,group-title="SAUDI ARAB" AR|  BEDAYA
+#EXTINF:-1 tvg-ID="" tvg-name="AR|Bedaya TV" tvg-logo="" group-title="SAUDI ARABIA",AR|Bedaya TV 
 http://4ksuper.live:80/Michael88/Michael88/1307853
 #EXTINF:-1,AR| AL WESAM TV
 http://4ksuper.live:80/Michael88/Michael88/377654
@@ -347,7 +373,7 @@ http://4ksuper.live:80/Michael88/Michael88/142506
 #EXTINF:-1,AR| SAUDIA SBC 4K
 http://4ksuper.live:80/Michael88/Michael88/901814
 
-#EXTINF:-1,group-title="PALESTINE" AR| PALESTINE TODAY
+#EXTINF:-1 tvg-ID="" tvg-name="AR|PALESTINE TODAY TV" tvg-logo="" group-title="PALESTINE",AR|PALESTINE TODAY TV
 http://4ksuper.live:80/Michael88/Michael88/826882
 #EXTINF:-1,AR| PALESTINE LIVE
 http://4ksuper.live:80/Michael88/Michael88/826881
@@ -368,7 +394,7 @@ http://4ksuper.live:80/Michael88/Michael88/826875
 #EXTINF:-1,AR| AWDAH TV
 http://4ksuper.live:80/Michael88/Michael88/826874
 
-#EXTINF:-1,group-title="EGYPT" AR| AL MASRYIA AIR TV
+#EXTINF:-1 tvg-ID="" tvg-name="AR|Al Masriya TV" tvg-logo="" group-title="EGYPT",AR|Al Masriya TV
 http://4ksuper.live:80/Michael88/Michael88/543727
 #EXTINF:-1,AR| AL MASRYIA AIR TV
 http://4ksuper.live:80/Michael88/Michael88/543726
@@ -415,6 +441,7 @@ http://4ksuper.live:80/Michael88/Michael88/543730
 http://4ksuper.live:80/Michael88/Michael88/543687
 #EXTINF:-1,AR| AL HAYAT
 http://4ksuper.live:80/Michael88/Michael88/543689
+
 #EXTINF:-1,AR| SUDAN
 http://4ksuper.live:80/Michael88/Michael88/7863
 #EXTINF:-1,AR| SUDAN NOOR TV
@@ -449,6 +476,84 @@ http://4ksuper.live:80/Michael88/Michael88/704995
 http://4ksuper.live:80/Michael88/Michael88/483799
 #EXTINF:-1,AR| AL BALAD TV
 http://4ksuper.live:80/Michael88/Michael88/1043978 
+
+#EXTINF:-1,TR| TRT 1 HD
+
+http://4ksuper.live:80/Michael88/Michael88/912457
+
+#EXTINF:-1,TR| TRT 2 4K
+
+http://4ksuper.live:80/Michael88/Michael88/912480
+
+#EXTINF:-1,TR| TRT 2 HD
+
+http://4ksuper.live:80/Michael88/Michael88/912456
+
+#EXTINF:-1,TR| ATV 4K
+
+http://4ksuper.live:80/Michael88/Michael88/912479
+
+#EXTINF:-1,TR| ATV HD
+
+http://4ksuper.live:80/Michael88/Michael88/912455
+
+#EXTINF:-1,TR| KANAL D 4K
+
+http://4ksuper.live:80/Michael88/Michael88/912478
+
+#EXTINF:-1,TR| KANAL D HD
+
+http://4ksuper.live:80/Michael88/Michael88/912454
+
+#EXTINF:-1,TR| STAR TV 4K
+
+http://4ksuper.live:80/Michael88/Michael88/912477
+
+#EXTINF:-1,TR| STAR TV HD
+
+http://4ksuper.live:80/Michael88/Michael88/912453 
+#EXTINF:-1,TR| KANAL 7 HD
+
+http://4ksuper.live:80/Michael88/Michael88/912448 
+#EXTINF:-1,TR| TRT AVAZ HD
+
+http://4ksuper.live:80/Michael88/Michael88/912446
+
+#EXTINF:-1,TR| TRT TURK HD
+
+http://4ksuper.live:80/Michael88/Michael88/912445 
+#EXTINF:-1,TR| TRT HABER HD
+
+http://4ksuper.live:80/Michael88/Michael88/912928
+
+#EXTINF:-1,TR| A HABER 4K
+
+http://4ksuper.live:80/Michael88/Michael88/912927
+
+#EXTINF:-1,TR| A HABER HD
+
+http://4ksuper.live:80/Michael88/Michael88/912926
+
+#EXTINF:-1,TR| HABERTURK 4K
+
+http://4ksuper.live:80/Michael88/Michael88/912925
+
+#EXTINF:-1,TR| HABER TURK HD
+
+http://4ksuper.live:80/Michael88/Michael88/912924 
+#EXTINF:-1,TR| TGRT HABER HD
+
+http://4ksuper.live:80/Michael88/Michael88/912902 
+#EXTINF:-1,TR| REHBER TV
+
+http://4ksuper.live:80/Michael88/Michael88/912896 
+#EXTINF:-1,TR| SEMERKAND TV 4K
+
+http://4ksuper.live:80/Michael88/Michael88/913110
+
+#EXTINF:-1,TR| TRT DIYANET
+
+http://4ksuper.live:80/Michael88/Michael88/913109 
 
 #EXTINF:-1 tvg-ID="" tvg-name="IRQ.Iraqia" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Iraqia
 http://1tv1.net:8080/live/Hasan2222/654321/107036.ts
