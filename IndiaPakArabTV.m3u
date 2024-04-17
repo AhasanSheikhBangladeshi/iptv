@@ -134,12 +134,10 @@ http://1tv1.net:8080/live/Hasan2222/654321/122567.ts
 http://1tv1.net:8080/live/Hasan2222/654321/66504.ts
 
 
-#EXTINF:-1,AFG| BBC FARSI
+#EXTINF:-1,group-title="AFGHANISTAN" AFG| BBC FARSI
 http://4ksuper.live:80/Michael88/Michael88/962410
-
 #EXTINF:-1,AFG| 1 TV HD
 http://4ksuper.live:80/Michael88/Michael88/429108
-
 #EXTINF:-1,AFG| SHAMSHED TV
 http://4ksuper.live:80/Michael88/Michael88/398271
 
@@ -202,7 +200,7 @@ http://4ksuper.live:80/Michael88/Michael88/469176
 
 #EXTINF:-1,###### TOJIKISTON ######
 http://4ksuper.live:80/Michael88/Michael88/827354
-#EXTINF:-1,TGK| TOJIKISTON
+#EXTINF:-1,group-title="Tajikistan" TGK| TOJIKISTON
 http://4ksuper.live:80/Michael88/Michael88/827343
 #EXTINF:-1,TGK| VARZISH SPORT HD
 http://4ksuper.live:80/Michael88/Michael88/827347
@@ -216,7 +214,8 @@ http://4ksuper.live:80/Michael88/Michael88/855545
 http://4ksuper.live:80/Michael88/Michael88/855547
 #EXTINF:-1,TGK| SAFINA TV
 http://4ksuper.live:80/Michael88/Michael88/855546
-#EXTINF:-1,IR| IRIB IRINN
+
+#EXTINF:-1,group-title="IRAN" IR| IRIB IRINN
 http://4ksuper.live:80/Michael88/Michael88/469203
 #EXTINF:-1,IR| IRIB TV1
 http://4ksuper.live:80/Michael88/Michael88/469231
@@ -327,7 +326,7 @@ http://4ksuper.live:80/Michael88/Michael88/815539
 #EXTINF:-1,AR| YEMEN TV
 http://4ksuper.live:80/Michael88/Michael88/815538
 
-#EXTINF:-1,AR|  BEDAYA
+#EXTINF:-1,group-title="SAUDI ARAB" AR|  BEDAYA
 http://4ksuper.live:80/Michael88/Michael88/1307853
 #EXTINF:-1,AR| AL WESAM TV
 http://4ksuper.live:80/Michael88/Michael88/377654
@@ -348,7 +347,7 @@ http://4ksuper.live:80/Michael88/Michael88/142506
 #EXTINF:-1,AR| SAUDIA SBC 4K
 http://4ksuper.live:80/Michael88/Michael88/901814
 
-#EXTINF:-1,AR| PALESTINE TODAY
+#EXTINF:-1,group-title="PALESTINE" AR| PALESTINE TODAY
 http://4ksuper.live:80/Michael88/Michael88/826882
 #EXTINF:-1,AR| PALESTINE LIVE
 http://4ksuper.live:80/Michael88/Michael88/826881
@@ -369,7 +368,7 @@ http://4ksuper.live:80/Michael88/Michael88/826875
 #EXTINF:-1,AR| AWDAH TV
 http://4ksuper.live:80/Michael88/Michael88/826874
 
-#EXTINF:-1,AR| AL MASRYIA AIR TV
+#EXTINF:-1,group-title="EGYPT" AR| AL MASRYIA AIR TV
 http://4ksuper.live:80/Michael88/Michael88/543727
 #EXTINF:-1,AR| AL MASRYIA AIR TV
 http://4ksuper.live:80/Michael88/Michael88/543726
@@ -402,7 +401,6 @@ http://4ksuper.live:80/Michael88/Michael88/543682
 #EXTINF:-1,AR| CBC SOFRA
 http://4ksuper.live:80/Michael88/Michael88/543681
 #EXTINF:-1,AR| AL GHAD AL ARABY 4K
-
 http://4ksuper.live:80/Michael88/Michael88/543733
 
 #EXTINF:-1,AR| AL MEHWER
@@ -423,6 +421,34 @@ http://4ksuper.live:80/Michael88/Michael88/7863
 http://4ksuper.live:80/Michael88/Michael88/808553
 #EXTINF:-1,AR| SUDAN KNOWLEDGE
 http://4ksuper.live:80/Michael88/Michael88/62563
+#EXTINF:-1,AR| TAYBA SUDAN
+http://4ksuper.live:80/Michael88/Michael88/740180
+#EXTINF:-1,AR| AL ISTIJABA TV
+http://4ksuper.live:80/Michael88/Michael88/1049061 
+#EXTINF:-1,AR| SUDANIA 24 HD
+http://4ksuper.live:80/Michael88/Michael88/8088
+#EXTINF:-1,AR| SUDANIA 24 SD
+http://4ksuper.live:80/Michael88/Michael88/23623
+#EXTINF:-1,AR| SUDAN SPORT
+http://4ksuper.live:80/Michael88/Michael88/808563
+#EXTINF:-1,AR| SUDAN SPORT FHD
+http://4ksuper.live:80/Michael88/Michael88/23615 
+#EXTINF:-1,AR| SUDAN CHINGUIT TV
+http://4ksuper.live:80/Michael88/Michael88/808558
+#EXTINF:-1,AR| SUDAN DAVA TV
+http://4ksuper.live:80/Michael88/Michael88/808557
+#EXTINF:-1,AR| SUDAN EL WATANIA TV
+http://4ksuper.live:80/Michael88/Michael88/808556
+#EXTINF:-1,AR| SUDAN MEDINA TV
+http://4ksuper.live:80/Michael88/Michael88/808555 
+#EXTINF:-1,AR| KASSALA TV
+http://4ksuper.live:80/Michael88/Michael88/7871 
+#EXTINF:-1,AR| SOUTH SUDAN SSBC
+http://4ksuper.live:80/Michael88/Michael88/704995
+#EXTINF:-1,AR| SUDAN BUKRA
+http://4ksuper.live:80/Michael88/Michael88/483799
+#EXTINF:-1,AR| AL BALAD TV
+http://4ksuper.live:80/Michael88/Michael88/1043978 
 
 #EXTINF:-1 tvg-ID="" tvg-name="IRQ.Iraqia" tvg-logo="http://stariptv.org:80/logo/countryies/IRAQ.png" group-title="IRAQ",IRQ.Iraqia
 http://1tv1.net:8080/live/Hasan2222/654321/107036.ts
@@ -531,28 +557,7 @@ http://1tv1.net:8080/live/Hasan2222/654321/21204.ts
 http://1tv1.net:8080/live/Hasan2222/654321/21203.ts
 #EXTINF:-1 tvg-ID="" tvg-name="LBY.LIBYAS CHANNEL" tvg-logo="http://stariptv.org:80/logo/countryies/ly.png" group-title="Libya",LBY.LIBYAS CHANNEL
 http://1tv1.net:8080/live/Hasan2222/654321/21202.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LBY.LIBYA WTV 4K" tvg-logo="http://stariptv.org:80/logo/countryies/ly.png" group-title="Libya",LBY.LIBYA WTV 4K
-http://1tv1.net:8080/live/Hasan2222/654321/21162.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LBY.ALNABAA" tvg-logo="http://stariptv.org:80/logo/countryies/ly.png" group-title="Libya",LBY.ALNABAA
-http://1tv1.net:8080/live/Hasan2222/654321/21201.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SU: Blue Nile 1 HD" tvg-logo="http://stariptv.org:80/logo/countryies/sd.png" group-title="Sudan",SU: Blue Nile 1 HD
-http://1tv1.net:8080/live/Hasan2222/654321/14889.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SU: Neelain Sport" tvg-logo="http://stariptv.org:80/logo/countryies/sd.png" group-title="Sudan",SU: Neelain Sport
-http://1tv1.net:8080/live/Hasan2222/654321/122838.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SU: SUDAN 1 TV" tvg-logo="http://stariptv.org:80/logo/countryies/sd.png" group-title="Sudan",SU: SUDAN 1 TV
-http://1tv1.net:8080/live/Hasan2222/654321/122823.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SU: TAYBA" tvg-logo="http://stariptv.org:80/logo/countryies/sd.png" group-title="Sudan",SU: TAYBA
-http://1tv1.net:8080/live/Hasan2222/654321/122824.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SU: Sudan TV" tvg-logo="http://stariptv.org:80/logo/countryies/sd.png" group-title="Sudan",SU: Sudan TV
-http://1tv1.net:8080/live/Hasan2222/654321/122825.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SU: SUDAN BASIC EDU" tvg-logo="http://stariptv.org:80/logo/countryies/sd.png" group-title="Sudan",SU: SUDAN BASIC EDU
-http://1tv1.net:8080/live/Hasan2222/654321/122826.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SU: SUDAN SECONDARY EDU" tvg-logo="http://stariptv.org:80/logo/countryies/sd.png" group-title="Sudan",SU: SUDAN SECONDARY EDU
-http://1tv1.net:8080/live/Hasan2222/654321/122827.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SU: SSBC" tvg-logo="http://stariptv.org:80/logo/countryies/sd.png" group-title="Sudan",SU: SSBC
-http://1tv1.net:8080/live/Hasan2222/654321/122828.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SU: Khartoum TV" tvg-logo="http://stariptv.org:80/logo/countryies/sd.png" group-title="Sudan",SU: Khartoum TV
-http://1tv1.net:8080/live/Hasan2222/654321/122840.ts
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="DZ.ALGERIE 4" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.ALGERIE 4
 http://1tv1.net:8080/live/Hasan2222/654321/14784.ts
@@ -560,62 +565,14 @@ http://1tv1.net:8080/live/Hasan2222/654321/14784.ts
 http://1tv1.net:8080/live/Hasan2222/654321/14785.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DZ.A3" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.A3
 http://1tv1.net:8080/live/Hasan2222/654321/14783.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.ALBILAD" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.ALBILAD
-http://1tv1.net:8080/live/Hasan2222/654321/14821.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.Programme National HD" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.Programme National HD
-http://1tv1.net:8080/live/Hasan2222/654321/14878.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.BAHIA TV" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.BAHIA TV
-http://1tv1.net:8080/live/Hasan2222/654321/14914.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.SAMIRA TV" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.SAMIRA TV
-http://1tv1.net:8080/live/Hasan2222/654321/14913.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.DZAIR TV" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.DZAIR TV
-http://1tv1.net:8080/live/Hasan2222/654321/14915.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.Zahra TV" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.Zahra TV
-http://1tv1.net:8080/live/Hasan2222/654321/14819.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.El Djazair N1" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.El Djazair N1
-http://1tv1.net:8080/live/Hasan2222/654321/14777.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DZ.ENNAHAR TV ALGERIE" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.ENNAHAR TV ALGERIE
 http://1tv1.net:8080/live/Hasan2222/654321/14912.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.ECHOROUK" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.ECHOROUK
-http://1tv1.net:8080/live/Hasan2222/654321/21219.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.Algerian 1" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.Algerian 1
-http://1tv1.net:8080/live/Hasan2222/654321/43602.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.ECHOUROUK NEWS" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.ECHOUROUK NEWS
-http://1tv1.net:8080/live/Hasan2222/654321/21220.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.Algeria El Hayat" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.Algeria El Hayat
-http://1tv1.net:8080/live/Hasan2222/654321/43603.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.Alg茅rie 3" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.Alg茅rie 3
-http://1tv1.net:8080/live/Hasan2222/654321/43604.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.TV 6" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.TV 6
-http://1tv1.net:8080/live/Hasan2222/654321/43605.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.BEUR TV" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.BEUR TV
-http://1tv1.net:8080/live/Hasan2222/654321/14811.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.EL HADDAF" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.EL HADDAF
-http://1tv1.net:8080/live/Hasan2222/654321/21218.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="DZ.TV 7 El Maarifa" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.TV 7 El Maarifa
 http://1tv1.net:8080/live/Hasan2222/654321/43601.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.BERBERE JEUNESSE TV" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.BERBERE JEUNESSE TV
-http://1tv1.net:8080/live/Hasan2222/654321/14941.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.AL24 News" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.AL24 News
-http://1tv1.net:8080/live/Hasan2222/654321/43600.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DZ.TV 8 Edhakira" tvg-logo="http://stariptv.org:80/logo/countryies/dz.png" group-title="Algeria ",DZ.TV 8 Edhakira
-http://1tv1.net:8080/live/Hasan2222/654321/43599.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TUN.SAHEL TV" tvg-logo="http://stariptv.org:80/logo/countryies/tn.png" group-title="TUNISIA",TUN.SAHEL TV
-http://1tv1.net:8080/live/Hasan2222/654321/66379.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TUN.TOUNESNA" tvg-logo="http://stariptv.org:80/logo/countryies/tn.png" group-title="TUNISIA",TUN.TOUNESNA
-http://1tv1.net:8080/live/Hasan2222/654321/14989.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TUN.AL JANOUBIA" tvg-logo="http://stariptv.org:80/logo/countryies/tn.png" group-title="TUNISIA",TUN.AL JANOUBIA
-http://1tv1.net:8080/live/Hasan2222/654321/14788.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="TUN.ZAYTOUNA TV" tvg-logo="http://stariptv.org:80/logo/countryies/tn.png" group-title="TUNISIA",TUN.ZAYTOUNA TV
 http://1tv1.net:8080/live/Hasan2222/654321/14990.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TUN.AL TTESSIA" tvg-logo="http://stariptv.org:80/logo/countryies/tn.png" group-title="TUNISIA",TUN.AL TTESSIA
-http://1tv1.net:8080/live/Hasan2222/654321/14869.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TUN.AL INSENE" tvg-logo="http://stariptv.org:80/logo/countryies/tn.png" group-title="TUNISIA",TUN.AL INSENE
-http://1tv1.net:8080/live/Hasan2222/654321/14985.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TUN.NESSMA TV" tvg-logo="http://stariptv.org:80/logo/countryies/tn.png" group-title="TUNISIA",TUN.NESSMA TV
-http://1tv1.net:8080/live/Hasan2222/654321/14987.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TUN.TELVZA TV" tvg-logo="http://stariptv.org:80/logo/countryies/tn.png" group-title="TUNISIA",TUN.TELVZA TV
-http://1tv1.net:8080/live/Hasan2222/654321/14988.ts
 #EXTINF:-1 tvg-ID="" tvg-name="TUN.NAT 1" tvg-logo="http://stariptv.org:80/logo/countryies/tn.png" group-title="TUNISIA",TUN.NAT 1
 http://1tv1.net:8080/live/Hasan2222/654321/14992.ts
 #EXTINF:-1 tvg-ID="" tvg-name="TUN.NAT 2" tvg-logo="http://stariptv.org:80/logo/countryies/tn.png" group-title="TUNISIA",TUN.NAT 2
