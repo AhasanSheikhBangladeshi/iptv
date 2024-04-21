@@ -71,7 +71,6 @@ http://4ksuper.live:80/Michael88/Michael88/281143
 http://4ksuper.live:80/Michael88/Michael88/281089
 #EXTINF:-1,PK| PTV SPORTS HD
 http://4ksuper.live:80/Michael88/Michael88/1116509
-
 #EXTINF:-1,PK| AJJ NEWS
 http://4ksuper.live:80/Michael88/Michael88/1112806
 
@@ -101,8 +100,8 @@ http://1tv1.net:8080/live/Hasan2222/654321/158360.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PK | KHYBER NEWS" tvg-logo="http://b1g.me/logos2/khyber_news.jpg" group-title="PAKISTAN",PK | KHYBER NEWS
 http://1tv1.net:8080/live/Hasan2222/654321/158371.ts
 
-
-
+#EXTINF:-1, MDV| RAAJJE TV
+https://stream.raajje.mv/live/rtv_live/index.m3u8 
 
 #EXTINF:-1 tvg-ID="" tvg-name="KWT.ETHRAA 4K" tvg-logo="http://stariptv.org:80/logo/countryies/kw.png" group-title="Kuwait",KWT.ETHRAA 4K
 http://1tv1.net:8080/live/Hasan2222/654321/66480.ts
