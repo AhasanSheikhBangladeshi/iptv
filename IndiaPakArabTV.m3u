@@ -1,74 +1,80 @@
-#EXTINF:-1 tvg-ID="" tvg-name="PK | HUM TV FHD" tvg-logo="http://b1g.me/logos2/humhd.jpg" group-title="PAKISTAN",PK | HUM TV FHD
-http://1tv1.net:8080/live/Hasan2222/654321/158282.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | ARY DIGITAL FHD" tvg-logo="http://b1g.me/logos2/ary_digitalhd.jpg" group-title="PAKISTAN",PK | ARY DIGITAL FHD
-http://1tv1.net:8080/live/Hasan2222/654321/158289.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | ARY DIGITAL SD" tvg-logo="http://b1g.me/logos2/ary_digital.jpg" group-title="PAKISTAN",PK | ARY DIGITAL SD
-http://1tv1.net:8080/live/Hasan2222/654321/158290.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | ARY ZINDAGI" tvg-logo="http://b1g.me/logos2/ary_zindagai.jpg" group-title="PAKISTAN",PK | ARY ZINDAGI
-http://1tv1.net:8080/live/Hasan2222/654321/158291.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | ARY QTV" tvg-logo="http://b1g.me:80/images/787b54174ace58a813dde6b35d4fb38c.png" group-title="PAKISTAN",PK | ARY QTV
-http://1tv1.net:8080/live/Hasan2222/654321/158376.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | MADANI TV" tvg-logo="http://b1g.me:80/images/7d86e64be4a61315b9c2c68e1de43eb8.jpg" group-title="PAKISTAN",PK | MADANI TV
-http://1tv1.net:8080/live/Hasan2222/654321/158377.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | PEACE TV ENGLISH" tvg-logo="http://b1g.ca:80/images/eb9a12306bf180d15677efa639894423.png" group-title="PAKISTAN",PK | PEACE TV ENGLISH
-http://1tv1.net:8080/live/Hasan2222/654321/158378.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | PEACE TV URDU" tvg-logo="http://b1g.ca:80/images/cc043f52d8e35867bb341ab084ba134b.png" group-title="PAKISTAN",PK | PEACE TV URDU
-http://1tv1.net:8080/live/Hasan2222/654321/158379.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | GEO ENTERTAINMENT SD" tvg-logo="http://b1g.me/logos2/geo_entertainment.jpg" group-title="PAKISTAN",PK | GEO ENTERTAINMENT SD
-http://1tv1.net:8080/live/Hasan2222/654321/158293.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | GEO KAHANI FHD" tvg-logo="http://b1g.me/logos2/geo_kahani.jpg" group-title="PAKISTAN",PK | GEO KAHANI FHD
-http://1tv1.net:8080/live/Hasan2222/654321/158294.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | BOL ENTERTAINMENT FHD" tvg-logo="http://b1g.me/logos2/bol_ent.jpg" group-title="PAKISTAN",PK | BOL ENTERTAINMENT FHD
-http://1tv1.net:8080/live/Hasan2222/654321/158297.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | A PLUS" tvg-logo="http://b1g.me/logos2/aplus.jpg" group-title="PAKISTAN",PK | A PLUS
-http://1tv1.net:8080/live/Hasan2222/654321/158298.ts
+#EXTINF:-1 tvg-id="" tvg-name="قناة اليمن الفضائية Yemen TV" tvg-logo="http://myserveriptv.com:2082/images/b843f2f6eef7ae93e44d4cb11f9edb7e.png" group-title="Yemen اليمن",قناة اليمن الفضائية
 
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/725.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="PK | ARY NEWS" tvg-logo="http://b1g.me/logos2/ary_news.jpg" group-title="PAKISTAN",PK | ARY NEWS
-http://1tv1.net:8080/live/Hasan2222/654321/158336.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | ARY NEWS SD" tvg-logo="http://b1g.me/logos2/ary_news.jpg" group-title="PAKISTAN",PK | ARY NEWS SD
-http://1tv1.net:8080/live/Hasan2222/654321/158337.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | GEO NEWS FHD" tvg-logo="http://b1g.me/logos2/geo_news.jpg" group-title="PAKISTAN",PK | GEO NEWS FHD
-http://1tv1.net:8080/live/Hasan2222/654321/158338.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | SAMAA NEWS" tvg-logo="http://b1g.me/logos2/samaa_news.jpg" group-title="PAKISTAN",PK | SAMAA NEWS
-http://1tv1.net:8080/live/Hasan2222/654321/158341.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | GNN FHD" tvg-logo="http://b1g.me/logos2/gnn_news.jpg" group-title="PAKISTAN",PK | GNN FHD
-http://1tv1.net:8080/live/Hasan2222/654321/158342.ts
+#EXTINF:-1 tvg-id="" tvg-name="عدن الشرعية Aden TV" tvg-logo="http://myserveriptv.com:2082/images/e00a6e50a0c65ce803200d8a1e5eaf25.png" group-title="Yemen اليمن",عدن الشرعية
 
-#EXTINF:-1 tvg-id="dunyanews.pk" tvg-name="PK | Dunya News HD" tvg-logo=" https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Dunya News.jpg/220px- Dunya News.jpg" group-title="PAKISTAN | NEWS", PK | Dunya News HD 
-http://xtv.000:8080/2312211/1616616/26008 
-#EXTINF:-1 tvg-id="samaatv.pk" tvg-name="PK | Samaa News" tvg-logo=" https://www.samaa.tv/assets/images/logo.png" group-title="PAKISTAN | NEWS", PK | Samaa News 
-http://xtv.000:8080/2312211/1616616/26036 
-#EXTINF:-1 tvg-id="" tvg-name="PK | Bol News HD" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL News logo.png" group- title="PAKISTAN | NEWS", PK Bol News HD 
-http://xtv.000:8080/2312211/1616616/26946 
-#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | Hum News HD" tvg-logo="" group- title="PAKISTAN NEWS", PK | Hum News HD 
-http://xtv.000:8080/2312211/1616616/26018 
-#EXTINF:-1 tvg-id="" tvg-name="PK | PTV NEWS" tvg-logo=" https://upload.wikimedia.org/wikipedia/en/0/@c/PTV Logo.png" group-title="PAKISTAN | NEWS", PK PTV NEWS 
-http://xtv.000:8080/2312211/1616616/25988 
-#EXTINF:-1 tvg-id="" tvg-name="PK | Such TV" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/SuchTV_Logo HQ.png/800px- Such TV Logo HQ.png" group-title="PAKISTAN NEWS", PK Such TV 
-http://xtv.000:8080/2312211/1616616/26037 
-#EXTINF:-1 tvg-id="" tvg-name="PK | 24 News HD" tvg-logo=" http://big.fun/logos2/24_channel.jpg" group-title="PAKISTAN | NEWS", PK | 24 News HD 
-http://xtv.000:8080/2312211/1616616/25995 
-#EXTINF:-1 tvg-id="" tvg-name="PK | Abbtak News" tvg-logo=" https://upload.wikimedia.org/wikipedia/en/c/c3/Abb_Tak news logo.png" group- title="PAKISTAN NEWS", PK | Abbtak News 
-http://xtv.000:8080/2312211/1616616/25997 
-#EXTINF:-1 tvg-id="aajnews.pk" tvg-name="PK | AAJ NEWS" tvg-logo=" http://b1g.fun/logos2/aajnews.jpg" group-title="PAKISTAN | NEWS", PK | AAJ NEWS 
-http://xtv.000:8080/2312211/1616616/26001 
-#EXTINF:-1 tvg-id="" tvg-name="PAK: Ptv World" tvg-logo=" https://upload.wikimedia.org/wikipedia/en/e/e6/PTV World logo.png" group- title="PAKISTAN NEWS", PAK: Ptv World 
-http://xtv.000:8080/2312211/1616616/167657 
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/17604.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="PK | 92 NEWS FHD" tvg-logo="http://b1g.me/logos2/92_news.jpg" group-title="PAKISTAN",PK | 92 NEWS FHD
-http://1tv1.net:8080/live/Hasan2222/654321/158345.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | BOL NEWS UHD" tvg-logo="http://b1g.me/logos2/bol_news.jpg" group-title="PAKISTAN",PK | BOL NEWS UHD
-http://1tv1.net:8080/live/Hasan2222/654321/158346.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | HUM NEWS FHD" tvg-logo="http://b1g.me/logos2/hum_news.jpg" group-title="PAKISTAN",PK | HUM NEWS FHD
-http://1tv1.net:8080/live/Hasan2222/654321/158347.ts
+#EXTINF:-1 tvg-id="" tvg-name="شباب Tv Yemen Shabab" tvg-logo="http://myserveriptv.com:2082/images/47b01ccd92a2df8043833bd26c3b8551.png" group-title="Yemen اليمن",شباب Tv
 
-#EXTINF:-1 tvg-ID="" tvg-name="PK | K-21" tvg-logo="http://b1g.me/logos2/k21.jpg" group-title="PAKISTAN",PK | K-21
-http://1tv1.net:8080/live/Hasan2222/654321/158359.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | AAJ NEWS" tvg-logo="http://b1g.me/logos2/aaj_news.jpg" group-title="PAKISTAN",PK | AAJ NEWS
-http://1tv1.net:8080/live/Hasan2222/654321/158360.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PK | KHYBER NEWS" tvg-logo="http://b1g.me/logos2/khyber_news.jpg" group-title="PAKISTAN",PK | KHYBER NEWS
-http://1tv1.net:8080/live/Hasan2222/654321/158371.ts
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/12953.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="اليمن اليوم Yemen Today " tvg-logo="http://myserveriptv.com:2082/images/b843f2f6eef7ae93e44d4cb11f9edb7e.png" group-title="Yemen اليمن",اليمن اليوم
+
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/159865.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="حضرموت Tv Hadramaut TV" tvg-logo="http://myserveriptv.com:2082/images/a1e6cd7f9480f01643245e0b648d9fbe.png" group-title="Yemen اليمن",حضرموت Tv
+
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/30800.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="حضرموت الاخبارية Hadhramawt Tv" tvg-logo="http://myserveriptv.com:2082/images/e25e9ec78b3942bba340f4f4f365aa6c.png" group-title="Yemen اليمن",حضرموت الاخبارية
+
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/14705.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="سبأ Sheba TV" tvg-logo="http://myserveriptv.com:2082/images/aa70209e4414b89d5ea82e94c8d49aaa.png" group-title="Yemen اليمن",سبأ
+
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/30801.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="AIC عدن المستقلة" tvg-logo="http://myserveriptv.com:2082/images/d9ebc4b4e25316b0c1d2cda3bbb961b0.png" group-title="Yemen اليمن",AIC عدن المستقلة
+
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/155937.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="قناة المستقلة" tvg-logo="http://myserveriptv.com:2082/images/25f99bb7280ef948e5425b0e1a371048.png" group-title="Yemen اليمن",قناة المستقلة
+
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/127855.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الحوثية Tv Yemen Al Hothia TV " tvg-logo="http://myserveriptv.com:2082/images/b843f2f6eef7ae93e44d4cb11f9edb7e.png" group-title="Yemen اليمن",الحوثية Tv
+
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/158126.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="اليمن اليوم الحوثية Yemen Today Al Hothia TV" tvg-logo="http://myserveriptv.com:2082/images/b843f2f6eef7ae93e44d4cb11f9edb7e.png" group-title="Yemen اليمن",اليمن اليوم الحوثية
+
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/17553.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="المهرية Almahriah Tv " tvg-logo="http://myserveriptv.com:2082/images/0a51ec04f7cf99492bdaeabcb2b9dc84.png" group-title="Yemen اليمن",المهرية
+
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/158124.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="السعيدة Al Saeedah TV " tvg-logo="http://myserveriptv.com:2082/images/467bd8c48786204d9e7de1efa92ee465.png" group-title="Yemen اليمن",السعيدة
+
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/17551.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="سهيل Tv Suhail TV" tvg-logo="http://myserveriptv.com:2082/images/6ddb0cbf935584ffb693921378e1a925.png" group-title="Yemen اليمن",سهيل Tv
+
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/730.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الهوية Alhawyah TV" tvg-logo="http://myserveriptv.com:2082/images/b843f2f6eef7ae93e44d4cb11f9edb7e.png" group-title="Yemen اليمن",الهوية
+
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/57425.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="قناة اللحظة Al lahdah TV " tvg-logo="http://myserveriptv.com:2082/images/b843f2f6eef7ae93e44d4cb11f9edb7e.png" group-title="Yemen اليمن",قناة اللحظة
+
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/158125.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="المسيرة Al Masirah TV" tvg-logo="http://myserveriptv.com:2082/images/edf2c0a2cb5cff0172efb2982121d5c3.png" group-title="Yemen اليمن",المسيرة
+
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/158123.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="الساحات Al Sahat TV " tvg-logo="http://myserveriptv.com:2082/images/72c89fe13fe193b20ec29e41d1fb3ab5.png" group-title="Yemen اليمن",الساحات
+
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/112857.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="قناة بلقيس Belqees TV " tvg-logo="http://myserveriptv.com:2082/images/874171cd5c3649c45fe550cb79420038.png" group-title="Yemen اليمن",قناة بلقيس
+
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/241803.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="المسيرة مباشر Al Masirah Mubasher" tvg-logo="http://myserveriptv.com:2082/images/ac9084d702e024b75929518f26bcd6c4.png" group-title="Yemen اليمن",المسيرة مباشر
+
+http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/241900.m3u8 
 
 #EXTINF:-1, MDV| RAAJJE TV
 https://stream.raajje.mv/live/rtv_live/index.m3u8 
@@ -95,34 +101,6 @@ http://yackcub.mexamo.xyz:80/3338826713/8323116234/94674
 #EXTINF:-1 tvg-id="qatartv.qa" tvg-name="QATAR| QATAR TV FHD" tvg-logo="https://lo1.in/qatar/qattvhd.png" group-title="AR | QATAR",QATAR| QATAR TV FHD
 http://yackcub.mexamo.xyz:80/3338826713/8323116234/14946 
 
-#EXTINF:-1 tvg-ID="" tvg-name="KWT.ETHRAA 4K" tvg-logo="http://stariptv.org:80/logo/countryies/kw.png" group-title="Kuwait",KWT.ETHRAA 4K
-http://1tv1.net:8080/live/Hasan2222/654321/66480.ts
-#EXTINF:-1 tvg-ID="" tvg-name="KWT.AL RAI HD" tvg-logo="http://stariptv.org:80/logo/countryies/kw.png" group-title="Kuwait",KWT.AL RAI HD
-http://1tv1.net:8080/live/Hasan2222/654321/66483.ts
-#EXTINF:-1 tvg-ID="" tvg-name="KWT.Kuwait 1 HD" tvg-logo="http://stariptv.org:80/logo/countryies/kw.png" group-title="Kuwait",KWT.Kuwait 1 HD
-http://1tv1.net:8080/live/Hasan2222/654321/66486.ts
-#EXTINF:-1 tvg-ID="" tvg-name="KWT.Kuwait 2 HD" tvg-logo="http://stariptv.org:80/logo/countryies/kw.png" group-title="Kuwait",KWT.Kuwait 2 HD
-http://1tv1.net:8080/live/Hasan2222/654321/66488.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BHR.QURAN" tvg-logo="http://stariptv.org:80/logo/countryies/bahrain.png" group-title="BAHRAIN",BHR.QURAN
-http://1tv1.net:8080/live/Hasan2222/654321/66380.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BHR.INTERNATIONAL HD" tvg-logo="http://stariptv.org:80/logo/countryies/bahrain.png" group-title="BAHRAIN",BHR.INTERNATIONAL HD
-http://1tv1.net:8080/live/Hasan2222/654321/66381.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BHR.BAHRAIN 4K" tvg-logo="http://stariptv.org:80/logo/countryies/bahrain.png" group-title="BAHRAIN",BHR.BAHRAIN 4K
-http://1tv1.net:8080/live/Hasan2222/654321/66386.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OMAN.MAJAN 4K" tvg-logo="http://stariptv.org:80/logo/countryies/oman.png" group-title="OMAN",OMAN.MAJAN 4K
-http://1tv1.net:8080/live/Hasan2222/654321/66496.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OMAN.THAKAFIA HD" tvg-logo="http://stariptv.org:80/logo/countryies/oman.png" group-title="OMAN",OMAN.THAKAFIA HD
-http://1tv1.net:8080/live/Hasan2222/654321/66497.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OMAN.TV General HD" tvg-logo="http://stariptv.org:80/logo/countryies/oman.png" group-title="OMAN",OMAN.TV General HD
-http://1tv1.net:8080/live/Hasan2222/654321/66498.ts
-#EXTINF:-1 tvg-ID="" tvg-name="OMAN.TV LIVE HD" tvg-logo="http://stariptv.org:80/logo/countryies/oman.png" group-title="OMAN",OMAN.TV LIVE HD
-http://1tv1.net:8080/live/Hasan2222/654321/66499.ts
-#EXTINF:-1 tvg-ID="" tvg-name="QAT.QATAR TV" tvg-logo="http://stariptv.org:80/logo/countryies/qater.png" group-title="QATER",QAT.QATAR TV
-http://1tv1.net:8080/live/Hasan2222/654321/66505.ts
-#EXTINF:-1 tvg-ID="" tvg-name="QAT.AL RAYYAN Al Qadeem TV" tvg-logo="http://stariptv.org:80/logo/countryies/qater.png" group-title="QATER",QAT.AL RAYYAN Al Qadeem TV
-http://1tv1.net:8080/live/Hasan2222/654321/122567.ts
-#EXTINF:-1 tvg-ID="" tvg-name="QAT.AL RAYYAN" tvg-logo="http://stariptv.org:80/logo/countryies/qater.png" group-title="QATER",QAT.AL RAYYAN
-http://1tv1.net:8080/live/Hasan2222/654321/66504.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PALES| AWDEH TV HD" tvg-logo="https://lo1.in/FCB/awdeh.png" group-title="AR | PALESTINE",PALES| AWDEH TV HD
