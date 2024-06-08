@@ -1,80 +1,42 @@
-#EXTINF:-1 tvg-id="" tvg-name="قناة اليمن الفضائية Yemen TV" tvg-logo="http://myserveriptv.com:2082/images/b843f2f6eef7ae93e44d4cb11f9edb7e.png" group-title="Yemen اليمن",قناة اليمن الفضائية
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | ARY NEWS HD" tvg-logo="http://b1g.fun/logos2/ary_news.jpg" group-title="PK | News",PK | ARY NEWS HD
+http://b1g.uk:80/Francisco/Francisco/239420
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | ARY NEWS SD" tvg-logo="http://b1g.fun/logos2/ary_news.jpg" group-title="PK | News",PK | ARY NEWS SD
+http://b1g.uk:80/Francisco/Francisco/7949
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | BOL NEWS UHD" tvg-logo="http://b1g.fun/logos2/bol_news.jpg" group-title="PK | News",PK | BOL NEWS UHD
+http://b1g.uk:80/Francisco/Francisco/7953
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="geonews.uk" tvg-name="UK-Geo News SD*" tvg-logo="http://b1g.fun/logos2/geo_news.jpg" group-title="PK | News",UK-Geo News SD*
+http://b1g.uk:80/Francisco/Francisco/12588
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | GEO NEWS FHD" tvg-logo="http://b1g.fun/logos2/geo_news.jpg" group-title="PK | News",PK | GEO NEWS FHD
+http://b1g.uk:80/Francisco/Francisco/7962 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HUMNews.uk" tvg-name="UK-Hum News SD*" tvg-logo="http://b1g.fun/logos2/hum_news.jpg" group-title="PK | News",UK-Hum News SD*
+http://b1g.uk:80/Francisco/Francisco/14332
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | HUM NEWS FHD" tvg-logo="http://b1g.fun/logos2/hum_news.jpg" group-title="PK | News",PK | HUM NEWS FHD
+http://b1g.uk:80/Francisco/Francisco/21068
 
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/725.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="92news.uk" tvg-name="UK-92 News SD*" tvg-logo="http://b1g.fun/logos2/92_news.jpg" group-title="PK | News",UK-92 News SD*
+http://b1g.uk:80/Francisco/Francisco/17635
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | 92 NEWS FHD" tvg-logo="http://b1g.fun/logos2/92_news.jpg" group-title="PK | News",PK | 92 NEWS FHD
+http://b1g.uk:80/Francisco/Francisco/7999 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | DUNYA NEWS FHD" tvg-logo="http://b1g.fun/logos2/dunya_news.jpg" group-title="PK | News",PK | DUNYA NEWS FHD
+http://b1g.uk:80/Francisco/Francisco/7979 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="DAWNNWS" tvg-name="PK | DAWN NEWS" tvg-logo="http://b1g.fun/logos2/dawn_news.jpg" group-title="PK | News",PK | DAWN NEWS
+http://b1g.uk:80/Francisco/Francisco/7965 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | SAMAA NEWS" tvg-logo="http://b1g.fun/logos2/samaa_news.jpg" group-title="PK | News",PK | SAMAA NEWS
+http://b1g.uk:80/Francisco/Francisco/7961 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | SUCH NEWS HD" tvg-logo="http://b1g.fun/logos2/such_news.jpg" group-title="PK | News",PK | SUCH NEWS HD
+http://b1g.uk:80/Francisco/Francisco/7940 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | AAJ NEWS" tvg-logo="http://b1g.fun/logos2/aaj_news.jpg" group-title="PK | News",PK | AAJ NEWS
+http://b1g.uk:80/Francisco/Francisco/7954
 
-#EXTINF:-1 tvg-id="" tvg-name="عدن الشرعية Aden TV" tvg-logo="http://myserveriptv.com:2082/images/e00a6e50a0c65ce803200d8a1e5eaf25.png" group-title="Yemen اليمن",عدن الشرعية
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | ABBTAKK NEWS" tvg-logo="http://b1g.fun/logos2/aabtak_news.jpg" group-title="PK | News",PK | ABBTAKK NEWS
+http://b1g.uk:80/Francisco/Francisco/7958 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | KHYBER NEWS" tvg-logo="http://b1g.fun/logos2/khyber_news.jpg" group-title="PK | News",PK | KHYBER NEWS
+http://b1g.uk:80/Francisco/Francisco/7927
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | KTN NEWS" tvg-logo="http://b1g.fun/logos2/ktn_news.jpg" group-title="PK | News",PK | KTN NEWS
+http://b1g.uk:80/Francisco/Francisco/7967
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | SINDH NEWS" tvg-logo="http://b1g.fun/logos2/sindh_news.jpg" group-title="PK | News",PK | SINDH NEWS
+http://b1g.uk:80/Francisco/Francisco/7983 
 
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/17604.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="شباب Tv Yemen Shabab" tvg-logo="http://myserveriptv.com:2082/images/47b01ccd92a2df8043833bd26c3b8551.png" group-title="Yemen اليمن",شباب Tv
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/12953.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="اليمن اليوم Yemen Today " tvg-logo="http://myserveriptv.com:2082/images/b843f2f6eef7ae93e44d4cb11f9edb7e.png" group-title="Yemen اليمن",اليمن اليوم
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/159865.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="حضرموت Tv Hadramaut TV" tvg-logo="http://myserveriptv.com:2082/images/a1e6cd7f9480f01643245e0b648d9fbe.png" group-title="Yemen اليمن",حضرموت Tv
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/30800.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="حضرموت الاخبارية Hadhramawt Tv" tvg-logo="http://myserveriptv.com:2082/images/e25e9ec78b3942bba340f4f4f365aa6c.png" group-title="Yemen اليمن",حضرموت الاخبارية
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/14705.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="سبأ Sheba TV" tvg-logo="http://myserveriptv.com:2082/images/aa70209e4414b89d5ea82e94c8d49aaa.png" group-title="Yemen اليمن",سبأ
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/30801.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="AIC عدن المستقلة" tvg-logo="http://myserveriptv.com:2082/images/d9ebc4b4e25316b0c1d2cda3bbb961b0.png" group-title="Yemen اليمن",AIC عدن المستقلة
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/155937.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="قناة المستقلة" tvg-logo="http://myserveriptv.com:2082/images/25f99bb7280ef948e5425b0e1a371048.png" group-title="Yemen اليمن",قناة المستقلة
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/127855.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="الحوثية Tv Yemen Al Hothia TV " tvg-logo="http://myserveriptv.com:2082/images/b843f2f6eef7ae93e44d4cb11f9edb7e.png" group-title="Yemen اليمن",الحوثية Tv
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/158126.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="اليمن اليوم الحوثية Yemen Today Al Hothia TV" tvg-logo="http://myserveriptv.com:2082/images/b843f2f6eef7ae93e44d4cb11f9edb7e.png" group-title="Yemen اليمن",اليمن اليوم الحوثية
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/17553.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="المهرية Almahriah Tv " tvg-logo="http://myserveriptv.com:2082/images/0a51ec04f7cf99492bdaeabcb2b9dc84.png" group-title="Yemen اليمن",المهرية
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/158124.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="السعيدة Al Saeedah TV " tvg-logo="http://myserveriptv.com:2082/images/467bd8c48786204d9e7de1efa92ee465.png" group-title="Yemen اليمن",السعيدة
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/17551.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="سهيل Tv Suhail TV" tvg-logo="http://myserveriptv.com:2082/images/6ddb0cbf935584ffb693921378e1a925.png" group-title="Yemen اليمن",سهيل Tv
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/730.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="الهوية Alhawyah TV" tvg-logo="http://myserveriptv.com:2082/images/b843f2f6eef7ae93e44d4cb11f9edb7e.png" group-title="Yemen اليمن",الهوية
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/57425.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="قناة اللحظة Al lahdah TV " tvg-logo="http://myserveriptv.com:2082/images/b843f2f6eef7ae93e44d4cb11f9edb7e.png" group-title="Yemen اليمن",قناة اللحظة
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/158125.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="المسيرة Al Masirah TV" tvg-logo="http://myserveriptv.com:2082/images/edf2c0a2cb5cff0172efb2982121d5c3.png" group-title="Yemen اليمن",المسيرة
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/158123.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="الساحات Al Sahat TV " tvg-logo="http://myserveriptv.com:2082/images/72c89fe13fe193b20ec29e41d1fb3ab5.png" group-title="Yemen اليمن",الساحات
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/112857.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="قناة بلقيس Belqees TV " tvg-logo="http://myserveriptv.com:2082/images/874171cd5c3649c45fe550cb79420038.png" group-title="Yemen اليمن",قناة بلقيس
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/241803.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="المسيرة مباشر Al Masirah Mubasher" tvg-logo="http://myserveriptv.com:2082/images/ac9084d702e024b75929518f26bcd6c4.png" group-title="Yemen اليمن",المسيرة مباشر
-
-http://sharkytv.com:2082/live/KhaledNaja/tCaDp7TaTLRn/241900.m3u8 
 
 #EXTINF:-1, MDV| RAAJJE TV
 https://stream.raajje.mv/live/rtv_live/index.m3u8 
