@@ -310,3 +310,22 @@ http://xtv.ooo:8080/6725/6725/6
 https://live.imamhossaintv.com/live/ih4.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-country="IQ" tvg-url="" group-title="Religious",Imam Hussein TV 4 Urdu
 https://mn-nl.mncdn.com:443/arbaeen/arbaeen_hd.smil/chunklist_b708000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: Parliamentary Service*" tvg-logo="http://vod-logo.net/photos/5945dd2366734df9bac2323a210d6db4.png" group-title="DSTV | NEWS",Af | DSTV: Parliamentary Service*
+http://xtv.ooo:8080/6725/6725/238514
+#EXTINF:-1 tvg-id="cgtnnews.za" tvg-name="Af | DSTV: CGTN News*" tvg-logo="http://vod-logo.net/photos/a964b2973618e848c8b504f6c7a31ec6.jpg" group-title="DSTV | NEWS",Af | DSTV: CGTN News*
+http://xtv.ooo:8080/6725/6725/238515
+#EXTINF:-1 tvg-id="cnbcafrica.za" tvg-name="Af | DSTV: CNBC Africa*" tvg-logo="http://vod-logo.net/photos/d86dcc10211d375db6145eec60ad56f2.jpg" group-title="DSTV | NEWS",Af | DSTV: CNBC Africa*
+http://xtv.ooo:8080/6725/6725/238516
+#EXTINF:-1 tvg-id="bloomberg.za" tvg-name="Af | DSTV: Bloomberg News" tvg-logo="http://vod-logo.net/photos/d3601d65f5be149e6645aa7d83cbdad4.png" group-title="DSTV | NEWS",Af | DSTV: Bloomberg News
+http://xtv.ooo:8080/6725/6725/238517
+#EXTINF:-1 tvg-id="businessdaytv.za" tvg-name="Af | DSTV: Business Day TV*" tvg-logo="http://vod-logo.net/photos/78492df948ed008f6a6d6fa70bd4e567.jpg" group-title="DSTV | NEWS",Af | DSTV: Business Day TV*
+http://xtv.ooo:8080/6725/6725/238518
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: NDTV 24X7" tvg-logo="http://vod-logo.net/photos/6ade1313b1e6626167bfba71b194eb64.png" group-title="DSTV | NEWS",Af | DSTV: NDTV 24X7
+http://xtv.ooo:8080/6725/6725/238519
+#EXTINF:-1 tvg-id="0" tvg-name="Af | DSTV: EuroNews HD*" tvg-logo="http://vod-logo.net/photos/846b1e8e8fc954f45f69f444ff8320e0.jpg" group-title="DSTV | NEWS",Af | DSTV: EuroNews HD*
+http://xtv.ooo:8080/6725/6725/238520
+#EXTINF:-1 tvg-id="" tvg-name="Af | DSTV: Africa News*" tvg-logo="http://vod-logo.net/photos/e4428889b68815ee3d818a294e4842b4.jpg" group-title="DSTV | NEWS",Af | DSTV: Africa News*
+http://xtv.ooo:8080/6725/6725/238521
+#EXTINF:-1 tvg-id="deutsche.welle.za" tvg-name="Af | DSTV: Deutsche Welle" tvg-logo="" group-title="DSTV | NEWS",Af | DSTV: Deutsche Welle
+http://xtv.ooo:8080/6725/6725/238523 
