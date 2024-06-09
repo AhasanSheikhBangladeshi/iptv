@@ -305,7 +305,7 @@ https://ak.imamhussein.live/imhtv1live/imhtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV2Arabic.iq" tvg-name="Imam Hussein TV 2 Arabic" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Religious",Imam Hussein TV 2 Arabic (360p)
 https://ak.imamhussein.live/imhtv2live/imhtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV3English.iq" tvg-name="Imam Hussein TV 3 English" tvg-country="IQ" tvg-language="English" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" group-title="Religious",Imam Hussein TV 3 English (720p)
-https://ak.imamhussein.live:443/imhtv1live/imhtv1.smil/imhtv1publish/imhtv1_480p/chunks.m3u8
+https://ak.imamhussein.live:443/imhtv3live/imhtv3.smil/imhtv3publish/imhtv3_480p/chunks.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-country="IQ" tvg-url="" group-title="Religious",Imam Hussein TV 4 Urdu
 https://mn-nl.mncdn.com:443/ihtv4/ihtv4_hd.smil/chunklist_b708000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-country="IQ" tvg-url="" group-title="Religious",Imam Hussein TV 4 Urdu
