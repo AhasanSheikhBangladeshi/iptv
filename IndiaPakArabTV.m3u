@@ -279,7 +279,22 @@ http://xtv.ooo:8080/6725/6725/349709
 
 #EXTINF:-1 tvg-id="" tvg-name="EG: Alhayah" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2fd46d9667f14278e41bd414634619a9.png" group-title="Egypt",EG: Alhayah
 http://xtv.ooo:8080/6725/6725/349704 
-
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/73e470c9d252ce282882a8bff79f9c7d.png" group-title="Egypt",EG: ERTU 2
+http://xtv.ooo:8080/6725/6725/349724
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 3 Al Kahera" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f4339cc3d6f44b487e602a1c21631f18.png" group-title="Egypt",EG: ERTU 3 Al Kahera
+http://xtv.ooo:8080/6725/6725/349725
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 4 Al Kanal" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/d7a7164f6b680c896d17935ad1816746.png" group-title="Egypt",EG: ERTU 4 Al Kanal
+http://xtv.ooo:8080/6725/6725/349726
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 5 Al Askandria" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/3e8b1c3c8c5752dbbe21dd6c212ceadd.png" group-title="Egypt",EG: ERTU 5 Al Askandria
+http://xtv.ooo:8080/6725/6725/349727
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 6 Al Delta" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/db63626ade850e58e6a91f2c9ef143e3.png" group-title="Egypt",EG: ERTU 6 Al Delta
+http://xtv.ooo:8080/6725/6725/349728
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 8 Teba" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5ef33ba361d92de405582c48f5358db3.png" group-title="Egypt",EG: ERTU 8 Teba
+http://xtv.ooo:8080/6725/6725/349729
+#EXTINF:-1 tvg-id="" tvg-name="EG: ETC" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/867ef153c4aa0ca1eee57c8db38c067b.png" group-title="Egypt",EG: ETC
+http://xtv.ooo:8080/6725/6725/349730
+#EXTINF:-1 tvg-id="" tvg-name="EG: Extra News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/faad585a566db021be172101c78d7c3b.png" group-title="Egypt",EG: Extra News
+http://xtv.ooo:8080/6725/6725/349731 
 
 #EXTINF:-1 tvg-id="" tvg-name="PALES| AWDEH TV HD" tvg-logo="https://lo1.in/FCB/awdeh.png" group-title="AR | PALESTINE",PALES| AWDEH TV HD
 http://yackcub.mexamo.xyz:80/3338826713/8323116234/15000
