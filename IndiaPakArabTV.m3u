@@ -244,22 +244,32 @@ http://xtv.ooo:8080/6725/6725/351795
 http://xtv.ooo:8080/6725/6725/351796
 #EXTINF:-1 tvg-id="" tvg-name="KW: Kuwait TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/df720352bda21e0658f21c3e6fcd3a41.png" group-title="Kuwait",KW: Kuwait TV
 http://xtv.ooo:8080/6725/6725/351797 
-
-#EXTINF:-1 tvg-id="" tvg-name="KSA| SAUDI 1 TV HEVC" tvg-logo="https://lo1.in/ksaa/ksatvhd.png" group-title="AR | SAUDI ARABIA",KSA| SAUDI 1 TV HEVC
-http://yackcub.mexamo.xyz:80/3338826713/8323116234/6319 
-#EXTINF:-1 tvg-id="" tvg-name="KSA| BEDAYA TV" tvg-logo="https://lo1.in/ksaa/bedaya.png" group-title="AR | SAUDI ARABIA",KSA| BEDAYA TV
-http://yackcub.mexamo.xyz:80/3338826713/8323116234/360895 
-#EXTINF:-1 tvg-id="sbc.sa" tvg-name="KSA| SBC FHD" tvg-logo="https://lo1.in/FCB/sbc.png" group-title="AR | SAUDI ARABIA",KSA| SBC FHD
-http://yackcub.mexamo.xyz:80/3338826713/8323116234/6318
-#EXTINF:-1 tvg-id="" tvg-name="KSA| ALMAJD RELIGIOUS SCIENCE SD" tvg-logo="https://lo1.in/ksaa/majdsci.png" group-title="AR | SAUDI ARABIA",KSA| ALMAJD RELIGIOUS SCIENCE SD
-http://yackcub.mexamo.xyz:80/3338826713/8323116234/94672
-#EXTINF:-1 tvg-id="" tvg-name="KSA| ALMAJD RAWDA SD" tvg-logo="https://lo1.in/ir/majd.png" group-title="AR | SAUDI ARABIA",KSA| ALMAJD RAWDA SD
-http://yackcub.mexamo.xyz:80/3338826713/8323116234/94674 
+#EXTINF:-1 tvg-id="" tvg-name="SA: Saudi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/595ef759d1c68e061f2abde8a531bea8.png" group-title="Saudi Arabia",SA: Saudi TV
+http://xtv.ooo:8080/6725/6725/353559
+#EXTINF:-1 tvg-id="" tvg-name="SA: SBC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d6190bb1990c3c8bf7ccfddab5764cf1.png" group-title="Saudi Arabia",SA: SBC
+http://xtv.ooo:8080/6725/6725/353560
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/1be73f4c3f1f1da34597c5d7bc66af9d.png" group-title="Saudi Arabia",SA: SSC 1
+http://xtv.ooo:8080/6725/6725/353561
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/0becff7ab082c21b4b63fdbc776c4588.png" group-title="Saudi Arabia",SA: SSC 2
+http://xtv.ooo:8080/6725/6725/353562 
+#EXTINF:-1 tvg-id="" tvg-name="SA: Makkah TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d353edfb6c1b32f960bb286da67c60cd.png" group-title="Saudi Arabia",SA: Makkah TV
+http://xtv.ooo:8080/6725/6725/353547
+#EXTINF:-1 tvg-id="" tvg-name="SA: Quran TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3b7ac37a56b3ea9554a886fd84b27bde.png" group-title="Saudi Arabia",SA: Quran TV
+http://xtv.ooo:8080/6725/6725/353548
+#EXTINF:-1 tvg-id="" tvg-name="SA: Rotana Aflam+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/6d48f46fbb1f37742bd6f10fd459a6b3.jpg" group-title="Saudi Arabia",SA: Rotana Aflam+
+http://xtv.ooo:8080/6725/6725/353549
+#EXTINF:-1 tvg-id="" tvg-name="SA: Rotana Cinema KSA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0ceed1da47066c9cecc7c06cc0b2b575.png" group-title="Saudi Arabia",SA: Rotana Cinema KSA
+http://xtv.ooo:8080/6725/6725/353550 
 #EXTINF:-1 tvg-id="" tvg-name="KSA| ALSAHRAA TV" tvg-logo="https://lo1.in/FCB/sahara.png" group-title="AR | SAUDI ARABIA",KSA| ALSAHRAA TV
 http://yackcub.mexamo.xyz:80/3338826713/8323116234/360896
 #EXTINF:-1 tvg-id="" tvg-name="KSA| NABA TV FHD" tvg-logo="https://lo1.in/ksaa/nabatv.png" group-title="AR | SAUDI ARABIA",KSA| NABA TV FHD
 http://yackcub.mexamo.xyz:80/3338826713/8323116234/15301 
-
+#EXTINF:-1 tvg-id="" tvg-name="SA: Ekhbariya TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/35c230f60200eb60de3175f084c1c5a4.png" group-title="Saudi Arabia",SA: Ekhbariya TV
+http://xtv.ooo:8080/6725/6725/353517 
+#EXTINF:-1 tvg-id="" tvg-name="SA: Alresalah TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-11/2f3460631cd293bc552ab655575d1a17.png" group-title="Saudi Arabia",SA: Alresalah TV
+http://xtv.ooo:8080/6725/6725/353510
+#EXTINF:-1 tvg-id="" tvg-name="SA: ART Aflam 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e070b3c823dd8bd955ec809109924912.png" group-title="Saudi Arabia",SA: ART Aflam 1
+http://xtv.ooo:8080/6725/6725/353511 
 #EXTINF:-1 tvg-id="qatartv.qa" tvg-name="QATAR| QATAR TV FHD" tvg-logo="https://lo1.in/qatar/qattvhd.png" group-title="AR | QATAR",QATAR| QATAR TV FHD
 http://yackcub.mexamo.xyz:80/3338826713/8323116234/14946 
 
