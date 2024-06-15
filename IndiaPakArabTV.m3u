@@ -1,18 +1,25 @@
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aryfamily.uk" tvg-name="UK-ARY Family HD"tvg-logo="http://b1g.fun/logos2/ary_family.jpg" group-title="PK | Entertainment",UK-ARY Family HD
 http://b1g.uk:80/Francisco/Francisco/361385 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id=""tvg-name="PK | Ary Digital FHD" tvg-logo="http://b1g.fun/logos2/ary_digitalhd.jpg" group-title="PK | Entertainment",PK | Ary Digital FHD
-http://b1g.uk:80/Francisco/Francisco/201029
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id=""tvg-name="PK | Ary Digital SD" tvg-logo="http://b1g.fun/logos2/ary_digital.jpg" group-title="PK | Entertainment",PK | Ary Digital SD
 http://b1g.uk:80/Francisco/Francisco/7950
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Ary Zindagi SD" tvg-logo="http://b1g.fun/logos2/ary_zindagai.jpg" group-title="PK | Entertainment",PK | Ary Zindagi SD
-http://b1g.uk:80/Francisco/Francisco/7947
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="geotv.uk" tvg-name="UK-Geo TV SD*" tvg-logo="http://b1g.fun/logos2/geo_entertainment.jpg" group-title="PK | Entertainment",UK-Geo TV SD*
-http://b1g.uk:80/Francisco/Francisco/12589
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Geo Ent FHD" tvg-logo="http://b1g.fun/logos2/geo_entertainment.jpg" group-title="PK | Entertainment",PK | Geo Ent FHD
-http://b1g.uk:80/Francisco/Francisco/7957 
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY DIGITAL" tvg-logo="https://docdog.top/logo/countries/pakistan/arydigital.png" group-title="ASIA | PAKISTAN VIP",PK: ARY DIGITAL
+http://vipegor.top:8080/VIP0187168864034307/7ec37168ec60/7533
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY FAMILY" tvg-logo="https://docdog.top/logo/countries/pakistan/aryfamily.png" group-title="ASIA | PAKISTAN VIP",PK: ARY FAMILY
+http://vipegor.top:8080/VIP0187168864034307/7ec37168ec60/7534
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY MUSIC" tvg-logo="https://docdog.top/logo/countries/pakistan/ARYMUSIC.png" group-title="ASIA | PAKISTAN VIP",PK: ARY MUSIC
+http://vipegor.top:8080/VIP0187168864034307/7ec37168ec60/7535
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY NEWS" tvg-logo="https://docdog.top/logo/countries/pakistan/arynews.png" group-title="ASIA | PAKISTAN VIP",PK: ARY NEWS
+http://vipegor.top:8080/VIP0187168864034307/7ec37168ec60/7536
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY NEWS WORLD" tvg-logo="https://docdog.top/logo/countries/pakistan/ARYNEWSWORLD.jpg" group-title="ASIA | PAKISTAN VIP",PK: ARY NEWS WORLD
+http://vipegor.top:8080/VIP0187168864034307/7ec37168ec60/7537
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY QTV" tvg-logo="https://docdog.top/logo/countries/pakistan/aryqtv.png" group-title="ASIA | PAKISTAN VIP",PK: ARY QTV
+http://vipegor.top:8080/VIP0187168864034307/7ec37168ec60/7538 
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY ZINDAGI" tvg-logo="https://docdog.top/logo/countries/pakistan/aryzindagi.png" group-title="ASIA | PAKISTAN VIP",PK: ARY ZINDAGI
+http://vipegor.top:8080/VIP0187168864034307/7ec37168ec60/7540
+#EXTINF:-1 tvg-id="" tvg-name="PK: ATV" tvg-logo="https://docdog.top/logo/countries/pakistan/atv.png" group-title="ASIA | PAKISTAN VIP",PK: ATV
+http://vipegor.top:8080/VIP0187168864034307/7ec37168ec60/7541
+#EXTINF:-1 tvg-id="" tvg-name="PK: AVT KHYBER TV" tvg-logo="https://docdog.top/logo/countries/pakistan/AVTKHYBERTV.png" group-title="ASIA | PAKISTAN VIP",PK: AVT KHYBER TV
+http://vipegor.top:8080/VIP0187168864034307/7ec37168ec60/7542 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Mun TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mun-TV.png" group-title="PK | Entertainment",PK | Mun TV FHD
 http://b1g.uk:80/Francisco/Francisco/176068
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Green Ent HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Green-Entertainment.png" group-title="PK | Entertainment",PK | Green Ent HD
@@ -20,45 +27,8 @@ http://b1g.uk:80/Francisco/Francisco/76687
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Aan TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/10/Aan-TV.png" group-title="PK | Entertainment",PK | Aan TV FHD
 http://b1g.uk:80/Francisco/Francisco/201026
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="humeurope.uk" tvg-name="UK-Hum TV Europe SD*" tvg-logo="http://b1g.fun/logos2/hum_europe.jpg" group-title="PK | Entertainment",UK-Hum TV Europe SD*
-http://b1g.uk:80/Francisco/Francisco/12590
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Hum TV FHD" tvg-logo="http://b1g.fun/logos2/hum_tv.jpg" group-title="PK | Entertainment",PK | Hum TV FHD
-http://b1g.uk:80/Francisco/Francisco/322913 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Hum TV HD" tvg-logo="http://b1g.fun/logos2/humhd.jpg" group-title="PK | Entertainment",PK | Hum TV HD
-http://b1g.uk:80/Francisco/Francisco/7942 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Hum Masala TV" tvg-logo="http://b1g.fun/logos2/hum_masala.jpg" group-title="PK | Entertainment",PK | Hum Masala TV
-http://b1g.uk:80/Francisco/Francisco/7941
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Hum Pashto SD" tvg-logo="http://b1g.fun/logos2/hum_pashtoo.jpg" group-title="PK | Entertainment",PK | Hum Pashto SD
-http://b1g.uk:80/Francisco/Francisco/7926
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Bol Ent FHD" tvg-logo="http://b1g.fun/logos2/bol_ent.jpg" group-title="PK | Entertainment",PK | Bol Ent FHD
-http://b1g.uk:80/Francisco/Francisco/8007 
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ptvglobal.uk" tvg-name="UK-PTV Home" tvg-logo="http://b1g.fun/logos2/ptv_home.jpg" group-title="PK | Entertainment",UK-PTV Home
-http://b1g.uk:80/Francisco/Francisco/12527
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Ptv Home SD" tvg-logo="http://b1g.fun/logos2/ptv_home.jpg" group-title="PK | Entertainment",PK | Ptv Home SD
-http://b1g.uk:80/Francisco/Francisco/7975
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ptvglobal.uk" tvg-name="UK-PTV Global" tvg-logo="http://b1g.fun/logos2/ptv_global.jpg" group-title="PK | Entertainment",UK-PTV Global
-http://b1g.uk:80/Francisco/Francisco/12565 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Urdu 1 HD" tvg-logo="http://b1g.fun/logos2/urdu1.jpg" group-title="PK | Entertainment",PK | Urdu 1 HD
-http://b1g.uk:80/Francisco/Francisco/7970
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Express Ent HD" tvg-logo="http://b1g.fun/logos2/express_ent.jpg" group-title="PK | Entertainment",PK | Express Ent HD
-http://b1g.uk:80/Francisco/Francisco/7959
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Aaj Ent SD" tvg-logo="http://b1g.fun/logos2/aaj_ent.jpg" group-title="PK | Entertainment",PK | Aaj Ent SD
-http://b1g.uk:80/Francisco/Francisco/7981 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Avt Khyber HD" tvg-logo="http://b1g.fun/logos2/khyber.jpg" group-title="PK | Entertainment",PK | Avt Khyber HD
-http://b1g.uk:80/Francisco/Francisco/7928
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Sindh Ent FHD" tvg-logo="http://b1g.fun/logos2/sindh_tv.jpg" group-title="PK | Entertainment",PK | Sindh Ent FHD
-http://b1g.uk:80/Francisco/Francisco/7982
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Ktn Ent FHD" tvg-logo="http://b1g.fun/logos2/ktn.jpg" group-title="PK | Entertainment",PK | Ktn Ent FHD
-http://b1g.uk:80/Francisco/Francisco/7966 
 #EXTINF:-1 tvg-id="" tvg-name="PK: PTV HOME" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV HOME
-http://xtv.ooo:8080/6725/6725/221342
+http://xtv.ooo:8080/6725/6725/22134
 #EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PK: PTV HOME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV HOME HD
 http://xtv.ooo:8080/6725/6725/103703
 #EXTINF:-1 tvg-id="" tvg-name="PK | PTV NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png" group-title="PAKISTAN | NEWS",PK | PTV NEWS
@@ -67,7 +37,42 @@ http://xtv.ooo:8080/6725/6725/25988
 http://xtv.ooo:8080/6725/6725/110050
 #EXTINF:-1 tvg-id="" tvg-name="PK: Khyber Middle East TV*" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: Khyber Middle East TV*
 http://xtv.ooo:8080/6725/6725/110051 
-
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Business (News)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="INDIAN NEWS",IN: Zee Business (News)
+http://starshare.live:8080/live/Irene123/Irene123/23938.ts
+#EXTINF:-1 tvg-id="shemaroo.in" tvg-name="IN:  DD North East" tvg-logo="" group-title="Assam",IN:  DD North East
+http://starshare.live:8080/live/Irene123/Irene123/23949.ts 
+#EXTINF:-1 tvg-id="" tvg-name="IN:  DD National HD" tvg-logo="" group-title="INDIAN SD",IN:  DD National HD
+http://starshare.live:8080/live/Irene123/Irene123/4037.ts
+#EXTINF:-1 tvg-id="ddbihar.in" tvg-name="IN:  DD Bihar" tvg-logo="" group-title="INDIAN SD",IN:  DD Bihar
+http://starshare.live:8080/live/Irene123/Irene123/4038.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD India" tvg-logo="" group-title="INDIAN SD",IN: DD India
+http://starshare.live:8080/live/Irene123/Irene123/4039.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Bharati" tvg-logo="" group-title="INDIAN SD",IN: DD Bharati
+http://starshare.live:8080/live/Irene123/Irene123/4040.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN:  DD Kashir" tvg-logo="" group-title="INDIAN SD",IN:  DD Kashir
+http://starshare.live:8080/live/Irene123/Irene123/4041.ts
+#EXTINF:-1 tvg-id="ddkisan.in" tvg-name="IN: DD Kisan" tvg-logo="" group-title="INDIAN SD",IN: DD Kisan
+http://starshare.live:8080/live/Irene123/Irene123/4042.ts
+#EXTINF:-1 tvg-id="ddnews.in" tvg-name="IN:  DD News (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIAN NEWS",IN:  DD News (4K)
+http://starshare.live:8080/live/Irene123/Irene123/4043.ts
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="IN:  DD Sports (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIAN SD",IN:  DD Sports (4K)
+http://starshare.live:8080/live/Irene123/Irene123/4044.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN:  DD India" tvg-logo="" group-title="INDIAN SD",IN:  DD India
+http://starshare.live:8080/live/Irene123/Irene123/4045.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN:  DD Uttar Pradesh" tvg-logo="" group-title="INDIAN SD",IN:  DD Uttar Pradesh
+http://starshare.live:8080/live/Irene123/Irene123/4048.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Bangla" tvg-logo="" group-title="BANGLA",IN: DD Bangla
+http://starshare.live:8080/live/Irene123/Irene123/4049.ts
+#EXTINF:-1 tvg-id="ddsahyadri.in" tvg-name="IN:  DD Sahayadri" tvg-logo="" group-title="INDIAN SD",IN:  DD Sahayadri
+http://starshare.live:8080/live/Irene123/Irene123/4050.ts
+#EXTINF:-1 tvg-id="ddoriya.in" tvg-name="IN: DD Odia" tvg-logo="" group-title="Oriya",IN: DD Odia
+http://starshare.live:8080/live/Irene123/Irene123/4052.ts
+#EXTINF:-1 tvg-id="ddsaptagiri.in" tvg-name="Telugu: DD Saptagiri" tvg-logo="" group-title="TELUGU",Telugu: DD Saptagiri
+http://starshare.live:8080/live/Irene123/Irene123/4053.ts
+#EXTINF:-1 tvg-id="" tvg-name="Guj:  DD Girnar" tvg-logo="" group-title="GUJARATI",Guj:  DD Girnar
+http://starshare.live:8080/live/Irene123/Irene123/4055.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Salam" tvg-logo="" group-title="INDIAN SD",IN: Zee Salam
+http://starshare.live:8080/live/Irene123/Irene123/4065.ts 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | ARY NEWS HD" tvg-logo="http://b1g.fun/logos2/ary_news.jpg" group-title="PK | News",PK | ARY NEWS HD
 http://b1g.uk:80/Francisco/Francisco/239420
