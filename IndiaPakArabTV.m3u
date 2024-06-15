@@ -113,6 +113,34 @@ http://b1g.uk:80/Francisco/Francisco/7967
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | SINDH NEWS" tvg-logo="http://b1g.fun/logos2/sindh_news.jpg" group-title="PK | News",PK | SINDH NEWS
 http://b1g.uk:80/Francisco/Francisco/7983 
 
+#EXTINF:-1 tvg-id="" tvg-name="AFG: 1 TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dc5dcc0dc734c63ab0460eaa9d177467.png" group-title="Afghanistan",AFG: 1 TV
+http://xtv.ooo:8080/6725/6725/347388 
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Afghanistan International" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/2baace0f27a0393c415a09c0b1634240.png" group-title="Afghanistan",AFG: Afghanistan International
+http://xtv.ooo:8080/6725/6725/347391
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Afghanistan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/56ee38d81e7627ae3b2b015f8f259f15.png" group-title="Afghanistan",AFG: Afghanistan TV
+http://xtv.ooo:8080/6725/6725/347392
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Arezo TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/66c74090d67ea4254ca0cd0a3a05f69c.png" group-title="Afghanistan",AFG: Arezo TV
+http://xtv.ooo:8080/6725/6725/347393
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Ariana TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/873721cdaec9640667fd6dceb409d5e9.jpeg" group-title="Afghanistan",AFG: Ariana TV
+http://xtv.ooo:8080/6725/6725/347394
+#EXTINF:-1 tvg-id="" tvg-name="AFG: ATN International" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/d53f8f2324aa5732aa7a53dbe9c3483e.jpeg" group-title="Afghanistan",AFG: ATN International
+http://xtv.ooo:8080/6725/6725/347395
+#EXTINF:-1 tvg-id="" tvg-name="AFG: ATN Jahani" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6fff0ce686aa45a5a4f9d0119dea1218.jpeg" group-title="Afghanistan",AFG: ATN Jahani
+http://xtv.ooo:8080/6725/6725/347396
+#EXTINF:-1 tvg-id="" tvg-name="AFG: ATN Jahani News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/ab5ae688accf9c624dbf21c18c0bded8.jpeg" group-title="Afghanistan",AFG: ATN Jahani News
+http://xtv.ooo:8080/6725/6725/347397
+#EXTINF:-1 tvg-id="" tvg-name="AFG: ATN News" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/283aaffd8c2493332ce4993d67d1f777.png" group-title="Afghanistan",AFG: ATN News
+http://xtv.ooo:8080/6725/6725/347398 
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Shamshad TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/9081d478591cb14771362d43e50261fc.png" group-title="Afghanistan",AFG: Shamshad TV
+http://xtv.ooo:8080/6725/6725/347410
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Solh TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f8e187f8e2851c68c864dbfa9ccdec14.png" group-title="Afghanistan",AFG: Solh TV
+http://xtv.ooo:8080/6725/6725/347411
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Tamadon TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/8cf8b9760f816f71691f35976975ef32.png" group-title="Afghanistan",AFG: Tamadon TV
+http://xtv.ooo:8080/6725/6725/347412
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Tolo News" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/23f0ab14266f28f991faa05114aeea5c.png" group-title="Afghanistan",AFG: Tolo News
+http://xtv.ooo:8080/6725/6725/347413
+#EXTINF:-1 tvg-id="" tvg-name="AFG: Tolo TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/293d47a335824c7b8bb06dbf77762625.png" group-title="Afghanistan",AFG: Tolo TV
+http://xtv.ooo:8080/6725/6725/347414 
 
 #EXTINF:-1, MDV| RAAJJE TV
 https://stream.raajje.mv/live/rtv_live/index.m3u8 
@@ -313,18 +341,20 @@ http://xtv.ooo:8080/6725/6725/349731
 http://yackcub.mexamo.xyz:80/3338826713/8323116234/15000
 #EXTINF:-1 tvg-id="" tvg-name="PALES| FALASTINI. TV" tvg-logo="https://lo1.in/FCB/pallive.png" group-title="AR | PALESTINE",PALES| FALASTINI. TV
 http://yackcub.mexamo.xyz:80/3338826713/8323116234/14998
-#EXTINF:-1 tvg-id="palestinetv.sa" tvg-name="PALES| PALESTINE TV HD" tvg-logo="https://lo1.in/pal1/falastiniatv.png" group-title="AR | PALESTINE",PALES| PALESTINE TV HD
-http://yackcub.mexamo.xyz:80/3338826713/8323116234/15001
-#EXTINF:-1 tvg-id="" tvg-name="PALES| PALESTINE TODAY SD" tvg-logo="https://lo1.in/FCB/paltodav.png" group-title="AR | PALESTINE",PALES| PALESTINE TODAY SD
-http://yackcub.mexamo.xyz:80/3338826713/8323116234/15005
-#EXTINF:-1 tvg-id="" tvg-name="PALES| PALESTINE LIVE FHD" tvg-logo="https://lo1.in/FCB/pallive.png" group-title="AR | PALESTINE",PALES| PALESTINE LIVE FHD
-http://yackcub.mexamo.xyz:80/3338826713/8323116234/15002 
-#EXTINF:-1 tvg-id="" tvg-name="PALES| HEBRON.SAT TV SD" tvg-logo="https://lo1.in/FCB/herbonsat.png" group-title="AR | PALESTINE",PALES| HEBRON.SAT TV SD
-http://yackcub.mexamo.xyz:80/3338826713/8323116234/112340
 #EXTINF:-1 tvg-id="" tvg-name="PALES| AL SERAJ TV FHD" tvg-logo="https://lo1.in/pal1/alseraj.png" group-title="AR | PALESTINE",PALES| AL SERAJ TV FHD
 http://yackcub.mexamo.xyz:80/3338826713/8323116234/112379
 #EXTINF:-1 tvg-id="" tvg-name="PALES| ALKOFIYA SD" tvg-logo="https://lo1.in/pal1/alkofiya.png" group-title="AR | PALESTINE",PALES| ALKOFIYA SD
 http://yackcub.mexamo.xyz:80/3338826713/8323116234/112380 
+#EXTINF:-1 tvg-id="" tvg-name="PS: Al Aqsa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/74f3df9906c6d220123ba7d104484121.png" group-title="Palestine",PS: Al Aqsa
+http://xtv.ooo:8080/6725/6725/352522
+#EXTINF:-1 tvg-id="" tvg-name="PS: Al Fajer" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/610f9163ea40448054b9e66c58955227.jpg" group-title="Palestine",PS: Al Fajer
+http://xtv.ooo:8080/6725/6725/352523 
+#EXTINF:-1 tvg-id="" tvg-name="PS: Palestine Al Yawm" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/18e6c16cc8d73ad1cdb25d84a64830ba.png" group-title="Palestine",PS: Palestine Al Yawm
+http://xtv.ooo:8080/6725/6725/352535
+#EXTINF:-1 tvg-id="" tvg-name="PS: Palestine Mobasher" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/62ce6c930662a1cf2d9ba80138d96da0.png" group-title="Palestine",PS: Palestine Mobasher
+http://xtv.ooo:8080/6725/6725/352536 
+#EXTINF:-1 tvg-id="" tvg-name="PS: Al Quds Today TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/cb8275e29b74b744d21ce7708434f8f5.png" group-title="Palestine",PS: Al Quds Today TV
+http://xtv.ooo:8080/6725/6725/352529 
 
 #EXTINF:-1 tvg-id="" tvg-name="LEB| AL JADEED FHD" tvg-logo="https://lo1.in/leban1/aljadeed.png" group-title="AR | LEBANON",LEB| AL JADEED FHD
 http://yackcub.mexamo.xyz:80/3338826713/8323116234/15166
@@ -346,7 +376,28 @@ http://xtv.ooo:8080/6725/6725/355182
 http://xtv.ooo:8080/6725/6725/355183
 #EXTINF:-1 tvg-id="" tvg-name="YE: Al Saeedah" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7878c37e6951be08823674df803d925b.png" group-title="Yemen",YE: Al Saeedah
 http://xtv.ooo:8080/6725/6725/355184 
-
+#EXTINF:-1 tvg-id="" tvg-name="YE: Almasirah Mubasher" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/4195eaf2bf271f68605df92c8dc008f1.png" group-title="Yemen",YE: Almasirah Mubasher
+http://xtv.ooo:8080/6725/6725/355188
+#EXTINF:-1 tvg-id="" tvg-name="YE: AlMasirah TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/c7fd24721ada8ca96d6e5f9464dc7117.png" group-title="Yemen",YE: AlMasirah TV
+http://xtv.ooo:8080/6725/6725/355189
+#EXTINF:-1 tvg-id="" tvg-name="YE: Belqees TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/07918d1f1755f7ff83632eb8ec84cf31.png" group-title="Yemen",YE: Belqees TV
+http://xtv.ooo:8080/6725/6725/355190
+#EXTINF:-1 tvg-id="" tvg-name="YE: Hadramout" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/1fc2e47a89851f782b78b13bd69bb569.png" group-title="Yemen",YE: Hadramout
+http://xtv.ooo:8080/6725/6725/355191
+#EXTINF:-1 tvg-id="" tvg-name="YE: Sheba" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1792ead6e87f22e3f7517259bd7456db.png" group-title="Yemen",YE: Sheba
+http://xtv.ooo:8080/6725/6725/355192
+#EXTINF:-1 tvg-id="" tvg-name="YE: Suhail TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/82da0eddef239a502c5ec22e16f5ad95.png" group-title="Yemen",YE: Suhail TV
+http://xtv.ooo:8080/6725/6725/355193
+#EXTINF:-1 tvg-id="" tvg-name="YE: Yemen Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/175026646104b21590c2968e5c833bdf.png" group-title="Yemen",YE: Yemen Documentary
+http://xtv.ooo:8080/6725/6725/355194
+#EXTINF:-1 tvg-id="" tvg-name="YE: Yemen Education" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/26a390fe99ce7282aac85c0a41d677e0.png" group-title="Yemen",YE: Yemen Education
+http://xtv.ooo:8080/6725/6725/355195
+#EXTINF:-1 tvg-id="" tvg-name="YE: Yemen Shabab" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/24ee17d47a7db50c1dbeea34743fa398.png" group-title="Yemen",YE: Yemen Shabab
+http://xtv.ooo:8080/6725/6725/355196
+#EXTINF:-1 tvg-id="" tvg-name="YE: Yemen Today TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/8c36b216f74618332e44c97cc3f60c9c.png" group-title="Yemen",YE: Yemen Today TV
+http://xtv.ooo:8080/6725/6725/355197
+#EXTINF:-1 tvg-id="" tvg-name="YE: Yemen TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f9fc99a62ad17a325e8d0127fb787b0b.png" group-title="Yemen",YE: Yemen TV
+http://xtv.ooo:8080/6725/6725/355198 
 
 
 
