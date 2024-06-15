@@ -236,10 +236,6 @@ http://xtv.ooo:8080/6725/6725/351283
 
 #EXTINF:-1 tvg-id="" tvg-name="KU: NRT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/0d8fcba3e47b458d9b5d4474b99d447e.png" group-title="Kurdistan",KU: NRT
 http://xtv.ooo:8080/6725/6725/351764
-#EXTINF:-1 tvg-id="" tvg-name="KU: NRT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e26a81ca3b9ea405be60a259fb0319c2.png" group-title="Kurdistan",KU: NRT 2
-http://xtv.ooo:8080/6725/6725/351765
-#EXTINF:-1 tvg-id="" tvg-name="KU: NRT 3 Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9fb4550ba1d958ab120816ca21bcd3f7.png" group-title="Kurdistan",KU: NRT 3 Kids
-http://xtv.ooo:8080/6725/6725/351766
 #EXTINF:-1 tvg-id="" tvg-name="KU: NRT 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/49347f1f4cb7f850418eb7b3f6700ca1.png" group-title="Kurdistan",KU: NRT 4
 http://xtv.ooo:8080/6725/6725/351767
 #EXTINF:-1 tvg-id="" tvg-name="KU: Payam TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e60ff3851f8426226481028fe879c7cb.png" group-title="Kurdistan",KU: Payam TV
@@ -320,6 +316,10 @@ http://xtv.ooo:8080/6725/6725/349709
 
 #EXTINF:-1 tvg-id="" tvg-name="EG: Alhayah" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2fd46d9667f14278e41bd414634619a9.png" group-title="Egypt",EG: Alhayah
 http://xtv.ooo:8080/6725/6725/349704 
+#EXTINF:-1 tvg-id="" tvg-name="Eg| Al Masryia 鉁�" tvg-logo="" group-title="EGYPT",Eg| Al Masryia 鉁�
+http://starshare.live:8080/live/Sam123/Sam123/309184.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eg| Masir AL Oula HD 鉁�" tvg-logo="" group-title="EGYPT",Eg| Masir AL Oula HD 鉁�
+http://starshare.live:8080/live/Sam123/Sam123/309185.ts 
 #EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/73e470c9d252ce282882a8bff79f9c7d.png" group-title="Egypt",EG: ERTU 2
 http://xtv.ooo:8080/6725/6725/349724
 #EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 3 Al Kahera" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f4339cc3d6f44b487e602a1c21631f18.png" group-title="Egypt",EG: ERTU 3 Al Kahera
