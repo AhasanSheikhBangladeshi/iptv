@@ -140,7 +140,7 @@ http://bestsave.ltd:80/live/2233445566/6655443322/139967.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Yemen Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxGY7_yuYYzSh1-EAbphivlU-EFuxe3bO6jQ&usqp=CAU" group-title="General",Yemen TV
 http://4ksuper.live:80/Michael88/Michael88/815538
 #EXTINF:-1 tvg-id="OmanTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C7kfubs.png" group-title="General",Oman TV (1080p)
-https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b250000.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlraiTV-200x150.png" ,Al Rai 
 http://ghostiptv.vip:80/162CBD92F6CE/61e5b790aa649/49695
 #EXTINF:-1 tvg-id="92News.pk" tvg-name="92 News" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News (720p)
@@ -152,12 +152,12 @@ http://xtv.ooo:8080/6725/6725/353508
 #EXTINF:-1 tvg-name="Zad TV" tvg-logo="https://static10.tgstat.ru/channels/_0/bf/bfac19a765483d6c7a6200919a0aa76c.jpg"group-title="Relegious",Zad TV(96)
 http://xtream4.xyz:25461/vipcabelstream/voWknCmq3k/2725
 #EXTINF:-1 tvg-id="BahrainTV.bh" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="General",Bahrain TV (720p)
-http://1tv1.net:8080/live/Hasan2222/654321/66386.ts
+http://vipegor.top:8080/live/VIP0187168864034307/7ec37168ec60/6853.ts 
 #EXTINF:-1 tvg-id="" tvg-name="Iqra TV" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="Religious",BT- Iqra Tv
 http://line.tivi-one.net:80/live/RLHNCDE/N0iE82ur6Z/373089.ts
 #EXTINF:0 tvg-country="SA" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="None",Saudi TV 1
-https://live.kwikmotion.com:443/ksa1live/ksa1.smil/ksa1publish/ksa1_source/hdntl=exp=1710055674~acl=%2fksa1live%2fksa1.smil%2f*~data=hdntl~hmac=3afbb16874193f51508efd58458faf38f2a58c000c399ddca9f4b42b1f3e1dad/chunks_dvr.m3u8
-#EXTINF:-1 tvg-id=Madani Urdu tv.pk" tvg-name="Madani TV Urdu" tvg-country="PK" tvg-language="Urdu" tvg-logo= "/sfmr9yZmuhzXhviaQGKeOzaimebuid/1p3se+/QggfM31XtZQzBNlnHqfEYnOLUwNY2tY+pYTIBJTjVrjI3BDri7bC/6nPI1J3tfEHRpRbJeFY3R5owOqqQxlMwDiv8AFxOG49nG92uHTz91fI" group-title="Religious",Madani Channel Urdu
+https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index_29.m3u8 
+#EXTINF:-1 tvg-id=Madani Urdu tv.pk" tvg-name="Madani TV Urdu" tvg-country="PK" tvg-language="Urdu" tvg-logo= "/í" group-title="Religious",Madani Channel Urdu
 http://4ksuper.live/live/Michael88/Michael88/863792.ts
 #EXTINF:-1 tvg-logo="https://dawateislamimidlands.net/wp-content/uploads/2020/01/Madani-Channel-Section-1.png" group-title="Religious",Madani Channel English 
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
@@ -184,8 +184,7 @@ http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="None",TRT 1 (720p)
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",Al Fallujah Tv
-https://live-ak.vimeocdn.com/exp=1702298839~acl=%2Fcb1ce84c-2378-4f44-9737-942a360da277%2F%2A~hmac=1261a117c31a8933b20179174c6d48a10ec2d070270aacf5bab7b17fcd21edd4/cb1ce84c-2378-4f44-9737-942a360da277/hls.m3u8?min_seconds=30
-
+http://vipegor.top:8080/live/VIP0187168864034307/7ec37168ec60/6583.ts 
 #EXTINF:-1 tvg-id="IslamChannel.uk" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png" group-title="Religious",Islam Channel Urdu 
 https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg",Al Iraqiya News
@@ -195,7 +194,7 @@ http://62.171.146.44:8080/hls/alqudstv/alqudstv.m3u8?v=1778398403
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="None",Qatar TV
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="Pakistani",PTV World
-http://filex.tv:8080/live/999999999/999999999/246985.ts
+http://starshare.live:8080/live/Sam123/Sam123/111.ts 
 #EXTINF:-1 tvg-id="PTVHome.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/mJxpdBU.png" group-title="Pakistani",PTV Home (238p)
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/646763 
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/LyqGxwv.jpg" group-title="News",PTV News (1080p) [Not 24/7]
