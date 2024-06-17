@@ -220,7 +220,7 @@ https://tv-trtarabi.live.trt.com.tr:443/master_720.m3u8
 #EXTINF:0 tvg-id="" group-title="ARAB",Yemen Shabab [100]
 http://xtv.ooo:8080/live/1295/1295/355196.ts
 #EXTINF: group-title="ARAB" tvg-id="SuhailTV.ye" tvg-name="Suhail TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtJwlD-ms5DKPuh6PAu45IK9_H5-vN-oPpxg&usqp=CAU" group-tile="Relegious",Suhail TV
-http://82.212.74.98:8000/live/7726.m3u8
+http://xtv.ooo:8080/19934509/13264089/355193 
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id= "Karbala Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Relegious",Karbala Tv Channel
