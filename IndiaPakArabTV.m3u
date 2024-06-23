@@ -292,6 +292,17 @@ http://xtv.ooo:8080/19934509/13264089/351281
 #EXTINF:-1 tvg-id="" tvg-name="IQ: Samarra TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1638ada83babfcd52ced2f51748b5930.png" group-title="Iraq",IQ: Samarra TV
 http://xtv.ooo:8080/19934509/13264089/351286 
 
+#EXTINF:-1 tvg-id="" tvg-name="AR: SUDAN ASHOROOQ" tvg-logo="https://docdog.top/logo/countries/arab/SUDANASHOROOQ.jpg" group-title="ARAB VIP",AR: SUDAN ASHOROOQ
+http://vipegor.top:8080/VIP0187168864034307/7ec37168ec60/6859
+#EXTINF:-1 tvg-id="" tvg-name="AR: SUDAN KHARTUM" tvg-logo="https://docdog.top/logo/countries/arab/SUDANKHARTUM.jpg" group-title="ARAB VIP",AR: SUDAN KHARTUM
+http://vipegor.top:8080/VIP0187168864034307/7ec37168ec60/6860
+#EXTINF:-1 tvg-id="" tvg-name="AR: SUDAN KNOWLEDGE" tvg-logo="https://docdog.top/logo/countries/arab/sudanknowledge.png" group-title="ARAB VIP",AR: SUDAN KNOWLEDGE
+http://vipegor.top:8080/VIP0187168864034307/7ec37168ec60/6861
+#EXTINF:-1 tvg-id="" tvg-name="AR: SUDAN SPORT" tvg-logo="https://docdog.top/logo/countries/arab/sudansport.png" group-title="ARAB VIP",AR: SUDAN SPORT
+http://vipegor.top:8080/VIP0187168864034307/7ec37168ec60/6862
+#EXTINF:-1 tvg-id="" tvg-name="AR: SUDAN TV" tvg-logo="https://docdog.top/logo/countries/arab/sudantv.png" group-title="ARAB VIP",AR: SUDAN TV
+http://vipegor.top:8080/VIP0187168864034307/7ec37168ec60/6863 
+
 #EXTINF:-1 tvg-id="" tvg-name="KW: Al Sabah" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/c5390652a144988f878696d111c735df.png" group-title="Kuwait",KW: Al Sabah
 http://xtv.ooo:8080/19934509/13264089/351782
 #EXTINF:-1 tvg-id="" tvg-name="KW: Al Shahed" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/061f7a0ce2c5aed1ac7f6cfdfb7b13f2.png" group-title="Kuwait",KW: Al Shahed
@@ -377,7 +388,10 @@ http://xtv.ooo:8080/19934509/13264089/355196
 http://xtv.ooo:8080/19934509/13264089/355197
 #EXTINF:-1 tvg-id="" tvg-name="YE: Yemen TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f9fc99a62ad17a325e8d0127fb787b0b.png" group-title="Yemen",YE: Yemen TV
 http://xtv.ooo:8080/19934509/13264089/355198 
-
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN TODAY" tvg-logo="https://docdog.top/logo/countries/arab/yementoday.png" group-title="ARAB VIP",AR: YEMEN TODAY
+http://vipegor.top:8080/VIP0187168864034307/7ec37168ec60/6868
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN TV" tvg-logo="https://docdog.top/logo/countries/arab/yementv.png" group-title="ARAB VIP",AR: YEMEN TV
+http://vipegor.top:8080/VIP0187168864034307/7ec37168ec60/6869 
 
 #EXTINF:-1 tvg-id="" tvg-name="SA: Rotana+" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/8a1cd94c6d8d7e268b9f146d3da85808.png" group-title="Saudi Arabia",SA: Rotana+
 http://xtv.ooo:8080/19934509/13264089/353558
@@ -478,6 +492,7 @@ http://xtv.ooo:8080/19934509/13264089/349755
 http://xtv.ooo:8080/19934509/13264089/349756
 #EXTINF:-1 tvg-id="" tvg-name="EG: Nile TV International" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5f831538760e459249d2ec574295de18.png" group-title="Egypt",EG: Nile TV International
 http://xtv.ooo:8080/19934509/13264089/349757 
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PALES| AWDEH TV HD" tvg-logo="https://lo1.in/FCB/awdeh.png" group-title="AR | PALESTINE",PALES| AWDEH TV HD
