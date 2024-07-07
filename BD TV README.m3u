@@ -302,7 +302,7 @@ https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope_576p.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV1.iq",Imam Hussein TV 1 (1080p) [Not 24/7]
 https://live.imamhossaintv.com/live/ih1.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV2.iq",Imam Hussein TV 2 (1080p) [Not 24/7]
-https://live.imamhossaintv.com/live/ih2.m3u8
+http://xtv.ooo:8080/live/98374656/73654782/351270.ts
 #EXTINF:-1 tvg-id="ImamHusseinTV3.iq",Imam Hussein TV 3 (1080p) [Not 24/7]
 http://xtv.ooo:8080/live/19934509/13264089/6.ts 
 #EXTINF:-1 tvg-id="ImamHusseinTV4.iq",Imam Hussein TV 4 (1080p) [Not 24/7]
