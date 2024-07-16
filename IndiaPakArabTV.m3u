@@ -80,56 +80,71 @@ http://xtv.ooo:8080/19934509/13264089/25991
 #EXTINF:-1 tvg-id="" tvg-name="PK: Khyber Middle East TV*" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: Khyber Middle East TV*
 http://xtv.ooo:8080/19934509/13264089/110051 
 
+#EXTINF:-1 tvg-id="" tvg-name="1 TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/dc5dcc0dc734c63ab0460eaa9d177467.png" group-title="Afghanistan",1 TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/18183
+#EXTINF:-1 tvg-id="" tvg-name="Afghan Javan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/760e1366daa96ee520d6d9c64781a7af.jpeg" group-title="Afghanistan",Afghan Javan
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/276206
+#EXTINF:-1 tvg-id="" tvg-name="Afghan Time" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/2f6e4028202ff967dbbc69145101f848.jpeg" group-title="Afghanistan",Afghan Time
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/196435
+#EXTINF:-1 tvg-id="" tvg-name="Afghanistan International" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/2baace0f27a0393c415a09c0b1634240.png" group-title="Afghanistan",Afghanistan International
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/296838
+#EXTINF:-1 tvg-id="" tvg-name="Afghanistan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/56ee38d81e7627ae3b2b015f8f259f15.png" group-title="Afghanistan",Afghanistan TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/163995
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/0c358d0d3e0d28c5eb9205a57ae44918.png" group-title="Afghanistan",AMC
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/66385
+#EXTINF:-1 tvg-id="" tvg-name="Arezo TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/66c74090d67ea4254ca0cd0a3a05f69c.png" group-title="Afghanistan",Arezo TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/5499
+#EXTINF:-1 tvg-id="" tvg-name="Ariana TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/873721cdaec9640667fd6dceb409d5e9.jpeg" group-title="Afghanistan",Ariana TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/285853
+#EXTINF:-1 tvg-id="" tvg-name="ATN International" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/d53f8f2324aa5732aa7a53dbe9c3483e.jpeg" group-title="Afghanistan",ATN International
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/296645
+#EXTINF:-1 tvg-id="" tvg-name="ATN Jahani" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/6fff0ce686aa45a5a4f9d0119dea1218.jpeg" group-title="Afghanistan",ATN Jahani
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/296646
+#EXTINF:-1 tvg-id="" tvg-name="ATN Jahani News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/ab5ae688accf9c624dbf21c18c0bded8.jpeg" group-title="Afghanistan",ATN Jahani News
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/296647
+#EXTINF:-1 tvg-id="" tvg-name="ATN News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/283aaffd8c2493332ce4993d67d1f777.png" group-title="Afghanistan",ATN News
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/54314
+#EXTINF:-1 tvg-id="" tvg-name="Bahar TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/17a041ac94cb6c88fb37d6d69157f69d.jpeg" group-title="Afghanistan",Bahar TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/66170
+#EXTINF:-1 tvg-id="" tvg-name="Dunya Naw" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6e12444d15a34879861b8f8137b351f5.png" group-title="Afghanistan",Dunya Naw
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/272812
+#EXTINF:-1 tvg-id="" tvg-name="Eslah TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/97d474f93900f54d9ec942a93959389b.png" group-title="Afghanistan",Eslah TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/302402
+#EXTINF:-1 tvg-id="" tvg-name="Hasti TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/57a4e4fe517cbbfd7cb2f0de48a61b14.png" group-title="Afghanistan",Hasti TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/287454
+#EXTINF:-1 tvg-id="" tvg-name="Lemar TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/711fca337a94cd8f8425c4abbedfb024.png" group-title="Afghanistan",Lemar TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/66177
+#EXTINF:-1 tvg-id="" tvg-name="Noor TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/be7f8c118f28cf61967beb31b50e8277.png" group-title="Afghanistan",Noor TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/66178
+#EXTINF:-1 tvg-id="" tvg-name="Payam e Afghan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/0689306db7d682c676c3e9122c379b2e.png" group-title="Afghanistan",Payam e Afghan TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/66174
+#EXTINF:-1 tvg-id="" tvg-name="RTA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/756998d4b81dea6801549ef6a41f2aca.png" group-title="Afghanistan",RTA
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/300674
+#EXTINF:-1 tvg-id="" tvg-name="RTA Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/a0d00b163fb3c77ae033d10950b00b33.png" group-title="Afghanistan",RTA Sport
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/66167
+#EXTINF:-1 tvg-id="" tvg-name="Sada e Haq" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Afghanistan",Sada e Haq
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/302404
+#EXTINF:-1 tvg-id="" tvg-name="Shamshad TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/9081d478591cb14771362d43e50261fc.png" group-title="Afghanistan",Shamshad TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/159104
+#EXTINF:-1 tvg-id="" tvg-name="Sharq" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/20384a111800db4837b4db10ba703c45.png" group-title="Afghanistan",Sharq
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/302405
+#EXTINF:-1 tvg-id="" tvg-name="Sohail TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Afghanistan",Sohail TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/302406
+#EXTINF:-1 tvg-id="" tvg-name="Solh TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/f8e187f8e2851c68c864dbfa9ccdec14.png" group-title="Afghanistan",Solh TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/285857
+#EXTINF:-1 tvg-id="" tvg-name="Tamadon TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/8cf8b9760f816f71691f35976975ef32.png" group-title="Afghanistan",Tamadon TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/54330
+#EXTINF:-1 tvg-id="" tvg-name="Tolo News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/23f0ab14266f28f991faa05114aeea5c.png" group-title="Afghanistan",Tolo News
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/66181
+#EXTINF:-1 tvg-id="" tvg-name="Tolo TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/293d47a335824c7b8bb06dbf77762625.png" group-title="Afghanistan",Tolo TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/66165
+#EXTINF:-1 tvg-id="" tvg-name="IRIB Sahar Afghan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/22c7bde0e802485e1708847bbb053256.png" group-title="Iran",IRIB Sahar Afghan
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/299616
+#EXTINF:-1 tvg-id="" tvg-name="IRIB Sahar Kurdi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/88537a6f6a1ac66d8914fb1506165f71.png" group-title="Iran",IRIB Sahar Kurdi
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/14710
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AFG: 1 TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dc5dcc0dc734c63ab0460eaa9d177467.png" group-title="Afghanistan",AFG: 1 TV
-http://xtv.ooo:8080/19934509/13264089/347388
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Afghan Javan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/760e1366daa96ee520d6d9c64781a7af.jpeg" group-title="Afghanistan",AFG: Afghan Javan
-http://xtv.ooo:8080/19934509/13264089/347389
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Afghan Time" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2f6e4028202ff967dbbc69145101f848.jpeg" group-title="Afghanistan",AFG: Afghan Time
-http://xtv.ooo:8080/19934509/13264089/347390
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Afghanistan International" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/2baace0f27a0393c415a09c0b1634240.png" group-title="Afghanistan",AFG: Afghanistan International
-http://xtv.ooo:8080/19934509/13264089/347391
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Afghanistan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/56ee38d81e7627ae3b2b015f8f259f15.png" group-title="Afghanistan",AFG: Afghanistan TV
-http://xtv.ooo:8080/19934509/13264089/347392
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Arezo TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-09/66c74090d67ea4254ca0cd0a3a05f69c.png" group-title="Afghanistan",AFG: Arezo TV
-http://xtv.ooo:8080/19934509/13264089/347393 
-#EXTINF:-1 tvg-id="" tvg-name="AFG: ATN International" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/d53f8f2324aa5732aa7a53dbe9c3483e.jpeg" group-title="Afghanistan",AFG: ATN International
-http://xtv.ooo:8080/19934509/13264089/347395
-#EXTINF:-1 tvg-id="" tvg-name="AFG: ATN Jahani" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/6fff0ce686aa45a5a4f9d0119dea1218.jpeg" group-title="Afghanistan",AFG: ATN Jahani
-http://xtv.ooo:8080/19934509/13264089/347396
-#EXTINF:-1 tvg-id="" tvg-name="AFG: ATN Jahani News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/ab5ae688accf9c624dbf21c18c0bded8.jpeg" group-title="Afghanistan",AFG: ATN Jahani News
-http://xtv.ooo:8080/19934509/13264089/347397
-#EXTINF:-1 tvg-id="" tvg-name="AFG: ATN News" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/283aaffd8c2493332ce4993d67d1f777.png" group-title="Afghanistan",AFG: ATN News
-http://xtv.ooo:8080/19934509/13264089/347398
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Dunya Naw" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6e12444d15a34879861b8f8137b351f5.png" group-title="Afghanistan",AFG: Dunya Naw
-http://xtv.ooo:8080/19934509/13264089/347401
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Hasti TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/57a4e4fe517cbbfd7cb2f0de48a61b14.png" group-title="Afghanistan",AFG: Hasti TV
-http://xtv.ooo:8080/19934509/13264089/347402 
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Tolo News" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/23f0ab14266f28f991faa05114aeea5c.png" group-title="Afghanistan",AFG: Tolo News
-http://xtv.ooo:8080/19934509/13264089/347413
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Tolo TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/293d47a335824c7b8bb06dbf77762625.png" group-title="Afghanistan",AFG: Tolo TV
-http://xtv.ooo:8080/19934509/13264089/347414 
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Lemar TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/711fca337a94cd8f8425c4abbedfb024.png" group-title="Afghanistan",AFG: Lemar TV
-http://xtv.ooo:8080/19934509/13264089/347405
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Noor TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/be7f8c118f28cf61967beb31b50e8277.png" group-title="Afghanistan",AFG: Noor TV
-http://xtv.ooo:8080/19934509/13264089/347406 
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Payam e Afghan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/0689306db7d682c676c3e9122c379b2e.png" group-title="Afghanistan",AFG: Payam e Afghan TV
-http://xtv.ooo:8080/19934509/13264089/347408
-#EXTINF:-1 tvg-id="" tvg-name="AFG: RTA Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/a0d00b163fb3c77ae033d10950b00b33.png" group-title="Afghanistan",AFG: RTA Sport
-http://xtv.ooo:8080/19934509/13264089/347409
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Shamshad TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/9081d478591cb14771362d43e50261fc.png" group-title="Afghanistan",AFG: Shamshad TV
-http://xtv.ooo:8080/19934509/13264089/347410
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Solh TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f8e187f8e2851c68c864dbfa9ccdec14.png" group-title="Afghanistan",AFG: Solh TV
-http://xtv.ooo:8080/19934509/13264089/347411
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Tamadon TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/8cf8b9760f816f71691f35976975ef32.png" group-title="Afghanistan",AFG: Tamadon TV
-http://xtv.ooo:8080/19934509/13264089/347412
 
-
-
-
-#EXTINF:-1, MDV| RAAJJE TV
-https://stream.raajje.mv/live/rtv_live/index.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="IR: 4U TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ff126c63318c9b5aa529bc8fb1337c7d.jpeg" group-title="Iran",IR: 4U TV
 http://xtv.ooo:8080/19934509/13264089/351065
