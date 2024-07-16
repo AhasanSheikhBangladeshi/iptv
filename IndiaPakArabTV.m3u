@@ -1,84 +1,92 @@
-#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK | 92 News HD" tvg-logo="https://static.epg.best/pk/92News.pk.png" group-title="PAKISTAN | NEWS",PK | 92 News HD
-http://xtv.ooo:8080/98374656/73654782/25996
-#EXTINF:-1 tvg-id="dunyanews.pk" tvg-name="PK | Dunya News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Dunya_News.jpg/220px-Dunya_News.jpg" group-title="PAKISTAN | NEWS",PK | Dunya News
-http://xtv.ooo:8080/98374656/73654782/221346
-#EXTINF:-1 tvg-id="samaatv.pk" tvg-name="PK | Samaa News" tvg-logo="https://www.samaa.tv/assets/images/logo.png" group-title="PAKISTAN | NEWS",PK | Samaa News
-http://xtv.ooo:8080/98374656/73654782/26036
-#EXTINF:-1 tvg-id="" tvg-name="PK | Bol News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAKISTAN | NEWS",PK | Bol News HD
-http://xtv.ooo:8080/98374656/73654782/26046
+#EXTINF:-1 tvg-id="" tvg-name="24 News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/2784e698b08c700d015e45f9451139d3.png" group-title="Pakistan",24 News
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1403
+#EXTINF:-1 tvg-id="" tvg-name="8XM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/e6f3b2e8848c942ed7b6922458ac526c.png" group-title="Pakistan",8XM
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/82577
+#EXTINF:-1 tvg-id="" tvg-name="92 News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8c7642ee5f1bff74f7ef7cf11a91804f.png" group-title="Pakistan",92 News
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1402
+#EXTINF:-1 tvg-id="" tvg-name="A Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/912dc05b4b95d6871408a39785b51153.png" group-title="Pakistan",A Plus
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/49504
+#EXTINF:-1 tvg-id="" tvg-name="A Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/36b1e05b6eb2eb6025d277c5cd42bdbd.png" group-title="Pakistan",A Sports
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/295025
+#EXTINF:-1 tvg-id="" tvg-name="Aaj Entertainment" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/d8c045c6f065415dde31229814dd0fc3.png" group-title="Pakistan",Aaj Entertainment
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/19748
+#EXTINF:-1 tvg-id="" tvg-name="Aaj News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/da6a7f07d5c8042d61ff68cd563b9f36.png" group-title="Pakistan",Aaj News
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1401
+#EXTINF:-1 tvg-id="" tvg-name="Abb Takk" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f4fa10504b42565dbbfb8481083dcd28.png" group-title="Pakistan",Abb Takk
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1400
+#EXTINF:-1 tvg-id="" tvg-name="Apna Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/28e018fd4d552df08ec2fdedf95ef371.png" group-title="Pakistan",Apna Channel
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/76824
+#EXTINF:-1 tvg-id="" tvg-name="ARY Digital Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2d27d94c52ba8582d44f28e432b247a7.png" group-title="Pakistan",ARY Digital Asia
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/49510
+#EXTINF:-1 tvg-id="" tvg-name="ARY Musik" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/d18130aa35a5fd9268036bb616434f08.png" group-title="Pakistan",ARY Musik
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1398
+#EXTINF:-1 tvg-id="" tvg-name="ARY News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2d94f24f75bcd4e821e06763ef40df4b.png" group-title="Pakistan",ARY News
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1397
+#EXTINF:-1 tvg-id="" tvg-name="ARY QTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f2c6cb81b334f8db7553a31898c2f805.png" group-title="Pakistan",ARY QTV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/5058
+#EXTINF:-1 tvg-id="" tvg-name="ARY World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/972554866b9f8c529d745edfbe6fc126.png" group-title="Pakistan",ARY World
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/49494
+#EXTINF:-1 tvg-id="" tvg-name="ARY Zindagi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/749a6cd42037ca49f25e52a19674ff91.png" group-title="Pakistan",ARY Zindagi
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1396
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/8c946359a511627ccfb059aa926b7968.png" group-title="Pakistan",ATV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/34630
+#EXTINF:-1 tvg-id="" tvg-name="AVT Khyber" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/5b8f5294a524075272c1e7731a671c12.png" group-title="Pakistan",AVT Khyber
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/287724
+#EXTINF:-1 tvg-id="" tvg-name="Bol Entertainment" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/43be06ebbb83abd068c037bcc153e12f.png" group-title="Pakistan",Bol Entertainment
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/49517
+#EXTINF:-1 tvg-id="" tvg-name="Bol News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/e9262fd88e9abeaf2d27dfc4eb53cf23.png" group-title="Pakistan",Bol News
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1395
+#EXTINF:-1 tvg-id="" tvg-name="Dawn News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2e7f3826c02449dc39f5ec49ae7bc1ff.png" group-title="Pakistan",Dawn News
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/5056
+#EXTINF:-1 tvg-id="" tvg-name="Dunya News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d78b39134a3a3170841217e8d9739a84.png" group-title="Pakistan",Dunya News
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1393
+#EXTINF:-1 tvg-id="" tvg-name="Express Entertainment" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/abac504cbfc0e17c0b493bfd48d04a1b.png" group-title="Pakistan",Express Entertainment
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/147052
+#EXTINF:-1 tvg-id="" tvg-name="Express News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/267670c59ccc39f360ec48cde522a0a2.png" group-title="Pakistan",Express News
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/5105
+#EXTINF:-1 tvg-id="" tvg-name="Geo Kahani" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/4e7d31bfcc1d8ee9aa95879b17306cfc.png" group-title="Pakistan",Geo Kahani
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1392
+#EXTINF:-1 tvg-id="" tvg-name="Geo News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/9a21f99d0019f7e349e2fd3ac1f397b6.svg" group-title="Pakistan",Geo News
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1391
+#EXTINF:-1 tvg-id="" tvg-name="Geo Super" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8fc3ed0f78a462a883ae67543a5e741d.png" group-title="Pakistan",Geo Super
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/16626
+#EXTINF:-1 tvg-id="" tvg-name="Geo Tez" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/c11063cd06d1f0b71837c4f5d01b251e.png" group-title="Pakistan",Geo Tez
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/5106
+#EXTINF:-1 tvg-id="" tvg-name="Geo TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2eb9d058ec2fe617306e030eec31e7b6.png" group-title="Pakistan",Geo TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1389
+#EXTINF:-1 tvg-id="" tvg-name="Gourmet News Network (GNN)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/27057984f34c31d869ffd2c13cb49c18.png" group-title="Pakistan",Gourmet News Network (GNN)
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/297566
+#EXTINF:-1 tvg-id="" tvg-name="Hum News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8ef0b7dccf80d94601a5423f93341401.png" group-title="Pakistan",Hum News
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/49493
 #EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | Hum News HD" tvg-logo="" group-title="PAKISTAN | NEWS",PK | Hum News HD
 http://xtv.ooo:8080/98374656/73654782/26018
-#EXTINF:-1 tvg-id="geonews.pk" tvg-name="PK | GEO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/150px-GEO_News_logo_in_Urdu.png" group-title="PAKISTAN | NEWS",PK | GEO NEWS
-http://xtv.ooo:8080/98374656/73654782/221343
-#EXTINF:-1 tvg-id="geonews.pk" tvg-name="PK | GEO NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/150px-GEO_News_logo_in_Urdu.png" group-title="PAKISTAN | NEWS",PK | GEO NEWS HD
-http://xtv.ooo:8080/98374656/73654782/25976
-#EXTINF:-1 tvg-id="arynews.eg" tvg-name="PK | ARY News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="PAKISTAN | NEWS",PK | ARY News
-http://xtv.ooo:8080/98374656/73654782/221344
-#EXTINF:-1 tvg-id="expressnews.pk" tvg-name="PK | Express news" tvg-logo="https://seeklogo.com/images/E/express-news-logo-548646E4CD-seeklogo.com.png" group-title="PAKISTAN | NEWS",PK | Express news
-http://xtv.ooo:8080/98374656/73654782/26011
-#EXTINF:-1 tvg-id="arynews.eg" tvg-name="PK | ARY News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="PAKISTAN | NEWS",PK | ARY News HD
-http://xtv.ooo:8080/98374656/73654782/25980
+#EXTINF:-1 tvg-id="" tvg-name="Madani Channel English" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/a045aed87e3fc3e408f561135e293b51.png" group-title="Pakistan",Madani Channel English
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/299481
+#EXTINF:-1 tvg-id="" tvg-name="Madani Channel Urdu" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/ef22c763986589c97d064cae84b2a96b.png" group-title="Pakistan",Madani Channel Urdu
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/121144
+#EXTINF:-1 tvg-id="" tvg-name="Minhaj" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/30ebf2ffcecc07f7cd99d2d369b2ddae.png" group-title="Pakistan",Minhaj
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/196573
+#EXTINF:-1 tvg-id="" tvg-name="PTV Global" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/e205737960a7cd29bccde316e68bf53d.png" group-title="Pakistan",PTV Global
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1382
+#EXTINF:-1 tvg-id="" tvg-name="PTV Home" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/1ef8d1328adcfa5baed66b00105db187.png" group-title="Pakistan",PTV Home
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1381
+#EXTINF:-1 tvg-id="" tvg-name="PTV News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dc8896029d319c9306da49af37badbcf.png" group-title="Pakistan",PTV News
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1380
+#EXTINF:-1 tvg-id="" tvg-name="PTV Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7990c9248d459185d9b92ea4665bad06.png" group-title="Pakistan",PTV Sports
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/16633
+#EXTINF:-1 tvg-id="" tvg-name="PTV World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5515bc09a823ba183bbed530ff34230d.png" group-title="Pakistan",PTV World
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1379
+#EXTINF:-1 tvg-id="" tvg-name="Public News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/2779c824a34ba42adf23892d752bbb81.png" group-title="Pakistan",Public News
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/49522
+#EXTINF:-1 tvg-id="" tvg-name="Samaa TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/1fe0be4363a406398d01ff85f5f9f62c.svg" group-title="Pakistan",Samaa TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/1377
+#EXTINF:-1 tvg-id="" tvg-name="See TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/8e8f14482a549144409ad1000ad97194.png" group-title="Pakistan",See TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/193652
+#EXTINF:-1 tvg-id="" tvg-name="Sindh TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-01/7205ce49213805fd9e3dd47561bd23c8.png" group-title="Pakistan",Sindh TV
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/197309
+#EXTINF:-1 tvg-id="" tvg-name="Such News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/33ad229e660f2fdc074a45151d775e3a.png" group-title="Pakistan",Such News
+http://iptvtree.net:8080/Isidorchait/ea940f8fd1/197116
 
-#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK | ARY DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY DIGITAL
-http://xtv.ooo:8080/98374656/73654782/221337
-#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK | ARY DIGITAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY DIGITAL HD
-http://xtv.ooo:8080/98374656/73654782/25989
-#EXTINF:-1 tvg-id="aryzindagi.pk" tvg-name="PK | ARY ZINDAGI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY ZINDAGI
-http://xtv.ooo:8080/98374656/73654782/25990
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY Family" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/12/ARY-Family.png" group-title="PAKISTAN | ENTERTAINMENT",PK: ARY Family
-http://xtv.ooo:8080/98374656/73654782/103673
-#EXTINF:-1 tvg-id="geotv.pk" tvg-name="PK | GEO ENTERMENT" tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | GEO ENTERMENT
-http://xtv.ooo:8080/98374656/73654782/221338
-#EXTINF:-1 tvg-id="geotv.pk" tvg-name="PK | GEO ENTERMENT HD" tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | GEO ENTERMENT HD
-http://xtv.ooo:8080/98374656/73654782/25977
-#EXTINF:-1 tvg-id="geokahani.pk" tvg-name="PK | GEO KAHANI HD" tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | GEO KAHANI HD
-http://xtv.ooo:8080/98374656/73654782/221341
-#EXTINF:-1 tvg-id="urdu1.pk" tvg-name="PK | Urdu 1" tvg-logo="http://pm1.narvii.com/6639/b6b2cb046acee550b1fab849ab8d841bf19c4030_00.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK | Urdu 1
-http://xtv.ooo:8080/98374656/73654782/221340
-#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | HUM TV HD
-http://xtv.ooo:8080/98374656/73654782/221339
-#EXTINF:-1 tvg-id="" tvg-name="MADNI TV" tvg-logo="" group-title=" ISLAMIC",MADNI TV
-http://xtv.ooo:8080/98374656/73654782/2
-#EXTINF:-1 tvg-id="aryqtv.pk" tvg-name="ARY QTV" tvg-logo="" group-title=" ISLAMIC",ARY QTV
-http://xtv.ooo:8080/98374656/73654782/3
-#EXTINF:-1 tvg-id="" tvg-name="PAIGHAM URDU" tvg-logo="" group-title=" ISLAMIC",PAIGHAM URDU
-http://xtv.ooo:8080/98374656/73654782/8
-#EXTINF:-1 tvg-id="" tvg-name="PK | Paigam Pushto" tvg-logo="" group-title=" ISLAMIC",PK | Paigam Pushto
-http://xtv.ooo:8080/98374656/73654782/103644
-#EXTINF:-1 tvg-id="" tvg-name="Al Majd Quran" tvg-logo="http://starsat123.com:8080/images/e70611883d2760c8bbafb4acb29e3446.png" group-title=" ISLAMIC",Al Majd Quran
-http://xtv.ooo:8080/98374656/73654782/103657
-#EXTINF:-1 tvg-id="" tvg-name="PK: Raham Tv" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" ISLAMIC",PK: Raham Tv
-http://xtv.ooo:8080/98374656/73654782/103658
-#EXTINF:-1 tvg-id="" tvg-name="IQRA Bangla TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" ISLAMIC",IQRA Bangla TV
-http://xtv.ooo:8080/98374656/73654782/103661
-#EXTINF:-1 tvg-id="" tvg-name="PK: BARKAT TV" tvg-logo="" group-title=" ISLAMIC",PK: BARKAT TV
-http://xtv.ooo:8080/98374656/73654782/110046
-#EXTINF:-1 tvg-id="" tvg-name="PEACE TV URDU" tvg-logo="" group-title=" ISLAMIC",PEACE TV URDU
-http://xtv.ooo:8080/98374656/73654782/11
-#EXTINF:-1 tvg-id="" tvg-name="PK: NOOR TV" tvg-logo="" group-title=" ISLAMIC",PK: NOOR TV
-http://xtv.ooo:8080/98374656/73654782/92
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Mun TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Mun-TV.png" group-title="PK | Entertainment",PK | Mun TV FHD
-http://b1g.uk:80/Francisco/Francisco/176068
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Green Ent HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Green-Entertainment.png" group-title="PK | Entertainment",PK | Green Ent HD
-http://b1g.uk:80/Francisco/Francisco/76687
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Aan TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/10/Aan-TV.png" group-title="PK | Entertainment",PK | Aan TV FHD
-http://b1g.uk:80/Francisco/Francisco/201026
-
-#EXTINF:-1 tvg-id="" tvg-name="PK: PTV HOME" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV HOME
-http://xtv.ooo:8080/19934509/13264089/221342
-#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PK: PTV HOME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV HOME HD
-http://xtv.ooo:8080/19934509/13264089/103703 
-#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="PK | PTV GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/PTV_Global_logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK | PTV GLOBAL
-http://xtv.ooo:8080/19934509/13264089/25994 
-#EXTINF:-1 tvg-id="" tvg-name="PK: PTV NATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV NATIONAL
-http://xtv.ooo:8080/19934509/13264089/110050
-#EXTINF:-1 tvg-id="" tvg-name="PK | PTV NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png" group-title="PAKISTAN | NEWS",PK | PTV NEWS
-http://xtv.ooo:8080/19934509/13264089/25988
-#EXTINF:-1 tvg-id="" tvg-name="PK | GNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/GNN_News_logo.png" group-title="PAKISTAN | NEWS",PK | GNN HD
-http://xtv.ooo:8080/19934509/13264089/25991 
-#EXTINF:-1 tvg-id="" tvg-name="PK: Khyber Middle East TV*" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: Khyber Middle East TV*
-http://xtv.ooo:8080/19934509/13264089/110051 
 
 #EXTINF:-1 tvg-id="" tvg-name="1 TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/dc5dcc0dc734c63ab0460eaa9d177467.png" group-title="Afghanistan",1 TV
 http://iptvtree.net:8080/Isidorchait/ea940f8fd1/18183
