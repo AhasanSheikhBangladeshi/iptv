@@ -18,14 +18,14 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="General",BTV Sangsad
 http://103.106.2.152:13456/sangsad.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Bangladeshi",Jamuna TV
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/69353
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Bangladeshi",Channel 24
-http://xtream.efiberbd.net:8080/live/mkaua/stream/51.m3u8
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/69341
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla",ATN Bangla (BDIX0)
-http://xtv.ooo:8080/6725/6725/245909 
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/298392 
 #EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangladeshi",Somoy News
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/69359
 #EXTINF:0 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="Bangladeshi",DBC News
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="Bangladeshi",Maasranga TV
@@ -46,7 +46,7 @@ http://xtream.efiberbd.net:8080/live/mkaua/stream/47.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="Bangladeshi",Ekushey TV
 https://tvs1.aynaott.com/etv/tracks-v1a1/mono.m3u8?token=f6df205e2080bfbfca9c31c16860ab651b7af5bf-n9KoACwcc8bdt6pN-
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/108.jpg" group-title="Bangla",ATN News (BDIX0)
-http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/69342
 #EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="Bangladeshi",Mohona Tv
 https://tvs1.aynaott.com/mohonatv/tracks-v1a1/mono.m3u8?token=d184aa7ede0423ffd555535e44bbbd026baa91aa-UazY2IOwPcjG7MsN-
 #EXTINF:0 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="Bangladeshi",SATV
