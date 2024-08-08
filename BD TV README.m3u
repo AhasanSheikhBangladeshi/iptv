@@ -18,7 +18,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="General",BTV Sangsad
 http://103.106.2.152:13456/sangsad.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Bangladeshi",Jamuna TV
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/69353
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=tRyQLeUjenbSRnvJuM-vew&expires=1723330013&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Bangladeshi",Channel 24
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/69341
