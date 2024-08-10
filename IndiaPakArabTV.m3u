@@ -150,70 +150,62 @@ http://iptvtree.net:8080/Isidorchait/ea940f8fd1/66165
 http://iptvtree.net:8080/Isidorchait/ea940f8fd1/299616
 #EXTINF:-1 tvg-id="" tvg-name="IRIB Sahar Kurdi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/88537a6f6a1ac66d8914fb1506165f71.png" group-title="Iran",IRIB Sahar Kurdi
 http://iptvtree.net:8080/Isidorchait/ea940f8fd1/14710
+#EXTINF:-1,IR: IRIB 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/5492
+#EXTINF:-1,IR: IRIB 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/5387
+#EXTINF:-1,IR: IRIB 3
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/5386
+#EXTINF:-1,IR: IRIB 3 satellite
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/296739
+#EXTINF:-1,IR: IRIB 4
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/56814
+#EXTINF:-1,IR: IRIB 5
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/56817
+EXTINF:-1,IR: IRIB Jamejam 1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/5443
+#EXTINF:-1,IR: IRIB Jamejam 2
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/296427
+#EXTINF:-1,IR: IRIB Jamejam 3
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/296428
+#EXTINF:-1,IR: IRIB Labbayk
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/296704
+#EXTINF:-1,IR: IRIB Mostanad
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/296418
+EXTINF:-1,IR: IRIB Varzesh TV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/5381
+EXTINF:-1,IR: IRIB Esfahan
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/296253
+#EXTINF:-1,IR: IRIB Eshragh
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/296449
+#EXTINF:-1,IR: IRIB Fars
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/296452
+#EXTINF:-1,IR: IRIB Kerman
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/285270
+#EXTINF:-1,IR: IRIB Khalijefars
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/21967
+#EXTINF:-1,IR: IRIB Mazandaran TV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/285265
+#EXTINF:-1,IR: IRIB Kordestan
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/64958
+#EXTINF:-1,IR: IRIB Mahabad
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/285276
+#EXTINF:-1,IR: IRIB khoozestan
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/296448
+#EXTINF:-1,IR: IRIB Zagros
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/296457
+#EXTINF:-1,IR: IRIB Khorasanrazavi
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/285280
+#EXTINF:-1,IR: IRIB Abadan
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/285275
+#EXTINF:-1,IR: IRIB Aflak
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/294884
+#EXTINF:-1,IR: IRIB Aftab
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/285284
+#EXTINF:-1,IR: IRIB Alborz
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/196357
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IR: 4U TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ff126c63318c9b5aa529bc8fb1337c7d.jpeg" group-title="Iran",IR: 4U TV
-http://xtv.ooo:8080/19934509/13264089/351065
-#EXTINF:-1 tvg-id="" tvg-name="IR: BBC Persian" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f6be86cce0186542529d22a2e9937325.png" group-title="Iran",IR: BBC Persian
-http://xtv.ooo:8080/19934509/13264089/351073 
-#EXTINF:-1 tvg-id="" tvg-name="IR: Iran International" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ea33633aba1b6e1d15146eeea7d8832f.png" group-title="Iran",IR: Iran International
-http://xtv.ooo:8080/19934509/13264089/351118 
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/7a72febb637901c474b0241f9839e173.png" group-title="Iran",IR: IRIB 1
-http://xtv.ooo:8080/19934509/13264089/351120
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f34a9a3baaefa4dabd7306d3548eb785.png" group-title="Iran",IR: IRIB 2
-http://xtv.ooo:8080/19934509/13264089/351121
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1b9b1cd3c518b9b24e2e3bf0058c8b12.png" group-title="Iran",IR: IRIB 3
-http://xtv.ooo:8080/19934509/13264089/351122 
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/9ba9c0691729ee6e594b6a3d5cfba899.png" group-title="Iran",IR: IRIB 4
-http://xtv.ooo:8080/19934509/13264089/351124 
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB IRINN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/2988868e457dc495850fce0204b08cad.png" group-title="Iran",IR: IRIB IRINN
-http://xtv.ooo:8080/19934509/13264089/351146
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Labbayk" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/f1d5c2eab175a1d1751c2ab3d51aa720" group-title="Iran",IR: IRIB Labbayk
-http://xtv.ooo:8080/19934509/13264089/351161 
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Jamejam 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/474b5c8d9393397f825ba3e18aecc969" group-title="Iran",IR: IRIB Jamejam 1
-http://xtv.ooo:8080/19934509/13264089/351149
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Jamejam 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/a5b78bdd102297666baac0dd3f34e84c" group-title="Iran",IR: IRIB Jamejam 2
-http://xtv.ooo:8080/19934509/13264089/351150
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Jamejam 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/42440c851d537adba48b800b8af2f36e" group-title="Iran",IR: IRIB Jamejam 3
-http://xtv.ooo:8080/19934509/13264089/351151 
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Salamat" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/2d77972d5347623c07db390acfbff87a.png" group-title="Iran",IR: IRIB Salamat
-http://xtv.ooo:8080/19934509/13264089/351175
-
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Semnan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/af7e6bdb5ce5cd973bebe1795385f52f" group-title="Iran",IR: IRIB Semnan
-http://xtv.ooo:8080/19934509/13264089/351176 
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Khorasanrazavi" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/ef7e6a3713e1fd138c1c56cce4818bcc" group-title="Iran",IR: IRIB Khorasanrazavi
-http://xtv.ooo:8080/19934509/13264089/351158 
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Khalijefars" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/722f3fa0a323b9ed6d999611403cfa75" group-title="Iran",IR: IRIB Khalijefars
-http://xtv.ooo:8080/19934509/13264089/351155 
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Fars" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/f0cb3f90bc9d78a3414acac6c1a4ee08" group-title="Iran",IR: IRIB Fars
-http://xtv.ooo:8080/19934509/13264089/351140 
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Esfahan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/3c70cbdaf7276b57631c809e253ee6db" group-title="Iran",IR: IRIB Esfahan
-http://xtv.ooo:8080/19934509/13264089/351138 
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Aflak" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/f4bfb7bc1cc33997a657350ae9c85d1b.png" group-title="Iran",IR: IRIB Aflak
-http://xtv.ooo:8080/19934509/13264089/351127
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Aftab" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/defdf60b9652f989cad9dfb8de6f82c1.png" group-title="Iran",IR: IRIB Aftab
-http://xtv.ooo:8080/19934509/13264089/351128
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Alborz" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/046c5e5dc6462e9f3b8e98f42eac2b99" group-title="Iran",IR: IRIB Alborz
-http://xtv.ooo:8080/19934509/13264089/351129 
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Kordestan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/716e8df761d7688ad670b01f09c614af" group-title="Iran",IR: IRIB Kordestan
-http://xtv.ooo:8080/19934509/13264089/351160
-
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Mahabad" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/cdcf4cc511b3e60a6099426f9e0fd1ff" group-title="Iran",IR: IRIB Mahabad
-http://xtv.ooo:8080/19934509/13264089/351162
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Azarbayjangharbi" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/76c838af54420ea796bf82d6d43830ad" group-title="Iran",IR: IRIB Azarbayjangharbi
-http://xtv.ooo:8080/19934509/13264089/351134 
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB khoozestan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/cda7d96d8e835baf4238021a2ff8d506" group-title="Iran",IR: IRIB khoozestan
-http://xtv.ooo:8080/19934509/13264089/351157
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Sabalan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/5c5d4722a1137ce15ec4391bc7f6a59f" group-title="Iran",IR: IRIB Sabalan
-http://xtv.ooo:8080/19934509/13264089/351173
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Zagros" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/b759d770ce2ca13a5256783c9f05dc41" group-title="Iran",IR: IRIB Zagros
-http://xtv.ooo:8080/19934509/13264089/351184 
-#EXTINF:-1 tvg-id="" tvg-name="IR: Kalemeh TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c20d4166b7facbb6530994ce50002a51.png" group-title="Iran",IR: Kalemeh TV
-http://xtv.ooo:8080/19934509/13264089/351187 
-#EXTINF:-1 tvg-id="" tvg-name="IR: Simaye Azadi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-10/a316a8af4366b83df030f2ff558d1316.png" group-title="Iran",IR: Simaye Azadi
-http://xtv.ooo:8080/19934509/13264089/351237 
 
 #EXTINF:-1 tvg-id="" tvg-name="IQ: Afaq TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/9406549d09fe5b92f850d147c11f4c0f.png" group-title="Iraq",IQ: Afaq TV
 http://xtv.ooo:8080/19934509/13264089/351248 
