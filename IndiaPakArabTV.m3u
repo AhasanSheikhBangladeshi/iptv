@@ -89,6 +89,7 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/197309
 #EXTINF:-1,PK: Such News
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/197116
 
+
 #EXTINF:-1,AFG: 1 TV
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/18183
 #EXTINF:-1,AFG: Afghanistan International
@@ -147,6 +148,47 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/66165
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/302407
 #EXTINF:-1,AFG: Zhwandoon TV
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/66172
+
+#EXTINF:-1 tvg-id="" tvg-name="Dd India" tvg-logo="" group-title="India",DD India
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/165806
+#EXTINF:-1,IN: DD Malayalam
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/45499
+#EXTINF:-1,IN: DD National
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/192197
+#EXTINF:-1,IN: DD News
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/21668
+#EXTINF:-1,IN: DD Podhigai
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/193047
+#EXTINF:-1,IN: DD Punjabi
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/283904
+#EXTINF:-1,IN: DD Sports
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/56153
+#EXTINF:-1,IN: Fateh TV
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/166370
+#EXTINF:-1,IN: Aaj Tak
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/12977
+#EXTINF:-1,IN: Asianet News
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/163276
+#EXTINF:-1,IN: News 18 Bengali
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/247526
+#EXTINF:-1,IN: News 18 Gujarati
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/193127
+#EXTINF:-1,IN: Zee 24 Ghanta
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/193187
+#EXTINF:-1,IN: Zee Aflam
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/22067
+#EXTINF:-1,IN: Zee Alwan
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304493
+#EXTINF:-1,IN: Zee Hindustan
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/145633
+#EXTINF:-1,IN: Zee Punjabi
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/145630
+#EXTINF:-1,IN: ZEE Rajasthan News
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/299922
+#EXTINF:-1,IN: Zee Salaam
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/16981
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="IRIB Sahar Afghan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/22c7bde0e802485e1708847bbb053256.png" group-title="Iran",IRIB Sahar Afghan
 http://iptvtree.net:8080/Isidorchait/ea940f8fd1/299616
