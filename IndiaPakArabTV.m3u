@@ -1,4 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="24 News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/2784e698b08c700d015e45f9451139d3.png" group-title="Pakistan",24 News
 #EXTINF:-1,PK: 92 News
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1402
 #EXTINF:-1,PK: A Plus
@@ -89,6 +88,10 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/197309
 #EXTINF:-1,PK: Such News
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/197116
 
+#EXTINF:-1,MV: Maldives TV
+https://live.maldivestv.mv/hls/stream/index.m3u8
+#EXTINF:-1,MV: Rajje TV
+https://stream.raajje.mv/live/rtv_live/index.m3u8
 
 #EXTINF:-1,AFG: 1 TV
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/18183
