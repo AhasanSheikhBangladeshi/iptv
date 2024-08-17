@@ -1,3 +1,9 @@
+#EXTINF:-1 tvg-id="" tvg-name="PK : ABB TAK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Abb_Tak_news_logo.png" group-title="PAKISTAN",PK : ABB TAK
+http://starshare.live:8080/live/Jennifer/Jennifer/136.ts
+#EXTINF:-1 tvg-id="" tvg-name="PK: SACH NEWS" tvg-logo="https://yt3.ggpht.com/a/AATXAJxF6lvGksVXE4lJUw3Q7wD5ozWDz3PXXEKIWjvC=s900-c-k-c0xffffffff-no-rj-mo" group-title="PAKISTAN",PK: SACH NEWS
+http://starshare.live:8080/live/Jennifer/Jennifer/2011.ts
+#EXTINF:-1 tvg-id="" tvg-name="PK: NEO NEWS " tvg-logo="https://www.pakistanpressfoundation.org/wp-content/uploads/2020/05/logo-1532949244.png" group-title="PAKISTAN",PK: NEO NEWS 
+http://starshare.live:8080/live/Jennifer/Jennifer/2009.ts
 #EXTINF:-1,PK: 92 News
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1402
 #EXTINF:-1,PK: A Plus
@@ -77,8 +83,8 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1380
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/16633
 #EXTINF:-1,PK: PTV World
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1379
-#EXTINF:-1 tvg-id="" tvg-name="PK: PTV NATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV NATIONAL
-http://xtv.ooo:8080/sajidali/sajid7672/110050
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV NATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="PAKISTAN",PK: PTV NATIONAL 
+http://starshare.live:8080/live/Jennifer/Jennifer/140919.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK: Khyber Middle East TV*" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: Khyber Middle East TV*
 http://xtv.ooo:8080/sajidali/sajid7672/110051
 #EXTINF:-1,PK: Samaa TV
@@ -190,7 +196,18 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/145630
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/299922
 #EXTINF:-1,IN: Zee Salaam
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/16981
-
+#EXTINF:-1 tvg-id="shemaroo.in" tvg-name="IN:  DD North East" tvg-logo="" group-title="India",IN:  DD North East
+http://starshare.live:8080/live/Jennifer/Jennifer/23949.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rang" tvg-logo="" group-title="India",IN: Rang
+http://starshare.live:8080/live/Jennifer/Jennifer/23950.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Indradhanu" tvg-logo="" group-title="India",IN: Indradhanu
+http://starshare.live:8080/live/Jennifer/Jennifer/23952.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ramdhenu" tvg-logo="" group-title="India",IN: Ramdhenu
+http://starshare.live:8080/live/Jennifer/Jennifer/23953.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN:  DY 365" tvg-logo="" group-title="India",IN:  DY 365
+http://starshare.live:8080/live/Jennifer/Jennifer/23954.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN:  News18 Assam North East" tvg-logo="" group-title="India",IN:  News18 Assam North East
+http://starshare.live:8080/live/Jennifer/Jennifer/23956.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="IRIB Sahar Afghan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/22c7bde0e802485e1708847bbb053256.png" group-title="Iran",IRIB Sahar Afghan
