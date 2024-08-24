@@ -1,9 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="PK : ABB TAK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Abb_Tak_news_logo.png" group-title="PAKISTAN",PK : ABB TAK
-http://starshare.live:8080/live/Jennifer/Jennifer/136.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: SACH NEWS" tvg-logo="https://yt3.ggpht.com/a/AATXAJxF6lvGksVXE4lJUw3Q7wD5ozWDz3PXXEKIWjvC=s900-c-k-c0xffffffff-no-rj-mo" group-title="PAKISTAN",PK: SACH NEWS
-http://starshare.live:8080/live/Jennifer/Jennifer/2011.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: NEO NEWS " tvg-logo="https://www.pakistanpressfoundation.org/wp-content/uploads/2020/05/logo-1532949244.png" group-title="PAKISTAN",PK: NEO NEWS 
-http://starshare.live:8080/live/Jennifer/Jennifer/2009.ts
+
 #EXTINF:-1,PK: 92 News
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1402
 #EXTINF:-1,PK: A Plus
@@ -157,57 +152,6 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/66165
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/302407
 #EXTINF:-1,AFG: Zhwandoon TV
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/66172
-
-#EXTINF:-1 tvg-id="" tvg-name="Dd India" tvg-logo="" group-title="India",DD India
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/165806
-#EXTINF:-1,IN: DD Malayalam
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/45499
-#EXTINF:-1,IN: DD National
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/192197
-#EXTINF:-1,IN: DD News
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/21668
-#EXTINF:-1,IN: DD Podhigai
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/193047
-#EXTINF:-1,IN: DD Punjabi
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/283904
-#EXTINF:-1,IN: DD Sports
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/56153
-#EXTINF:-1,IN: Fateh TV
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/166370
-#EXTINF:-1,IN: Aaj Tak
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/12977
-#EXTINF:-1,IN: Asianet News
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/163276
-#EXTINF:-1,IN: News 18 Bengali
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/247526
-#EXTINF:-1,IN: News 18 Gujarati
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/193127
-#EXTINF:-1,IN: Zee 24 Ghanta
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/193187
-#EXTINF:-1,IN: Zee Aflam
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/22067
-#EXTINF:-1,IN: Zee Alwan
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304493
-#EXTINF:-1,IN: Zee Hindustan
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/145633
-#EXTINF:-1,IN: Zee Punjabi
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/145630
-#EXTINF:-1,IN: ZEE Rajasthan News
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/299922
-#EXTINF:-1,IN: Zee Salaam
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/16981
-#EXTINF:-1 tvg-id="shemaroo.in" tvg-name="IN:  DD North East" tvg-logo="" group-title="India",IN:  DD North East
-http://starshare.live:8080/live/Jennifer/Jennifer/23949.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: Rang" tvg-logo="" group-title="India",IN: Rang
-http://starshare.live:8080/live/Jennifer/Jennifer/23950.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: Indradhanu" tvg-logo="" group-title="India",IN: Indradhanu
-http://starshare.live:8080/live/Jennifer/Jennifer/23952.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: Ramdhenu" tvg-logo="" group-title="India",IN: Ramdhenu
-http://starshare.live:8080/live/Jennifer/Jennifer/23953.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN:  DY 365" tvg-logo="" group-title="India",IN:  DY 365
-http://starshare.live:8080/live/Jennifer/Jennifer/23954.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN:  News18 Assam North East" tvg-logo="" group-title="India",IN:  News18 Assam North East
-http://starshare.live:8080/live/Jennifer/Jennifer/23956.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="IRIB Sahar Afghan" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/22c7bde0e802485e1708847bbb053256.png" group-title="Iran",IRIB Sahar Afghan
@@ -382,72 +326,6 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/266321
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/266320
 #EXTINF:-1,YE: Yemen TV
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/266322
-#EXTINF:-1 tvg-id="" tvg-name="AR: Al Sahat TV HD" tvg-logo="" group-title="AR | YEMEN",AR: Al Sahat TV HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72876
-#EXTINF:-1 tvg-id="" tvg-name="AR: Aden Almustakilla HD" tvg-logo="" group-title="AR | YEMEN",AR: Aden Almustakilla HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72842
-#EXTINF:-1 tvg-id="" tvg-name="AR: Aden Almustakilla 4K" tvg-logo="" group-title="AR | YEMEN",AR: Aden Almustakilla 4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72843
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Al Masirah TV HD" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Al Masirah TV HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72844
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Al Mahriah 4K" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Al Mahriah 4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72845
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Al Lahdah TV HD" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Al Lahdah TV HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72846
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Al Lahdah TV 4K" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Al Lahdah TV 4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72847
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Al Saeedah  HD" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Al Saeedah  HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72848
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Al Saeedah  4K" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Al Saeedah  4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72849
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Hadramout TV HD" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Hadramout TV HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72850
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Hadramout TV 4K" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Hadramout TV 4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72851
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Today HD" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Today HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72852
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen TV 4K" tvg-logo="" group-title="AR | YEMEN",AR: Yemen TV 4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72853
-#EXTINF:-1 tvg-id="" tvg-name="AR: Al Ghad Almushreq  HD" tvg-logo="" group-title="AR | YEMEN",AR: Al Ghad Almushreq  HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72854
-#EXTINF:-1 tvg-id="" tvg-name="AR: Al Ghad Almushreq  4K" tvg-logo="" group-title="AR | YEMEN",AR: Al Ghad Almushreq  4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72855
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen TV HD" tvg-logo="" group-title="AR | YEMEN",AR: Yemen TV HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72856
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen TV  4K" tvg-logo="" group-title="AR | YEMEN",AR: Yemen TV  4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72857
-#EXTINF:-1 tvg-id="" tvg-name="AR: Belqees HD" tvg-logo="" group-title="AR | YEMEN",AR: Belqees HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72858
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Shabab HD" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Shabab HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72860
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Al Hawyah TV HD" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Al Hawyah TV HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72862
-#EXTINF:-1 tvg-id="" tvg-name="AR: Aden Al Shareyyah Live HD" tvg-logo="" group-title="AR | YEMEN",AR: Aden Al Shareyyah Live HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72864
-#EXTINF:-1 tvg-id="" tvg-name="AR: Aden Al Shareyyah Live 4K" tvg-logo="" group-title="AR | YEMEN",AR: Aden Al Shareyyah Live 4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72865
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Today Al Hothia TV HD" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Today Al Hothia TV HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72866
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Today Al Hothia TV 4K" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Today Al Hothia TV 4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72867
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Al Hothia TV HD" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Al Hothia TV HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72868
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Al Hothia TV 4K" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Al Hothia TV 4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72869
-#EXTINF:-1 tvg-id="" tvg-name="AR: Sheba TV HD" tvg-logo="" group-title="AR | YEMEN",AR: Sheba TV HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72870
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Education TV HD" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Education TV HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72872
-#EXTINF:-1 tvg-id="" tvg-name="AR: Suhail TV HD" tvg-logo="" group-title="AR | YEMEN",AR: Suhail TV HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72874
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen El Eiman  HD" tvg-logo="" group-title="AR | YEMEN",AR: Yemen El Eiman  HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72878
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Hadramout TV 1 HD" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Hadramout TV 1 HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72880
-#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Documentary HD" tvg-logo="" group-title="AR | YEMEN",AR: Yemen Documentary HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/72882
-
-
 
 #EXTINF:-1,PS: Ajyal
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1293
@@ -543,47 +421,3 @@ http://cdn37.live247stream.com/qaim/tv/playlist.m3u8
 http://cdn.live247stream.com:80/hyder/tv/hyder/stream2/chunks.m3u8?nimblesessionid=798882315
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AR| Al Massar TV HD" tvg-logo="" group-title="AR | LIBYA",AR| Al Massar TV HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71478
-#EXTINF:-1 tvg-id="" tvg-name="AR| Al Massar TV 4K" tvg-logo="" group-title="AR | LIBYA",AR| Al Massar TV 4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71479
-#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Alhrar HD" tvg-logo="" group-title="AR | LIBYA",AR| Libya Alhrar HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71480
-#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Alhrar 4K" tvg-logo="" group-title="AR | LIBYA",AR| Libya Alhrar 4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71481
-#EXTINF:-1 tvg-id="" tvg-name="AR| New Libya News HD" tvg-logo="" group-title="AR | LIBYA",AR| New Libya News HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71482
-#EXTINF:-1 tvg-id="" tvg-name="AR| New Libya News 4K" tvg-logo="" group-title="AR | LIBYA",AR| New Libya News 4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71483
-#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Al Hadath HD" tvg-logo="" group-title="AR | LIBYA",AR| Libya Al Hadath HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71484
-#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Al Hadath 4K" tvg-logo="" group-title="AR | LIBYA",AR| Libya Al Hadath 4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71485
-#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Drama NLC HD" tvg-logo="" group-title="AR | LIBYA",AR| Libya Drama NLC HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71486
-#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Drama NLC 4K" tvg-logo="" group-title="AR | LIBYA",AR| Libya Drama NLC 4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71487
-#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Lebda TV HD" tvg-logo="" group-title="AR | LIBYA",AR| Libya Lebda TV HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71488
-#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Lebda TV 4K" tvg-logo="" group-title="AR | LIBYA",AR| Libya Lebda TV 4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71489
-#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Salam TV HD" tvg-logo="" group-title="AR | LIBYA",AR| Libya Salam TV HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71490
-#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Salam TV 4K" tvg-logo="" group-title="AR | LIBYA",AR| Libya Salam TV 4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71491
-#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Alwataniya HD" tvg-logo="" group-title="AR | LIBYA",AR| Libya Alwataniya HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71492
-#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Alwataniya 4K" tvg-logo="" group-title="AR | LIBYA",AR| Libya Alwataniya 4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71493
-#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Al Wasat TV 4K" tvg-logo="" group-title="AR | LIBYA",AR| Libya Al Wasat TV 4K
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71494
-#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Mostaqbal HD" tvg-logo="" group-title="AR | LIBYA",AR| Libya Mostaqbal HD
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71495
-#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Alrasmia" tvg-logo="" group-title="AR | LIBYA",AR| Libya Alrasmia
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71496
-#EXTINF:-1 tvg-id="" tvg-name="AR| Tanasuh TV" tvg-logo="" group-title="AR | LIBYA",AR| Tanasuh TV
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71497
-#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Education" tvg-logo="" group-title="AR | LIBYA",AR| Libya Education
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71498
-#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Febrauary" tvg-logo="" group-title="AR | LIBYA",AR| Libya Febrauary
-http://ktv.im:8080/LizzyTV/LizzyTV54321/71499
