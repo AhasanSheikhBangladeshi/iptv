@@ -363,50 +363,6 @@ http://kroozott.xyz:8080/DC6tQPWzt/67145282/272798
 http://kroozott.xyz:8080/DC6tQPWzt/67145282/272797
 #EXTINF:-1,YE | Al Sahat
 http://kroozott.xyz:8080/DC6tQPWzt/67145282/272796
-#EXTINF:-1,LY | Libya TV
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272795
-#EXTINF:-1,LY | Libya Al Hadath
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272794
-#EXTINF:-1,LY | Libya Al Rasmia
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272793
-#EXTINF:-1,LY | Libya Al Wataniya
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272792
-#EXTINF:-1,LY | Libya Al Ahrar TV
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272791
-#EXTINF:-1,LY | Libya Al Mostakbal TV
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272790
-#EXTINF:-1,Ly: Al Wasat TV [ WTV ]
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272789
-#EXTINF:-1,LY | Libya Febrayer TV
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272788
-#EXTINF:-1,LY | Libya Sport 1 HD
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272787
-#EXTINF:-1,LY | Libya Sport 2 HD
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272786
-#EXTINF:-1,LY | Libya Panorama [ LPC ]
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272785
-#EXTINF:-1,LY | Libya Education
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272784
-#EXTINF:-1,LY | Libya WTV
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272783
-#EXTINF:-1,LY | Salam TV
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272782
-#EXTINF:-1,LY | Al Tanasuh TV
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272781
-#EXTINF:-1,LY | Sahel 2 TV
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272780
-#EXTINF:-1,LY | Al Salam TV
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272779
-#EXTINF:-1,LY | Al Massar TV
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272778
-#EXTINF:-1,LY | Libya Business
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272777
-#EXTINF:-1,LY | Libya Lebda TV
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272776
-#EXTINF:-1,TN | Watania 1 [ Tunisia Nat 1 ]
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272775
-#EXTINF:-1,TN | Watania 2 [ Tunisia Nat 2 ]
-http://kroozott.xyz:8080/DC6tQPWzt/67145282/272774
 
 
 
@@ -453,4 +409,48 @@ http://cdn37.live247stream.com/qaim/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Hyder TV" group-title="Shia Channels",Hyder TV
 http://cdn.live247stream.com:80/hyder/tv/hyder/stream2/chunks.m3u8?nimblesessionid=798882315
 
+#EXTINF:-1,LY | Libya TV, group-title="LIBYA",LY: Libya Tv
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272795
+#EXTINF:-1,LY | Libya Al Hadath
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272794
+#EXTINF:-1,LY | Libya Al Rasmia
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272793
+#EXTINF:-1,LY | Libya Al Wataniya
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272792
+#EXTINF:-1,LY | Libya Al Ahrar TV
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272791
+#EXTINF:-1,LY | Libya Al Mostakbal TV
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272790
+#EXTINF:-1,Ly: Al Wasat TV [ WTV ]
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272789
+#EXTINF:-1,LY | Libya Febrayer TV
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272788
+#EXTINF:-1,LY | Libya Sport 1 HD
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272787
+#EXTINF:-1,LY | Libya Sport 2 HD
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272786
+#EXTINF:-1,LY | Libya Panorama [ LPC ]
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272785
+#EXTINF:-1,LY | Libya Education
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272784
+#EXTINF:-1,LY | Libya WTV
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272783
+#EXTINF:-1,LY | Salam TV
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272782
+#EXTINF:-1,LY | Al Tanasuh TV
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272781
+#EXTINF:-1,LY | Sahel 2 TV
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272780
+#EXTINF:-1,LY | Al Salam TV
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272779
+#EXTINF:-1,LY | Al Massar TV
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272778
+#EXTINF:-1,LY | Libya Business
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272777
+#EXTINF:-1,LY | Libya Lebda TV
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272776
+#EXTINF:-1,TN | Watania 1 [ Tunisia Nat 1 ], group-title="Tunisia",TN | Watania 1 [ Tunisia Nat 1 ]
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272775
+#EXTINF:-1,TN | Watania 2 [ Tunisia Nat 2 ]
+http://kroozott.xyz:8080/DC6tQPWzt/67145282/272774
 
