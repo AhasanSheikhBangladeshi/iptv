@@ -193,7 +193,7 @@ http://kroozott.xyz:8080/DC6tQPWzt/67145282/216293
 #EXTINF:-1,|IR| IRIB TV4
 http://kroozott.xyz:8080/DC6tQPWzt/67145282/216292
 
-#EXTINF:-1,AR: IRAQ TV NEWS HD
+#EXTINF:-1,AR: IRAQ TV NEWS HD,group-title="IRAQ",AR: IRAQ TV NEWS HD
 http://ktv.im:8080/0567616054/0567616054/109787
 #EXTINF:-1,AR: IRAQ TV NEWS 4K
 http://ktv.im:8080/0567616054/0567616054/109788
@@ -287,7 +287,7 @@ http://ktv.im:8080/0567616054/0567616054/109851
 #EXTINF:-1,AR: Al Turkmenia TV
 http://ktv.im:8080/0567616054/0567616054/109859
 
-#EXTINF:-1,AR: Funoon TV HD
+#EXTINF:-1,AR: Funoon TV HD,group-title="Kuwait",AR: Funoon TV HD
 http://ktv.im:8080/0567616054/0567616054/64486
 #EXTINF:-1,AR: AlRai TV HD
 http://ktv.im:8080/0567616054/0567616054/64488
@@ -329,7 +329,7 @@ http://ktv.im:8080/0567616054/0567616054/64506
 http://ktv.im:8080/0567616054/0567616054/64507
 #EXTINF:-1,AR: Al Maaly
 http://ktv.im:8080/0567616054/0567616054/64508
-#EXTINF:-1,AR: Bahrain 4K
+#EXTINF:-1,AR: Bahrain 4K,group-title="Bahrain",AR:Bahrain 4k
 http://ktv.im:8080/0567616054/0567616054/64386
 #EXTINF:-1,AR: Bahrain International 4K
 http://ktv.im:8080/0567616054/0567616054/64387
@@ -339,11 +339,13 @@ http://ktv.im:8080/0567616054/0567616054/64388
 http://ktv.im:8080/0567616054/0567616054/64389
 #EXTINF:-1,AR: Bahrain Quran
 http://ktv.im:8080/0567616054/0567616054/64390
+#EXTINF:-1,AR| Oman TV HD,group-title="Oman",AR: Oman TV
+http://ktv.im:8080/0567616054/0567616054/71355
+#EXTINF:-1,AR| Oman Culture TV HD
+http://ktv.im:8080/0567616054/0567616054/71361
 
 
-
-
-#EXTINF:-1,AR| Saudi Quran HD
+#EXTINF:-1,AR| Saudi Quran HD,group-title="SAUDI ARABIA",AR: Saudi Quran Hd
 http://ktv.im:8080/0567616054/0567616054/64293
 #EXTINF:-1,AR| Saudia TV 1 HD
 http://ktv.im:8080/0567616054/0567616054/64297
@@ -360,6 +362,52 @@ http://ktv.im:8080/0567616054/0567616054/64322
 #EXTINF:-1,AR : Arabie saoudite| ALSahraa
 http://ktv.im:8080/0567616054/0567616054/64323
 
+#EXTINF:-1,AR: Aden Almustakilla HD,group-title="YEMEN",AR: Aden AlMustakilla HD
+http://ktv.im:8080/0567616054/0567616054/72842
+#EXTINF:-1,AR: Yemen Al Masirah TV HD
+http://ktv.im:8080/0567616054/0567616054/72844
+#EXTINF:-1,AR: Yemen Al Mahriah 4K
+http://ktv.im:8080/0567616054/0567616054/72845
+#EXTINF:-1,AR: Yemen Al Lahdah TV HD
+http://ktv.im:8080/0567616054/0567616054/72846
+#EXTINF:-1,AR: Yemen Al Saeedah  HD
+http://ktv.im:8080/0567616054/0567616054/72848
+#EXTINF:-1,AR: Yemen Hadramout TV HD
+http://ktv.im:8080/0567616054/0567616054/72850
+#EXTINF:-1,AR: Yemen Today HD
+http://ktv.im:8080/0567616054/0567616054/72852
+#EXTINF:-1,AR: Yemen TV 4K
+http://ktv.im:8080/0567616054/0567616054/72853
+#EXTINF:-1,AR: Yemen TV HD
+http://ktv.im:8080/0567616054/0567616054/72856
+#EXTINF:-1,AR: Yemen TV  4K
+http://ktv.im:8080/0567616054/0567616054/72857
+#EXTINF:-1,AR: Belqees HD
+http://ktv.im:8080/0567616054/0567616054/72858
+#EXTINF:-1,AR: Yemen Shabab HD
+http://ktv.im:8080/0567616054/0567616054/72860
+#EXTINF:-1,AR: Yemen Al Hawyah TV HD
+http://ktv.im:8080/0567616054/0567616054/72862
+#EXTINF:-1,AR: Aden Al Shareyyah Live HD
+http://ktv.im:8080/0567616054/0567616054/72864
+#EXTINF:-1,AR: Yemen Today Al Hothia TV HD
+http://ktv.im:8080/0567616054/0567616054/72866
+#EXTINF:-1,AR: Yemen Al Hothia TV HD
+http://ktv.im:8080/0567616054/0567616054/72868
+#EXTINF:-1,AR: Sheba TV HD
+http://ktv.im:8080/0567616054/0567616054/72870
+#EXTINF:-1,AR: Yemen Education TV HD
+http://ktv.im:8080/0567616054/0567616054/72872
+#EXTINF:-1,AR: Suhail TV HD
+http://ktv.im:8080/0567616054/0567616054/72874
+#EXTINF:-1,AR: Al Sahat TV HD
+http://ktv.im:8080/0567616054/0567616054/72876
+#EXTINF:-1,AR: Yemen El Eiman  HD
+http://ktv.im:8080/0567616054/0567616054/72878
+#EXTINF:-1,AR: Yemen Hadramout TV 1 HD
+http://ktv.im:8080/0567616054/0567616054/72880
+#EXTINF:-1,AR: Yemen Documentary HD
+http://ktv.im:8080/0567616054/0567616054/72882
 
 
 
@@ -388,9 +436,7 @@ http://cdn37.live247stream.com/qaim/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Hyder TV" group-title="Shia Channels",Hyder TV
 http://cdn.live247stream.com:80/hyder/tv/hyder/stream2/chunks.m3u8?nimblesessionid=798882315
 
-#EXTINF:-1,AR| Libya Salam TV HD
-http://ktv.im:8080/0567616054/0567616054/71490
-#EXTINF:-1,AR| Libya Salam TV 4K
+#EXTINF:-1,AR| Libya Salam TV HD, group-title="LIBYA",AR: Libya Salam TV
 http://ktv.im:8080/0567616054/0567616054/71491
 #EXTINF:-1,AR| Libya Alwataniya HD
 http://ktv.im:8080/0567616054/0567616054/71492
