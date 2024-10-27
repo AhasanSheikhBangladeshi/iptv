@@ -67,10 +67,22 @@ http://extraott.com:80/5579352369/4036149514/400157957
 #EXTINF:-1,VIP - PK| PTV GLOBAL HD
 http://extraott.com:80/5579352369/4036149514/400218171
 
+
 #EXTINF:-1,MV: Maldives TV
 https://live.maldivestv.mv/hls/stream/index.m3u8
 #EXTINF:-1,MV: Rajje TV
 https://stream.raajje.mv/live/rtv_live/index.m3u8
+#EXTINF:-1, SSTV (Maldives)
+http://extraott.com:80/5579352369/4036149514/401439968
+#EXTINF:-1,CHANNEL 13 (Maldives)
+http://extraott.com:80/5579352369/4036149514/401439969
+#EXTINF:-1,SRI LANKA| DERANA TV
+http://extraott.com:80/5579352369/4036149514/380100
+#EXTINF:-1,SRI LANKA| NETHRA TV SCHEDULE
+http://extraott.com:80/5579352369/4036149514/380081
+#EXTINF:-1,SRI LANKA| Rupavahini Schedule
+http://extraott.com:80/5579352369/4036149514/25202
+
 
 #EXTINF:-1 tvg-id=" "  group-title="AR |IRAQ,IRAQ| AL SHARQIYA FHD
 http://extraott.com:80/5579352369/4036149514/15060
