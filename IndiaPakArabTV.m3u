@@ -88,10 +88,55 @@ https://live.maldivestv.mv/hls/stream/index.m3u8
 #EXTINF:-1,MV: Rajje TV
 https://stream.raajje.mv/live/rtv_live/index.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BH: BAHRAIN TV FHD" tvg-logo="https://s9.gifyu.com/images/SVcn0.png" group-title="AR | Entertainment",BH: BAHRAIN TV FHD
-http://b1g.ooo:80/Valencia/Valencia/852382
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="BH: BAHRAIN INTERNATIONAL FHD" tvg-logo="https://s12.gifyu.com/images/SVcQo.png" group-title="AR | Entertainment",BH: BAHRAIN INTERNATIONAL FHD
-http://b1g.ooo:80/Valencia/Valencia/852381
+#EXTINF:-1 tvg-id=" "  group-title="AR |IRAQ,IRAQ| AL SHARQIYA FHD
+http://extraott.com:80/5579352369/4036149514/15060
+#EXTINF:-1,IRAQ| KARBALA TV HD
+http://extraott.com:80/5579352369/4036149514/15032
+#EXTINF:-1,IRAQ| UTV HD
+http://extraott.com:80/5579352369/4036149514/190509
+#EXTINF:-1,IRAQ| AL ANWAR
+http://extraott.com:80/5579352369/4036149514/15044
+#EXTINF:-1,IRAQ| HONA BAGHDAD
+http://extraott.com:80/5579352369/4036149514/15047
+#EXTINF:-1,IRAQ| AL RASHEED TV FHD
+http://extraott.com:80/5579352369/4036149514/15058
+#EXTINF:-1,IRAQ| AL TAGHIER HD
+http://extraott.com:80/5579352369/4036149514/15046
+#EXTINF:-1,IRAQ| IRAQIA SYRIAC
+http://extraott.com:80/5579352369/4036149514/355556
+#EXTINF:-1,IRAQ| 12 ARABIA SD
+http://extraott.com:80/5579352369/4036149514/112357
+#EXTINF:-1,IRAQ| AL HURRA IRAQ HD
+http://extraott.com:80/5579352369/4036149514/15025
+#EXTINF:-1,IRAQ| AL HURRA IRAQ HEVC
+http://extraott.com:80/5579352369/4036149514/38490
+#EXTINF:-1,IRAQ| IRAQIA NEWS
+http://extraott.com:80/5579352369/4036149514/15064
+#EXTINF:-1,IRAQ| DIJLAH TV FHD
+http://extraott.com:80/5579352369/4036149514/15062
+#EXTINF:-1,IRAQ| AL SUMARIA TV FHD
+http://extraott.com:80/5579352369/4036149514/355557
+#EXTINF:-1,IRAQ| AL ANBAR HD
+http://extraott.com:80/5579352369/4036149514/15027
+#EXTINF:-1,IRAQ| AL BASIRA HD
+http://extraott.com:80/5579352369/4036149514/15034
+#EXTINF:-1,IRAQ| AL KAWTHAR
+http://extraott.com:80/5579352369/4036149514/15029
+#EXTINF:-1,IRAQ| AL SHARQIYA HEVC
+http://extraott.com:80/5579352369/4036149514/38491
+#EXTINF:-1,IRAQ| INEWS HD
+http://extraott.com:80/5579352369/4036149514/400659361
+#EXTINF:-1,IRAQ| ANB TV
+http://extraott.com:80/5579352369/4036149514/15015
+#EXTINF:-1,IRAQ| FALLUJAH TV
+http://extraott.com:80/5579352369/4036149514/15008
+#EXTINF:-1,IRAQ| IRAQIA TV HD
+http://extraott.com:80/5579352369/4036149514/15065
+#EXTINF:-1,IRAQ| AL RAFIDAYN TV FHD
+http://extraott.com:80/5579352369/4036149514/360697
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| ALMASIRAH MUBASHAR SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7rDALcbN3lbA2PXmb8EolqjHjvLnRMvXoM1Ee_Pu8FznCC0MWWiGnrqI2n_5FSjBKvQ&usqp=CAU" group-title="Arabic",AR: YEMEN| ALMASIRAH MUBASHAR SD
 http://277657839848934422.ofnm1026.xyz:80/live/Txetxu240107/GDBFY82374/934422.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN| BELQEES FHD" tvg-logo="" group-title="Arabic",AR: YEMEN| BELQEES FHD
