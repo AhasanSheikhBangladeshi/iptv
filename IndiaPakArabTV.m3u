@@ -297,119 +297,110 @@ http://extraott.com:80/5579352369/4036149514/15050
 #EXTINF:-1,IRAQ| SAMARRA HD
 http://extraott.com:80/5579352369/4036149514/15051
 
-#EXTINF:-1,tvg-id=" "  group-title="AR |KUWAIT,KUW| ALRAI HD
-http://extraott.com:80/5579352369/4036149514/14972
-#EXTINF:-1,KUW| KTV 1 HD
-http://extraott.com:80/5579352369/4036149514/14979
-#EXTINF:-1,KUW| KTV 2 HD
-http://extraott.com:80/5579352369/4036149514/14978
-#EXTINF:-1,KUW| KTV SPORT HD
-http://extraott.com:80/5579352369/4036149514/14974
-#EXTINF:-1,KUW| KTV ETHRAA HD
-http://extraott.com:80/5579352369/4036149514/14975
-#EXTINF:-1,KUW| KTV ALARABI HD
-http://extraott.com:80/5579352369/4036149514/360739
-#EXTINF:-1,KUW| AL SHAHED TV FHD
-http://extraott.com:80/5579352369/4036149514/113004
-#EXTINF:-1,KUW| AL ADALAH TV ATV HD
-http://extraott.com:80/5579352369/4036149514/112345
-#EXTINF:-1,KUW| AL SABAH TV SD
-http://extraott.com:80/5579352369/4036149514/112342
-#EXTINF:-1,KUW| KTV SPORTS+ 4K
-http://extraott.com:80/5579352369/4036149514/39696
-#EXTINF:-1,KUW| AL BAWADI 4K
-http://extraott.com:80/5579352369/4036149514/39698
-#EXTINF:-1,KUW| KTV AL ARABI
-http://extraott.com:80/5579352369/4036149514/39700
-#EXTINF:-1,tvg-id=" "  group-title="AR |BAHRAIN,BAHR| BAHRAIN TV HD
-http://extraott.com:80/5579352369/4036149514/15123
-#EXTINF:-1,BAHR| BAHRAIN INTERNATIONAL HD
-http://extraott.com:80/5579352369/4036149514/15122
-#EXTINF:-1,BAHR| BAHRAIN SPORTS 1 FHD
-http://extraott.com:80/5579352369/4036149514/15125
 
-#EXTINF:-1,tvg-id=" "  group-title="AR |KSA Saudi,KSA| ALSAHRAA TV
-http://extraott.com:80/5579352369/4036149514/360896
-#EXTINF:-1, Al Arabiya
-http://opplex.tv:8080/live/6554336/1478554/353517.ts
-#EXTINF:-1,KSA| NABA TV FHD
-http://opplex.tv:8080/live/6554336/1478554/351992.ts
-#EXTINF:-1,KSA| SAUDI 1 HD
-http://opplex.tv:8080/live/6554336/1478554/353559.ts
-#EXTINF:-1,KSA| Al Ekhbariya
-http://opplex.tv:8080/live/6554336/1478554/353517.ts
-#EXTINF:-1,KSA| SBC HD
-http://opplex.tv:8080/live/6554336/1478554/353560.ts
-#EXTINF:-1,KSA| ALMAJD TV
-http://opplex.tv:8080/live/6554336/1478554/353508.ts
-#EXTINF:-1,KSA| ALMAJD RELIGIOUS SCIENCE SD
-http://extraott.com:80/5579352369/4036149514/94672
-#EXTINF:-1,KSA| THIKRAYAT HD
-http://extraott.com:80/5579352369/4036149514/360906
+#EXTINF:-1 tvg-id="" tvg-name="AR| KUWAIT TV 1 HD" tvg-logo="" group-title="AR | KUWAIT",AR| KUWAIT TV 1 HD
+http://ktv.im:8080/122334/122334/421589
+#EXTINF:-1 tvg-id="" tvg-name="AR| KUWAIT TV 2 HD" tvg-logo="" group-title="AR | KUWAIT",AR| KUWAIT TV 2 HD
+http://ktv.im:8080/122334/122334/421591
+#EXTINF:-1 tvg-id="" tvg-name="AR| KUWAIT QURAIN HD" tvg-logo="" group-title="AR | KUWAIT",AR| KUWAIT QURAIN HD
+http://ktv.im:8080/122334/122334/421593
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALMAJLIS HD" tvg-logo="" group-title="AR | KUWAIT",AR| ALMAJLIS HD
+http://ktv.im:8080/122334/122334/421594
+#EXTINF:-1 tvg-id="" tvg-name="AR| KUWAIT ETHRAA HD" tvg-logo="" group-title="AR | KUWAIT",AR| KUWAIT ETHRAA HD
+http://ktv.im:8080/122334/122334/421596
+#EXTINF:-1 tvg-id="" tvg-name="AR| KUWAIT SPORT HD" tvg-logo="" group-title="AR | KUWAIT",AR| KUWAIT SPORT HD
+http://ktv.im:8080/122334/122334/421598
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL RAI TV" tvg-logo="" group-title="AR | KUWAIT",AR| AL RAI TV
+http://ktv.im:8080/122334/122334/421602
+#EXTINF:-1 tvg-id="" tvg-name="AR| MARINA HD" tvg-logo="" group-title="AR | KUWAIT",AR| MARINA HD
+http://ktv.im:8080/122334/122334/421603
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL SHAHED TV" tvg-logo="" group-title="AR | KUWAIT",AR| AL SHAHED TV
+http://ktv.im:8080/122334/122334/421605
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL ADALAH TV" tvg-logo="" group-title="AR | KUWAIT",AR| AL ADALAH TV
+http://ktv.im:8080/122334/122334/421606
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL SABAH TV" tvg-logo="" group-title="AR | KUWAIT",AR| AL SABAH TV
+http://ktv.im:8080/122334/122334/421607
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL BAWADI TV" tvg-logo="" group-title="AR | KUWAIT",AR| AL BAWADI TV
+http://ktv.im:8080/122334/122334/421608
+#EXTINF:-1 tvg-id="" tvg-name="AL BAHRANY TV" tvg-logo="" group-title="AR | BAHRAIN",AL BAHRANY TV
+http://ktv.im:8080/122334/122334/408612
+#EXTINF:-1 tvg-id="" tvg-name="LULUA TV" tvg-logo="" group-title="AR | BAHRAIN",LULUA TV
+http://ktv.im:8080/122334/122334/408613
+#EXTINF:-1 tvg-id="" tvg-name="BAHRAIN 4K" tvg-logo="" group-title="AR | BAHRAIN",BAHRAIN 4K
+http://ktv.im:8080/122334/122334/408614
+#EXTINF:-1 tvg-id="" tvg-name="BAHRAIN HD" tvg-logo="" group-title="AR | BAHRAIN",BAHRAIN HD
+http://ktv.im:8080/122334/122334/408615
+#EXTINF:-1 tvg-id="" tvg-name="BAHRAIN QURAN HD" tvg-logo="" group-title="AR | BAHRAIN",BAHRAIN QURAN HD
+http://ktv.im:8080/122334/122334/408618
+#EXTINF:-1 tvg-id="" tvg-name="BAHRAIN INTERNATIONAL HD" tvg-logo="" group-title="AR | BAHRAIN",BAHRAIN INTERNATIONAL HD
+http://ktv.im:8080/122334/122334/408619
 
 
-#EXTINF:-1,tvg-id=" "  group-title="AR |YEMEN,YEMEN| AIC TV FHD
-http://extraott.com:80/5579352369/4036149514/360874
-#EXTINF:-1,YEMEN| Aden TV SD
-http://extraott.com:80/5579352369/4036149514/14963
-#EXTINF:-1,YEMEN| ADEN TV 2
-http://opplex.tv:8080/live/6554336/1478554/355182.ts
-#EXTINF:-1,YEMEN| YEMEN TODAY SD
-http://extraott.com:80/5579352369/4036149514/14964
-#EXTINF:-1,YEMEN| YEMEN TV HD
-http://extraott.com:80/5579352369/4036149514/14968
-#EXTINF:-1,YEMEN| YEMEN TV  2 HD
-http://opplex.tv:8080/live/6554336/1478554/355198.ts
-#EXTINF:-1,YEMEN| YEMEN SHABAB HD
-http://opplex.tv:8080/live/6554336/1478554/355196.ts
-#EXTINF:-1,YEMEN| SUHAIL TV SD
-http://opplex.tv:8080/live/6554336/1478554/355193.ts
-#EXTINF:-1,YEMEN| YEMEN EDUCATION TV
-http://opplex.tv:8080/live/6554336/1478554/355195.ts
-#EXTINF:-1,YEMEN| YEMEN DOCUMENTARY TV
-http://opplex.tv:8080/live/6554336/1478554/355194.ts
-#EXTINF:-1,YEMEN| SHEBA TV SD
-http://opplex.tv:8080/live/6554336/1478554/355192.ts
-#EXTINF:-1,YEMEN| BELQESS FHD
-http://opplex.tv:8080/live/6554336/1478554/355190.ts
-#EXTINF:-1,YEMEN| AL MAHRIAH
-http://opplex.tv:8080/live/6554336/1478554/355183.ts
-#EXTINF:-1,YEMEN| ALSAEEDAH SD
-http://opplex.tv:8080/live/6554336/1478554/355184.ts
-#EXTINF:-1,YEMEN| ALHAWEYA TV
-http://opplex.tv:8080/live/6554336/1478554/355186.ts
-#EXTINF:-1,YEMEN| HADRAMAUT TV SD
-http://extraott.com:80/5579352369/4036149514/112314
+#EXTINF:-1 tvg-id="" tvg-name="BEDAYA HD" tvg-logo="" group-title="AR | SAUDI ARABIA",BEDAYA HD
+http://ktv.im:8080/122334/122334/407607
+#EXTINF:-1 tvg-id="" tvg-name="SAUDI QURAN" tvg-logo="" group-title="AR | SAUDI ARABIA",SAUDI QURAN
+http://ktv.im:8080/122334/122334/407591
+#EXTINF:-1 tvg-id="" tvg-name="SAUDI SUNNAH" tvg-logo="" group-title="AR | SAUDI ARABIA",SAUDI SUNNAH
+http://ktv.im:8080/122334/122334/407592
+#EXTINF:-1 tvg-id="" tvg-name="SAUDI 1 HD" tvg-logo="" group-title="AR | SAUDI ARABIA",SAUDI 1 HD
+http://ktv.im:8080/122334/122334/407594
+#EXTINF:-1 tvg-id="" tvg-name="SAUDI 24 TV" tvg-logo="" group-title="AR | SAUDI ARABIA",SAUDI 24 TV
+http://ktv.im:8080/122334/122334/407595
+#EXTINF:-1 tvg-id="" tvg-name="SAUDI ALEKHBARIA HD" tvg-logo="" group-title="AR | SAUDI ARABIA",SAUDI ALEKHBARIA HD
+http://ktv.im:8080/122334/122334/407597
+#EXTINF:-1 tvg-id="" tvg-name="SAUDI THIKRAYAT HD" tvg-logo="" group-title="AR | SAUDI ARABIA",SAUDI THIKRAYAT HD
+http://ktv.im:8080/122334/122334/407603
+#EXTINF:-1 tvg-id="" tvg-name="SBC HD" tvg-logo="" group-title="AR | SAUDI ARABIA",SBC HD
+http://ktv.im:8080/122334/122334/407605
+#EXTINF:-1 tvg-id="" tvg-name="ALWESAM TV" tvg-logo="" group-title="AR | SAUDI ARABIA",ALWESAM TV
+http://ktv.im:8080/122334/122334/407610
+#EXTINF:-1 tvg-id="" tvg-name="SAFA TV" tvg-logo="" group-title="AR | SAUDI ARABIA",SAFA TV
+http://ktv.im:8080/122334/122334/407611
+#EXTINF:-1 tvg-id="" tvg-name="ALSAHRAA" tvg-logo="" group-title="AR | SAUDI ARABIA",ALSAHRAA
+http://ktv.im:8080/122334/122334/407613
 
-#EXTINF:-1 tvg-id=" "  group-title="AR|SYRIA",SYR| SAMA TV HD
-http://opplex.tv:8080/live/6554336/1478554/354519.ts
-#EXTINF:-1,SYR| SYRIA AL EKHBARIYA FHD
-http://opplex.tv:8080/live/6554336/1478554/354512.ts
-#EXTINF:-1,SYR| SYRIA TV HD
-http://extraott.com:80/5579352369/4036149514/14996
-#EXTINF:-1,SYR| SYRIA SATELLITE TV HD
-http://opplex.tv:8080/live/6554336/1478554/354525.ts
-#EXTINF:-1,SYR| Nour El Sham TV
-http://opplex.tv:8080/live/6554336/1478554/354517.ts
-#EXTINF:-1,SYR| HALAB TODAY
-http://opplex.tv:8080/live/6554336/1478554/354515.ts
-#EXTINF:-1,SYR| AL KHABAR
-http://opplex.tv:8080/live/6554336/1478554/354510.ts
 
-#EXTINF:-1 tvg-id=" "  group-title="AR|Palestine",PALES| AWDEH TV HD
-http://extraott.com:80/5579352369/4036149514/15000
-#EXTINF:-1,PALES| PALESTINE TV HD
-http://extraott.com:80/5579352369/4036149514/15001
-#EXTINF:-1,PALES| PALESTINE TODAY SD
-http://extraott.com:80/5579352369/4036149514/15005
-#EXTINF:-1,PALES| PALESTINE LIVE FHD
-http://extraott.com:80/5579352369/4036149514/15002
-#EXTINF:-1,PALES| HEBRON.SAT TV SD
-http://extraott.com:80/5579352369/4036149514/112340
-#EXTINF:-1,PALES| AL SERAJ TV FHD
-http://opplex.tv:8080/live/6554336/1478554/352522.ts
-#EXTINF:-1,PALES| ALKOFIYA SD
-http://extraott.com:80/5579352369/4036149514/112380
+#EXTINF:-1 tvg-id="" tvg-name="AR| SAMA TV" tvg-logo="" group-title="AR | SYRIA",AR| SAMA TV
+http://ktv.im:8080/122334/122334/421274
+#EXTINF:-1 tvg-id="" tvg-name="AR| SYRIA NEWS" tvg-logo="" group-title="AR | SYRIA",AR| SYRIA NEWS
+http://ktv.im:8080/122334/122334/421277
+#EXTINF:-1 tvg-id="" tvg-name="AR| SYRIA TV SD" tvg-logo="" group-title="AR | SYRIA",AR| SYRIA TV SD
+http://ktv.im:8080/122334/122334/421279
+#EXTINF:-1 tvg-id="" tvg-name="AR| SYRIA HD TV" tvg-logo="" group-title="AR | SYRIA",AR| SYRIA HD TV
+http://ktv.im:8080/122334/122334/421280
+#EXTINF:-1 tvg-id="" tvg-name="AR| SYRIA DRAMA" tvg-logo="" group-title="AR | SYRIA",AR| SYRIA DRAMA
+http://ktv.im:8080/122334/122334/421282
+#EXTINF:-1 tvg-id="" tvg-name="AR| SYRIA SATELLITE" tvg-logo="" group-title="AR | SYRIA",AR| SYRIA SATELLITE
+http://ktv.im:8080/122334/122334/421286
+#EXTINF:-1 tvg-id="" tvg-name="AR| LANA TV" tvg-logo="" group-title="AR | SYRIA",AR| LANA TV
+http://ktv.im:8080/122334/122334/421288
+#EXTINF:-1 tvg-id="" tvg-name="AR| LANA TV HD" tvg-logo="" group-title="AR | SYRIA",AR| LANA TV HD
+http://ktv.im:8080/122334/122334/421289
+#EXTINF:-1 tvg-id="" tvg-name="AR| SYRIA EDUCATION" tvg-logo="" group-title="AR | SYRIA",AR| SYRIA EDUCATION
+http://ktv.im:8080/122334/122334/421291
+#EXTINF:-1 tvg-id="" tvg-name="AR| HALAB TODAY" tvg-logo="" group-title="AR | SYRIA",AR| HALAB TODAY
+http://ktv.im:8080/122334/122334/421293
+#EXTINF:-1 tvg-id="" tvg-name="AR| NOUR ALSHAM" tvg-logo="" group-title="AR | SYRIA",AR| NOUR ALSHAM
+http://ktv.im:8080/122334/122334/421296
+#EXTINF:-1 tvg-id="" tvg-name="AR| MINBIJ TV" tvg-logo="" group-title="AR | SYRIA",AR| MINBIJ TV
+http://ktv.im:8080/122334/122334/421298
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALYAUM TV HD" tvg-logo="" group-title="AR | SYRIA",AR| ALYAUM TV HD
+http://ktv.im:8080/122334/122334/421300
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALALAM SYRIA" tvg-logo="" group-title="AR | SYRIA",AR| ALALAM SYRIA
+http://ktv.im:8080/122334/122334/421301
+#EXTINF:-1 tvg-id="" tvg-name="AR| SAKAKER TV" tvg-logo="" group-title="AR | SYRIA",AR| SAKAKER TV
+http://ktv.im:8080/122334/122334/421303
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALKHABAR TV 4K" tvg-logo="" group-title="AR | SYRIA",AR| ALKHABAR TV 4K
+http://ktv.im:8080/122334/122334/421304
+#EXTINF:-1 tvg-id="" tvg-name="AR| SYRIA CH1 TV" tvg-logo="" group-title="AR | SYRIA",AR| SYRIA CH1 TV
+http://ktv.im:8080/122334/122334/421307
+#EXTINF:-1 tvg-id="" tvg-name="AR| SYRIA SPORT 24 TV" tvg-logo="" group-title="AR | SYRIA",AR| SYRIA SPORT 24 TV
+http://ktv.im:8080/122334/122334/421308
+#EXTINF:-1 tvg-id="" tvg-name="AR| SOURYANA TV" tvg-logo="" group-title="AR | SYRIA",AR| SOURYANA TV
+http://ktv.im:8080/122334/122334/421309
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALKHABAR TV" tvg-logo="" group-title="AR | SYRIA",AR| ALKHABAR TV
+http://ktv.im:8080/122334/122334/421310
+
 
 #EXTINF:-1 tvg-id=" "  group-title="AR|LEBANON",LEB| AL JADEED FHD
 http://extraott.com:80/5579352369/4036149514/15166
