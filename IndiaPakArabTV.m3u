@@ -42,9 +42,118 @@ http://ktv.im:8080/122334/122334/82668
 http://ktv.im:8080/122334/122334/82669
 #EXTINF:-1 tvg-id="" tvg-name="PK- PTV NATIONAL" tvg-logo="" group-title="AS | PAKISTAN NEWS",PK- PTV NATIONAL
 http://ktv.im:8080/122334/122334/82694
-
+#EXTINF:-1 tvg-id="Aaj Tak HD" tvg-name=" AAJ TAK HD" tvg-logo="" group-title="AS | INDIAN NEWS", AAJ TAK HD
+http://ktv.im:8080/122334/122334/78448
+#EXTINF:-1 tvg-id="Zee News" tvg-name="ZEE NEWS" tvg-logo="" group-title="AS | INDIAN NEWS",ZEE NEWS
+http://ktv.im:8080/122334/122334/78449
+#EXTINF:-1 tvg-id="Zee News" tvg-name="ZEE NEWS HD" tvg-logo="" group-title="AS | INDIAN NEWS",ZEE NEWS HD
+http://ktv.im:8080/122334/122334/78450
+#EXTINF:-1 tvg-id="ABP News" tvg-name="ABP NEWS" tvg-logo="" group-title="AS | INDIAN NEWS",ABP NEWS
+http://ktv.im:8080/122334/122334/78451
 #EXTINF:-1 tvg-id="Asianet.in" tvg-name="ASIANET HD" tvg-logo="" group-title="AS | IN | MALAYALAM",ASIANET HD
 http://ktv.im:8080/122334/122334/81761
+EXTINF:-1 tvg-id="Zee Hindustan" tvg-name="ZEE HINDUSTAN" tvg-logo="" group-title="AS | INDIA",ZEE HINDUSTAN
+http://ktv.im:8080/122334/122334/86158
+#EXTINF:-1 tvg-id="India TV" tvg-name="INDIA TV" tvg-logo="" group-title="AS | INDIA",INDIA TV
+http://ktv.im:8080/122334/122334/86156
+#EXTINF:-1 tvg-id="" tvg-name="SONY SD" tvg-logo="" group-title="AS | INDIA ENTERTAINMENT",SONY SD
+http://ktv.im:8080/122334/122334/86160
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1 (FHD)" tvg-logo="" group-title="AS | INDIAN SPORTS",IN: Star Sports Select 1 (FHD)
+http://ktv.im:8080/122334/122334/5427
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2 (FHD)" tvg-logo="" group-title="AS | INDIAN SPORTS",IN: Star Sports Select 2 (FHD)
+http://ktv.im:8080/122334/122334/5428
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 1 (FHD)" tvg-logo="" group-title="AS | INDIAN SPORTS",IN: Sony Ten 1 (FHD)
+http://ktv.im:8080/122334/122334/5429
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 3 (FHD)" tvg-logo="" group-title="AS | INDIAN SPORTS",IN: Sony Ten 3 (FHD)
+http://ktv.im:8080/122334/122334/5430
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 5 (FHD)" tvg-logo="" group-title="AS | INDIAN SPORTS",IN: SONY TEN 5 (FHD)
+http://ktv.im:8080/122334/122334/5431
+#EXTINF:-1 tvg-id="" tvg-name=" ZEE PUNJABI NEWS" tvg-logo="" group-title="AS | IN | PUNJAB", ZEE PUNJABI NEWS
+http://ktv.im:8080/122334/122334/88131
+#EXTINF:-1 tvg-id="" tvg-name=" NEWS18 PUNJAB/HARYANA/HIMACHAL" tvg-logo="" group-title="AS | IN | PUNJAB", NEWS18 PUNJAB/HARYANA/HIMACHAL
+http://ktv.im:8080/122334/122334/88132
+#EXTINF:-1 tvg-id="" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="AS | IN | PUNJAB",ZEE PUNJABI
+http://ktv.im:8080/122334/122334/88152
+#EXTINF:-1 tvg-id="" tvg-name=" KHALISTAN TV HD" tvg-logo="" group-title="AS | IN | PUNJAB", KHALISTAN TV HD
+http://ktv.im:8080/122334/122334/88118
+#EXTINF:-1 tvg-id="Zee 24 Taas" tvg-name="ZEE  24 TAAS" tvg-logo="" group-title="AS | IN | MARATHI",ZEE  24 TAAS
+http://ktv.im:8080/122334/122334/84302
+#EXTINF:-1 tvg-id="DD Sahyadri" tvg-name="DD SAHYADRI HD(LK)" tvg-logo="" group-title="AS | IN | MARATHI",DD SAHYADRI HD(LK)
+http://ktv.im:8080/122334/122334/84296
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Chhattisgarh SD" tvg-logo="" group-title="AS | INDIA",IN: DD Chhattisgarh SD
+http://ktv.im:8080/122334/122334/431385
+#EXTINF:-1 tvg-id="DD National" tvg-name=" DD NATIONAL HD" tvg-logo="" group-title="AS | INDIA", DD NATIONAL HD
+http://ktv.im:8080/122334/122334/86136
+#EXTINF:-1 tvg-id="DD Bihar" tvg-name=" DD BIHAR" tvg-logo="" group-title="AS | INDIA", DD BIHAR
+http://ktv.im:8080/122334/122334/86137
+#EXTINF:-1 tvg-id="DD India" tvg-name="DD INDIA" tvg-logo="" group-title="AS | INDIA",DD INDIA
+http://ktv.im:8080/122334/122334/86138
+#EXTINF:-1 tvg-id="DD Bharati" tvg-name="DD BHARATI" tvg-logo="" group-title="AS | INDIA",DD BHARATI
+http://ktv.im:8080/122334/122334/86139
+#EXTINF:-1 tvg-id="" tvg-name=" DD KASHIR" tvg-logo="" group-title="AS | INDIA", DD KASHIR
+http://ktv.im:8080/122334/122334/86140
+#EXTINF:-1 tvg-id="DD Kisan" tvg-name="DD KISAN" tvg-logo="" group-title="AS | INDIA",DD KISAN
+http://ktv.im:8080/122334/122334/86141
+#EXTINF:-1 tvg-id="DD Sports" tvg-name=" DD SPORTS" tvg-logo="" group-title="AS | INDIA", DD SPORTS
+http://ktv.im:8080/122334/122334/86142
+#EXTINF:-1 tvg-id="DD India" tvg-name=" DD INDIA" tvg-logo="" group-title="AS | INDIA", DD INDIA
+http://ktv.im:8080/122334/122334/86143
+#EXTINF:-1 tvg-id="DD Uttar Pradesh" tvg-name=" DD UTTAR PRADESH" tvg-logo="" group-title="AS | INDIA", DD UTTAR PRADESH
+http://ktv.im:8080/122334/122334/86144
+#EXTINF:-1 tvg-id="" tvg-name=" DD SAHAYADRI" tvg-logo="" group-title="AS | INDIA", DD SAHAYADRI
+http://ktv.im:8080/122334/122334/86145
+#EXTINF:-1 tvg-id="Zee Salaam" tvg-name="ZEE SALAM" tvg-logo="" group-title="AS | INDIA",ZEE SALAM
+http://ktv.im:8080/122334/122334/86146
+#EXTINF:-1 tvg-id="Sony Wah" tvg-name="SONY WAH" tvg-logo="" group-title="AS | INDIA",SONY WAH
+http://ktv.im:8080/122334/122334/86147
+#EXTINF:-1 tvg-id="" tvg-name="IN: DD Madhya Pradesh" tvg-logo="" group-title="AS | INDIA",IN: DD Madhya Pradesh
+http://ktv.im:8080/122334/122334/431390
+#EXTINF:-1 tvg-id="DD Podhigai" tvg-name="DD PODHIGAI" tvg-logo="" group-title="AS | IN | TAMIL",DD PODHIGAI
+http://ktv.im:8080/122334/122334/82964
+#EXTINF:-1 tvg-id="DD Podhigai" tvg-name="DD PODHIGAI HD" tvg-logo="" group-title="AS | IN | TAMIL",DD PODHIGAI HD
+http://ktv.im:8080/122334/122334/82965
+#EXTINF:-1 tvg-id="" tvg-name=" DD PUNJABI" tvg-logo="" group-title="AS | IN | PUNJAB", DD PUNJABI
+http://ktv.im:8080/122334/122334/88129
+#EXTINF:-1 tvg-id="DD North East" tvg-name="DD NORTH EAST" tvg-logo="" group-title="AS | IN | ASSAM",DD NORTH EAST
+http://ktv.im:8080/122334/122334/88441
+#EXTINF:-1 tvg-id="DD Odia" tvg-name="DD ODIA" tvg-logo="" group-title="AS | IN | ORIYA",DD ODIA
+http://ktv.im:8080/122334/122334/88482
+#EXTINF:-1 tvg-id="Rang" tvg-name="RANG" tvg-logo="" group-title="AS | IN | ASSAM",RANG
+http://ktv.im:8080/122334/122334/88442
+#EXTINF:-1 tvg-id="Indradhanu" tvg-name="ADHANU" tvg-logo="" group-title="AS | IN | ASSAM",ADHANU
+http://ktv.im:8080/122334/122334/88443
+#EXTINF:-1 tvg-id="Ramdhenu" tvg-name="RAMDHENU" tvg-logo="" group-title="AS | IN | ASSAM",RAMDHENU
+http://ktv.im:8080/122334/122334/88444
+#EXTINF:-1 tvg-id="" tvg-name=" DY 365" tvg-logo="" group-title="AS | IN | ASSAM", DY 365
+http://ktv.im:8080/122334/122334/88445
+#EXTINF:-1 tvg-id="News18 Assam North East" tvg-name=" NEWS18 ASSAM NORTH EAST" tvg-logo="" group-title="AS | IN | ASSAM", NEWS18 ASSAM NORTH EAST
+http://ktv.im:8080/122334/122334/88446
+#EXTINF:-1 tvg-id="Prag News" tvg-name="PRAG NEWS" tvg-logo="" group-title="AS | IN | ASSAM",PRAG NEWS
+http://ktv.im:8080/122334/122334/88447
+#EXTINF:-1 tvg-id="Zee Kannada" tvg-name="ZEE KANNADA SD" tvg-logo="" group-title="AS | IN | KANNADA",ZEE KANNADA SD
+http://ktv.im:8080/122334/122334/84202
+#EXTINF:-1 tvg-id="Zee Kannada HD" tvg-name="ZEE KANNADA HD" tvg-logo="" group-title="AS | IN | KANNADA",ZEE KANNADA HD
+http://ktv.im:8080/122334/122334/84203
+#EXTINF:-1 tvg-id="" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="AS | IN | PUNJAB",ZEE PUNJABI
+http://ktv.im:8080/122334/122334/88152
+#EXTINF:-1 tvg-id="" tvg-name="PTC SIMRAN" tvg-logo="" group-title="AS | IN | PUNJAB",PTC SIMRAN
+http://ktv.im:8080/122334/122334/88084
+#EXTINF:-1 tvg-id="" tvg-name="PTC PUNJABI GOLD HD" tvg-logo="" group-title="AS | IN | PUNJAB",PTC PUNJABI GOLD HD
+http://ktv.im:8080/122334/122334/88085
+#EXTINF:-1 tvg-id="PTC Punjabi" tvg-name="PTC PUNJABI" tvg-logo="" group-title="AS | IN | PUNJAB",PTC PUNJABI
+http://ktv.im:8080/122334/122334/88092
+#EXTINF:-1 tvg-id="Zee Tamil" tvg-name=" ZEE TAMIL" tvg-logo="" group-title="AS | IN | TAMIL", ZEE TAMIL
+http://ktv.im:8080/122334/122334/82916
+#EXTINF:-1 tvg-id="Zee Tamil" tvg-name="ZEE TAMIL  (4K)" tvg-logo="" group-title="AS | IN | TAMIL",ZEE TAMIL  (4K)
+http://ktv.im:8080/122334/122334/82917
+#EXTINF:-1 tvg-id="Zee Tamil HD" tvg-name="ZEE TAMIL HD (USA)" tvg-logo="" group-title="AS | IN | TAMIL",ZEE TAMIL HD (USA)
+http://ktv.im:8080/122334/122334/82919
+#EXTINF:-1 tvg-id="Media One" tvg-name="Media One 4K" tvg-logo="" group-title="AS | IN | MALAYALAM",Media One 4K
+http://ktv.im:8080/122334/122334/81778
+#EXTINF:-1 tvg-id="News18 Kerala" tvg-name="NEWS 18 KERELA HD" tvg-logo="" group-title="AS | IN | MALAYALAM",NEWS 18 KERELA HD
+http://ktv.im:8080/122334/122334/81779
+#EXTINF:-1 tvg-id="Asianet News" tvg-name="ASIANET NEWS HD" tvg-logo="" group-title="AS | IN | MALAYALAM",ASIANET NEWS HD
+http://ktv.im:8080/122334/122334/81765
 
 #EXTINF:-1,MV: Maldives TV
 https://live.maldivestv.mv/hls/stream/index.m3u8
