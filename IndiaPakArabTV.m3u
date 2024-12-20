@@ -163,6 +163,66 @@ https://stream.raajje.mv/live/rtv_live/index.m3u8
 http://extraott.com:80/5579352369/4036149514/401439968
 #EXTINF:-1,CHANNEL 13 (Maldives)
 http://extraott.com:80/5579352369/4036149514/401439969
+#EXTINF:-1 tvg-id="" tvg-name="ADA-DERENA24" tvg-logo="" group-title="AS | SRILANKA",ADA-DERENA24
+http://ktv.im:8080/122334/122334/88236
+#EXTINF:-1 tvg-id="" tvg-name="ART-TELEVISION" tvg-logo="" group-title="AS | SRILANKA",ART-TELEVISION
+http://ktv.im:8080/122334/122334/88237
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL-C" tvg-logo="" group-title="AS | SRILANKA",CHANNEL-C
+http://ktv.im:8080/122334/122334/88240
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL-ONE" tvg-logo="" group-title="AS | SRILANKA",CHANNEL-ONE
+http://ktv.im:8080/122334/122334/88241
+#EXTINF:-1 tvg-id="" tvg-name="HARITHA TV" tvg-logo="" group-title="AS | SRILANKA",HARITHA TV
+http://ktv.im:8080/122334/122334/88243
+#EXTINF:-1 tvg-id="" tvg-name="HIRUTV" tvg-logo="" group-title="AS | SRILANKA",HIRUTV
+http://ktv.im:8080/122334/122334/88247
+#EXTINF:-1 tvg-id="" tvg-name="ITN" tvg-logo="" group-title="AS | SRILANKA",ITN
+http://ktv.im:8080/122334/122334/88248
+#EXTINF:-1 tvg-id="" tvg-name="NETHRA TV" tvg-logo="" group-title="AS | SRILANKA",NETHRA TV
+http://ktv.im:8080/122334/122334/88249
+#EXTINF:-1 tvg-id="" tvg-name="NETHRA TV TAMIL" tvg-logo="" group-title="AS | SRILANKA",NETHRA TV TAMIL
+http://ktv.im:8080/122334/122334/88250
+#EXTINF:-1 tvg-id="" tvg-name="PRAGNA-TV" tvg-logo="" group-title="AS | SRILANKA",PRAGNA-TV
+http://ktv.im:8080/122334/122334/88251
+#EXTINF:-1 tvg-id="" tvg-name="RANGIRI-SRI-LANKA" tvg-logo="" group-title="AS | SRILANKA",RANGIRI-SRI-LANKA
+http://ktv.im:8080/122334/122334/88252
+#EXTINF:-1 tvg-id="" tvg-name="RIDEE-TV" tvg-logo="" group-title="AS | SRILANKA",RIDEE-TV
+http://ktv.im:8080/122334/122334/88253
+#EXTINF:-1 tvg-id="" tvg-name="RUPAVAHINI" tvg-logo="" group-title="AS | SRILANKA",RUPAVAHINI
+http://ktv.im:8080/122334/122334/88254
+#EXTINF:-1 tvg-id="" tvg-name="SHAKTHI-TV" tvg-logo="" group-title="AS | SRILANKA",SHAKTHI-TV
+http://ktv.im:8080/122334/122334/88255
+#EXTINF:-1 tvg-id="" tvg-name="SHRADDHA-TV" tvg-logo="" group-title="AS | SRILANKA",SHRADDHA-TV
+http://ktv.im:8080/122334/122334/88256
+#EXTINF:-1 tvg-id="" tvg-name="SIRASA-TV" tvg-logo="" group-title="AS | SRILANKA",SIRASA-TV
+http://ktv.im:8080/122334/122334/88257
+#EXTINF:-1 tvg-id="" tvg-name="SIYATHA-TV" tvg-logo="" group-title="AS | SRILANKA",SIYATHA-TV
+http://ktv.im:8080/122334/122334/88258
+#EXTINF:-1 tvg-id="" tvg-name="SWARNAVAHINI" tvg-logo="" group-title="AS | SRILANKA",SWARNAVAHINI
+http://ktv.im:8080/122334/122334/88259
+#EXTINF:-1 tvg-id="" tvg-name="TNL" tvg-logo="" group-title="AS | SRILANKA",TNL
+http://ktv.im:8080/122334/122334/88260
+#EXTINF:-1 tvg-id="" tvg-name="TV-DERANA" tvg-logo="" group-title="AS | SRILANKA",TV-DERANA
+http://ktv.im:8080/122334/122334/88261
+#EXTINF:-1 tvg-id="" tvg-name="TV-DIDULA" tvg-logo="" group-title="AS | SRILANKA",TV-DIDULA
+http://ktv.im:8080/122334/122334/88262
+#EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="" group-title="AS | SRILANKA",TV1
+http://ktv.im:8080/122334/122334/88263
+#EXTINF:-1 tvg-id="" tvg-name="TRACE-TV" tvg-logo="" group-title="AS | SRILANKA",TRACE-TV
+http://ktv.im:8080/122334/122334/88264
+#EXTINF:-1 tvg-id="" tvg-name="VASANTHAM" tvg-logo="" group-title="AS | SRILANKA",VASANTHAM
+http://ktv.im:8080/122334/122334/88265
+#EXTINF:-1 tvg-id="" tvg-name="HI-TV LANKA" tvg-logo="" group-title="AS | SRILANKA",HI-TV LANKA
+http://ktv.im:8080/122334/122334/88266
+#EXTINF:-1 tvg-id="" tvg-name="SUPREME-TV LANKA" tvg-logo="" group-title="AS | SRILANKA",SUPREME-TV LANKA
+http://ktv.im:8080/122334/122334/88267
+#EXTINF:-1 tvg-id="" tvg-name="STAR TAMIL" tvg-logo="" group-title="AS | SRILANKA",STAR TAMIL
+http://ktv.im:8080/122334/122334/88268
+#EXTINF:-1 tvg-id="" tvg-name="Color tamil" tvg-logo="" group-title="AS | SRILANKA",Color tamil
+http://ktv.im:8080/122334/122334/88269
+#EXTINF:-1 tvg-id="" tvg-name="zee tamil" tvg-logo="" group-title="AS | SRILANKA",zee tamil
+http://ktv.im:8080/122334/122334/88270
+#EXTINF:-1 tvg-id="" tvg-name="Sirippoli TV" tvg-logo="" group-title="AS | SRILANKA",Sirippoli TV
+http://ktv.im:8080/122334/122334/88271
 
 #EXTINF:-1 tvg-id="" tvg-name="AR| AL SHARQIYA NEWS 4K" tvg-logo="" group-title="AR | IRAQ",AR| AL SHARQIYA NEWS 4K
 http://ktv.im:8080/122334/122334/421643
