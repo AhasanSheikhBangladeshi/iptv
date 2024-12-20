@@ -43,6 +43,9 @@ http://ktv.im:8080/122334/122334/82669
 #EXTINF:-1 tvg-id="" tvg-name="PK- PTV NATIONAL" tvg-logo="" group-title="AS | PAKISTAN NEWS",PK- PTV NATIONAL
 http://ktv.im:8080/122334/122334/82694
 
+#EXTINF:-1 tvg-id="Asianet.in" tvg-name="ASIANET HD" tvg-logo="" group-title="AS | IN | MALAYALAM",ASIANET HD
+http://ktv.im:8080/122334/122334/81761
+
 #EXTINF:-1,MV: Maldives TV
 https://live.maldivestv.mv/hls/stream/index.m3u8
 #EXTINF:-1,MV: Rajje TV
@@ -403,6 +406,8 @@ http://ktv.im:8080/122334/122334/421833
 http://ktv.im:8080/122334/122334/421835
 #EXTINF:-1 tvg-id="" tvg-name="AR: ALMASRYIA SD" tvg-logo="" group-title="AR | EGYPT",AR: ALMASRYIA SD
 http://ktv.im:8080/122334/122334/421846
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALOULA 4K" tvg-logo="" group-title="AR | EGYPT",AR: ALOULA 4K
+http://ktv.im:8080/122334/122334/421849
 #EXTINF:-1 tvg-id="" tvg-name="AR: ALOULA SD" tvg-logo="" group-title="AR | EGYPT",AR: ALOULA SD
 http://ktv.im:8080/122334/122334/421850
 #EXTINF:-1 tvg-id="" tvg-name="AR: ALTHANYA" tvg-logo="" group-title="AR | EGYPT",AR: ALTHANYA
@@ -448,25 +453,52 @@ http://ktv.im:8080/122334/122334/421905
 #EXTINF:-1 tvg-id="" tvg-name="AR: NILE DRAMA" tvg-logo="" group-title="AR | EGYPT",AR: NILE DRAMA
 http://ktv.im:8080/122334/122334/421906
 
-
-#EXTINF:-1,SUDAN| SUDAN TV HD
-http://extraott.com:80/5579352369/4036149514/14926
-#EXTINF:-1,SUDAN| SOUTH SUDAN SD
-http://extraott.com:80/5579352369/4036149514/43122
-#EXTINF:-1,SUDAN| SUDAN AL ISTIJABA TV SD
-http://extraott.com:80/5579352369/4036149514/112324
-#EXTINF:-1,SUDAN| TAYBA TV SD
-http://extraott.com:80/5579352369/4036149514/14919
-#EXTINF:-1,SUDAN| SUDAN BUKRA SD
-http://extraott.com:80/5579352369/4036149514/112323
-#EXTINF:-1,LIBYA| Libya Alwataniya
-http://opplex.tv:8080/live/6554336/1478554/352006.ts
-#EXTINF:-1,LIBYA|Libya Al Ahrar
-http://opplex.tv:8080/live/6554336/1478554/352007.ts
-#EXTINF:-1,LIBYA| Libya Al Rasmia
-http://opplex.tv:8080/live/6554336/1478554/352009.ts
-#EXTINF:-1,LIBYA| February TV
-http://opplex.tv:8080/live/6554336/1478554/352010.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| SUDAN SECONDARY EDU" tvg-logo="" group-title="AR | SUDAN",AR| SUDAN SECONDARY EDU
+http://ktv.im:8080/122334/122334/421324
+#EXTINF:-1 tvg-id="" tvg-name="AR| KHARTOUM TV" tvg-logo="" group-title="AR | SUDAN",AR| KHARTOUM TV
+http://ktv.im:8080/122334/122334/421325
+#EXTINF:-1 tvg-id="" tvg-name="AR| NEW LIBYA 4K" tvg-logo="" group-title="AR | LIBYA",AR| NEW LIBYA 4K
+http://ktv.im:8080/122334/122334/421498
+#EXTINF:-1 tvg-id="" tvg-name="AR| NEW LIBYA 6H" tvg-logo="" group-title="AR | LIBYA",AR| NEW LIBYA 6H
+http://ktv.im:8080/122334/122334/421499
+#EXTINF:-1 tvg-id="" tvg-name="AR| NABA TV" tvg-logo="" group-title="AR | LIBYA",AR| NABA TV
+http://ktv.im:8080/122334/122334/421500
+#EXTINF:-1 tvg-id="" tvg-name="AR| LIBYA WTV 4K" tvg-logo="" group-title="AR | LIBYA",AR| LIBYA WTV 4K
+http://ktv.im:8080/122334/122334/421501
+#EXTINF:-1 tvg-id="" tvg-name="AR| FEBRAUARY TV" tvg-logo="" group-title="AR | LIBYA",AR| FEBRAUARY TV
+http://ktv.im:8080/122334/122334/421502
+#EXTINF:-1 tvg-id="" tvg-name="AR| LIBYA EDUCATION" tvg-logo="" group-title="AR | LIBYA",AR| LIBYA EDUCATION
+http://ktv.im:8080/122334/122334/421503
+#EXTINF:-1 tvg-id="" tvg-name="AR| LIBYA ALWATANYA 4K" tvg-logo="" group-title="AR | LIBYA",AR| LIBYA ALWATANYA 4K
+http://ktv.im:8080/122334/122334/421504
+#EXTINF:-1 tvg-id="" tvg-name="AR| LIBYA ALRASMIA" tvg-logo="" group-title="AR | LIBYA",AR| LIBYA ALRASMIA
+http://ktv.im:8080/122334/122334/421505
+#EXTINF:-1 tvg-id="" tvg-name="AR| LIBYA ALAHRAR 4K" tvg-logo="" group-title="AR | LIBYA",AR| LIBYA ALAHRAR 4K
+http://ktv.im:8080/122334/122334/421506
+#EXTINF:-1 tvg-id="" tvg-name="AR| LIBYA ALJARRAH TV" tvg-logo="" group-title="AR | LIBYA",AR| LIBYA ALJARRAH TV
+http://ktv.im:8080/122334/122334/421507
+#EXTINF:-1 tvg-id="" tvg-name="AR| Libya Alhadath TV" tvg-logo="" group-title="AR | LIBYA",AR| Libya Alhadath TV
+http://ktv.im:8080/122334/122334/421508
+#EXTINF:-1 tvg-id="" tvg-name="AR| LIBYA ALMUSTAQBAL TV" tvg-logo="" group-title="AR | LIBYA",AR| LIBYA ALMUSTAQBAL TV
+http://ktv.im:8080/122334/122334/421509
+#EXTINF:-1 tvg-id="" tvg-name="AR| LIBYA ALMASAR TV 4K" tvg-logo="" group-title="AR | LIBYA",AR| LIBYA ALMASAR TV 4K
+http://ktv.im:8080/122334/122334/421510
+#EXTINF:-1 tvg-id="" tvg-name="AR| LIBYA ALMASAR SD" tvg-logo="" group-title="AR | LIBYA",AR| LIBYA ALMASAR SD
+http://ktv.im:8080/122334/122334/421511
+#EXTINF:-1 tvg-id="" tvg-name="AR| LIBYA IFTA TV" tvg-logo="" group-title="AR | LIBYA",AR| LIBYA IFTA TV
+http://ktv.im:8080/122334/122334/421512
+#EXTINF:-1 tvg-id="" tvg-name="AR| LEBDA TV 4K" tvg-logo="" group-title="AR | LIBYA",AR| LEBDA TV 4K
+http://ktv.im:8080/122334/122334/421513
+#EXTINF:-1 tvg-id="" tvg-name="AR| SALAM TV" tvg-logo="" group-title="AR | LIBYA",AR| SALAM TV
+http://ktv.im:8080/122334/122334/421514
+#EXTINF:-1 tvg-id="" tvg-name="AR| TANASUH EDUCATION TV" tvg-logo="" group-title="AR | LIBYA",AR| TANASUH EDUCATION TV
+http://ktv.im:8080/122334/122334/421515
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL ASRAR TV" tvg-logo="" group-title="AR | LIBYA",AR| AL ASRAR TV
+http://ktv.im:8080/122334/122334/421516
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALMUSTAKILA TV" tvg-logo="" group-title="AR | LIBYA",AR| ALMUSTAKILA TV
+http://ktv.im:8080/122334/122334/421517
+#EXTINF:-1 tvg-id="" tvg-name="AR| TELVZA TV" tvg-logo="" group-title="AR | LIBYA",AR| TELVZA TV
+http://ktv.im:8080/122334/122334/421518
 
 #EXTINF:-1,IR Simaye Azadi Iranntv
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
