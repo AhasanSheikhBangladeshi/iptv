@@ -58,24 +58,16 @@ http://ktv.im:8080/122334/122334/86158
 http://ktv.im:8080/122334/122334/86156
 #EXTINF:-1 tvg-id="" tvg-name="SONY SD" tvg-logo="" group-title="AS | INDIA ENTERTAINMENT",SONY SD
 http://ktv.im:8080/122334/122334/86160
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1 (FHD)" tvg-logo="" group-title="AS | INDIAN SPORTS",IN: Star Sports Select 1 (FHD)
-http://ktv.im:8080/122334/122334/5427
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2 (FHD)" tvg-logo="" group-title="AS | INDIAN SPORTS",IN: Star Sports Select 2 (FHD)
-http://ktv.im:8080/122334/122334/5428
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 1 (FHD)" tvg-logo="" group-title="AS | INDIAN SPORTS",IN: Sony Ten 1 (FHD)
 http://ktv.im:8080/122334/122334/5429
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 3 (FHD)" tvg-logo="" group-title="AS | INDIAN SPORTS",IN: Sony Ten 3 (FHD)
 http://ktv.im:8080/122334/122334/5430
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 5 (FHD)" tvg-logo="" group-title="AS | INDIAN SPORTS",IN: SONY TEN 5 (FHD)
-http://ktv.im:8080/122334/122334/5431
 #EXTINF:-1 tvg-id="" tvg-name=" ZEE PUNJABI NEWS" tvg-logo="" group-title="AS | IN | PUNJAB", ZEE PUNJABI NEWS
 http://ktv.im:8080/122334/122334/88131
 #EXTINF:-1 tvg-id="" tvg-name=" NEWS18 PUNJAB/HARYANA/HIMACHAL" tvg-logo="" group-title="AS | IN | PUNJAB", NEWS18 PUNJAB/HARYANA/HIMACHAL
 http://ktv.im:8080/122334/122334/88132
 #EXTINF:-1 tvg-id="" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="AS | IN | PUNJAB",ZEE PUNJABI
 http://ktv.im:8080/122334/122334/88152
-#EXTINF:-1 tvg-id="" tvg-name=" KHALISTAN TV HD" tvg-logo="" group-title="AS | IN | PUNJAB", KHALISTAN TV HD
-http://ktv.im:8080/122334/122334/88118
 #EXTINF:-1 tvg-id="Zee 24 Taas" tvg-name="ZEE  24 TAAS" tvg-logo="" group-title="AS | IN | MARATHI",ZEE  24 TAAS
 http://ktv.im:8080/122334/122334/84302
 #EXTINF:-1 tvg-id="DD Sahyadri" tvg-name="DD SAHYADRI HD(LK)" tvg-logo="" group-title="AS | IN | MARATHI",DD SAHYADRI HD(LK)
@@ -134,20 +126,12 @@ http://ktv.im:8080/122334/122334/88447
 http://ktv.im:8080/122334/122334/84202
 #EXTINF:-1 tvg-id="Zee Kannada HD" tvg-name="ZEE KANNADA HD" tvg-logo="" group-title="AS | IN | KANNADA",ZEE KANNADA HD
 http://ktv.im:8080/122334/122334/84203
-#EXTINF:-1 tvg-id="" tvg-name="ZEE PUNJABI" tvg-logo="" group-title="AS | IN | PUNJAB",ZEE PUNJABI
-http://ktv.im:8080/122334/122334/88152
-#EXTINF:-1 tvg-id="" tvg-name="PTC SIMRAN" tvg-logo="" group-title="AS | IN | PUNJAB",PTC SIMRAN
-http://ktv.im:8080/122334/122334/88084
-#EXTINF:-1 tvg-id="" tvg-name="PTC PUNJABI GOLD HD" tvg-logo="" group-title="AS | IN | PUNJAB",PTC PUNJABI GOLD HD
+ GOLD HD" tvg-logo="" group-title="AS | IN | PUNJAB",PTC PUNJABI GOLD HD
 http://ktv.im:8080/122334/122334/88085
 #EXTINF:-1 tvg-id="PTC Punjabi" tvg-name="PTC PUNJABI" tvg-logo="" group-title="AS | IN | PUNJAB",PTC PUNJABI
 http://ktv.im:8080/122334/122334/88092
 #EXTINF:-1 tvg-id="Zee Tamil" tvg-name=" ZEE TAMIL" tvg-logo="" group-title="AS | IN | TAMIL", ZEE TAMIL
 http://ktv.im:8080/122334/122334/82916
-#EXTINF:-1 tvg-id="Zee Tamil" tvg-name="ZEE TAMIL  (4K)" tvg-logo="" group-title="AS | IN | TAMIL",ZEE TAMIL  (4K)
-http://ktv.im:8080/122334/122334/82917
-#EXTINF:-1 tvg-id="Zee Tamil HD" tvg-name="ZEE TAMIL HD (USA)" tvg-logo="" group-title="AS | IN | TAMIL",ZEE TAMIL HD (USA)
-http://ktv.im:8080/122334/122334/82919
 #EXTINF:-1 tvg-id="Media One" tvg-name="Media One 4K" tvg-logo="" group-title="AS | IN | MALAYALAM",Media One 4K
 http://ktv.im:8080/122334/122334/81778
 #EXTINF:-1 tvg-id="News18 Kerala" tvg-name="NEWS 18 KERELA HD" tvg-logo="" group-title="AS | IN | MALAYALAM",NEWS 18 KERELA HD
