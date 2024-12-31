@@ -223,7 +223,7 @@ http://xtv.ooo:8080/19934509/13264089/355193
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id= "Karbala Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Relegious",Karbala Tv Channel
-http://opplextv.cyou:8080/live/0000000000/0000000000/351280.ts
+http://starshare.live:8080/live/7382837374/5003958588/309134.ts
 #EXTINF:-1 tvg-id= "Al Resalah Tv" tvg-logo="https://www.thematv.com/images/channels/al-resalah.png" group-title="Relegious",Al Resalah TV
 http://iptvtree.net:8080/Vladisergeevic/2f71144da3/225180
 #EXTINF:-1 tvg-id="AlAqsaChannel.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" group-title="Arab",Al Aqsa Channel (416p) [Not 24/7]
