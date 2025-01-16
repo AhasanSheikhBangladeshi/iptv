@@ -299,13 +299,13 @@ https://jmc-live.ercdn.net/iqraa/iqraa_576p.m3u8
 #EXTINF:-1 tvg-id="IqraaEuropeAfrica.sa" tvg-name="Iqraa Europe Africa" tvg-country="SA" tvg-language="English" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa Europe Africa (576p) [Not 24/7]
 https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope_576p.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV1.iq",Imam Hussein TV 1 (1080p)
-http://starshare.live:8080/live/7382837374/5003958588/102603.ts
+http://ktv.im:8080/48473774/938388484/421721
 #EXTINF:-1 tvg-id="ImamHusseinTV2.iq",Imam Hussein TV 2 (1080p) 
-http://starshare.live:8080/live/7382837374/5003958588/309176.ts
+http://ktv.im:8080/48473774/938388484/421722
 #EXTINF:-1 tvg-id="ImamHusseinTV3.iq",Imam Hussein TV 3 (1080p) 
-http://starshare.live:8080/live/7382837374/5003958588/102605.ts
+http://ktv.im:8080/48473774/938388484/421723
 #EXTINF:-1 tvg-id="ImamHusseinTV4.iq",Imam Hussein TV 4 (1080p) [Not 24/7]
-http://starshare.live:8080/live/7382837374/5003958588/102602.ts 
+http://ktv.im:8080/48473774/938388484/421724
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-country="IQ" tvg-url="" group-title="Religious",Imam Hussein TV 4 Urdu
 https://mn-nl.mncdn.com:443/arbaeen/arbaeen_hd.smil/chunklist_b708000.m3u8
 
