@@ -274,6 +274,18 @@ http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14966.m3u8
 http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/112314.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEMEN| BELQESS SD" tvg-logo="https://lo1.in/yem/bel.png" group-title="AR | YEMEN",YEMEN| BELQESS SD
 http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/39723.m3u8
+
+#EXTINF:-1 tvg-id="alroyatv.jo" tvg-name="JOR| ROYA HD" tvg-logo="https://lo1.in/FCB/royhd.png" group-title="AR | JORDAN",JOR| ROYA HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15115.m3u8
+#EXTINF:-1 tvg-id="alroyatv.jo" tvg-name="JOR| ROYA HEVC" tvg-logo="https://lo1.in/FCB/royhd.png" group-title="AR | JORDAN",JOR| ROYA HEVC
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/38495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JOR| AMMAN TV HD" tvg-logo="https://lo1.in/FCB/aman.png" group-title="AR | JORDAN",JOR| AMMAN TV HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15109.m3u8
+#EXTINF:-1 tvg-id="almamlakatv.jo" tvg-name="JOR| AL MAMLAKA FHD" tvg-logo="https://lo1.in/jor1/mamlaka.png" group-title="AR | JORDAN",JOR| AL MAMLAKA FHD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15117.m3u8
+#EXTINF:-1 tvg-id="jordantv.jo" tvg-name="JOR| JORDAN TV HD" tvg-logo="https://lo1.in/jor1/jrdnhd.png" group-title="AR | JORDAN",JOR| JORDAN TV HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15116.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SYR| LANA HD" tvg-logo="https://lo1.in/syr1/lana.png" group-title="AR | SYRIA",SYR| LANA HD
 http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14991.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SYR| HALAB TODAY" tvg-logo="https://lo1.in/syr1/halabtdy.png" group-title="AR | SYRIA",SYR| HALAB TODAY
@@ -316,14 +328,72 @@ http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/112379.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PALES| ALKOFIYA SD" tvg-logo="https://lo1.in/pal1/alkofiya.png" group-title="AR | PALESTINE",PALES| ALKOFIYA SD
 http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/112380.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="LEB| AL JADEED FHD" tvg-logo="https://lo1.in/leban1/aljadeed.png" group-title="AR | LEBANON",LEB| AL JADEED FHD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LEB| AL MANAR SD" tvg-logo="https://lo1.in/leban1/almanar.png" group-title="AR | LEBANON",LEB| AL MANAR SD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LEB| FUTURE TV HD" tvg-logo="https://lo1.in/FCB/futurtv.png" group-title="AR | LEBANON",LEB| FUTURE TV HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15162.m3u8
+#EXTINF:-1 tvg-id="mtvlebanon.lb" tvg-name="LEB| MTV LEBANON HD" tvg-logo="https://lo1.in/leban1/mtv.png" group-title="AR | LEBANON",LEB| MTV LEBANON HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LEB| LBC HD" tvg-logo="https://lo1.in/FCB/lbchd.png" group-title="AR | LEBANON",LEB| LBC HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LEB| LBC INTERNATIONAL 2 HD" tvg-logo="https://lo1.in/FCB/lbchd.png" group-title="AR | LEBANON",LEB| LBC INTERNATIONAL 2 HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/6327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LEB| TELELIBAN TV HD" tvg-logo="https://lo1.in/leban1/lebflg.png" group-title="AR | LEBANON",LEB| TELELIBAN TV HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15155.m3u8
+
 #EXTINF:-1 tvg-id="cbc.eg" tvg-name="EGY| CBC" tvg-logo="https://lo1.in/FCB/cbc.png" group-title="AR | EGYPT",EGY| CBC
 http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15253.m3u8
 #EXTINF:-1 tvg-id="alhayat.eg" tvg-name="EGY| AL HAYAT HD" tvg-logo="https://lo1.in/egyy/haytrd.png" group-title="AR | EGYPT",EGY| AL HAYAT HD
 http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/156137.m3u8
 #EXTINF:-1 tvg-id="dmc.eg" tvg-name="EGY| DMC HD" tvg-logo="https://lo1.in/egyy/dmc.png" group-title="AR | EGYPT",EGY| DMC HD
 http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| AL MASRIYA HD" tvg-logo="https://lo1.in/egyy/msr.png" group-title="AR | EGYPT",EGY| AL MASRIYA HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| OULA MASR TV HD" tvg-logo="https://lo1.in/egyy/oulmr.png" group-title="AR | EGYPT",EGY| OULA MASR TV HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| ALTHANYA" tvg-logo="https://lo1.in/FCB/thay.png" group-title="AR | EGYPT",EGY| ALTHANYA
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| AZHARI TV" tvg-logo="https://lo1.in/egyy/azh.png" group-title="AR | EGYPT",EGY| AZHARI TV
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15185.m3u8
+#EXTINF:-1 tvg-id="alkaherawalnas.eg" tvg-name="EGY| AL KAHERA 3 TV HD" tvg-logo="https://lo1.in/egyy/khrwln.png" group-title="AR | EGYPT",EGY| AL KAHERA 3 TV HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/190013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| AL KANAL" tvg-logo="https://lo1.in/egyy/flg.png" group-title="AR | EGYPT",EGY| AL KANAL
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/401469344.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| ALASKANDRIA TV HD" tvg-logo="https://lo1.in/egyy/skandr.png" group-title="AR | EGYPT",EGY| ALASKANDRIA TV HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| ALKANAL TV" tvg-logo="https://lo1.in/egyy/kanal.png" group-title="AR | EGYPT",EGY| ALKANAL TV
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| AL DELTA TV" tvg-logo="https://lo1.in/egyy/delt.png" group-title="AR | EGYPT",EGY| AL DELTA TV
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| ALSA3YDA" tvg-logo="https://lo1.in/egyy/flg.png" group-title="AR | EGYPT",EGY| ALSA3YDA
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/31087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| AL SAIED" tvg-logo="https://lo1.in/egyy/flg.png" group-title="AR | EGYPT",EGY| AL SAIED
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/401469343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| TEBA SD" tvg-logo="https://lo1.in/egyy/teb.png" group-title="AR | EGYPT",EGY| TEBA SD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/112369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| ETC TV SD" tvg-logo="https://lo1.in/egyy/etc.png" group-title="AR | EGYPT",EGY| ETC TV SD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/112371.m3u8
+#EXTINF:-1 tvg-id="alnaharone.eg" tvg-name="EGY| AL NAHAR ONE" tvg-logo="https://lo1.in/egyy/nah1.png" group-title="AR | EGYPT",EGY| AL NAHAR ONE
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| AL NAS" tvg-logo="https://lo1.in/egyy/nas.png" group-title="AR | EGYPT",EGY| AL NAS
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15186.m3u8
+#EXTINF:-1 tvg-id="nilelife.eg" tvg-name="EGY| NILE LIFE" tvg-logo="https://lo1.in/FCB/nillf.png" group-title="AR | EGYPT",EGY| NILE LIFE
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15216.m3u8
+#EXTINF:-1 tvg-id="nilefamily.eg" tvg-name="EGY| NILE FAMILY" tvg-logo="https://lo1.in/egyy/nf.png" group-title="AR | EGYPT",EGY| NILE FAMILY
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| NILE TV INTERNATIONAL" tvg-logo="https://lo1.in/egyy/nil10.png" group-title="AR | EGYPT",EGY| NILE TV INTERNATIONAL
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/29474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| NILE CULTURE HD" tvg-logo="https://lo1.in/egyy/nilcul.png" group-title="AR | EGYPT",EGY| NILE CULTURE HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15215.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="SUDAN| SUDAN TV HD" tvg-logo="https://lo1.in/FCB/sud24hd.png" group-title="AR | SUDAN",SUDAN| SUDAN TV HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUDAN| SOUTH SUDAN SD" tvg-logo="https://lo1.in/FCB/ssbrd.png" group-title="AR | SUDAN",SUDAN| SOUTH SUDAN SD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/43122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUDAN| SUDAN MUSIC SD" tvg-logo="https://lo1.in/sud1/tasetian0.png" group-title="AR | SUDAN",SUDAN| SUDAN MUSIC SD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14924.m3u8
 
 
 
