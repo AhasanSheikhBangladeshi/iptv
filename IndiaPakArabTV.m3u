@@ -6,53 +6,45 @@ http://ktv.im:8080/122334/122334/82647
 http://ktv.im:8080/122334/122334/82648
 #EXTINF:-1 tvg-id="" tvg-name="PK- BOL NEWS HD" tvg-logo="" group-title="AS | PAKISTAN NEWS",PK- BOL NEWS HD
 http://ktv.im:8080/122334/122334/82650
-#EXTINF:-1 tvg-id="" tvg-name="PK- ARY DIGITAL-HD" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK- ARY DIGITAL-HD
-http://ktv.im:8080/122334/122334/82775
-#EXTINF:-1 tvg-id="" tvg-name="PK- ARY DIGITAL-4K" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK- ARY DIGITAL-4K
-http://ktv.im:8080/122334/122334/82776
-#EXTINF:-1 tvg-id="" tvg-name="PK- ARY DIGITAL (UK)" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK- ARY DIGITAL (UK)
-http://ktv.im:8080/122334/122334/82777
-#EXTINF:-1 tvg-id="" tvg-name="PK : GEO TV" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK : GEO TV
-http://ktv.im:8080/122334/122334/82779
-#EXTINF:-1 tvg-id="" tvg-name="PK : GEO TV HD" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK : GEO TV HD
-http://ktv.im:8080/122334/122334/82780
-#EXTINF:-1 tvg-id="" tvg-name="PK- GEO KAHANI-HD" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK- GEO KAHANI-HD
-http://ktv.im:8080/122334/122334/82782
-#EXTINF:-1 tvg-id="" tvg-name="PK- HUM TV-HD" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK- HUM TV-HD
-http://ktv.im:8080/122334/122334/82783
-#EXTINF:-1 tvg-id="" tvg-name="PK- HUM TV 4K" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK- HUM TV 4K
-http://ktv.im:8080/122334/122334/82784
-#EXTINF:-1 tvg-id="" tvg-name="PK- BOL ENTERTAINMENT TV" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK- BOL ENTERTAINMENT TV
-http://ktv.im:8080/122334/122334/82792
-#EXTINF:-1 tvg-id="" tvg-name="PK- BOL ENTERTAINMENT TV HD" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK- BOL ENTERTAINMENT TV HD
-http://ktv.im:8080/122334/122334/82793
-#EXTINF:-1 tvg-id="" tvg-name="PK- AAJ ENTERTAINMENT" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK- AAJ ENTERTAINMENT
-http://ktv.im:8080/122334/122334/82794
-#EXTINF:-1 tvg-id="" tvg-name="PK- AAJ ENTERTAINMENT HD" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK- AAJ ENTERTAINMENT HD
-http://ktv.im:8080/122334/122334/82795
-#EXTINF:-1 tvg-id="" tvg-name="PK : A PLUS" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK : A PLUS
-http://ktv.im:8080/122334/122334/82796
-#EXTINF:-1 tvg-id="" tvg-name="PK : A PLUS HD" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK : A PLUS HD
-http://ktv.im:8080/122334/122334/82797
-#EXTINF:-1 tvg-id="" tvg-name="PK- PTV GLOBAL" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK- PTV GLOBAL
-http://ktv.im:8080/122334/122334/82798
-#EXTINF:-1 tvg-id="" tvg-name="PK- PTV HOME" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK- PTV HOME
-http://ktv.im:8080/122334/122334/82799
-#EXTINF:-1 tvg-id="" tvg-name="PK- PTV NATIONAL" tvg-logo="" group-title="AS | PAKISTAN NEWS",PK- PTV NATIONAL
-http://ktv.im:8080/122334/122334/82694
-#EXTINF:-1 tvg-id="" tvg-name="PK- PTV News HD" tvg-logo="" group-title="AS | PAKISTAN NEWS",PK- PTV News HD
-http://ktv.im:8080/122334/122334/82651
+#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="VIP - PK| PTV HOME HD" tvg-logo="https://lo1.in/pk/ptv.png" group-title="AS | PAKISTAN VIP",VIP - PK| PTV HOME HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400218128.m3u8
+#EXTINF:-1 tvg-id="ptvworld.pk" tvg-name="VIP - PK| PTV WORLD HD" tvg-logo="https://lo1.in/pk/pw.png" group-title="AS | PAKISTAN VIP",VIP - PK| PTV WORLD HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400218127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIP - PK| PTV NATIONAL HD" tvg-logo="https://lo1.in/pk/ptn.png" group-title="AS | PAKISTAN VIP",VIP - PK| PTV NATIONAL HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400218126.m3u8
+#EXTINF:-1 tvg-id="aryqtv.pk" tvg-name="PK| ARY QTV HD" tvg-logo="https://lo1.in/pk/arq.png" group-title="AS | PAKISTAN",PK| ARY QTV HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK| MADANI TV HD" tvg-logo="https://lo1.in/pk/ma.png" group-title="AS | PAKISTAN",PK| MADANI TV HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK| PAIGHAM TV PASHTO HD" tvg-logo="https://lo1.in/pk/pai.png" group-title="AS | PAKISTAN",PK| PAIGHAM TV PASHTO HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK| PEACE TV ENGLISH HD" tvg-logo="https://lo1.in/pk/pet.png" group-title="AS | PAKISTAN",PK| PEACE TV ENGLISH HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK| PEACE TV ENGLISH HEVC" tvg-logo="https://lo1.in/pk/pet.png" group-title="AS | PAKISTAN",PK| PEACE TV ENGLISH HEVC
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/35569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK| PEACE TV URDU HD" tvg-logo="https://lo1.in/pk/petu.png" group-title="AS | PAKISTAN",PK| PEACE TV URDU HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK| AVT KHYBER HD" tvg-logo="https://lo1.in/pk/atk.png" group-title="AS | PAKISTAN",PK| AVT KHYBER HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK| AAJ ENTERTAINMENT HD" tvg-logo="https://lo1.in/pk/aaj.png" group-title="AS | PAKISTAN",PK| AAJ ENTERTAINMENT HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK| ATV ENTERTAINMENT HD" tvg-logo="https://lo1.in/pk/ate.png" group-title="AS | PAKISTAN",PK| ATV ENTERTAINMENT HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK| BOL ENTERTAINMENT FHD" tvg-logo="https://lo1.in/pk/bo.png" group-title="AS | PAKISTAN",PK| BOL ENTERTAINMENT FHD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157939.m3u8
+#EXTINF:-1 tvg-id="arynews.eg" tvg-name="PK| ARY NEWS HD" tvg-logo="https://lo1.in/ind/arn1.png" group-title="AS | PAKISTAN",PK| ARY NEWS HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK| SAAMA NEWS HD" tvg-logo="https://lo1.in/pk/sam.png" group-title="AS | PAKISTAN",PK| SAAMA NEWS HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK| SUCH NEWS HD" tvg-logo="https://lo1.in/pk/sc.png" group-title="AS | PAKISTAN",PK| SUCH NEWS HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157948.m3u8
+#EXTINF:-1 tvg-id="humnews.pk" tvg-name="PK| HUM NEWS FHD" tvg-logo="https://lo1.in/pk/hun.png" group-title="AS | PAKISTAN",PK| HUM NEWS FHD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157981.m3u8
+#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK| 92 NEWS FHD" tvg-logo="https://lo1.in/pk/ne2.png" group-title="AS | PAKISTAN",PK| 92 NEWS FHD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK| BOL NEWS FHD" tvg-logo="https://lo1.in/pk/bn.png" group-title="AS | PAKISTAN",PK| BOL NEWS FHD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157982.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PK- DAWN NEWS" tvg-logo="" group-title="AS | PAKISTAN NEWS",PK- DAWN NEWS
-http://ktv.im:8080/122334/122334/82654
-#EXTINF:-1 tvg-id="" tvg-name="PK- DUNYA NEWS" tvg-logo="" group-title="AS | PAKISTAN NEWS",PK- DUNYA NEWS
-http://ktv.im:8080/122334/122334/82655
-#EXTINF:-1 tvg-id="" tvg-name="PK- HUM NEWS HD" tvg-logo="" group-title="AS | PAKISTAN NEWS",PK- HUM NEWS HD
-http://ktv.im:8080/122334/122334/82657
-#EXTINF:-1 tvg-id="" tvg-name="PK- 92 NEWS" tvg-logo="" group-title="AS | PAKISTAN NEWS",PK- 92 NEWS
-http://ktv.im:8080/122334/122334/82692
-#EXTINF:-1 tvg-id="" tvg-name="PK- KTN News" tvg-logo="" group-title="AS | PAKISTAN NEWS",PK- KTN News
-http://ktv.im:8080/122334/122334/82693
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ADA-DERENA24" tvg-logo="" group-title="AS | SRILANKA",ADA-DERENA24
@@ -116,6 +108,36 @@ http://ktv.im:8080/122334/122334/88645
 http://ktv.im:8080/122334/122334/88646
 #EXTINF:-1 tvg-id="" tvg-name="Janta TV" tvg-logo="" group-title="AS | NEPAL",Janta TV
 http://ktv.im:8080/122334/122334/88647
+
+#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB TV 1 HD" tvg-logo="https://lo1.in/iran/irr9.png" group-title="AS | IRAN",IR| IRIB TV 1 HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/339144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB TV 2 HD" tvg-logo="https://lo1.in/iran/irr0.png" group-title="AS | IRAN",IR| IRIB TV 2 HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/339156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB TV 3 HD" tvg-logo="https://lo1.in/iran/ii.png" group-title="AS | IRAN",IR| IRIB TV 3 HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/339157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB TV 4 HD" tvg-logo="https://lo1.in/iran/ii1.png" group-title="AS | IRAN",IR| IRIB TV 4 HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/339158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IR| ALKAWTHAR" tvg-logo="https://lo1.in/iran/alk1.png" group-title="AS | IRAN",IR| ALKAWTHAR
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IR| PRESS TV HD" tvg-logo="https://lo1.in/iran/pre.png" group-title="AS | IRAN",IR| PRESS TV HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/115853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB SAHAND SD" tvg-logo="https://lo1.in/iran/irr5.png" group-title="AS | IRAN",IR| IRIB SAHAND SD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/115828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IR| AL ALAM" tvg-logo="https://lo1.in/iran/al1.png" group-title="AS | IRAN",IR| AL ALAM
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/351357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IR| QURAN TV" tvg-logo="https://lo1.in/iran/flg.png" group-title="AS | IRAN",IR| QURAN TV
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/473618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB KURDISTAN HD" tvg-logo="https://lo1.in/iran/ira4.png" group-title="AS | IRAN",IR| IRIB KURDISTAN HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400260069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB ESFAHAN HD" tvg-logo="https://lo1.in/iran/i1.png" group-title="AS | IRAN",IR| IRIB ESFAHAN HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400260065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB KHOOZESTAN SD" tvg-logo="https://lo1.in/iran/ira2.png" group-title="AS | IRAN",IR| IRIB KHOOZESTAN SD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400260030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB JAHANBIN (CHAHARMAHAL AND BAKHTIARI)" tvg-logo="https://lo1.in/iran/i9.png" group-title="AS | IRAN",IR| IRIB JAHANBIN (CHAHARMAHAL AND BAKHTIARI)
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400260029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IR| VELAYAT TV HD" tvg-logo="https://lo1.in/iran/vel.png" group-title="AS | IRAN",IR| VELAYAT TV HD
+http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360296.m3u8
+
 
 #EXTINF:-1 tvg-id="alsharqiya.iq" tvg-name="IRAQ| AL SHARQIYA FHD" tvg-logo="https://lo1.in/FCB/sharqians.png" group-title="AR | IRAQ",IRAQ| AL SHARQIYA FHD
 http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15060.m3u8
