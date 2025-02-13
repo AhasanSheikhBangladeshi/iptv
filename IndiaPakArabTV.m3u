@@ -410,16 +410,14 @@ https://mn-nl.mncdn.com:443/qaf/live/chunklist.m3u8
 #EXTINF:-1,Egypt TEN (Tahrir Network) TV
 https://weyyak-live.akamaized.net:443/weyyak_ten_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Ahlebait.tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwURTPDic9avTpG4XwJjigy7u___BZCxujTA&usqp=CAU" group-title="Shia Channels",Ahlebait TV 
-http://ktv.im:8080/48473774/938388484/109273
+https://stream.wpbond.com/live/ahlebait1.m3u8
 #EXTINF:-1 tvg-id="Hidayat TV" tvg-country="Pakistan" tvg-language="Urdu" group-title="Shia #EXTINF:-1  tvg-logo="http://ahlebaittv.net/wp-content/uploads/2017/11/cropped-Ahlebait-Tv-Logo-for-Website.png" tvg-name="Hidayat TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/hidayat.jpg",Hidayat TV (1080)
-
+https://hidayat.wpbond.com/live/hidayat.m3u8
 #EXTINF:-1 tvg-id="Win TV" tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" group-title="Shia Channels",Channel Win TV
-http://iptvtree.net:8080/Isidorchait/ea940f8fd1/172318
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunks.m3u8
 #EXTINF:-1 tvg-id="Zainabia TV" tvg-logo="https://shiachannel.in/livetv/img/channels/zainabia.jpg" group-title="Shia Channels",Zainabia TV
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-id="Ali TV" tvg-logo="https://shiachannel.in/livetv/img/channels/alitv.jpg" group-title="Shia Channels",Ali TV
 https://alitv.livebox.co.in/alitvhls/live.m3u8
-#EXTINF:-1 tvg-id="Qaim TV"group-title="Shia Channels",Qaim TV
-http://cdn37.live247stream.com/qaim/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Hyder TV" group-title="Shia Channels",Hyder TV
-http://cdn.live247stream.com:80/hyder/tv/hyder/stream2/chunks.m3u8?nimblesessionid=798882315
+https://cdn.live247stream.com/hyder/tv/hyder/stream2/chunks.m3u8?nimblesessionid=1588278215
