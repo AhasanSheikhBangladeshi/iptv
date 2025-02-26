@@ -1,423 +1,924 @@
-#EXTINF:-1 tvg-id="" tvg-name="PK- ARY NEWS HD" tvg-logo="" group-title="AS | PAKISTAN NEWS",PK- ARY NEWS HD
-http://ktv.im:8080/122334/122334/82646
-#EXTINF:-1 tvg-id="" tvg-name="PK- ARY WORLD NEWS UK" tvg-logo="" group-title="AS | PAKISTAN NEWS",PK- ARY WORLD NEWS UK
-http://ktv.im:8080/122334/122334/82647
-#EXTINF:-1 tvg-id="" tvg-name="PK- GEO NEWS HD" tvg-logo="" group-title="AS | PAKISTAN NEWS",PK- GEO NEWS HD
-http://ktv.im:8080/122334/122334/82648
-#EXTINF:-1 tvg-id="" tvg-name="PK- BOL NEWS HD" tvg-logo="" group-title="AS | PAKISTAN NEWS",PK- BOL NEWS HD
-http://ktv.im:8080/122334/122334/82650
-#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="VIP - PK| PTV HOME HD" tvg-logo="https://lo1.in/pk/ptv.png" group-title="AS | PAKISTAN VIP",VIP - PK| PTV HOME HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400218128.m3u8
-#EXTINF:-1 tvg-id="ptvworld.pk" tvg-name="VIP - PK| PTV WORLD HD" tvg-logo="https://lo1.in/pk/pw.png" group-title="AS | PAKISTAN VIP",VIP - PK| PTV WORLD HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400218127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP - PK| PTV NATIONAL HD" tvg-logo="https://lo1.in/pk/ptn.png" group-title="AS | PAKISTAN VIP",VIP - PK| PTV NATIONAL HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400218126.m3u8
-#EXTINF:-1 tvg-id="aryqtv.pk" tvg-name="PK| ARY QTV HD" tvg-logo="https://lo1.in/pk/arq.png" group-title="AS | PAKISTAN",PK| ARY QTV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157902.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK| MADANI TV HD" tvg-logo="https://lo1.in/pk/ma.png" group-title="AS | PAKISTAN",PK| MADANI TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK| PAIGHAM TV PASHTO HD" tvg-logo="https://lo1.in/pk/pai.png" group-title="AS | PAKISTAN",PK| PAIGHAM TV PASHTO HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157897.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK| PEACE TV ENGLISH HD" tvg-logo="https://lo1.in/pk/pet.png" group-title="AS | PAKISTAN",PK| PEACE TV ENGLISH HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK| PEACE TV ENGLISH HEVC" tvg-logo="https://lo1.in/pk/pet.png" group-title="AS | PAKISTAN",PK| PEACE TV ENGLISH HEVC
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/35569.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK| PEACE TV URDU HD" tvg-logo="https://lo1.in/pk/petu.png" group-title="AS | PAKISTAN",PK| PEACE TV URDU HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157895.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK| AVT KHYBER HD" tvg-logo="https://lo1.in/pk/atk.png" group-title="AS | PAKISTAN",PK| AVT KHYBER HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157932.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK| AAJ ENTERTAINMENT HD" tvg-logo="https://lo1.in/pk/aaj.png" group-title="AS | PAKISTAN",PK| AAJ ENTERTAINMENT HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157936.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK| ATV ENTERTAINMENT HD" tvg-logo="https://lo1.in/pk/ate.png" group-title="AS | PAKISTAN",PK| ATV ENTERTAINMENT HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157935.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK| BOL ENTERTAINMENT FHD" tvg-logo="https://lo1.in/pk/bo.png" group-title="AS | PAKISTAN",PK| BOL ENTERTAINMENT FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157939.m3u8
-#EXTINF:-1 tvg-id="arynews.eg" tvg-name="PK| ARY NEWS HD" tvg-logo="https://lo1.in/ind/arn1.png" group-title="AS | PAKISTAN",PK| ARY NEWS HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157989.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK| SAAMA NEWS HD" tvg-logo="https://lo1.in/pk/sam.png" group-title="AS | PAKISTAN",PK| SAAMA NEWS HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK| SUCH NEWS HD" tvg-logo="https://lo1.in/pk/sc.png" group-title="AS | PAKISTAN",PK| SUCH NEWS HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157948.m3u8
-#EXTINF:-1 tvg-id="humnews.pk" tvg-name="PK| HUM NEWS FHD" tvg-logo="https://lo1.in/pk/hun.png" group-title="AS | PAKISTAN",PK| HUM NEWS FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157981.m3u8
-#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK| 92 NEWS FHD" tvg-logo="https://lo1.in/pk/ne2.png" group-title="AS | PAKISTAN",PK| 92 NEWS FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PK| BOL NEWS FHD" tvg-logo="https://lo1.in/pk/bn.png" group-title="AS | PAKISTAN",PK| BOL NEWS FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400157982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PK- ARY NEWS HD" tvg-logo="" group-title="PAKISTAN ",PK- ARY NEWS HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99660
+#EXTINF:-1,PK ▎ARY DIGITAL
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99662
+#EXTINF:-1,PK ▎HUM NEWS HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99721
+#EXTINF:-1,PK ▎HUM TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99674
+#EXTINF:-1,PK ▎HUM SITARY
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99673
+#EXTINF:-1,PK ▎HUM MASALA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99748
+#EXTINF:-1,PK ▎92 NEWS HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99711
+#EXTINF:-1,PK ▎DUNYA NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99666
+#EXTINF:-1,PK ▎BOL NEWS HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99737
+#EXTINF:-1,PK ▎AAJ ENTERTAINMENT
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99651
+#EXTINF:-1,PK ▎EXPRESS ENTERTAINMENT
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99667
+#EXTINF:-1,PK ▎EXPRESS NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99668
+#EXTINF:-1,PK ▎ATV ENTERTAINMENT
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99657
+#EXTINF:-1,PK ▎ARY ZINDAGI
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99656
+#EXTINF:-1,PK ▎A PLUS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99655
+#EXTINF:-1,PK ▎URDU 1 HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99692
+#EXTINF:-1,PK ▎GEO NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99670
+#EXTINF:-1,PK ▎GEO KAHANI
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99669
+#EXTINF:-1,PK ▎GEO ENTERTAINMENT
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99690
+#EXTINF:-1,PK ▎AAJ NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99652
+#EXTINF:-1,PK ▎DAWN NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99665
+#EXTINF:-1,PK ▎SAAMA NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99697
+#EXTINF:-1,PK ▎CAPITAL TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99689
+#EXTINF:-1,PK ▎GNN HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99685
+#EXTINF:-1,PK ▎PUBLIC NEWS HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99743
+#EXTINF:-1,PK ▎KHYBER NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99677
+#EXTINF:-1,PK ▎PTV NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99699
+#EXTINF:-1,PK ▎AVT KHYBER
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99658
+#EXTINF:-1,PK ▎APNA CHANNEL
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99654
+#EXTINF:-1,PK ▎ABBTAKK NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99653
+#EXTINF:-1,PK ▎NEWS ONE
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99707
+#EXTINF:-1,PK ▎NEO NEWS HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99709
+#EXTINF:-1,PK ▎LAHORE NEWS HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99713
+#EXTINF:-1,PK ▎ROHI TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99744
+#EXTINF:-1,PK ▎LAHROE RANG HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99741
+#EXTINF:-1,PK ▎GEO TEZZ
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99686
+#EXTINF:-1,PK ▎CHANNEL 5
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99680
+#EXTINF:-1,PK ▎TV ONE
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99691
+#EXTINF:-1,PK ▎KTN NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99679
+#EXTINF:-1,PK ▎ARY QTV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99659
+#EXTINF:-1,PK ▎SAUDI QURAN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99682
+#EXTINF:-1,PK ▎SAUDI SUNNAH
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99681
+#EXTINF:-1,PK ▎PEACE TV URDU
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99763
+#EXTINF:-1,PK ▎PEACE TV ENGLISH
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99735
+#EXTINF:-1,PK ▎MADNI TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99649
+#EXTINF:-1,PK ▎HADI TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99672
+#EXTINF:-1,PK ▎BOL ENTERTAINMENT HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99706
+#EXTINF:-1,PK ▎SINDH ENTERTAINMENT
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99705
+#EXTINF:-1,PK ▎KTN ENTERTAINMENT
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99678
+#EXTINF:-1,PK ▎GREEN ENTERTAINMENT
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/788678
+#EXTINF:-1,PK ▎PTV HOME
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99700
+#EXTINF:-1,PK ▎PTV WORLD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99698
+#EXTINF:-1,PK ▎PTV SPORTS HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99753
+#EXTINF:-1,PK ▎PTV SPORTS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99708
+#EXTINF:-1,PK ▎A-SPORTS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/501756
+#EXTINF:-1,PK ▎TEN SPORTS HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99694
+#EXTINF:-1,PK ▎GEO SUPER
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99671
+#EXTINF:-1,PK ▎ARY MUSIK
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99723
+#EXTINF:-1,PK ▎LTN FAMILY
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99727
+#EXTINF:-1,PK ▎PASHTOO 1
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99703
+#EXTINF:-1,PK ▎PAIGAM URDU
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99716
+#EXTINF:-1,PK ▎PAIGAM PASHTOO
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/99715
 
 
+#EXTINF:-1 tvg-id="" tvg-name="DD NATIONAL" tvg-logo="" group-title="INDIA",DD NATIONAL
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/63420
+#EXTINF:-1,HINDI ▎DD RAJASTHAN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/63479
+#EXTINF:-1,HINDI ▎DD BHARATI
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/66100
+#EXTINF:-1,HINDI ▎DD BIHAR
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/66101
+#EXTINF:-1,HINDI ▎DD INDIA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/66102
+#EXTINF:-1,PUNJABI ▎DD PUNJABI
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/63466
+#EXTINF:-1,HINDI ▎DD NEWS HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/66104
+#EXTINF:-1,HINDI ▎DD SPORTS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/66106
+#EXTINF:-1,HINDI ▎DD ORIYA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/66109
+#EXTINF:-1,HINDI ▎DD UP
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/66105
+#EXTINF:-1,HINDI ▎DD URDU
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/66113
+#EXTINF:-1,TAMIL ▎DD TAMIL
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441502
+#EXTINF:-1,HINDI ▎DD MP
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/112920
+#EXTINF:-1,HINDI ▎ZEE HINDUSTAN NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/63559
+#EXTINF:-1,HINDI ▎ZEE NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/63434
+#EXTINF:-1,HINDI ▎ZEE NEWS BIHAR
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/63433
+#EXTINF:-1,HINDI ▎ZEE NEWS MP/CHATTISGARH
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/63432
+#EXTINF:-1,HINDI ▎ZEE NEWS UP
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/63431
+#EXTINF:-1,HINDI ▎ZEE RAJASTHAN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/63478
+#EXTINF:-1,HINDI ▎DD UTTARAKHAND
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441420
+#EXTINF:-1,HINDI ▎DD TRIPURA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441422
+#EXTINF:-1,HINDI ▎DD NAGALAND
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441423
+#EXTINF:-1,HINDI ▎DD MEZORAM
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441424
+#EXTINF:-1,HINDI ▎DD MEGHALAYA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441425
+#EXTINF:-1,HINDI ▎DD MANIPUR
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441426
+#EXTINF:-1,HINDI ▎DD KISHAR
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441427
+#EXTINF:-1,HINDI ▎DD KISAN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441428
+#EXTINF:-1,BENGALI ▎DD BANGLA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/66112
+#EXTINF:-1,HINDI ▎DD JHARKHAND
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441429
+#EXTINF:-1,HINDI ▎DD HARYANA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441430
+#EXTINF:-1,HINDI ▎DD HIMACHAL PARDESH
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441431
+#EXTINF:-1,HINDI ▎DD GOA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441432
+#EXTINF:-1,HINDI ▎DD CHATTISGARH
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441433
+#EXTINF:-1,ENGLISH ▎WION NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/143527
+#EXTINF:-1,MALAYALAM ▎DD MALAYALAM 
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/113569
+#EXTINF:-1,MALAYALAM ▎ASIANET NEWS HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/69028
+#EXTINF:-1,BANGLA ▎RONGEEN TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441004
+#EXTINF:-1,BENGALI ▎24 GHANTA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/112574
+#EXTINF:-1,BENGALI ▎ABP ANANDA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/112573
 
-#EXTINF:-1 tvg-id="" tvg-name="ADA-DERENA24" tvg-logo="" group-title="AS | SRILANKA",ADA-DERENA24
-http://ktv.im:8080/122334/122334/88236
-#EXTINF:-1 tvg-id="" tvg-name="ART-TELEVISION" tvg-logo="" group-title="AS | SRILANKA",ART-TELEVISION
-http://ktv.im:8080/122334/122334/88237\
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL-C" tvg-logo="" group-title="AS | SRILANKA",CHANNEL-C
-http://ktv.im:8080/122334/122334/88240
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL-ONE" tvg-logo="" group-title="AS | SRILANKA",CHANNEL-ONE
-http://ktv.im:8080/122334/122334/88241
-#EXTINF:-1 tvg-id="" tvg-name="CITI-HITZ" tvg-logo="" group-title="AS | SRILANKA",CITI-HITZ
-http://ktv.im:8080/122334/122334/88242
-#EXTINF:-1 tvg-id="" tvg-name="HARITHA TV" tvg-logo="" group-title="AS | SRILANKA",HARITHA TV
-http://ktv.im:8080/122334/122334/88243
-#EXTINF:-1 tvg-id="" tvg-name="HIRUTV" tvg-logo="" group-title="AS | SRILANKA",HIRUTV
-http://ktv.im:8080/122334/122334/88247
-#EXTINF:-1 tvg-id="" tvg-name="ITN" tvg-logo="" group-title="AS | SRILANKA",ITN
-http://ktv.im:8080/122334/122334/88248
-#EXTINF:-1 tvg-id="" tvg-name="NETHRA TV" tvg-logo="" group-title="AS | SRILANKA",NETHRA TV
-http://ktv.im:8080/122334/122334/88249
-#EXTINF:-1 tvg-id="" tvg-name="NETHRA TV TAMIL" tvg-logo="" group-title="AS | SRILANKA",NETHRA TV TAMIL
-http://ktv.im:8080/122334/122334/88250
-#EXTINF:-1 tvg-id="" tvg-name="RIDEE-TV" tvg-logo="" group-title="AS | SRILANKA",RIDEE-TV
-http://ktv.im:8080/122334/122334/88253
-#EXTINF:-1 tvg-id="" tvg-name="RUPAVAHINI" tvg-logo="" group-title="AS | SRILANKA",RUPAVAHINI
-http://ktv.im:8080/122334/122334/88254
-#EXTINF:-1 tvg-id="" tvg-name="SHAKTHI-TV" tvg-logo="" group-title="AS | SRILANKA",SHAKTHI-TV
-http://ktv.im:8080/122334/122334/88255
-#EXTINF:-1 tvg-id="" tvg-name="SHRADDHA-TV" tvg-logo="" group-title="AS | SRILANKA",SHRADDHA-TV
-http://ktv.im:8080/122334/122334/88256
-#EXTINF:-1 tvg-id="" tvg-name="SIRASA-TV" tvg-logo="" group-title="AS | SRILANKA",SIRASA-TV
-http://ktv.im:8080/122334/122334/88257
-#EXTINF:-1 tvg-id="" tvg-name="SIYATHA-TV" tvg-logo="" group-title="AS | SRILANKA",SIYATHA-TV
-http://ktv.im:8080/122334/122334/88258
-#EXTINF:-1 tvg-id="" tvg-name="SWARNAVAHINI" tvg-logo="" group-title="AS | SRILANKA",SWARNAVAHINI
-http://ktv.im:8080/122334/122334/88259
-#EXTINF:-1 tvg-id="" tvg-name="TNL" tvg-logo="" group-title="AS | SRILANKA",TNL
-http://ktv.im:8080/122334/122334/88260
-#EXTINF:-1 tvg-id="" tvg-name="TV-DERANA" tvg-logo="" group-title="AS | SRILANKA",TV-DERANA
-http://ktv.im:8080/122334/122334/88261
+#EXTINF:-1,PUNJABI ▎PRIME ASIA HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/63452
+#EXTINF:-1,PUNJABI ▎PTC NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/63451
+#EXTINF:-1,PUNJABI ▎PTC SIMRAN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/788103
+#EXTINF:-1,PUNJABI ▎PTC PUNJABI GOLD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/788104
+#EXTINF:-1,PUNJABI ▎PTC PUNJABI
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/63450
+#EXTINF:-1,PUNJABI ▎ZEE PUNJABI
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/112855
 
-#EXTINF:-1 tvg-id="" tvg-name="|NP| NTV NATIONAL FHD" tvg-logo="" group-title="AS | NEPAL",|NP| NTV NATIONAL FHD
-http://ktv.im:8080/122334/122334/88637
-#EXTINF:-1 tvg-id="" tvg-name="|NP| NTV PLUS FHD" tvg-logo="" group-title="AS | NEPAL",|NP| NTV PLUS FHD
-http://ktv.im:8080/122334/122334/88638
-#EXTINF:-1 tvg-id="" tvg-name="|NP| KANTIPUR TV" tvg-logo="" group-title="AS | NEPAL",|NP| KANTIPUR TV
-http://ktv.im:8080/122334/122334/88639
-#EXTINF:-1 tvg-id="" tvg-name="|NP| NTV NATIONAL FHD" tvg-logo="" group-title="AS | NEPAL",|NP| NTV NATIONAL FHD
-http://ktv.im:8080/122334/122334/88640
-#EXTINF:-1 tvg-id="" tvg-name="|NP| NEWS 24" tvg-logo="" group-title="AS | NEPAL",|NP| NEWS 24
-http://ktv.im:8080/122334/122334/88641
-#EXTINF:-1 tvg-id="" tvg-name="|NP| AVENUES TV" tvg-logo="" group-title="AS | NEPAL",|NP| AVENUES TV
-http://ktv.im:8080/122334/122334/88642
-#EXTINF:-1 tvg-id="" tvg-name="|NP| NTV News" tvg-logo="" group-title="AS | NEPAL",|NP| NTV News
-http://ktv.im:8080/122334/122334/88643
-#EXTINF:-1 tvg-id="" tvg-name="Channel Ace Nepal" tvg-logo="" group-title="AS | NEPAL",Channel Ace Nepal
-http://ktv.im:8080/122334/122334/88644
-#EXTINF:-1 tvg-id="" tvg-name="Birat TV" tvg-logo="" group-title="AS | NEPAL",Birat TV
-http://ktv.im:8080/122334/122334/88645
-#EXTINF:-1 tvg-id="" tvg-name="Indigenous Television" tvg-logo="" group-title="AS | NEPAL",Indigenous Television
-http://ktv.im:8080/122334/122334/88646
-#EXTINF:-1 tvg-id="" tvg-name="Janta TV" tvg-logo="" group-title="AS | NEPAL",Janta TV
-http://ktv.im:8080/122334/122334/88647
+#EXTINF:-1 tvg-id="" tvg-name="AFGHANISTAN INTERNATIONAL" tvg-logo="" group-title="AFGHANISTAN ",AFGHANISTAN INTERNATIONAL
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/593388
+#EXTINF:-1,AFG ▎1 TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3320
+#EXTINF:-1,AFG ▎TOLO HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3324
+#EXTINF:-1,AFG ▎TOLO NEWS HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3317
+#EXTINF:-1,AFG ▎ATN NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3316
+#EXTINF:-1,AFG ▎BAHAR TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/90615
+#EXTINF:-1,AFG ▎TAMADON
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/102250
+#EXTINF:-1,AFG ▎NOOR TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1280106
+#EXTINF:-1,AFG ▎ZHWANDOON TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1280108
+#EXTINF:-1,AFG ▎RTA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/102248
+#EXTINF:-1,AFG ▎AYENEH TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/174589
+#EXTINF:-1,AFG ▎DUNYA NAW TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/204527
+#EXTINF:-1,AFG ▎LEMAR HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3322
+#EXTINF:-1,AFG ▎AREZO HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3323
+#EXTINF:-1,AFG ▎ATN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3315
+#EXTINF:-1,AFG ▎PAYAM E AFGHAN TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/90613
+#EXTINF:-1,AFG ▎SHAMSHAD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3321
+#EXTINF:-1,AFG ▎RTA SPORTS HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/204532
+#EXTINF:-1,AFG ▎KAYHAN TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/90614
+#EXTINF:-1,AFG ▎PAMIR TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/90609
+#EXTINF:-1,AFG ▎VOA TV AFGHANISTAN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1280088
+#EXTINF:-1,AFG ▎SOLH TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1280089
+#EXTINF:-1,AFG ▎AFGHANISTAN INTL RADIO
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1280091
+#EXTINF:-1,AFG ▎ATN EUROPE
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1280092
+#EXTINF:-1,AFG ▎IMAN TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1280093
+#EXTINF:-1,AFG ▎HASTI TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1280094
+#EXTINF:-1,AFG ▎NOBEL TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1280095
+#EXTINF:-1,AFG ▎ESLAH TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1280097
+#EXTINF:-1,AFG ▎BBC NEWS AFGHANISTAN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1280098
+#EXTINF:-1,AFG ▎FAZA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1280099
+#EXTINF:-1,AFG ▎ASIA MUSIC
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1280100
+#EXTINF:-1,AFG ▎NOUR TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1280101
+#EXTINF:-1,AFG ▎NOBEL MOVIE
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1280102
+#EXTINF:-1,AFG ▎WATAN E MAA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1280103
+#EXTINF:-1,AFG ▎ARIANA AFGHAN HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441807
+#EXTINF:-1,AFG ▎RTA EDUCATION RADIO TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1516055
+#EXTINF:-1,AFG ▎RTA SHARIAT RADIO TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1516056
+#EXTINF:-1,AFG ▎RTA TARANUM RADIO TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1516057
+#EXTINF:-1,AFG ▎RTA NATIONAL RADIO TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1516058
 
-#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB TV 1 HD" tvg-logo="https://lo1.in/iran/irr9.png" group-title="AS | IRAN",IR| IRIB TV 1 HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/339144.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB TV 2 HD" tvg-logo="https://lo1.in/iran/irr0.png" group-title="AS | IRAN",IR| IRIB TV 2 HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/339156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB TV 3 HD" tvg-logo="https://lo1.in/iran/ii.png" group-title="AS | IRAN",IR| IRIB TV 3 HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/339157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB TV 4 HD" tvg-logo="https://lo1.in/iran/ii1.png" group-title="AS | IRAN",IR| IRIB TV 4 HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/339158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IR| ALKAWTHAR" tvg-logo="https://lo1.in/iran/alk1.png" group-title="AS | IRAN",IR| ALKAWTHAR
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IR| PRESS TV HD" tvg-logo="https://lo1.in/iran/pre.png" group-title="AS | IRAN",IR| PRESS TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/115853.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB SAHAND SD" tvg-logo="https://lo1.in/iran/irr5.png" group-title="AS | IRAN",IR| IRIB SAHAND SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/115828.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IR| AL ALAM" tvg-logo="https://lo1.in/iran/al1.png" group-title="AS | IRAN",IR| AL ALAM
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/351357.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IR| QURAN TV" tvg-logo="https://lo1.in/iran/flg.png" group-title="AS | IRAN",IR| QURAN TV
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/473618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB KURDISTAN HD" tvg-logo="https://lo1.in/iran/ira4.png" group-title="AS | IRAN",IR| IRIB KURDISTAN HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400260069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB ESFAHAN HD" tvg-logo="https://lo1.in/iran/i1.png" group-title="AS | IRAN",IR| IRIB ESFAHAN HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400260065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB KHOOZESTAN SD" tvg-logo="https://lo1.in/iran/ira2.png" group-title="AS | IRAN",IR| IRIB KHOOZESTAN SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400260030.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IR| IRIB JAHANBIN (CHAHARMAHAL AND BAKHTIARI)" tvg-logo="https://lo1.in/iran/i9.png" group-title="AS | IRAN",IR| IRIB JAHANBIN (CHAHARMAHAL AND BAKHTIARI)
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400260029.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IR| VELAYAT TV HD" tvg-logo="https://lo1.in/iran/vel.png" group-title="AS | IRAN",IR| VELAYAT TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HIRU TV"" group-title="SRI LANKA",HIRU TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/574876
+#EXTINF:-1,SRI LANKA ▎HARITHA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440948
+#EXTINF:-1,SRI LANKA ▎VASANTHAM TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440950
+#EXTINF:-1,SRI LANKA ▎SIYATHA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440951
+#EXTINF:-1,SRI LANKA ▎ITN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440952
+#EXTINF:-1,SRI LANKA ▎CHANNEL EYE
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440953
+#EXTINF:-1,SRI LANKA ▎SIRASA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440954
+#EXTINF:-1,SRI LANKA ▎MUSIC TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440955
+#EXTINF:-1,SRI LANKA ▎CHARANA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440956
+#EXTINF:-1,SRI LANKA ▎TV1
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440957
+#EXTINF:-1,SRI LANKA ▎TNL TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440958
+#EXTINF:-1,SRI LANKA ▎RUPAVAHINI TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440961
+#EXTINF:-1,SRI LANKA ▎ATHAVAN TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440962
+#EXTINF:-1,SRI LANKA ▎TV DERANA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440963
 
+#EXTINF:-1 tvg-id="" tvg-name="OZBEKISTON" tvg-logo="" group-title="KAZAKH UZBEK TAJIK",OZBEKISTON
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733305
+#EXTINF:-1,UZ ▎YOSHLAR
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733306
+#EXTINF:-1,UZ ▎TOSHKENT
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733307
+#EXTINF:-1,UZ ▎UZSPORT
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733308
+#EXTINF:-1,UZ ▎DUNYO
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733309
+#EXTINF:-1,UZ ▎BOLAJON
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733310
+#EXTINF:-1,UZ ▎NAVO
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733311
+#EXTINF:-1,UZ ▎KINOTEATR
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733312
+#EXTINF:-1,UZ ▎MAHHALA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733313
+#EXTINF:-1,UZ ▎UZBEKISTAN 24
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733314
+#EXTINF:-1,UZ ▎UZREPORT HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733315
+#EXTINF:-1,UZ ▎ZOR
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733316
+#EXTINF:-1,UZ ▎MILLIY
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733317
+#EXTINF:-1,KZ ▎КТК
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733469
+#EXTINF:-1,KZ ▎PERVYY KANAL EVRAZIYA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733470
+#EXTINF:-1,KZ ▎SEDYMOY KANAL
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733471
+#EXTINF:-1,KZ ▎ASTANA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733472
+#EXTINF:-1,KZ ▎BALAPAN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733473
+#EXTINF:-1,KZ ▎JIBEK JOLY
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733474
+#EXTINF:-1,KZ ▎NOVOE TELEVIDENIE
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733475
+#EXTINF:-1,KZ ▎31 KANAL
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733476
+#EXTINF:-1,KZ ▎НТК
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/733477
 
-#EXTINF:-1 tvg-id="alsharqiya.iq" tvg-name="IRAQ| AL SHARQIYA FHD" tvg-logo="https://lo1.in/FCB/sharqians.png" group-title="AR | IRAQ",IRAQ| AL SHARQIYA FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15060.m3u8
-#EXTINF:-1 tvg-id="karbalatv.iq" tvg-name="IRAQ| KARBALA TV HD" tvg-logo="https://lo1.in/FCB/karbalatv1.png" group-title="AR | IRAQ",IRAQ| KARBALA TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| UTV HD" tvg-logo="https://lo1.in/iraq/utv.png" group-title="AR | IRAQ",IRAQ| UTV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/190509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| AL ANWAR" tvg-logo="https://lo1.in/iraq/anwar1.png" group-title="AR | IRAQ",IRAQ| AL ANWAR
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15044.m3u8
-#EXTINF:-1 tvg-id="honabaghdadtv.iq" tvg-name="IRAQ| HONA BAGHDAD" tvg-logo="https://lo1.in/FCB/honabagh0.png" group-title="AR | IRAQ",IRAQ| HONA BAGHDAD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| AL RASHEED TV FHD" tvg-logo="https://lo1.in/iraq/rasheedtv.png" group-title="AR | IRAQ",IRAQ| AL RASHEED TV FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| AL TAGHIER HD" tvg-logo="https://lo1.in/iraq/ataghier.png" group-title="AR | IRAQ",IRAQ| AL TAGHIER HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15046.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| IRAQIA SYRIAC" tvg-logo="https://lo1.in/FCB/iraqiasyr1.png" group-title="AR | IRAQ",IRAQ| IRAQIA SYRIAC
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/355556.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| 12 ARABIA SD" tvg-logo="https://lo1.in/iraq/12arabia1.png" group-title="AR | IRAQ",IRAQ| 12 ARABIA SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/112357.m3u8
-#EXTINF:-1 tvg-id="alhurrairaq.iq" tvg-name="IRAQ| AL HURRA IRAQ HD" tvg-logo="https://lo1.in/FCB/hurairaq.png" group-title="AR | IRAQ",IRAQ| AL HURRA IRAQ HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15025.m3u8
-#EXTINF:-1 tvg-id="alhurrairaq.iq" tvg-name="IRAQ| AL HURRA IRAQ HEVC" tvg-logo="https://lo1.in/FCB/hurairaq.png" group-title="AR | IRAQ",IRAQ| AL HURRA IRAQ HEVC
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/38490.m3u8
-#EXTINF:-1 tvg-id="aliraqiyanews.iq" tvg-name="IRAQ| IRAQIA NEWS" tvg-logo="https://lo1.in/iraq/iraqiasp1.png" group-title="AR | IRAQ",IRAQ| IRAQIA NEWS
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| DIJLAH TV FHD" tvg-logo="https://lo1.in/iraq/dijlahtv.png" group-title="AR | IRAQ",IRAQ| DIJLAH TV FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15062.m3u8
-#EXTINF:-1 tvg-id="alsumaria.iq" tvg-name="IRAQ| AL SUMARIA TV FHD" tvg-logo="https://lo1.in/iraq/sumariatv.png" group-title="AR | IRAQ",IRAQ| AL SUMARIA TV FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/355557.m3u8
-9/0898626807/38491.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| INEWS HD" tvg-logo="https://lo1.in/FCB/inews1.png" group-title="AR | IRAQ",IRAQ| INEWS HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/400659361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| ANB TV" tvg-logo="https://lo1.in/iraq/anb1.png" group-title="AR | IRAQ",IRAQ| ANB TV
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15015.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| FALLUJAH TV" tvg-logo="https://lo1.in/FCB/fallujahd.png" group-title="AR | IRAQ",IRAQ| FALLUJAH TV
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15008.m3u8
-#EXTINF:-1 tvg-id="aliraqiya.iq" tvg-name="IRAQ| IRAQIA TV HD" tvg-logo="https://lo1.in/iraq/iraqiasp1.png" group-title="AR | IRAQ",IRAQ| IRAQIA TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| AL RAFIDAYN TV FHD" tvg-logo="https://lo1.in/FCB/rafidayn.png" group-title="AR | IRAQ",IRAQ| AL RAFIDAYN TV FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360697.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| IMAM ALI FHD" tvg-logo="https://lo1.in/iraq/imamali.png" group-title="AR | IRAQ",IRAQ| IMAM ALI FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360707.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| ALMASALAH" tvg-logo="https://lo1.in/iraq/masalah.png" group-title="AR | IRAQ",IRAQ| ALMASALAH
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360870.m3u8
-#EXTINF:-1 tvg-id="kirkuktv.iq" tvg-name="IRAQ| KIRKUK TV" tvg-logo="https://lo1.in/iraq/kirkuk.png" group-title="AR | IRAQ",IRAQ| KIRKUK TV
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360913.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| IRAQI EDU TV HD" tvg-logo="https://lo1.in/iraq/iraqiasp1.png" group-title="AR | IRAQ",IRAQ| IRAQI EDU TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360916.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| AL GHADEER HD" tvg-logo="https://lo1.in/iraq/ghader0.png" group-title="AR | IRAQ",IRAQ| AL GHADEER HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| IRAQ NOW HD" tvg-logo="https://lo1.in/FCB/iraqnow0.png" group-title="AR | IRAQ",IRAQ| IRAQ NOW HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15045.m3u8
-#EXTINF:-1 tvg-id="alforat.iq" tvg-name="IRAQ| AL FORAT TV" tvg-logo="https://lo1.in/iraq/forattv.png" group-title="AR | IRAQ",IRAQ| AL FORAT TV
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15048.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| AL MAWSLEYA HD" tvg-logo="https://lo1.in/iraq/mawslya.png" group-title="AR | IRAQ",IRAQ| AL MAWSLEYA HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| AL IRAQIA SPORT HD" tvg-logo="https://lo1.in/iraq/iraqiasp1.png" group-title="AR | IRAQ",IRAQ| AL IRAQIA SPORT HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| SAMARRAE HD" tvg-logo="https://lo1.in/FCB/samaraf.png" group-title="AR | IRAQ",IRAQ| SAMARRAE HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15051.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IRAQ| IRAQ ALMUSTQBAL" tvg-logo="https://lo1.in/iraq/flg1.png" group-title="AR | IRAQ",IRAQ| IRAQ ALMUSTQBAL
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/29495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IRIB TV 1"" group-title="IRAN",IRIB TV 1
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44547
+#EXTINF:-1,IR ▎IRIB TV 2
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44546
+#EXTINF:-1,IR ▎IRIB TV 3
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44545
+#EXTINF:-1,IR ▎IRIB TV 4
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44544
+#EXTINF:-1,IR ▎IRIB VARZESH HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/102438
+#EXTINF:-1,IR ▎IRINN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44542
+#EXTINF:-1,IR ▎JAME-JAM TV 1
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44473
+#EXTINF:-1,IR ▎IRIB JAME-JAM 2 TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/543197
+#EXTINF:-1,IR ▎IRIB JAME-JAM 3 TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/543198
+#EXTINF:-1,IR ▎PRESS TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44410
+#EXTINF:-1,IR ▎SAHAR AZARI
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44428
+#EXTINF:-1,IR ▎SAHAR BOSNIAN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44427
+#EXTINF:-1,IR ▎SAHAR URDU TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44406
+#EXTINF:-1,IR ▎AL-ALAM AR
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44485
+#EXTINF:-1,IR ▎AL-ALAM EN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44484
+#EXTINF:-1,IR ▎ALKAWTHAR TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44409
+#EXTINF:-1,IR ▎QURAN TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44475
+#EXTINF:-1,IR ▎IRIB SEMNAN SD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441672
+#EXTINF:-1,IR ▎JAHANBIN TV (CHAHARMAHAL AND BAKHTIARI)
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/4444
+#EXTINF:-1,IR ▎AFTAB TV (MARKAZI)
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44436
+#EXTINF:-1,IR ▎AFLAK TV (LORESTAN)
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44437
+#EXTINF:-1,IR ▎ALBORZ TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44452
+#EXTINF:-1,IR ▎KHOZESTAN TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44439
+#EXTINF:-1,IR ▎MAHABAD TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44450
+#EXTINF:-1,IR ▎IRIB ZAGROS TV (KERMANSHAH)
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/174616
+#EXTINF:-1,IR ▎IRIB ESFAHAN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/229942
+#EXTINF:-1,IR ▎SABALAN TV (ARDABIL)
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44431
+#EXTINF:-1,IR ▎SABZ TV (GOLESTAN)
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44459
+#EXTINF:-1,IR ▎SAHAND TV (TABRIZ)
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44430
+#EXTINF:-1,IR ▎VELAYAT TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44466
+#EXTINF:-1,IR ▎BBC PERSIAN FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44552
+#EXTINF:-1,IR ▎IRAN INTERNATIONAL HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1441673
+#EXTINF:-1,IR ▎MBC PERSIA SD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1450916
+#EXTINF:-1,IR ▎SIMAYE AZADI TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/44518
+#EXTINF:-1,IR ▎KALEMEH TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/174646
 
-
-#EXTINF:-1 tvg-id="" tvg-name="KSA| ALSAHRAA TV" tvg-logo="https://lo1.in/FCB/sahara.png" group-title="AR | SAUDI ARABIA",KSA| ALSAHRAA TV
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KSA| NABA TV FHD" tvg-logo="https://lo1.in/ksaa/nabatv.png" group-title="AR | SAUDI ARABIA",KSA| NABA TV FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15301.m3u8
-#EXTINF:-1 tvg-id="saudi1.sa" tvg-name="KSA| SAUDI 1 HD" tvg-logo="https://lo1.in/ksaa/ksa1.png" group-title="AR | SAUDI ARABIA",KSA| SAUDI 1 HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15315.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KSA| SAUDI 1 TV FHD" tvg-logo="https://lo1.in/ksaa/ksatvhd.png" group-title="AR | SAUDI ARABIA",KSA| SAUDI 1 TV FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/6319.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KSA| IEN TV HD" tvg-logo="https://lo1.in/ksaa/ien.png" group-title="AR | SAUDI ARABIA",KSA| IEN TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/63849.m3u8
-#EXTINF:-1 tvg-id="sbc.sa" tvg-name="KSA| SBC HD" tvg-logo="https://lo1.in/FCB/sbc.png" group-title="AR | SAUDI ARABIA",KSA| SBC HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15316.m3u8
-#EXTINF:-1 tvg-id="sbc.sa" tvg-name="KSA| SBC FHD" tvg-logo="https://lo1.in/FCB/sbc.png" group-title="AR | SAUDI ARABIA",KSA| SBC FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/6318.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="KUW| FUNOON TV HD" tvg-logo="https://lo1.in/FCB/fun.png" group-title="AR | KUWAIT",KUW| FUNOON TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14970.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KUW| FUNOON TV HEVC" tvg-logo="https://lo1.in/FCB/fun.png" group-title="AR | KUWAIT",KUW| FUNOON TV HEVC
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/6344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KUW| ALRAI HD" tvg-logo="https://lo1.in/kuw/alr.png" group-title="AR | KUWAIT",KUW| ALRAI HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14972.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KUW| KTV 1 HD" tvg-logo="https://lo1.in/FCB/kuw0.png" group-title="AR | KUWAIT",KUW| KTV 1 HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KUW| KTV 1 HEVC" tvg-logo="https://lo1.in/FCB/kuw0.png" group-title="AR | KUWAIT",KUW| KTV 1 HEVC
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/6399.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KUW| KTV 2 HD" tvg-logo="https://lo1.in/FCB/kt2.png" group-title="AR | KUWAIT",KUW| KTV 2 HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KUW| KUWAIT NEWS" tvg-logo="https://lo1.in/kuw/kw.png" group-title="AR | KUWAIT",KUW| KUWAIT NEWS
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/38498.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KUW| KTV SPORT HD" tvg-logo="https://lo1.in/FCB/kts1.png" group-title="AR | KUWAIT",KUW| KTV SPORT HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KUW| KTV SPORT HEVC" tvg-logo="https://lo1.in/FCB/kts1.png" group-title="AR | KUWAIT",KUW| KTV SPORT HEVC
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/6400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KUW| KTV ETHRAA HD" tvg-logo="https://lo1.in/FCB/ethraa.png" group-title="AR | KUWAIT",KUW| KTV ETHRAA HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KUW| KTV ALARABI HD" tvg-logo="https://lo1.in/FCB/arabi.png" group-title="AR | KUWAIT",KUW| KTV ALARABI HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360739.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BAHR| BAHRAIN TV HD" tvg-logo="https://lo1.in/bahr1/bahrain.png" group-title="AR | BAHRAIN",BAHR| BAHRAIN TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BAHR| BAHRAIN TV HEVC" tvg-logo="https://lo1.in/bahr1/bahrain.png" group-title="AR | BAHRAIN",BAHR| BAHRAIN TV HEVC
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/6397.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BAHR| BAHRAIN INTERNATIONAL HD" tvg-logo="https://lo1.in/FCB/bahrint.png" group-title="AR | BAHRAIN",BAHR| BAHRAIN INTERNATIONAL HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BAHR| BAHRAIN INTERNATIONAL FHD" tvg-logo="https://lo1.in/FCB/bahrint.png" group-title="AR | BAHRAIN",BAHR| BAHRAIN INTERNATIONAL FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BAHR| BAHRAIN SPORTS 1 FHD" tvg-logo="https://lo1.in/ars/bahrains.png" group-title="AR | BAHRAIN",BAHR| BAHRAIN SPORTS 1 FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BAHR| BAHRAIN SPORTS 1 HEVC" tvg-logo="https://lo1.in/ars/bahrains.png" group-title="AR | BAHRAIN",BAHR| BAHRAIN SPORTS 1 HEVC
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/6398.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OMAN| OMAN TV CULTURE FHD" tvg-logo="https://lo1.in/oman1/omantv.png" group-title="AR | OMAN",OMAN| OMAN TV CULTURE FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OMAN| OMAN SPORT FHD" tvg-logo="https://lo1.in/FCB/omansport0.png" group-title="AR | OMAN",OMAN| OMAN SPORT FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OMAN| OMAN TV LIVE HD" tvg-logo="https://lo1.in/oman1/omantv.png" group-title="AR | OMAN",OMAN| OMAN TV LIVE HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/191006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OMAN| OMAN TV GENERAL" tvg-logo="https://lo1.in/oman1/omantv.png" group-title="AR | OMAN",OMAN| OMAN TV GENERAL
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14951.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN| AIC TV FHD" tvg-logo="https://lo1.in/FCB/aic.png" group-title="AR | YEMEN",YEMEN| AIC TV FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360874.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN| ADEN TV SD" tvg-logo="https://lo1.in/yem/ade.png" group-title="AR | YEMEN",YEMEN| ADEN TV SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN| YEMEN TODAY SD" tvg-logo="https://lo1.in/FCB/yem5.png" group-title="AR | YEMEN",YEMEN| YEMEN TODAY SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN| YEMEN TV HD" tvg-logo="https://lo1.in/yem/yem6.png" group-title="AR | YEMEN",YEMEN| YEMEN TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14968.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN| YEMEN SHABAB HD" tvg-logo="https://lo1.in/yem/yem40.png" group-title="AR | YEMEN",YEMEN| YEMEN SHABAB HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN| YEMEN EDUCATION TV" tvg-logo="https://lo1.in/yem/yem2.png" group-title="AR | YEMEN",YEMEN| YEMEN EDUCATION TV
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360740.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN| YEMEN DOCUMENTARY TV" tvg-logo="https://lo1.in/yem/yem1.png" group-title="AR | YEMEN",YEMEN| YEMEN DOCUMENTARY TV
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360872.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN| SHEBA TV SD" tvg-logo="https://lo1.in/yem/she.png" group-title="AR | YEMEN",YEMEN| SHEBA TV SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360873.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN| BELQESS FHD" tvg-logo="https://lo1.in/yem/bel.png" group-title="AR | YEMEN",YEMEN| BELQESS FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN| AL SAHAT" tvg-logo="https://lo1.in/yem/sah1.png" group-title="AR | YEMEN",YEMEN| AL SAHAT
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360899.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN| AL MAHRIAH" tvg-logo="https://lo1.in/yem/alm.png" group-title="AR | YEMEN",YEMEN| AL MAHRIAH
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/190756.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN| ALSAEEDAH SD" tvg-logo="https://lo1.in/yem/sae.png" group-title="AR | YEMEN",YEMEN| ALSAEEDAH SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360898.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN| ALHAWEYA TV" tvg-logo="https://lo1.in/yem/hawyah.png" group-title="AR | YEMEN",YEMEN| ALHAWEYA TV
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/29524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN| ADEN TV AL MUSTAQILA" tvg-logo="https://lo1.in/yem/mostaqila1.png" group-title="AR | YEMEN",YEMEN| ADEN TV AL MUSTAQILA
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/29537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN| SUHAIL TV SD" tvg-logo="https://lo1.in/yem/suh.png" group-title="AR | YEMEN",YEMEN| SUHAIL TV SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN| HADRAMAUT TV SD" tvg-logo="https://lo1.in/yem/had0.png" group-title="AR | YEMEN",YEMEN| HADRAMAUT TV SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/112314.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YEMEN| BELQESS SD" tvg-logo="https://lo1.in/yem/bel.png" group-title="AR | YEMEN",YEMEN| BELQESS SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/39723.m3u8
-
-#EXTINF:-1 tvg-id="alroyatv.jo" tvg-name="JOR| ROYA HD" tvg-logo="https://lo1.in/FCB/royhd.png" group-title="AR | JORDAN",JOR| ROYA HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15115.m3u8
-#EXTINF:-1 tvg-id="alroyatv.jo" tvg-name="JOR| ROYA HEVC" tvg-logo="https://lo1.in/FCB/royhd.png" group-title="AR | JORDAN",JOR| ROYA HEVC
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/38495.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JOR| AMMAN TV HD" tvg-logo="https://lo1.in/FCB/aman.png" group-title="AR | JORDAN",JOR| AMMAN TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15109.m3u8
-#EXTINF:-1 tvg-id="almamlakatv.jo" tvg-name="JOR| AL MAMLAKA FHD" tvg-logo="https://lo1.in/jor1/mamlaka.png" group-title="AR | JORDAN",JOR| AL MAMLAKA FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15117.m3u8
-#EXTINF:-1 tvg-id="jordantv.jo" tvg-name="JOR| JORDAN TV HD" tvg-logo="https://lo1.in/jor1/jrdnhd.png" group-title="AR | JORDAN",JOR| JORDAN TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15116.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SYR| LANA HD" tvg-logo="https://lo1.in/syr1/lana.png" group-title="AR | SYRIA",SYR| LANA HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYR| HALAB TODAY" tvg-logo="https://lo1.in/syr1/halabtdy.png" group-title="AR | SYRIA",SYR| HALAB TODAY
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360717.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYR| AL KHABAR" tvg-logo="https://lo1.in/FCB/alkhabar.png" group-title="AR | SYRIA",SYR| AL KHABAR
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360718.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYR| MINBIJ TV SD" tvg-logo="https://lo1.in/syr1/syrflag.png" group-title="AR | SYRIA",SYR| MINBIJ TV SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/362348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYR| NOOR AL SHAM SD" tvg-logo="https://lo1.in/syr1/noorasham.png" group-title="AR | SYRIA",SYR| NOOR AL SHAM SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14989.m3u8
-#EXTINF:-1 tvg-id="orienttv.sy" tvg-name="SYR| ORIENT TV HD" tvg-logo="https://lo1.in/syr1/orient.png" group-title="AR | SYRIA",SYR| ORIENT TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYR| SAMA TV HD" tvg-logo="https://lo1.in/syr1/samatv.png" group-title="AR | SYRIA",SYR| SAMA TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYR| SHAM TV SD" tvg-logo="https://lo1.in/syr1/shamfm.png" group-title="AR | SYRIA",SYR| SHAM TV SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/195919.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYR| SYRIA AL EKHBARIYA FHD" tvg-logo="https://lo1.in/syr1/ekhbariasyr.png" group-title="AR | SYRIA",SYR| SYRIA AL EKHBARIYA FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYR| SYRIA NEWS HD" tvg-logo="https://lo1.in/syr1/syrianews0.png" group-title="AR | SYRIA",SYR| SYRIA NEWS HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360713.m3u8
-#EXTINF:-1 tvg-id="syriadrama.sy" tvg-name="SYR| SYRIA DRAMA SD" tvg-logo="https://lo1.in/FCB/syrdar.png" group-title="AR | SYRIA",SYR| SYRIA DRAMA SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYR| SYRIA EDUCATION SD" tvg-logo="https://lo1.in/syr1/syreduc.png" group-title="AR | SYRIA",SYR| SYRIA EDUCATION SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14994.m3u8
-#EXTINF:-1 tvg-id="syriasatellitechannel.sy" tvg-name="SYR| SYRIA TV HD" tvg-logo="https://lo1.in/FCB/syrtv.png" group-title="AR | SYRIA",SYR| SYRIA TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14996.m3u8
-#EXTINF:-1 tvg-id="syriasatellitechannel.sy" tvg-name="SYR| SYRIA SATELLITE TV HD" tvg-logo="https://lo1.in/syr1/syrsat.png" group-title="AR | SYRIA",SYR| SYRIA SATELLITE TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14990.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="PALES| AWDEH TV HD" tvg-logo="https://lo1.in/FCB/awdeh.png" group-title="AR | PALESTINE",PALES| AWDEH TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PALES| FALASTINI. TV" tvg-logo="https://lo1.in/FCB/pallive.png" group-title="AR | PALESTINE",PALES| FALASTINI. TV
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14998.m3u8
-#EXTINF:-1 tvg-id="palestinetv.sa" tvg-name="PALES| PALESTINE TV HD" tvg-logo="https://lo1.in/pal1/falastiniatv.png" group-title="AR | PALESTINE",PALES| PALESTINE TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PALES| PALESTINE TODAY SD" tvg-logo="https://lo1.in/FCB/paltodav.png" group-title="AR | PALESTINE",PALES| PALESTINE TODAY SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PALES| AL SERAJ TV FHD" tvg-logo="https://lo1.in/pal1/alseraj.png" group-title="AR | PALESTINE",PALES| AL SERAJ TV FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/112379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PALES| ALKOFIYA SD" tvg-logo="https://lo1.in/pal1/alkofiya.png" group-title="AR | PALESTINE",PALES| ALKOFIYA SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/112380.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="LEB| AL JADEED FHD" tvg-logo="https://lo1.in/leban1/aljadeed.png" group-title="AR | LEBANON",LEB| AL JADEED FHD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LEB| AL MANAR SD" tvg-logo="https://lo1.in/leban1/almanar.png" group-title="AR | LEBANON",LEB| AL MANAR SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LEB| FUTURE TV HD" tvg-logo="https://lo1.in/FCB/futurtv.png" group-title="AR | LEBANON",LEB| FUTURE TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15162.m3u8
-#EXTINF:-1 tvg-id="mtvlebanon.lb" tvg-name="LEB| MTV LEBANON HD" tvg-logo="https://lo1.in/leban1/mtv.png" group-title="AR | LEBANON",LEB| MTV LEBANON HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LEB| LBC HD" tvg-logo="https://lo1.in/FCB/lbchd.png" group-title="AR | LEBANON",LEB| LBC HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LEB| LBC INTERNATIONAL 2 HD" tvg-logo="https://lo1.in/FCB/lbchd.png" group-title="AR | LEBANON",LEB| LBC INTERNATIONAL 2 HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/6327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LEB| TELELIBAN TV HD" tvg-logo="https://lo1.in/leban1/lebflg.png" group-title="AR | LEBANON",LEB| TELELIBAN TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15155.m3u8
-
-#EXTINF:-1 tvg-id="cbc.eg" tvg-name="EGY| CBC" tvg-logo="https://lo1.in/FCB/cbc.png" group-title="AR | EGYPT",EGY| CBC
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15253.m3u8
-#EXTINF:-1 tvg-id="alhayat.eg" tvg-name="EGY| AL HAYAT HD" tvg-logo="https://lo1.in/egyy/haytrd.png" group-title="AR | EGYPT",EGY| AL HAYAT HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/156137.m3u8
-#EXTINF:-1 tvg-id="dmc.eg" tvg-name="EGY| DMC HD" tvg-logo="https://lo1.in/egyy/dmc.png" group-title="AR | EGYPT",EGY| DMC HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15202.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| AL MASRIYA HD" tvg-logo="https://lo1.in/egyy/msr.png" group-title="AR | EGYPT",EGY| AL MASRIYA HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15227.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| OULA MASR TV HD" tvg-logo="https://lo1.in/egyy/oulmr.png" group-title="AR | EGYPT",EGY| OULA MASR TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360933.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| ALTHANYA" tvg-logo="https://lo1.in/FCB/thay.png" group-title="AR | EGYPT",EGY| ALTHANYA
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15254.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| AZHARI TV" tvg-logo="https://lo1.in/egyy/azh.png" group-title="AR | EGYPT",EGY| AZHARI TV
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15185.m3u8
-#EXTINF:-1 tvg-id="alkaherawalnas.eg" tvg-name="EGY| AL KAHERA 3 TV HD" tvg-logo="https://lo1.in/egyy/khrwln.png" group-title="AR | EGYPT",EGY| AL KAHERA 3 TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/190013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| AL KANAL" tvg-logo="https://lo1.in/egyy/flg.png" group-title="AR | EGYPT",EGY| AL KANAL
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/401469344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| ALASKANDRIA TV HD" tvg-logo="https://lo1.in/egyy/skandr.png" group-title="AR | EGYPT",EGY| ALASKANDRIA TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360931.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| ALKANAL TV" tvg-logo="https://lo1.in/egyy/kanal.png" group-title="AR | EGYPT",EGY| ALKANAL TV
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360929.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| AL DELTA TV" tvg-logo="https://lo1.in/egyy/delt.png" group-title="AR | EGYPT",EGY| AL DELTA TV
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/360930.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| ALSA3YDA" tvg-logo="https://lo1.in/egyy/flg.png" group-title="AR | EGYPT",EGY| ALSA3YDA
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/31087.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| AL SAIED" tvg-logo="https://lo1.in/egyy/flg.png" group-title="AR | EGYPT",EGY| AL SAIED
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/401469343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| TEBA SD" tvg-logo="https://lo1.in/egyy/teb.png" group-title="AR | EGYPT",EGY| TEBA SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/112369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| ETC TV SD" tvg-logo="https://lo1.in/egyy/etc.png" group-title="AR | EGYPT",EGY| ETC TV SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/112371.m3u8
-#EXTINF:-1 tvg-id="alnaharone.eg" tvg-name="EGY| AL NAHAR ONE" tvg-logo="https://lo1.in/egyy/nah1.png" group-title="AR | EGYPT",EGY| AL NAHAR ONE
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15249.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| AL NAS" tvg-logo="https://lo1.in/egyy/nas.png" group-title="AR | EGYPT",EGY| AL NAS
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15186.m3u8
-#EXTINF:-1 tvg-id="nilelife.eg" tvg-name="EGY| NILE LIFE" tvg-logo="https://lo1.in/FCB/nillf.png" group-title="AR | EGYPT",EGY| NILE LIFE
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15216.m3u8
-#EXTINF:-1 tvg-id="nilefamily.eg" tvg-name="EGY| NILE FAMILY" tvg-logo="https://lo1.in/egyy/nf.png" group-title="AR | EGYPT",EGY| NILE FAMILY
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15217.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| NILE TV INTERNATIONAL" tvg-logo="https://lo1.in/egyy/nil10.png" group-title="AR | EGYPT",EGY| NILE TV INTERNATIONAL
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/29474.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EGY| NILE CULTURE HD" tvg-logo="https://lo1.in/egyy/nilcul.png" group-title="AR | EGYPT",EGY| NILE CULTURE HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/15215.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SUDAN| SUDAN TV HD" tvg-logo="https://lo1.in/FCB/sud24hd.png" group-title="AR | SUDAN",SUDAN| SUDAN TV HD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUDAN| SOUTH SUDAN SD" tvg-logo="https://lo1.in/FCB/ssbrd.png" group-title="AR | SUDAN",SUDAN| SOUTH SUDAN SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/43122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUDAN| SUDAN MUSIC SD" tvg-logo="https://lo1.in/sud1/tasetian0.png" group-title="AR | SUDAN",SUDAN| SUDAN MUSIC SD
-http://uzesrjy.mexamo.xyz:80/live/1800529529/0898626807/14924.m3u8
+#EXTINF:-1,IQ ▎DIJLAH HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/112597
+#EXTINF:-1,IQ ▎UTV IRAQ HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/122650
+#EXTINF:-1,IQ ▎AL SHARQIYA FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440322
+#EXTINF:-1,IQ ▎AL SHARQIYA HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/2127
+#EXTINF:-1,IQ ▎AL SHARQIYA NEWS HD 
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1178
+#EXTINF:-1,IQ ▎AL RASHEED TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1137
+#EXTINF:-1,IQ ▎AL SUMARIA TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1184
+#EXTINF:-1,IQ ▎AL-TALEAA TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/108397
+#EXTINF:-1,IQ ▎Al-ETEJAH HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/108395
+#EXTINF:-1,IQ ▎ALRABIAA QURAN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505246
+#EXTINF:-1,IQ ▎NJOOM ALRABIAA HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1516054
+#EXTINF:-1,IQ ▎AL IRAQIA SPORTS FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440477
+#EXTINF:-1,IQ ▎AL IRAQIA SPORT HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3924
+#EXTINF:-1,IQ ▎AL-RABIAA SPORTS 1 FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440482
+#EXTINF:-1,IQ ▎AL MAWSLEYA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3916
+#EXTINF:-1,IQ ▎AL FORAT TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1169
+#EXTINF:-1,IQ ▎AL TAGHIER HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/50136
+#EXTINF:-1,IQ ▎AL ANWAR HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3913
+#EXTINF:-1,IQ ▎AL ANWAR 2
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440329
+#EXTINF:-1,IQ ▎AL AQILA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3905
+#EXTINF:-1,IQ ▎AL GHADEER
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3906
+#EXTINF:-1,IQ ▎AL RAFIDAIN TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3923
+#EXTINF:-1,IQ ▎AFAQ HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/72535
+#EXTINF:-1,IQ ▎AL NAEEM HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1157
+#EXTINF:-1,IQ ▎KARBALA TV FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440327
+#EXTINF:-1,IQ ▎KARBALA TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1183
+#EXTINF:-1,IQ ▎IMAM ALI HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/306427
+#EXTINF:-1,IQ ▎AL SHAAER TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/144429
+#EXTINF:-1,IQ ▎AL ANBAR
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3645
+#EXTINF:-1,IQ ▎AL ESHRAQ TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3625
+#EXTINF:-1,IQ ▎AL MASALAH
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3639
+#EXTINF:-1,IQ ▎AL-MAAREF
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/474808
+#EXTINF:-1,IQ ▎AL BAGHDADIA HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/190815
+#EXTINF:-1,IQ ▎AL FALLOJAH TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/196324
+#EXTINF:-1,IQ ▎ALAWLA IRAQ FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440297
+#EXTINF:-1,IQ ▎IRAQIA ENTERTAINMENT HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440320
+#EXTINF:-1,IQ ▎DEWAN TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440337
+#EXTINF:-1,IQ ▎SALAHDEN TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440339
+#EXTINF:-1,IQ ▎SAMARRAA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440340
 
 
+#EXTINF:-1,KU ▎KUWAIT TV 1 FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440371
+#EXTINF:-1,KU ▎KUWAIT TV 1 HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1288
+#EXTINF:-1,KU ▎KUWAIT TV 2 FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440372
+#EXTINF:-1,KU ▎KUWAIT TV 2 HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1289
+#EXTINF:-1,KU ▎KUWAIT SPORT HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3606
+#EXTINF:-1,KU ▎ALRAI TV FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440370
+#EXTINF:-1,KU ▎AL ADALAH TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/125260
+#EXTINF:-1,KU ▎AL SABAH TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/535065
+#EXTINF:-1,KU ▎AL SHAHED TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440377
+#EXTINF:-1,KU ▎MARINA TV FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440374
+#EXTINF:-1,KU ▎MARINA TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440373
+#EXTINF:-1,KU ▎AL BAWADI HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440375
+#EXTINF:-1,KU ▎ATV ALADALAH FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440376
+
+#EXTINF:-1,SA ▎SBC HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/88754
+#EXTINF:-1,SA ▎SAUDI TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1142
+#EXTINF:-1,SA ▎SAUDI TV FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/109796
+#EXTINF:-1,SA ▎THIKRAYAT HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/456574
+#EXTINF:-1,SA ▎AL EKHBARIA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440388
+#EXTINF:-1,SA ▎AL KHALIJ HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440389
+#EXTINF:-1,SA ▎KSA SPORTS 1 FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440470
+#EXTINF:-1,SA ▎ASHARQ NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/796819
+#EXTINF:-1,SA ▎NABA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/96751
+#EXTINF:-1,SA ▎AL SAHRAA HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/96758
+#EXTINF:-1,AR ▎IQRAA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1023
+#EXTINF:-1,AR ▎RESALA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/34066
+#EXTINF:-1,AR ▎AL RAHMA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1027
+#EXTINF:-1,AR ▎MECCA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1031
+#EXTINF:-1,AR ▎ZAD TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/88209
+#EXTINF:-1,AR ▎BIN OTHAIMEEN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3889
+#EXTINF:-1,AR ▎AL TANASUH TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3895
+#EXTINF:-1,AR ▎SAFA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3888
+#EXTINF:-1,AR ▎AL RESALA FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1030
+#EXTINF:-1,AR ▎MTA 3 AL ARABIA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1034
+#EXTINF:-1,AR ▎KAIFA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/4024
+#EXTINF:-1,AR ▎DAAWAH TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/72541
+#EXTINF:-1,AR ▎AL ERTH NABWI
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/191375
+#EXTINF:-1,AR ▎MAKKAH TV 
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/191374
+#EXTINF:-1,OM ▎OMAN TV FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440421
+#EXTINF:-1,OM ▎OMAN TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1213
+#EXTINF:-1,OM ▎OMAN TV CULTURE FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440424
+#EXTINF:-1,OM ▎OMAN TV CULTURE HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/91957
+#EXTINF:-1,OM ▎OMAN TV SPORT FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440479
+#EXTINF:-1,OM ▎OMAN TV SPORT HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/511207
+#EXTINF:-1,OM ▎OMAN TV LIVE FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440422
+#EXTINF:-1,OM ▎OMAN TV LIVE HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440423
+#EXTINF:-1,QA ▎AL RAYYAN HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3881
+#EXTINF:-1,QA ▎AL RAYYAN AL QADEEM HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/72997
+#EXTINF:-1,QA ▎QATAR TV FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440426
+#EXTINF:-1,QA ▎QATAR TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1239
+#EXTINF:-1,QA ▎QATAR 2 HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/604409
+#EXTINF:-1,BH ▎BAHRAIN SPORT 1 FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440475
+#EXTINF:-1,BH ▎BAHRAIN TV FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440447
+#EXTINF:-1,BH ▎BAHRAIN TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3595
+#EXTINF:-1,BH ▎BAHRAIN INTERNATIONAL HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440448
+#EXTINF:-1,BH ▎BAHRAIN QURAN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1268
+#EXTINF:-1,BH ▎AL BAHRANY TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440414
+
+#EXTINF:-1,JO ▎AL MAMLAKA TV FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/14404549
+#EXTINF:-1,JO ▎JORDAN FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3648
+#EXTINF:-1,JO ▎ROYA HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3647
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440455
+#EXTINF:-1,JO ▎AMMAN TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/92875
+#EXTINF:-1,JO ▎MUSAWA TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/2135
+
+
+#EXTINF:-1,YE ▎YEMEN TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1216
+#EXTINF:-1,YE ▎YEMEN TV 2
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440441
+#EXTINF:-1,YE ▎YEMEN SHABAB FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1217
+#EXTINF:-1,YE ▎YEMEN SHABAB
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440442
+#EXTINF:-1,YE ▎YEMEN EDUCATION TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/191074
+#EXTINF:-1,YE ▎YEMEN TODAY
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/2951
+#EXTINF:-1,YE ▎YEMEN DOCUMENTARY
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440440
+#EXTINF:-1,YE ▎SHEBA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/2952
+#EXTINF:-1,YE ▎ADEN TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/2953
+#EXTINF:-1,YE ▎AL SAEEDA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/43655
+#EXTINF:-1,YE ▎HADRAMOUT
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/43654
+#EXTINF:-1,YE ▎EL EIMAN TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/104997
+#EXTINF:-1,YE ▎AL SAHAT
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/104996
+#EXTINF:-1,YE ▎BELQEES HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/104994
+#EXTINF:-1,YE ▎ALLAHDAH TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/104993
+#EXTINF:-1,YE ▎AL MASIRAH TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/104992
+#EXTINF:-1,YE ▎SUHAIL TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/661342
+#EXTINF:-1,YE ▎AHRIAH HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/771665
+#EXTINF:-1,YE ▎ADEN TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440444
+#EXTINF:-1,YE ▎ADEN ALMUSTAKILLA FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440445
+#EXTINF:-1,YE ▎ADEN ALMUSTAKILLA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440446
+#EXTINF:-1,YE ▎AL HAWYAH TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440438
+#EXTINF:-1,YE ▎HADRAMOUT TV 1
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440439
+#EXTINF:-1,YE ▎AL JOMHORIA YEMEN TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440443
+
+#EXTINF:-1,LB ▎LBC HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/34067
+#EXTINF:-1,LB ▎LBC INTERNATIONAL HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1458352
+#EXTINF:-1,LB ▎TELE LIBAN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/2186
+#EXTINF:-1,LB ▎MTV LEBANON FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440292
+#EXTINF:-1,LB ▎MTV LEBANON HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1042
+#EXTINF:-1,LB ▎AL JADEED TV FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440293
+#EXTINF:-1,LB ▎AL JADEED HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/2048
+#EXTINF:-1,LB ▎NBN LEBANON HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/35990
+#EXTINF:-1,LB ▎AL MANAR
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3043
+#EXTINF:-1,LB ▎LBC
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1039
+#EXTINF:-1,LB ▎LBC INTERNATIONAL FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/108343
+#EXTINF:-1,LB ▎TELE LIBAN HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3593
+#EXTINF:-1,LB ▎TELE LIBAN FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/191301
+#EXTINF:-1,AR ▎AL MAYADEEN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/787593
+
+
+#EXTINF:-1,PS ▎MAAN TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1131
+#EXTINF:-1,PS ▎PALESTINE TODAY
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/2140
+#EXTINF:-1,PS ▎AWDEH TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/2134
+#EXTINF:-1,PS ▎AL KOFIYA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/683268
+#EXTINF:-1,PS ▎AL SERAJ TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/683270
+#EXTINF:-1,PS ▎SHIHAB TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440417
+#EXTINF:-1,PS ▎PALESTINE
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440418
+#EXTINF:-1,PS ▎RAJEEN TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440420
+
+#EXTINF:-1,SY ▎SYRIA SATELLITE TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/68968
+#EXTINF:-1,SY ▎SYRIA DRAMA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1133
+#EXTINF:-1,SY ▎SYRIA EDUCATION
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1134
+#EXTINF:-1,SY ▎SYRIA NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1136
+#EXTINF:-1,SY ▎SAMA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3042
+#EXTINF:-1,SY ▎LANA TV 
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/32851
+#EXTINF:-1,SY ▎SYRIA TV FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/32842
+#EXTINF:-1,SY ▎NOOR AL SHAM
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3592
+#EXTINF:-1,SY ▎SHAM TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/32846
+#EXTINF:-1,SY ▎ALYAUM TV FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/32843
+#EXTINF:-1,SY ▎MINBIJ
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/32850
+#EXTINF:-1,SY ▎HALAB TODAY TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/191295
+#EXTINF:-1,SY ▎SOURYANA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1458363
+#EXTINF:-1,SY ▎AL KHABAR TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/191294
+#EXTINF:-1,SY ▎MEIE TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/760002
+#EXTINF:-1,SY ▎SYRIA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440300
+#EXTINF:-1,SY ▎SYRIA TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440301
+
+#EXTINF:-1,EG ▎NILE FAMILY
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1069
+#EXTINF:-1,EG ▎NILE LIFE
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1072
+#EXTINF:-1,EG ▎NILE CULTURE
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/2123
+#EXTINF:-1,EG ▎NILE NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1071
+#EXTINF:-1,EG ▎NILE TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3635
+#EXTINF:-1,EG ▎NILE SPORT
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1073
+#EXTINF:-1,EG ▎AL OULA FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440350
+#EXTINF:-1,EG ▎AL OULA MASRIA QAF HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/481970
+#EXTINF:-1,EG ▎ALTHANYA 2
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3620
+#EXTINF:-1,EG ▎CH3 AL KAHERA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440362
+#EXTINF:-1,EG ▎CH4 AL KANAL
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440363
+#EXTINF:-1,EG ▎CH5 AL ASKANDRIA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440364
+#EXTINF:-1,EG ▎CH6 AL DELTA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440365
+#EXTINF:-1,EG ▎CH7 AL SAEED TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440366
+#EXTINF:-1,EG ▎CH8 TEBA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440367
+#EXTINF:-1,EG ▎MISR EL BALD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440368
+#EXTINF:-1,EG ▎MEKAMELEEN TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1064
+#EXTINF:-1,EG ▎WATAN TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3302
+#EXTINF:-1,AR ▎AL NAS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/54110
+#EXTINF:-1,EG ▎AZHARI TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1218
+#EXTINF:-1,EG ▎CIMA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1103
+#EXTINF:-1,EG ▎DMC
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/2963
+#EXTINF:-1,EG ▎AL HAYAT TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3637
+#EXTINF:-1,EG ▎EXTRA NEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1062
+#EXTINF:-1,EG ▎AL NAHAR 
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1081
+#EXTINF:-1,EG ▎AL NAHAR DRAMA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1085
+#EXTINF:-1,EG ▎AL HAYAT HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/17654
+#EXTINF:-1,EG ▎CBC
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1059
+#EXTINF:-1,EG ▎CBC DRAMA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1061
+#EXTINF:-1,EG ▎CBC SOFRA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1063
+
+#EXTINF:-1,SU ▎SUDAN TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1428
+#EXTINF:-1,SU ▎BLUE NILE
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/719259
+#EXTINF:-1,SU ▎KHARTOUM TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/204542
+#EXTINF:-1,SU ▎SUDAN SSBC
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/535050
+#EXTINF:-1,SU ▎DABANGA SUDAN
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/535055
+#EXTINF:-1,SU ▎TAYBA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440452
+
+#EXTINF:-1,LY ▎LIBYA LEBDA HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/41737
+#EXTINF:-1,LY ▎LIBYA HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440427
+#EXTINF:-1,LY ▎LIBYA MOSTAQBAL HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/41736
+#EXTINF:-1,LY ▎LIBYA AL HADATH
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/41738
+#EXTINF:-1,LY ▎LIBYA AL AHRAR FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440430
+#EXTINF:-1,LY ▎LIBYA EL AHRAR HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/41739
+#EXTINF:-1,LY ▎LIBYA WTV AL WASAT TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1458355
+#EXTINF:-1,LY ▎AL MASAR TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/741945
+#EXTINF:-1,LY ▎AL TANASUH TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/41741
+#EXTINF:-1,LY ▎TANASUH EDUCATION
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440432
+#EXTINF:-1,LY ▎LIBYA AL RSMIA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1236
+#EXTINF:-1,LY ▎LIBYA ALWATANIYA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/72542
+#EXTINF:-1,LY ▎LIBYA SPORT 1 HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/72543
+#EXTINF:-1,LY ▎LIBYA SPORT 2 HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/330598
+#EXTINF:-1,LY ▎LIBYA SALAM TV HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/138121
+#EXTINF:-1,LY ▎AL JAMAHIRIA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440428
+
+#EXTINF:-1,MA ▎AL AOULA INTER HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/939
+#EXTINF:-1,MA ▎AL AOULA INTER
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/2189
+#EXTINF:-1,MA ▎ATHAQAFIA HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/938
+#EXTINF:-1,MA ▎AL MAGHRIBIA FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440281
+#EXTINF:-1,TN ▎TUNISIA NAT 1
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1005
+#EXTINF:-1,TN ▎TUNISIA NAT 2
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1006
+#EXTINF:-1,TN ▎TUNISNA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/997
+#EXTINF:-1,TN ▎HANNIBAL
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/998
+#EXTINF:-1,TN ▎ATTESSIA TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/999
+#EXTINF:-1,TN ▎ZAYTOONA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1002
+#EXTINF:-1,DZ ▎ONE TV ALGERIA HD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1440312
+#EXTINF:-1,DZ ▎ALGERIE TV 6
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3641
+#EXTINF:-1,DZ ▎DZAIR 3
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/3636
+#EXTINF:-1,DZ ▎ALGERIE 4 TAMAZIGHT TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/11529
+#EXTINF:-1,DZ ▎ALGERIE 5 CORAN TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/11528
+#EXTINF:-1,DZ ▎EL WATANIA ALGERIE
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/608542
+#EXTINF:-1,DZ ▎TV8 EDHAKIRA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/796818
 
 
 
