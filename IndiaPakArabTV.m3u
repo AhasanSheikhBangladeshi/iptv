@@ -201,6 +201,38 @@ http://extraott.com:80/live/3162523972/3791698850/360717.m3u8
 http://extraott.com:80/live/3162523972/3791698850/360718.m3u8
 
 
+#EXTINF:-1 tvg-id="cbc.eg" tvg-name="EGY| CBC" tvg-logo="https://lo1.in/FCB/cbc.png" group-title="AR | EGYPT",EGY| CBC
+http://extraott.com:80/live/3162523972/3791698850/15253.m3u8
+#EXTINF:-1 tvg-id="cbc.eg" tvg-name="EGY| CBC HEVC" tvg-logo="https://lo1.in/FCB/cbc.png" group-title="AR | EGYPT",EGY| CBC HEVC
+http://extraott.com:80/live/3162523972/3791698850/13236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| CBC EXTRA NEWS " tvg-logo="https://lo1.in/egyy/cbcens.png" group-title="AR | EGYPT",EGY| CBC EXTRA NEWS 
+http://extraott.com:80/live/3162523972/3791698850/15250.m3u8
+#EXTINF:-1 tvg-id="cbcsofra.eg" tvg-name="EGY| CBC SOFRA SD" tvg-logo="https://lo1.in/fwc/cbcso.png" group-title="AR | EGYPT",EGY| CBC SOFRA SD
+http://extraott.com:80/live/3162523972/3791698850/15251.m3u8
+#EXTINF:-1 tvg-id="alhayat.eg" tvg-name="EGY| AL HAYAT HD" tvg-logo="https://lo1.in/egyy/haytrd.png" group-title="AR | EGYPT",EGY| AL HAYAT HD
+http://extraott.com:80/live/3162523972/3791698850/156137.m3u8
+#EXTINF:-1 tvg-id="dmc.eg" tvg-name="EGY| DMC HD" tvg-logo="https://lo1.in/egyy/dmc.png" group-title="AR | EGYPT",EGY| DMC HD
+http://extraott.com:80/live/3162523972/3791698850/15202.m3u8
+#EXTINF:-1 tvg-id="dmc.eg" tvg-name="EGY| DMC HEVC" tvg-logo="https://lo1.in/egyy/dmc.png" group-title="AR | EGYPT",EGY| DMC HEVC
+http://extraott.com:80/live/3162523972/3791698850/6334.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| AL HADATH AL YOUM HD" tvg-logo="https://lo1.in/egyy/hadty.png" group-title="AR | EGYPT",EGY| AL HADATH AL YOUM HD
+http://extraott.com:80/live/3162523972/3791698850/15196.m3u8
+#EXTINF:-1 tvg-id="alkaherawalnas.eg" tvg-name="EGY| AL KAHERA 3 TV HD" tvg-logo="https://lo1.in/egyy/khrwln.png" group-title="AR | EGYPT",EGY| AL KAHERA 3 TV HD
+http://extraott.com:80/live/3162523972/3791698850/190013.m3u8
+#EXTINF:-1 tvg-id="alkaherawalnas.eg" tvg-name="EGY| AL KAHERA WAL NAS  2" tvg-logo="https://lo1.in/egyy/khrwln2.png" group-title="AR | EGYPT",EGY| AL KAHERA WAL NAS  2
+http://extraott.com:80/live/3162523972/3791698850/15244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| AL MASRIYA HD" tvg-logo="https://lo1.in/egyy/msr.png" group-title="AR | EGYPT",EGY| AL MASRIYA HD
+http://extraott.com:80/live/3162523972/3791698850/15227.m3u8
+#EXTINF:-1 tvg-id="alnaharone.eg" tvg-name="EGY| AL NAHAR ONE" tvg-logo="https://lo1.in/egyy/nah1.png" group-title="AR | EGYPT",EGY| AL NAHAR ONE
+http://extraott.com:80/live/3162523972/3791698850/15249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| AL NAS" tvg-logo="https://lo1.in/egyy/nas.png" group-title="AR | EGYPT",EGY| AL NAS
+http://extraott.com:80/live/3162523972/3791698850/15186.m3u8
+#EXTINF:-1 tvg-id="alhayat.eg" tvg-name="EGY| ALHAYAT WE ALNAS HD" tvg-logo="https://lo1.in/egyy/hyatw.png" group-title="AR | EGYPT",EGY| ALHAYAT WE ALNAS HD
+http://extraott.com:80/live/3162523972/3791698850/15175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| ALTHANYA" tvg-logo="https://lo1.in/FCB/thay.png" group-title="AR | EGYPT",EGY| ALTHANYA
+http://extraott.com:80/live/3162523972/3791698850/15254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EGY| AZHARI TV" tvg-logo="https://lo1
+
 #EXTINF:-1,IR Simaye Azadi Iranntv
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 #EXTINF:-1, Al Manar Tv (Lebanon)
