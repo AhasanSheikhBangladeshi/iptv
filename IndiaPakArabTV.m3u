@@ -12,6 +12,24 @@ http://extraott.com:80/live/3162523972/3791698850/15058.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IRAQ| AL TAGHIER HD" tvg-logo="https://lo1.in/iraq/ataghier.png" group-title="AR | IRAQ",IRAQ| AL TAGHIER HD
 http://extraott.com:80/live/3162523972/3791698850/15046.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="KUW| ALRAI HD" tvg-logo="https://lo1.in/kuw/alr.png" group-title="AR | KUWAIT",KUW| ALRAI HD
+http://extraott.com:80/live/3162523972/3791698850/14972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KUW| KTV 1 HD" tvg-logo="https://lo1.in/FCB/kuw0.png" group-title="AR | KUWAIT",KUW| KTV 1 HD
+http://extraott.com:80/live/3162523972/3791698850/14979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KUW| KTV 2 HD" tvg-logo="https://lo1.in/FCB/kt2.png" group-title="AR | KUWAIT",KUW| KTV 2 HD
+http://extraott.com:80/live/3162523972/3791698850/14978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KUW| KUWAIT NEWS" tvg-logo="https://lo1.in/kuw/kw.png" group-title="AR | KUWAIT",KUW| KUWAIT NEWS
+http://extraott.com:80/live/3162523972/3791698850/38498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KUW| KTV SPORT HD" tvg-logo="https://lo1.in/FCB/kts1.png" group-title="AR | KUWAIT",KUW| KTV SPORT HD
+http://extraott.com:80/live/3162523972/3791698850/14974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KUW| KTV ETHRAA HD" tvg-logo="https://lo1.in/FCB/ethraa.png" group-title="AR | KUWAIT",KUW| KTV ETHRAA HD
+http://extraott.com:80/live/3162523972/3791698850/14975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KUW| KTV ALARABI HD" tvg-logo="https://lo1.in/FCB/arabi.png" group-title="AR | KUWAIT",KUW| KTV ALARABI HD
+http://extraott.com:80/live/3162523972/3791698850/360739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KUW| AL SHAHED TV FHD" tvg-logo="https://lo1.in/FCB/shh0.png" group-title="AR | KUWAIT",KUW| AL SHAHED TV FHD
+http://extraott.com:80/live/3162523972/3791698850/113004.m3u8
+
 #EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="QATAR| AL JAZEERA DOCUMENTARY" tvg-logo="https://lo1.in/qatar/jzdocu.png" group-title="AR | QATAR",QATAR| AL JAZEERA DOCUMENTARY
 http://extraott.com:80/live/3162523972/3791698850/162789.m3u8
 #EXTINF:-1 tvg-id="qatartv.qa" tvg-name="QATAR| QATAR TV FHD" tvg-logo="https://lo1.in/qatar/qattvhd.png" group-title="AR | QATAR",QATAR| QATAR TV FHD
