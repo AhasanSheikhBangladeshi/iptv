@@ -21,10 +21,57 @@ http://filex.tv:8080/03119660/06691130/110058
 http://filex.tv:8080/03119660/06691130/110062
 #EXTINF:-1 tvg-id="" tvg-name="PK | ATV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-pk.png" group-title="PAKISTAN âž¾ DRAMA",PK | ATV HD
 http://filex.tv:8080/03119660/06691130/110065
+#EXTINF:-1 tvg-id="" tvg-name="PK | KHYBER TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khyber-middle-east-tv-pk.png" group-title="PAKISTAN ➾ DRAMA",PK | KHYBER TV
+http://filex.tv:8080/03119660/06691130/189484
+#EXTINF:-1 tvg-id="" tvg-name="PK | GREEN TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-entertainment-pk.png" group-title="PAKISTAN ➾ DRAMA",PK | GREEN TV
+http://filex.tv:8080/03119660/06691130/110094
+#EXTINF:-1 tvg-id="" tvg-name="PK | AAN TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aan-tv-pk.png" group-title="PAKISTAN ➾ DRAMA",PK | AAN TV HD
+http://filex.tv:8080/03119660/06691130/110076
+#EXTINF:-1 tvg-id="" tvg-name="PK | URDU 1 HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQZeEyawlNdVjokVYB6X9Yv2XmV7z-tCcgA&usqp=CAU" group-title="PAKISTAN ➾ DRAMA",PK | URDU 1 HD 
+http://filex.tv:8080/03119660/06691130/110078
+#EXTINF:-1 tvg-id="" tvg-name="PK | MUN TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mun-tv-pk.png" group-title="PAKISTAN ➾ DRAMA",PK | MUN TV
+http://filex.tv:8080/03119660/06691130/110079
 #EXTINF:-1 tvg-id="" tvg-name="PK | PTV HOME " tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-home-pk.png" group-title="PAKISTAN âž¾ DRAMA",PK | PTV HOME 
 http://filex.tv:8080/03119660/06691130/110067
+#EXTINF:-1 tvg-id="" tvg-name="PK | PTV NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_news_pk.png" group-title="PAKISTAN ➾ NEWS",PK | PTV NEWS HD
+http://filex.tv:8080/03119660/06691130/52073
 
-
+#EXTINF:-1 tvg-id="92 News.pk" tvg-name="PK | 92 NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/92-news-pk.png" group-title="PAKISTAN ➾ NEWS",PK | 92 NEWS HD
+http://filex.tv:8080/03119660/06691130/52035
+#EXTINF:-1 tvg-id="Bol News.pk" tvg-name="PK | BOL NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol_news_pk.png" group-title="PAKISTAN ➾ NEWS",PK | BOL NEWS HD
+http://filex.tv:8080/03119660/06691130/52037
+#EXTINF:-1 tvg-id="Express News.pk" tvg-name="PK | EXPRESS NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express-news-pk.png" group-title="PAKISTAN ➾ NEWS",PK | EXPRESS NEWS HD
+http://filex.tv:8080/03119660/06691130/52039
+#EXTINF:-1 tvg-id="Geo News.pk" tvg-name="PK | GEO NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_me.png" group-title="PAKISTAN ➾ NEWS",PK | GEO NEWS HD
+http://filex.tv:8080/03119660/06691130/52041
+#EXTINF:-1 tvg-id="ARY News.pk" tvg-name="PK | ARY NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_news_asia.png" group-title="PAKISTAN ➾ NEWS",PK | ARY NEWS HD
+http://filex.tv:8080/03119660/06691130/52043
+#EXTINF:-1 tvg-id="Aaj News.pk" tvg-name="PK | AAJ NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aaj_tv_news.png" group-title="PAKISTAN ➾ NEWS",PK | AAJ NEWS
+http://filex.tv:8080/03119660/06691130/52044
+#EXTINF:-1 tvg-id="Samaa News.pk" tvg-name="PK | SAMAA NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWsYR2EoaMEqmvdZL8l8vC4nKRi5SJtmNKmQ&usqp=CAU" group-title="PAKISTAN ➾ NEWS",PK | SAMAA NEWS
+http://filex.tv:8080/03119660/06691130/52045
+#EXTINF:-1 tvg-id="City 41.pk" tvg-name="PK | CITY 41 NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/city_41_tv.png" group-title="PAKISTAN ➾ NEWS",PK | CITY 41 NEWS
+http://filex.tv:8080/03119660/06691130/52051
+#EXTINF:-1 tvg-id="City 42.pk" tvg-name="PK | CITY 42 NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/city_42_tv.png" group-title="PAKISTAN ➾ NEWS",PK | CITY 42 NEWS
+http://filex.tv:8080/03119660/06691130/52052
+#EXTINF:-1 tvg-id="Lahore News.pk" tvg-name="PK | LAHORE NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lahore_news_pk.png" group-title="PAKISTAN ➾ NEWS",PK | LAHORE NEWS HD
+http://filex.tv:8080/03119660/06691130/52056
+#EXTINF:-1 tvg-id="Sindh TV News.pk" tvg-name="PK | SINDH NEWS " tvg-logo="https://www.lyngsat.com/logo/tv/ss/sindh_tv_news.png" group-title="PAKISTAN ➾ NEWS",PK | SINDH NEWS 
+http://filex.tv:8080/03119660/06691130/52057
+#EXTINF:-1 tvg-id="GNN.pk" tvg-name="PK | GNN NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gourmet-news-network-pk.png" group-title="PAKISTAN ➾ NEWS",PK | GNN NEWS
+http://filex.tv:8080/03119660/06691130/52058
+#EXTINF:-1 tvg-id="Lahore Rang.pk" tvg-name="PK | LAHORE RANG" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lahore-rang-pk.png" group-title="PAKISTAN ➾ NEWS",PK | LAHORE RANG
+http://filex.tv:8080/03119660/06691130/52060
+#EXTINF:-1 tvg-id="Dawn News.pk" tvg-name="PK | DAWN NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dawn_news_pk.png" group-title="PAKISTAN ➾ NEWS",PK | DAWN NEWS
+http://filex.tv:8080/03119660/06691130/52061
+#EXTINF:-1 tvg-id="Dunya News.pk" tvg-name="PK | DUNIYA NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya_news_tv_pk.png" group-title="PAKISTAN ➾ NEWS",PK | DUNIYA NEWS HD
+http://filex.tv:8080/03119660/06691130/52066
+#EXTINF:-1 tvg-id="News One.pk" tvg-name="PK | NEWS ONE HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/news-one-pk.png" group-title="PAKISTAN ➾ NEWS",PK | NEWS ONE HD
+http://filex.tv:8080/03119660/06691130/52068
+#EXTINF:-1 tvg-id="24 Channel.pk" tvg-name="PK | 24 NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_24_pk.png" group-title="PAKISTAN ➾ NEWS",PK | 24 NEWS HD
+http://filex.tv:8080/03119660/06691130/52070
+#EXTINF:-1 tvg-id="" tvg-name="PK | ABB TAK NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abb_takk_pk.png" group-title="PAKISTAN ➾ NEWS",PK | ABB TAK NEWS HD
+http://filex.tv:8080/03119660/06691130/52071
 
 #EXTINF:-1 tvg-id="karbalatv.iq" tvg-name="IRAQ| KARBALA TV HD" tvg-logo="https://lo1.in/FCB/karbalatv1.png" group-title="AR | IRAQ",IRAQ| KARBALA TV HD
 http://extraott.com:80/live/3162523972/3791698850/15032.m3u8
