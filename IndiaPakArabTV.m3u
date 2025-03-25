@@ -1,4 +1,31 @@
 
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png" group-title="PAKISTAN âž¾ DRAMA",PK | HUM TV HD
+http://filex.tv:8080/03119660/06691130/110034
+#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK | ARY DIGITAL HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_digital_asia.png" group-title="PAKISTAN âž¾ DRAMA",PK | ARY DIGITAL HD
+http://filex.tv:8080/03119660/06691130/110038
+#EXTINF:-1 tvg-id="geotv.pk" tvg-name="PK | GEO ENTERTAINMENT HD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_me.png" group-title="PAKISTAN âž¾ DRAMA",PK | GEO ENTERTAINMENT HD
+http://filex.tv:8080/03119660/06691130/110041
+#EXTINF:-1 tvg-id="Bol Entertainment.pk" tvg-name="PK | BOL ENTERTAINMENT HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png" group-title="PAKISTAN âž¾ DRAMA",PK | BOL ENTERTAINMENT HD
+http://filex.tv:8080/03119660/06691130/110044
+#EXTINF:-1 tvg-id="" tvg-name="PK | EXPRESS ENTERTAINMENT HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express_entertainment_pk.png" group-title="PAKISTAN âž¾ DRAMA",PK | EXPRESS ENTERTAINMENT HD
+http://filex.tv:8080/03119660/06691130/110047
+#EXTINF:-1 tvg-id="" tvg-name="PK | ARY ZINDAGI" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_zindagi_pk.png" group-title="PAKISTAN âž¾ DRAMA",PK | ARY ZINDAGI
+http://filex.tv:8080/03119660/06691130/110049
+#EXTINF:-1 tvg-id="" tvg-name="PK | GEO KAHANI" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_kahani_pk.png" group-title="PAKISTAN âž¾ DRAMA",PK | GEO KAHANI
+http://filex.tv:8080/03119660/06691130/110052
+#EXTINF:-1 tvg-id="" tvg-name="PK | AAJ ENTERTAINMENT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj_entertainment_pk.png" group-title="PAKISTAN âž¾ DRAMA",PK | AAJ ENTERTAINMENT
+http://filex.tv:8080/03119660/06691130/110055
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARY" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-sitaray-pk.png" group-title="PAKISTAN âž¾ DRAMA",PK | HUM SITARY
+http://filex.tv:8080/03119660/06691130/110058
+#EXTINF:-1 tvg-id="" tvg-name="PK | A PLUS HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a-plus-pk.png" group-title="PAKISTAN âž¾ DRAMA",PK | A PLUS HD
+http://filex.tv:8080/03119660/06691130/110062
+#EXTINF:-1 tvg-id="" tvg-name="PK | ATV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-pk.png" group-title="PAKISTAN âž¾ DRAMA",PK | ATV HD
+http://filex.tv:8080/03119660/06691130/110065
+#EXTINF:-1 tvg-id="" tvg-name="PK | PTV HOME " tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-home-pk.png" group-title="PAKISTAN âž¾ DRAMA",PK | PTV HOME 
+http://filex.tv:8080/03119660/06691130/110067
+
+
+
 #EXTINF:-1 tvg-id="karbalatv.iq" tvg-name="IRAQ| KARBALA TV HD" tvg-logo="https://lo1.in/FCB/karbalatv1.png" group-title="AR | IRAQ",IRAQ| KARBALA TV HD
 http://extraott.com:80/live/3162523972/3791698850/15032.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IRAQ| UTV HD" tvg-logo="https://lo1.in/iraq/utv.png" group-title="AR | IRAQ",IRAQ| UTV HD
