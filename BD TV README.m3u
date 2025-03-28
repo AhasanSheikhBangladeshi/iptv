@@ -201,6 +201,8 @@ http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/25988
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (1080p)
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="LibyaAlWataniya.ly",Libya Al Wataniya
+https://cdn-globecast.akamaized.net:443/live/eds/libya_al_watanya/hls_roku/libya_al_watanya-avc1_600000=3-mp4a_97200=4.m3u8
 #EXTINF:-1,CBC
 http://nordicstream.xyz:80/q8r8D5gHvh/ZmovhgMYOa/37932
 #EXTINF:-1 tvg-id="IslamChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png" group-title="Religious",Islam Channel (576p) [Not 24/7]
@@ -265,6 +267,10 @@ https://5c7b683162943.streamlock.net:443/live/ngrp:bahrainquran_all/chunklist_w1
 http://xtv.ooo:8080/live/1295/1295/353004.ts
 #EXTINF:-1 tvg-id="QatarTV2.qa" tvg-country="QA" tvg-language="Arabic" tvg-logo="http://www.qtv.qa/assets/images/logos/qtvTwo2.png" group-title="General",Qatar TV 2 (720p)
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:-1 tvg-id="SamaDubai.ae",Sama Dubai (1080p)
+https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae",Abu Dhabi Emirates (1080p)
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="none" group-title="None",Abu Dhabi Aloula (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiEmirates.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="none" group-title="None",Abu Dhabi Emirates (1080p)
