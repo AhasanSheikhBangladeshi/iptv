@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="News 24 HD" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/07/28/thumbnails/News24-ds.jpg" group-title="BDIX Server",News 24 HD
+#EXTINF:1 tvg-logo="https://www.daily-sun.com/assets/news_images/2020/07/28/thumbnails/News24-ds.jpg" group-title="BDIX Server",News 24 HD
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BTV National" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjaRMs4KsOgKKyAkvnePFgD-GcZrXPGFUXkHZisYbJxjPFqZ7ECDmwxHiOjOWPQTLybWs&usqp=CAU" group-title="BDIX Server",BTV National
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjaRMs4KsOgKKyAkvnePFgD-GcZrXPGFUXkHZisYbJxjPFqZ7ECDmwxHiOjOWPQTLybWs&usqp=CAU" group-title="Bangladeshi",BTV National
 http://opplextv.cyou:8080/live/0000000000/0000000000/245930.ts
-#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/99ZKMd4mWYM.png" group-title="BDIX Server",BTV World
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/99ZKMd4mWYM.png" group-title="BDIX Server",BTV World
 https://www.btvlive.gov.bd:443/streams/40528d60-24d1-4c99-9d3c-46ba960e8128/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_1_playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Saudi Sunnah" tvg-logo="none" group-title="BDIX Server",Saudi Sunnah
+#EXTINF:-1 group-title="BDIX Server",Saudi Sunnah
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla", Bangladesh Television BTV CTG Chattogram
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangladeshi", BTV CTG Chattogram
 http://103.106.2.152:13456/btv_ctg.m3u8
-#EXTINF:-1 tvg-name="RTA Afghan" tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA TV Afghan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA TV Afghan
 http://iptvtree.net:8080/Isidorchait/ea940f8fd1/300674  
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision  (BDIX0)
 http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
-#EXTINF:-1 tvg-id="NDTV.in" tvg-name="NDTV" tvg-country="IN" tvg-language="English" tvg-logo=" " group-title="News",NDTV(480p)
+#EXTINF:-1 tvg-logo=" " group-title="News",NDTV(480p)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="General",BTV Sangsad
 http://103.106.2.152:13456/sangsad.m3u8
@@ -58,17 +58,17 @@ http://103.136.200.246:8089/Nagorik-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ai5p9BP.jpg" group-title="Bangladeshi", Nexus TV [1]
 http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
-#EXTINF:-1 tvg-id="IqraBangla.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/GK5BlnN.jpg" group-title="Religious",Iqra Bangla (576p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GK5BlnN.jpg" group-title="Religious",Iqra Bangla (576p)
 https://cdn149.anystream.uk:8082/app/iq53la/chunks.m3u8?nimblesessionid=25278712
 #EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="RELIGIOUS",Madani TV Bangla
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1 tvg-id="32" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Ahlulbayt TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ahlulbayt.jpg",Ahlulbayt TV (1080p)
+#EXTINF:-1 tvg-name="Ahlulbayt TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ahlulbayt.jpg",Ahlulbayt TV (1080p)
 http://forevertv.me:8080/342553618183/180888433334/105567
 #EXTINF:-1 tvg-id="30" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Safeer TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/safeer-tv.jpg",Safeer TV (1080)
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="India-Pakistani" tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
 http://103.55.144.46:80/hls/sonyen.m3u8
-#EXTINF:-1 tvg-id="PressTV.ir" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/TNQKahI.png" group-title="News",Press TV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNQKahI.png" group-title="News",Press TV (720p)
 http://vipegor.top:8080/live/VIP0187168864034307/7ec37168ec60/7504.ts 
 #EXTINF:-1 tvg-id="SaharUrdu.ir" tvg-country="IR" tvg-language="English" tvg-logo="https://shialivetv.com/shialive/assets/img/saharurdu.jpg" group-title="News",Sahar Urdu
 http://line.tivi-one.net:80/live/RLHNCDE/N0iE82ur6Z/440869.ts
