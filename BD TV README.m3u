@@ -70,8 +70,8 @@ https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 http://103.55.144.46:80/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNQKahI.png" group-title="News",Press TV (720p)
 http://vipegor.top:8080/live/VIP0187168864034307/7ec37168ec60/7504.ts 
-#EXTINF:-1 tvg-id="SaharUrdu.ir" tvg-country="IR" tvg-language="English" tvg-logo="https://shialivetv.com/shialive/assets/img/saharurdu.jpg" group-title="News",Sahar Urdu
-http://line.tivi-one.net:80/live/RLHNCDE/N0iE82ur6Z/440869.ts
+#EXTINF:-1 tvg-logo="https://shialivetv.com/shialive/assets/img/saharurdu.jpg" group-title="News",Sahar Urdu
+https://line.now-ott.xyz/live/451AAD/3f41a2/44406.ts
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
 http://103.55.144.46/hls/aljazeera.m3u8
 #EXTINF:-1 tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg" group-title="Bangladeshi",T sports HD (BDIX2)
@@ -82,10 +82,12 @@ https://cdn1.ipslow.com/tv526_www.elahmad.com_tvaden/index.m3u8?token=4dcce2be3d
 https://shls-mbc1na-prod-dub.shahid.net:443/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_2.m3u8
 #EXTINF:-1 tvg-name="Imam Ali Najaf HD Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Imam_Ali_shrine_-_1_May_2015_19.jpg" group-title="Relegious",Imam Ali Najaf Live HD
 http://iptvtree.net:8080/F24365/058a5194/283123
-#EXTINF:-1 tvg-id="30" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
-http://4ksuper.live/live/Michael88/Michael88/469231.ts
-#EXTINF:-1 tvg-id="120" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
-http://4ksuper.live/live/Michael88/Michael88/469203.ts
+#EXTINF:-1 tvg-id="1" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
+https://line.now-ott.xyz/live/451AAD/3f41a2/44547.ts
+#EXTINF:-1 tvg-id="IribTv3.ir",IRIB 3 TV
+https://line.now-ott.xyz/live/451AAD/3f41a2/44545.ts
+#EXTINF:-1 tvg-id="20" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
+https://line.now-ott.xyz/live/451AAD/3f41a2/44542.ts
 #EXTINF:-1 tvg-id="TakbeerTv.uk" tvg-name="Takbeer TV(UK)" tvg-country="UK" tvg-language"Urdj" tvg-logo="https://www.lyngsat.com/logo/tv/tt/takbeer-tv-uk.png" group-title="Religious",Takbeer TV(UK)
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
