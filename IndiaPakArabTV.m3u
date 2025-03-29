@@ -73,6 +73,15 @@ http://filex.tv:8080/03119660/06691130/52070
 #EXTINF:-1 tvg-id="" tvg-name="PK | ABB TAK NEWS HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abb_takk_pk.png" group-title="PAKISTAN ➾ NEWS",PK | ABB TAK NEWS HD
 http://filex.tv:8080/03119660/06691130/52071
 
+
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ| AL GHADEER HD" tvg-logo="https://lo1.in/iraq/ghader0.png" group-title="AR | IRAQ",IRAQ| AL GHADEER HD
+http://extraott.com:80/live/3162523972/3791698850/15041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ| IRAQ NOW HD" tvg-logo="https://lo1.in/FCB/iraqnow0.png" group-title="AR | IRAQ",IRAQ| IRAQ NOW HD
+http://extraott.com:80/live/3162523972/3791698850/15045.m3u8
+#EXTINF:-1 tvg-id="alforat.iq" tvg-name="IRAQ| AL FORAT TV" tvg-logo="https://lo1.in/iraq/forattv.png" group-title="AR | IRAQ",IRAQ| AL FORAT TV
+http://extraott.com:80/live/3162523972/3791698850/15048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ| AL MAWSLEYA HD" tvg-logo="https://lo1.in/iraq/mawslya.png" group-title="AR | IRAQ",IRAQ| AL MAWSLEYA HD
+http://extraott.com:80/live/3162523972/3791698850/15049.m3u8
 #EXTINF:-1 tvg-id="karbalatv.iq" tvg-name="IRAQ| KARBALA TV HD" tvg-logo="https://lo1.in/FCB/karbalatv1.png" group-title="AR | IRAQ",IRAQ| KARBALA TV HD
 http://extraott.com:80/live/3162523972/3791698850/15032.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IRAQ| UTV HD" tvg-logo="https://lo1.in/iraq/utv.png" group-title="AR | IRAQ",IRAQ| UTV HD
@@ -163,6 +172,30 @@ http://extraott.com:80/live/3162523972/3791698850/112314.m3u8
 http://extraott.com:80/live/3162523972/3791698850/39723.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="YEMEN| AL JOUMHOURIYA YEMEN HD" tvg-logo="https://lo1.in/yem/flg.png" group-title="AR | YEMEN",YEMEN| AL JOUMHOURIYA YEMEN HD
 http://extraott.com:80/live/3162523972/3791698850/401603407.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PALES| HEBRON.SAT TV SD" tvg-logo="https://lo1.in/FCB/herbonsat10.png" group-title="AR | PALESTINE",PALES| HEBRON.SAT TV SD
+http://extraott.com:80/live/3162523972/3791698850/112340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PALES| AL SERAJ TV FHD" tvg-logo="https://lo1.in/pal1/alseraj.png" group-title="AR | PALESTINE",PALES| AL SERAJ TV FHD
+http://extraott.com:80/live/3162523972/3791698850/112379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PALES| ALKOFIYA SD" tvg-logo="https://lo1.in/pal1/alkofiya.png" group-title="AR | PALESTINE",PALES| ALKOFIYA SD
+http://extraott.com:80/live/3162523972/3791698850/112380.m3u8
+#EXTINF:-1 tvg-id="palestinetv.sa" tvg-name="PALES| PALESTINE TV HD" tvg-logo="https://lo1.in/pal1/falastiniatv.png" group-title="AR | PALESTINE",PALES| PALESTINE TV HD
+http://extraott.com:80/live/3162523972/3791698850/15001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PALES| PALESTINE TODAY SD" tvg-logo="https://lo1.in/FCB/paltodav.png" group-title="AR | PALESTINE",PALES| PALESTINE TODAY SD
+http://extraott.com:80/live/3162523972/3791698850/15005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PALES| PALESTINE LIVE FHD" tvg-logo="https://lo1.in/FCB/pallive.png" group-title="AR | PALESTINE",PALES| PALESTINE LIVE FHD
+http://extraott.com:80/live/3162523972/3791698850/15002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PALES| PALESTINE NEWS HD" tvg-logo="https://lo1.in/FCB/palanews.png" group-title="AR | PALESTINE",PALES| PALESTINE NEWS HD
+http://extraott.com:80/live/3162523972/3791698850/15003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PALES| AL FALASTINIAH" tvg-logo="https://lo1.in/FCB/pallive.png" group-title="AR | PALESTINE",PALES| AL FALASTINIAH
+http://extraott.com:80/live/3162523972/3791698850/360935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PALES| MAAN TV SD" tvg-logo="https://lo1.in/pal1/maantv.png" group-title="AR | PALESTINE",PALES| MAAN TV SD
+http://extraott.com:80/live/3162523972/3791698850/15006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PALES| HEBRON.SAT TV SD" tvg-logo="https://lo1.in/FCB/herbonsat10.png" group-title="AR | PALESTINE",PALES| HEBRON.SAT TV SD
+http://extraott.com:80/live/3162523972/3791698850/112340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PALES| AL SERAJ TV FHD" tvg-logo="https://lo1.in/pal1/alseraj.png" group-title="AR | PALESTINE",PALES| AL SERAJ TV FHD
+http://extraott.com:80/live/3162523972/3791698850/112379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PALES| ALKOFIYA SD" tvg-logo="https://lo1.in/pal1/alkofiya.png" group-title="AR | PALESTINE",PALES
 
 #EXTINF:-1 tvg-id="" tvg-name="LEB| AL JADEED FHD" tvg-logo="https://lo1.in/leban1/aljadeed.png" group-title="AR | LEBANON",LEB| AL JADEED FHD
 http://extraott.com:80/live/3162523972/3791698850/15166.m3u8
