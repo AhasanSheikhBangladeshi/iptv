@@ -1,3 +1,28 @@
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| ZEE HINDUSTAN NEWS" tvg-logo="https://logo.iptveditor.com/zeehindustannews.png" group-title="INDIA",|HINDI| ZEE HINDUSTAN NEWS
+http://vocotv.pro:80/Kevin1/Kevin1/694077
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD BIHAR" tvg-logo="https://logo.iptveditor.com/ddbihar.png" group-title="INDIA",|HINDI| DD BIHAR
+http://vocotv.pro:80/Kevin1/Kevin1/694207
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD INDIA" tvg-logo="" group-title="INDIA",|HINDI| DD INDIA
+http://vocotv.pro:80/Kevin1/Kevin1/694206
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD MP" tvg-logo="" group-title="INDIA",|HINDI| DD MP
+http://vocotv.pro:80/Kevin1/Kevin1/694205
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD NATIONAL HD" tvg-logo="https://logo.iptveditor.com/ddnational.png" group-title="INDIA",|HINDI| DD NATIONAL HD
+http://vocotv.pro:80/Kevin1/Kevin1/694204
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD NEWS HD" tvg-logo="" group-title="INDIA",|HINDI| DD NEWS HD
+http://vocotv.pro:80/Kevin1/Kevin1/694203
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD RAJASTHAN" tvg-logo="https://logo.iptveditor.com/ddrajasthan.png" group-title="INDIA",|HINDI| DD RAJASTHAN
+http://vocotv.pro:80/Kevin1/Kevin1/694202
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD SPORTS" tvg-logo="https://logo.iptveditor.com/ddsports.png" group-title="INDIA",|HINDI| DD SPORTS
+http://vocotv.pro:80/Kevin1/Kevin1/694201
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD UP" tvg-logo="" group-title="INDIA",|HINDI| DD UP
+http://vocotv.pro:80/Kevin1/Kevin1/694200
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD URDU" tvg-logo="" group-title="INDIA",|HINDI| DD URDU
+http://vocotv.pro:80/Kevin1/Kevin1/694199
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DILLI AAJ TAKK" tvg-logo="" group-title="INDIA",|HINDI| DILLI AAJ TAKK
+http://vocotv.pro:80/Kevin1/Kevin1/694198
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TAMIL| DD PODHIGAI" tvg-logo="https://logo.iptveditor.com/dd podhigai.png" group-title="INDIA",|TAMIL| DD PODHIGAI
+http://vocotv.pro:80/Kevin1/Kevin1/693782
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK: 92 NEWS HD" tvg-logo="" group-title="Pakistan",PK: 92 NEWS HD
 http://vocotv.pro:80/Kevin1/Kevin1/690643
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK: AAJ News" tvg-logo="https://i.postimg.cc/c1mtLGdc/Aaj-News.png" group-title="Pakistan",PK: AAJ News
@@ -88,6 +113,52 @@ http://vocotv.pro:80/Kevin1/Kevin1/690537
 http://vocotv.pro:80/Kevin1/Kevin1/690536
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK: PTV WORLD" tvg-logo="" group-title="Pakistan",PK: PTV WORLD
 http://vocotv.pro:80/Kevin1/Kevin1/690535
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB TV 1 HD" tvg-logo="http://tvlogo.xyz/iran/tv1.png" group-title="Iran",IR | IRIB TV 1 HD
+http://vocotv.pro:80/Kevin1/Kevin1/691947
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB TV 1" tvg-logo="http://tvlogo.xyz/iran/tv1.png" group-title="Iran",IR | IRIB TV 1
+http://vocotv.pro:80/Kevin1/Kevin1/691946
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB TV 2 HD" tvg-logo="http://tvlogo.xyz/iran/tv2.png" group-title="Iran",IR | IRIB TV 2 HD
+http://vocotv.pro:80/Kevin1/Kevin1/691945
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB TV 3 HD" tvg-logo="http://iptvw0rld.ga/tv3hds.png" group-title="Iran",IR | IRIB TV 3 HD
+http://vocotv.pro:80/Kevin1/Kevin1/691944
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB TV 4 HD" tvg-logo="" group-title="Iran",IR | IRIB TV 4 HD
+http://vocotv.pro:80/Kevin1/Kevin1/691943
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRINN" tvg-logo="http://tvlogo.xyz/iran/inn.png" group-title="Iran",IR | IRINN
+http://vocotv.pro:80/Kevin1/Kevin1/691936
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Quran" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/6/6a/賱賵诏賵_卮亘讴賴_賯乇丌賳.png/150px-賱賵诏賵_卮亘讴賴_賯乇丌賳.png%D9%88%DA%AF%D9%88_%D8%B4%D8%A8%DA%A9%D9%87_%D9%82%D8%B1%D8%A2%D9%86.png" group-title="Iran",IR | IRIB Quran
+http://vocotv.pro:80/Kevin1/Kevin1/691956
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Sahar Azari" tvg-logo="" group-title="Iran",IR | IRIB Sahar Azari
+http://vocotv.pro:80/Kevin1/Kevin1/691953
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Sahar Balakan" tvg-logo="" group-title="Iran",IR | IRIB Sahar Balakan
+http://vocotv.pro:80/Kevin1/Kevin1/691952
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Salamat" tvg-logo="http://tvlogo.xyz/iran/salamat.png" group-title="Iran",IR | IRIB Salamat
+http://vocotv.pro:80/Kevin1/Kevin1/691951
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Hamoon TV (Sistan and Baluchestan)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/1/1e/IRIB_Hamadan_tv.png/160px-IRIB_Hamadan_tv.png" group-title="Iran",IR | IRIB Hamoon TV (Sistan and Baluchestan)
+http://vocotv.pro:80/Kevin1/Kevin1/691970
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Ilam TV" tvg-logo="https://i.postimg.cc/5tXcmfkb/768px-Ilam-TV.png" group-title="Iran",IR | IRIB Ilam TV
+http://vocotv.pro:80/Kevin1/Kevin1/691969
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Isfahan TV" tvg-logo="http://tvlogo.xyz/iran/isfehan.png" group-title="Iran",IR | IRIB Isfahan TV
+http://vocotv.pro:80/Kevin1/Kevin1/691968
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Sabalan TV (Ardabil)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/Ardabil_SABALAN.png/180px-Ardabil_SABALAN.png" group-title="Iran",IR | IRIB Sabalan TV (Ardabil)
+http://vocotv.pro:80/Kevin1/Kevin1/691955
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Sahand TV (Tabriz)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/150px-Tabriz_Sahand.svg.png" group-title="Iran",IR | IRIB Sahand TV (Tabriz)
+http://vocotv.pro:80/Kevin1/Kevin1/691954
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Mahabad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/c/cb/Mahabad_tv.png/120px-Mahabad_tv.png" group-title="Iran",IR | IRIB Mahabad TV
+http://vocotv.pro:80/Kevin1/Kevin1/691962
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | INTV Simaye Azadi FHD" tvg-logo="http://tvlogo.xyz/iran/SimayAzadi.png" group-title="Iran",IR | INTV Simaye Azadi FHD
+http://vocotv.pro:80/Kevin1/Kevin1/691985
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | Iran Beauty" tvg-logo="https://asiagrandiptv.us/logo/IRANBEAUTY.jpg" group-title="Iran",IR | Iran Beauty
+http://vocotv.pro:80/Kevin1/Kevin1/691984
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | Iran International FHD" tvg-logo="http://tvlogo.xyz/iran/iranint.png" group-title="Iran",IR | Iran International FHD
+http://vocotv.pro:80/Kevin1/Kevin1/691983
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | Velayat TV USA HD" tvg-logo="http://tvlogo.xyz/iran/velayat.png" group-title="Iran",IR | Velayat TV USA HD
+http://vocotv.pro:80/Kevin1/Kevin1/691865
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | Kalemeh TV" tvg-logo="https://i.postimg.cc/pTHjKfZq/kalemeh-tv.jpg" group-title="Iran",IR | Kalemeh TV
+http://vocotv.pro:80/Kevin1/Kevin1/691933
+
+
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Alawla TV" tvg-logo="" group-title="AR | IRAQ",IQ | Alawla TV
