@@ -102,6 +102,43 @@ http://tigerott.com:8080/0583333/111111/82820
 #EXTINF:-1 tvg-id="" tvg-name="PK- KAY2" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK- KAY2
 http://tigerott.com:8080/0583333/111111/82821
 
+#EXTINF:-1 tvg-id="" tvg-name="|NP| NTV NATIONAL FHD" tvg-logo="" group-title="AS | NEPAL",|NP| NTV NATIONAL FHD
+http://tigerott.com:8080/0583333/111111/88637
+#EXTINF:-1 tvg-id="" tvg-name="|NP| NTV PLUS FHD" tvg-logo="" group-title="AS | NEPAL",|NP| NTV PLUS FHD
+http://tigerott.com:8080/0583333/111111/88638
+#EXTINF:-1 tvg-id="" tvg-name="|NP| KANTIPUR TV" tvg-logo="" group-title="AS | NEPAL",|NP| KANTIPUR TV
+http://tigerott.com:8080/0583333/111111/88639
+#EXTINF:-1 tvg-id="" tvg-name="|NP| NTV NATIONAL FHD" tvg-logo="" group-title="AS | NEPAL",|NP| NTV NATIONAL FHD
+http://tigerott.com:8080/0583333/111111/88640
+#EXTINF:-1 tvg-id="" tvg-name="|NP| NEWS 24" tvg-logo="" group-title="AS | NEPAL",|NP| NEWS 24
+http://tigerott.com:8080/0583333/111111/88641
+#EXTINF:-1 tvg-id="" tvg-name="|NP| AVENUES TV" tvg-logo="" group-title="AS | NEPAL",|NP| AVENUES TV
+http://tigerott.com:8080/0583333/111111/88642
+#EXTINF:-1 tvg-id="" tvg-name="|NP| NTV News" tvg-logo="" group-title="AS | NEPAL",|NP| NTV News
+http://tigerott.com:8080/0583333/111111/88643
+#EXTINF:-1 tvg-id="" tvg-name="Channel Ace Nepal" tvg-logo="" group-title="AS | NEPAL",Channel Ace Nepal
+http://tigerott.com:8080/0583333/111111/88644
+#EXTINF:-1 tvg-id="" tvg-name="Birat TV" tvg-logo="" group-title="AS | NEPAL",Birat TV
+http://tigerott.com:8080/0583333/111111/88645
+#EXTINF:-1 tvg-id="" tvg-name="Indigenous Television" tvg-logo="" group-title="AS | NEPAL",Indigenous Television
+http://tigerott.com:8080/0583333/111111/88646
+#EXTINF:-1 tvg-id="" tvg-name="Janta TV" tvg-logo="" group-title="AS | NEPAL",Janta TV
+http://tigerott.com:8080/0583333/111111/88647
+#EXTINF:-1 tvg-id="" tvg-name="Image Nepal" tvg-logo="" group-title="AS | NEPAL",Image Nepal
+http://tigerott.com:8080/0583333/111111/88648
+#EXTINF:-1 tvg-id="" tvg-name="Prime Time Nepal" tvg-logo="" group-title="AS | NEPAL",Prime Time Nepal
+http://tigerott.com:8080/0583333/111111/88649
+#EXTINF:-1 tvg-id="" tvg-name="TV Filmy Nepal" tvg-logo="" group-title="AS | NEPAL",TV Filmy Nepal
+http://tigerott.com:8080/0583333/111111/88650
+#EXTINF:-1 tvg-id="" tvg-name="Kanitpur Cineplex" tvg-logo="" group-title="AS | NEPAL",Kanitpur Cineplex
+http://tigerott.com:8080/0583333/111111/88651
+#EXTINF:-1 tvg-id="" tvg-name="Sagarmatha TV" tvg-logo="" group-title="AS | NEPAL",Sagarmatha TV
+http://tigerott.com:8080/0583333/111111/88652
+#EXTINF:-1 tvg-id="" tvg-name="Mountain TV" tvg-logo="" group-title="AS | NEPAL",Mountain TV
+http://tigerott.com:8080/0583333/111111/88653
+#EXTINF:-1 tvg-id="" tvg-name="Kantipur Nepal" tvg-logo="" group-title="AS | NEPAL",Kantipur Nepal
+http://tigerott.com:8080/0583333/111111/88654
+
 #EXTINF:-1 tvg-id="" tvg-name="ADA-DERENA24" tvg-logo="" group-title="AS | SRILANKA",ADA-DERENA24
 http://tigerott.com:8080/0583333/111111/88236
 #EXTINF:-1 tvg-id="" tvg-name="ART-TELEVISION" tvg-logo="" group-title="AS | SRILANKA",ART-TELEVISION
@@ -414,12 +451,54 @@ http://tigerott.com:8080/0583333/111111/529378
 #EXTINF:-1 tvg-id="" tvg-name="AR: ATV 4K" tvg-logo="" group-title="AR | KUWAIT",AR: ATV 4K
 http://tigerott.com:8080/0583333/111111/529379
 
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALRAYYAN 4K" tvg-logo="" group-title="AR | QATAR",AR: ALRAYYAN 4K
+http://tigerott.com:8080/0583333/111111/529386
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALRAYYAN ALQADEEM 4K" tvg-logo="" group-title="AR | QATAR",AR: ALRAYYAN ALQADEEM 4K
+http://tigerott.com:8080/0583333/111111/529387
+#EXTINF:-1 tvg-id="" tvg-name="AR: QATAR 1 4K" tvg-logo="" group-title="AR | QATAR",AR: QATAR 1 4K
+http://tigerott.com:8080/0583333/111111/529388
+#EXTINF:-1 tvg-id="" tvg-name="AR: QATAR 1 HD" tvg-logo="" group-title="AR | QATAR",AR: QATAR 1 HD
+http://tigerott.com:8080/0583333/111111/529389
+#EXTINF:-1 tvg-id="" tvg-name="AR: QATAR 2 4K" tvg-logo="" group-title="AR | QATAR",AR: QATAR 2 4K
+http://tigerott.com:8080/0583333/111111/529390
+#EXTINF:-1 tvg-id="" tvg-name="AR: QATAR 2 HD" tvg-logo="" group-title="AR | QATAR",AR: QATAR 2 HD
+http://tigerott.com:8080/0583333/111111/529391
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL JAZEERA MUBASHER 2HD" tvg-logo="" group-title="AR | QATAR",AR: AL JAZEERA MUBASHER 2HD
+http://tigerott.com:8080/0583333/111111/529392
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAUDI 1 HD" tvg-logo="" group-title="AR | SAUDI ARABIA",AR: SAUDI 1 HD
+http://tigerott.com:8080/0583333/111111/529646
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAUDI 24 TV" tvg-logo="" group-title="AR | SAUDI ARABIA",AR: SAUDI 24 TV
+http://tigerott.com:8080/0583333/111111/529647
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAUDI ALEKHBARIA 4K" tvg-logo="" group-title="AR | SAUDI ARABIA",AR: SAUDI ALEKHBARIA 4K
+http://tigerott.com:8080/0583333/111111/529648
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAUDI ALEKHBARIA HD" tvg-logo="" group-title="AR | SAUDI ARABIA",AR: SAUDI ALEKHBARIA HD
+http://tigerott.com:8080/0583333/111111/529649
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALTHAKAFIYA 4K" tvg-logo="" group-title="AR | SAUDI ARABIA",AR: ALTHAKAFIYA 4K
+http://tigerott.com:8080/0583333/111111/529650
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALTHAKAFIYA HD" tvg-logo="" group-title="AR | SAUDI ARABIA",AR: ALTHAKAFIYA HD
+http://tigerott.com:8080/0583333/111111/529651
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAUDI ALAAN HD" tvg-logo="" group-title="AR | SAUDI ARABIA",AR: SAUDI ALAAN HD
+http://tigerott.com:8080/0583333/111111/529652
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAUDI ALAAN 4K" tvg-logo="" group-title="AR | SAUDI ARABIA",AR: SAUDI ALAAN 4K
+http://tigerott.com:8080/0583333/111111/529653
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAUDI THIKRAYATT 4K" tvg-logo="" group-title="AR | SAUDI ARABIA",AR: SAUDI THIKRAYATT 4K
+http://tigerott.com:8080/0583333/111111/529654
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAUDI THIKRAYAT HD" tvg-logo="" group-title="AR | SAUDI ARABIA",AR: SAUDI THIKRAYAT HD
+http://tigerott.com:8080/0583333/111111/529655
+#EXTINF:-1 tvg-id="" tvg-name="AR: SBC 4K" tvg-logo="" group-title="AR | SAUDI ARABIA",AR: SBC 4K
+http://tigerott.com:8080/0583333/111111/529656
+#EXTINF:-1 tvg-id="" tvg-name="AR: SBC HD" tvg-logo="" group-title="AR | SAUDI ARABIA",AR: SBC HD
+http://tigerott.com:8080/0583333/111111/529657
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALWAQIE TV 4K" tvg-logo="" group-title="AR | SAUDI ARABIA",AR: ALWAQIE TV 4K
+http://tigerott.com:8080/0583333/111111/529658
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALMERGAB TV" tvg-logo="" group-title="AR | SAUDI ARABIA",AR: ALMERGAB TV
+http://tigerott.com:8080/0583333/111111/529659
+
+
 #EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN TV" tvg-logo="" group-title="AR | YEMEN",AR: YEMEN TV
 http://tigerott.com:8080/0583333/111111/529434
 #EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN TODAY" tvg-logo="" group-title="AR | YEMEN",AR: YEMEN TODAY
 http://tigerott.com:8080/0583333/111111/529435
-#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN SHABAB 4K" tvg-logo="" group-title="AR | YEMEN",AR: YEMEN SHABAB 4K
-http://tigerott.com:8080/0583333/111111/529436
 #EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN SHABAB" tvg-logo="" group-title="AR | YEMEN",AR: YEMEN SHABAB
 http://tigerott.com:8080/0583333/111111/529437
 #EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN EDUCATION TV" tvg-logo="" group-title="AR | YEMEN",AR: YEMEN EDUCATION TV
@@ -428,8 +507,6 @@ http://tigerott.com:8080/0583333/111111/529438
 http://tigerott.com:8080/0583333/111111/529439
 #EXTINF:-1 tvg-id="" tvg-name="AR: SHEBA TV" tvg-logo="" group-title="AR | YEMEN",AR: SHEBA TV
 http://tigerott.com:8080/0583333/111111/529440
-#EXTINF:-1 tvg-id="" tvg-name="AR: ADEN ALMUSTAKILLA 4K" tvg-logo="" group-title="AR | YEMEN",AR: ADEN ALMUSTAKILLA 4K
-http://tigerott.com:8080/0583333/111111/529441
 #EXTINF:-1 tvg-id="" tvg-name="AR: ADEN ALMUSTAKILLA HD" tvg-logo="" group-title="AR | YEMEN",AR: ADEN ALMUSTAKILLA HD
 http://tigerott.com:8080/0583333/111111/529442
 #EXTINF:-1 tvg-id="" tvg-name="AR: ADEN TV" tvg-logo="" group-title="AR | YEMEN",AR: ADEN TV
@@ -456,8 +533,6 @@ http://tigerott.com:8080/0583333/111111/529452
 http://tigerott.com:8080/0583333/111111/529453
 #EXTINF:-1 tvg-id="" tvg-name="AR: ALYEMEN TV" tvg-logo="" group-title="AR | YEMEN",AR: ALYEMEN TV
 http://tigerott.com:8080/0583333/111111/529454
-#EXTINF:-1 tvg-id="" tvg-name="AR: BELQEES 4K" tvg-logo="" group-title="AR | YEMEN",AR: BELQEES 4K
-http://tigerott.com:8080/0583333/111111/529455
 #EXTINF:-1 tvg-id="" tvg-name="AR: BELQEES HD" tvg-logo="" group-title="AR | YEMEN",AR: BELQEES HD
 http://tigerott.com:8080/0583333/111111/529456
 #EXTINF:-1 tvg-id="" tvg-name="AR: HADRAMOUT" tvg-logo="" group-title="AR | YEMEN",AR: HADRAMOUT
@@ -468,6 +543,49 @@ http://tigerott.com:8080/0583333/111111/529458
 http://tigerott.com:8080/0583333/111111/529459
 #EXTINF:-1 tvg-id="" tvg-name="AR: REEF ALYAMAN TV" tvg-logo="" group-title="AR | YEMEN",AR: REEF ALYAMAN TV
 http://tigerott.com:8080/0583333/111111/529460
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALJADEED TV HD" tvg-logo="" group-title="AR | LEBANON",AR: ALJADEED TV HD
+http://tigerott.com:8080/0583333/111111/529394
+#EXTINF:-1 tvg-id="" tvg-name="AR: MTV LEBANON 4K" tvg-logo="" group-title="AR | LEBANON",AR: MTV LEBANON 4K
+http://tigerott.com:8080/0583333/111111/529395
+#EXTINF:-1 tvg-id="" tvg-name="AR: MTV LEBANON HD" tvg-logo="" group-title="AR | LEBANON",AR: MTV LEBANON HD
+http://tigerott.com:8080/0583333/111111/529396
+#EXTINF:-1 tvg-id="" tvg-name="AR: LBC 4K" tvg-logo="" group-title="AR | LEBANON",AR: LBC 4K
+http://tigerott.com:8080/0583333/111111/529397
+#EXTINF:-1 tvg-id="" tvg-name="AR: LBC HD" tvg-logo="" group-title="AR | LEBANON",AR: LBC HD
+http://tigerott.com:8080/0583333/111111/529398
+#EXTINF:-1 tvg-id="" tvg-name="AR: LBC SAT" tvg-logo="" group-title="AR | LEBANON",AR: LBC SAT
+http://tigerott.com:8080/0583333/111111/529399
+#EXTINF:-1 tvg-id="" tvg-name="AR: LBC2 HD" tvg-logo="" group-title="AR | LEBANON",AR: LBC2 HD
+http://tigerott.com:8080/0583333/111111/529401
+#EXTINF:-1 tvg-id="" tvg-name="AR: LBC 3 HD" tvg-logo="" group-title="AR | LEBANON",AR: LBC 3 HD
+http://tigerott.com:8080/0583333/111111/529403
+#EXTINF:-1 tvg-id="" tvg-name="AR: LBC INTERNATIONAL 4K" tvg-logo="" group-title="AR | LEBANON",AR: LBC INTERNATIONAL 4K
+http://tigerott.com:8080/0583333/111111/529404
+#EXTINF:-1 tvg-id="" tvg-name="AR: LBC INTERNATIONAL HD" tvg-logo="" group-title="AR | LEBANON",AR: LBC INTERNATIONAL HD
+http://tigerott.com:8080/0583333/111111/529405
+#EXTINF:-1 tvg-id="" tvg-name="AR: FUTURE 4K" tvg-logo="" group-title="AR | LEBANON",AR: FUTURE 4K
+http://tigerott.com:8080/0583333/111111/529406
+#EXTINF:-1 tvg-id="" tvg-name="AR: ONE TV 4K" tvg-logo="" group-title="AR | LEBANON",AR: ONE TV 4K
+http://tigerott.com:8080/0583333/111111/529407
+#EXTINF:-1 tvg-id="" tvg-name="AR: ONE TV HD" tvg-logo="" group-title="AR | LEBANON",AR: ONE TV HD
+http://tigerott.com:8080/0583333/111111/529408
+#EXTINF:-1 tvg-id="" tvg-name="AR: TELELIBAN TV" tvg-logo="" group-title="AR | LEBANON",AR: TELELIBAN TV
+http://tigerott.com:8080/0583333/111111/529410
+#EXTINF:-1 tvg-id="" tvg-name="AR: OTV HD" tvg-logo="" group-title="AR | LEBANON",AR: OTV HD
+http://tigerott.com:8080/0583333/111111/529412
+#EXTINF:-1 tvg-id="" tvg-name="AR: NBN HD" tvg-logo="" group-title="AR | LEBANON",AR: NBN HD
+http://tigerott.com:8080/0583333/111111/529414
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALMANAR HD" tvg-logo="" group-title="AR | LEBANON",AR: ALMANAR HD
+http://tigerott.com:8080/0583333/111111/529415
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL MASHHAD HD" tvg-logo="" group-title="AR | LEBANON",AR: AL MASHHAD HD
+http://tigerott.com:8080/0583333/111111/529423
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALMAYADEEN HD" tvg-logo="" group-title="AR | LEBANON",AR: ALMAYADEEN HD
+http://tigerott.com:8080/0583333/111111/529424
+#EXTINF:-1 tvg-id="" tvg-name="AR: ETIHAD TV" tvg-logo="" group-title="AR | LEBANON",AR: ETIHAD TV
+http://tigerott.com:8080/0583333/111111/529430
+
 
 #EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA HD" tvg-logo="" group-title="AR | SYRIA",AR: SYRIA HD
 http://tigerott.com:8080/0583333/111111/529692
@@ -504,18 +622,10 @@ http://tigerott.com:8080/0583333/111111/529706
 http://tigerott.com:8080/0583333/111111/529344
 #EXTINF:-1 tvg-id="" tvg-name="AR: YARMOUK TV" tvg-logo="" group-title="AR | JORDAN",AR: YARMOUK TV
 http://tigerott.com:8080/0583333/111111/529345
-#EXTINF:-1 tvg-id="" tvg-name="AR: YARMOUK 2 4K" tvg-logo="" group-title="AR | JORDAN",AR: YARMOUK 2 4K
-http://tigerott.com:8080/0583333/111111/529346
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALMAMLAKA 4K" tvg-logo="" group-title="AR | JORDAN",AR: ALMAMLAKA 4K
-http://tigerott.com:8080/0583333/111111/529347
 #EXTINF:-1 tvg-id="" tvg-name="AR: AMMAN TV" tvg-logo="" group-title="AR | JORDAN",AR: AMMAN TV
 http://tigerott.com:8080/0583333/111111/529348
-#EXTINF:-1 tvg-id="" tvg-name="AR: JORDAN 4K" tvg-logo="" group-title="AR | JORDAN",AR: JORDAN 4K
-http://tigerott.com:8080/0583333/111111/529349
 #EXTINF:-1 tvg-id="" tvg-name="AR: JORDAN HD" tvg-logo="" group-title="AR | JORDAN",AR: JORDAN HD
 http://tigerott.com:8080/0583333/111111/529350
-#EXTINF:-1 tvg-id="" tvg-name="AR: JORDAN SPORT 4K" tvg-logo="" group-title="AR | JORDAN",AR: JORDAN SPORT 4K
-http://tigerott.com:8080/0583333/111111/529351
 #EXTINF:-1 tvg-id="" tvg-name="AR: JORDAN SPORT HD" tvg-logo="" group-title="AR | JORDAN",AR: JORDAN SPORT HD
 http://tigerott.com:8080/0583333/111111/529352
 #EXTINF:-1 tvg-id="" tvg-name="AR: JORDAN AMEN" tvg-logo="" group-title="AR | JORDAN",AR: JORDAN AMEN
@@ -523,6 +633,63 @@ http://tigerott.com:8080/0583333/111111/529353
 #EXTINF:-1 tvg-id="" tvg-name="AR: JORDAN SAMA" tvg-logo="" group-title="AR | JORDAN",AR: JORDAN SAMA
 http://tigerott.com:8080/0583333/111111/529354
 
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAOUT PALASTIN" tvg-logo="" group-title="AR | PALASTINA",AR: SAOUT PALASTIN
+http://tigerott.com:8080/0583333/111111/529570
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALAQSA TV HD" tvg-logo="" group-title="AR | PALASTINA",AR: ALAQSA TV HD
+http://tigerott.com:8080/0583333/111111/529572
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALASTINE HD" tvg-logo="" group-title="AR | PALASTINA",AR: PALASTINE HD
+http://tigerott.com:8080/0583333/111111/529574
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALASTINE LIVE 4K" tvg-logo="" group-title="AR | PALASTINA",AR: PALASTINE LIVE 4K
+http://tigerott.com:8080/0583333/111111/529575
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALASTINE LIVE HD" tvg-logo="" group-title="AR | PALASTINA",AR: PALASTINE LIVE HD
+http://tigerott.com:8080/0583333/111111/529576
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALASTINE NEWS 4K" tvg-logo="" group-title="AR | PALASTINA",AR: PALASTINE NEWS 4K
+http://tigerott.com:8080/0583333/111111/529577
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALASTINE NEWS HD" tvg-logo="" group-title="AR | PALASTINA",AR: PALASTINE NEWS HD
+http://tigerott.com:8080/0583333/111111/529578
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALASTINE TODAY" tvg-logo="" group-title="AR | PALASTINA",AR: PALASTINE TODAY
+http://tigerott.com:8080/0583333/111111/529579
+#EXTINF:-1 tvg-id="" tvg-name="AR: FALASTINI TV" tvg-logo="" group-title="AR | PALASTINA",AR: FALASTINI TV
+http://tigerott.com:8080/0583333/111111/529580
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALQUDS TODAY TV" tvg-logo="" group-title="AR | PALASTINA",AR: ALQUDS TODAY TV
+http://tigerott.com:8080/0583333/111111/529581
+#EXTINF:-1 tvg-id="" tvg-name="AR: MUSAWA 4K" tvg-logo="" group-title="AR | PALASTINA",AR: MUSAWA 4K
+http://tigerott.com:8080/0583333/111111/529582
+#EXTINF:-1 tvg-id="" tvg-name="AR: MUSAWA" tvg-logo="" group-title="AR | PALASTINA",AR: MUSAWA
+http://tigerott.com:8080/0583333/111111/529583
+#EXTINF:-1 tvg-id="" tvg-name="AR: AWDEH 4K" tvg-logo="" group-title="AR | PALASTINA",AR: AWDEH 4K
+http://tigerott.com:8080/0583333/111111/529584
+#EXTINF:-1 tvg-id="" tvg-name="AR: AWDEH" tvg-logo="" group-title="AR | PALASTINA",AR: AWDEH
+http://tigerott.com:8080/0583333/111111/529585
+#EXTINF:-1 tvg-id="" tvg-name="AR: RAJEEN TV 4K" tvg-logo="" group-title="AR | PALASTINA",AR: RAJEEN TV 4K
+http://tigerott.com:8080/0583333/111111/529586
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALKOFIYA" tvg-logo="" group-title="AR | PALASTINA",AR: ALKOFIYA
+http://tigerott.com:8080/0583333/111111/529590
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALQANAT 9" tvg-logo="" group-title="AR | PALASTINA",AR: ALQANAT 9
+http://tigerott.com:8080/0583333/111111/529591
+#EXTINF:-1 tvg-id="" tvg-name="AR: NABLUS TV" tvg-logo="" group-title="AR | PALASTINA",AR: NABLUS TV
+http://tigerott.com:8080/0583333/111111/529592
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL SHAMALIA" tvg-logo="" group-title="AR | SUDAN",AR: AL SHAMALIA
+http://tigerott.com:8080/0583333/111111/529833
+#EXTINF:-1 tvg-id="" tvg-name="AR: SUDAN 1 TV" tvg-logo="" group-title="AR | SUDAN",AR: SUDAN 1 TV
+http://tigerott.com:8080/0583333/111111/529834
+#EXTINF:-1 tvg-id="" tvg-name="AR: SUDAN TV" tvg-logo="" group-title="AR | SUDAN",AR: SUDAN TV
+http://tigerott.com:8080/0583333/111111/529835
+#EXTINF:-1 tvg-id="" tvg-name="AR: SUDAN NOW ALZRGA" tvg-logo="" group-title="AR | SUDAN",AR: SUDAN NOW ALZRGA
+http://tigerott.com:8080/0583333/111111/529836
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALZARGA TV" tvg-logo="" group-title="AR | SUDAN",AR: ALZARGA TV
+http://tigerott.com:8080/0583333/111111/529837
+#EXTINF:-1 tvg-id="" tvg-name="AR: Dabanga TV" tvg-logo="" group-title="AR | SUDAN",AR: Dabanga TV
+http://tigerott.com:8080/0583333/111111/529838
+#EXTINF:-1 tvg-id="" tvg-name="AR: SUDAN BASIC EDU" tvg-logo="" group-title="AR | SUDAN",AR: SUDAN BASIC EDU
+http://tigerott.com:8080/0583333/111111/529839
+#EXTINF:-1 tvg-id="" tvg-name="AR: SUDAN MUSIC" tvg-logo="" group-title="AR | SUDAN",AR: SUDAN MUSIC
+http://tigerott.com:8080/0583333/111111/529840
+#EXTINF:-1 tvg-id="" tvg-name="AR: KHARTOUM TV" tvg-logo="" group-title="AR | SUDAN",AR: KHARTOUM TV
+http://tigerott.com:8080/0583333/111111/529841
+#EXTINF:-1 tvg-id="" tvg-name="AR: SSBC" tvg-logo="" group-title="AR | SUDAN",AR: SSBC
+http://tigerott.com:8080/0583333/111111/529842
 
 #EXTINF:-1 tvg-id="" tvg-name="AR: MBC MASR" tvg-logo="" group-title="AR | EGYPT",AR: MBC MASR
 http://tigerott.com:8080/0583333/111111/529094
@@ -550,8 +717,6 @@ http://tigerott.com:8080/0583333/111111/529112
 http://tigerott.com:8080/0583333/111111/529113
 #EXTINF:-1 tvg-id="" tvg-name="AR: EXTRA NEWS 4K" tvg-logo="" group-title="AR | EGYPT",AR: EXTRA NEWS 4K
 http://tigerott.com:8080/0583333/111111/529117
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALQAHERA NEWS 4K" tvg-logo="" group-title="AR | EGYPT",AR: ALQAHERA NEWS 4K
-http://tigerott.com:8080/0583333/111111/529118
 #EXTINF:-1 tvg-id="" tvg-name="AR: ALQAHERA NEWS HD" tvg-logo="" group-title="AR | EGYPT",AR: ALQAHERA NEWS HD
 http://tigerott.com:8080/0583333/111111/529119
 #EXTINF:-1 tvg-id="" tvg-name="AR: CBC HD" tvg-logo="" group-title="AR | EGYPT",AR: CBC HD
@@ -593,6 +758,96 @@ http://tigerott.com:8080/0583333/111111/529168
 #EXTINF:-1 tvg-id="" tvg-name="AR: WATAN TV" tvg-logo="" group-title="AR | EGYPT",AR: WATAN TV
 http://tigerott.com:8080/0583333/111111/529169
 
+#EXTINF:-1 tvg-id="" tvg-name="AR: SALAM TV" tvg-logo="" group-title="AR | LIBYA",AR: SALAM TV
+http://tigerott.com:8080/0583333/111111/529814
+#EXTINF:-1 tvg-id="" tvg-name="AR: FEBRAUARY TV" tvg-logo="" group-title="AR | LIBYA",AR: FEBRAUARY TV
+http://tigerott.com:8080/0583333/111111/529817
+#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA EDUCATION" tvg-logo="" group-title="AR | LIBYA",AR: LIBYA EDUCATION
+http://tigerott.com:8080/0583333/111111/529818
+#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA ALWATANYA 4K" tvg-logo="" group-title="AR | LIBYA",AR: LIBYA ALWATANYA 4K
+http://tigerott.com:8080/0583333/111111/529819
+#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA ALRASMIA" tvg-logo="" group-title="AR | LIBYA",AR: LIBYA ALRASMIA
+http://tigerott.com:8080/0583333/111111/529820
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL JAMAHIRIYA TV" tvg-logo="" group-title="AR | LIBYA",AR: AL JAMAHIRIYA TV
+http://tigerott.com:8080/0583333/111111/529821
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALLIBIYA TV" tvg-logo="" group-title="AR | LIBYA",AR: ALLIBIYA TV
+http://tigerott.com:8080/0583333/111111/529822
+#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA ALAHRAR 4K" tvg-logo="" group-title="AR | LIBYA",AR: LIBYA ALAHRAR 4K
+http://tigerott.com:8080/0583333/111111/529823
+#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA ABU SURRA TV" tvg-logo="" group-title="AR | LIBYA",AR: LIBYA ABU SURRA TV
+http://tigerott.com:8080/0583333/111111/529824
+#EXTINF:-1 tvg-id="" tvg-name="AR: Libya Alhadath TV" tvg-logo="" group-title="AR | LIBYA",AR: Libya Alhadath TV
+http://tigerott.com:8080/0583333/111111/529825
+#EXTINF:-1 tvg-id="" tvg-name="AR: NEW LIBYA TV" tvg-logo="" group-title="AR | LIBYA",AR: NEW LIBYA TV
+http://tigerott.com:8080/0583333/111111/529826
+#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA ALMASAR TV 4K" tvg-logo="" group-title="AR | LIBYA",AR: LIBYA ALMASAR TV 4K
+http://tigerott.com:8080/0583333/111111/529827
+#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA ALMASAR SD" tvg-logo="" group-title="AR | LIBYA",AR: LIBYA ALMASAR SD
+http://tigerott.com:8080/0583333/111111/529828
+#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA IFTA TV" tvg-logo="" group-title="AR | LIBYA",AR: LIBYA IFTA TV
+http://tigerott.com:8080/0583333/111111/529829
+#EXTINF:-1 tvg-id="" tvg-name="AR: LEBDA TV 4K" tvg-logo="" group-title="AR | LIBYA",AR: LEBDA TV 4K
+http://tigerott.com:8080/0583333/111111/529830
+#EXTINF:-1 tvg-id="" tvg-name="AR: TANASUH EDUCATION TV" tvg-logo="" group-title="AR | LIBYA",AR: TANASUH EDUCATION TV
+http://tigerott.com:8080/0583333/111111/529831
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL ASRAR TV" tvg-logo="" group-title="AR | LIBYA",AR: AL ASRAR TV
+http://tigerott.com:8080/0583333/111111/529832
+#EXTINF:-1 tvg-id="" tvg-name="AR: Sahara24" tvg-logo="" group-title="AR | MAURITANIA",AR: Sahara24
+http://tigerott.com:8080/0583333/111111/529843
+#EXTINF:-1 tvg-id="" tvg-name="AR: TDM PROMO TV" tvg-logo="" group-title="AR | MAURITANIA",AR: TDM PROMO TV
+http://tigerott.com:8080/0583333/111111/529844
+#EXTINF:-1 tvg-id="" tvg-name="AR: ELMOURITANIA" tvg-logo="" group-title="AR | MAURITANIA",AR: ELMOURITANIA
+http://tigerott.com:8080/0583333/111111/529845
+#EXTINF:-1 tvg-id="" tvg-name="AR: ELMOURITANIA 2" tvg-logo="" group-title="AR | MAURITANIA",AR: ELMOURITANIA 2
+http://tigerott.com:8080/0583333/111111/529846
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL MOURITANIYA HD" tvg-logo="" group-title="AR | MAURITANIA",AR: AL MOURITANIYA HD
+http://tigerott.com:8080/0583333/111111/529847
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALMOURABITOUNE" tvg-logo="" group-title="AR | MAURITANIA",AR: ALMOURABITOUNE
+http://tigerott.com:8080/0583333/111111/529848
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: ELHIWAR ETTOUNSI" tvg-logo="" group-title="AR | TUNISIA",AR: ELHIWAR ETTOUNSI
+http://tigerott.com:8080/0583333/111111/529323
+#EXTINF:-1 tvg-id="" tvg-name="AR: ATTESSIA TV" tvg-logo="" group-title="AR | TUNISIA",AR: ATTESSIA TV
+http://tigerott.com:8080/0583333/111111/529324
+#EXTINF:-1 tvg-id="" tvg-name="AR: NISSEMA HD" tvg-logo="" group-title="AR | TUNISIA",AR: NISSEMA HD
+http://tigerott.com:8080/0583333/111111/529326
+#EXTINF:-1 tvg-id="" tvg-name="AR: TUNISIA 1 4K" tvg-logo="" group-title="AR | TUNISIA",AR: TUNISIA 1 4K
+http://tigerott.com:8080/0583333/111111/529327
+#EXTINF:-1 tvg-id="" tvg-name="AR: TUNISIA 2 4K" tvg-logo="" group-title="AR | TUNISIA",AR: TUNISIA 2 4K
+http://tigerott.com:8080/0583333/111111/529328
+#EXTINF:-1 tvg-id="" tvg-name="AR: TUNISIA NAT 1 4K" tvg-logo="" group-title="AR | TUNISIA",AR: TUNISIA NAT 1 4K
+http://tigerott.com:8080/0583333/111111/529329
+#EXTINF:-1 tvg-id="" tvg-name="AR: TUNISIA NAT 1 HD" tvg-logo="" group-title="AR | TUNISIA",AR: TUNISIA NAT 1 HD
+http://tigerott.com:8080/0583333/111111/529330
+#EXTINF:-1 tvg-id="" tvg-name="AR: HANNIBAL TV" tvg-logo="" group-title="AR | TUNISIA",AR: HANNIBAL TV
+http://tigerott.com:8080/0583333/111111/529337
+#EXTINF:-1 tvg-id="" tvg-name="AR: ZAYTOUNA TV" tvg-logo="" group-title="AR | TUNISIA",AR: ZAYTOUNA TV
+http://tigerott.com:8080/0583333/111111/529338
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: ECHORUK TV 4K" tvg-logo="" group-title="AR | ALGERIA",AR: ECHORUK TV 4K
+http://tigerott.com:8080/0583333/111111/529045
+#EXTINF:-1 tvg-id="" tvg-name="AR: ECHORUK NEWS 4K" tvg-logo="" group-title="AR | ALGERIA",AR: ECHORUK NEWS 4K
+http://tigerott.com:8080/0583333/111111/529046
+#EXTINF:-1 tvg-id="" tvg-name="AR: ENNAHAR TV HD" tvg-logo="" group-title="AR | ALGERIA",AR: ENNAHAR TV HD
+http://tigerott.com:8080/0583333/111111/529047
+#EXTINF:-1 tvg-id="" tvg-name="AR: PROGRAM NATIONAL 4K" tvg-logo="" group-title="AR | ALGERIA",AR: PROGRAM NATIONAL 4K
+http://tigerott.com:8080/0583333/111111/529042
+#EXTINF:-1 tvg-id="" tvg-name="AR: A3 4K" tvg-logo="" group-title="AR | ALGERIA",AR: A3 4K
+http://tigerott.com:8080/0583333/111111/529052
+#EXTINF:-1 tvg-id="" tvg-name="AR: A3 TV" tvg-logo="" group-title="AR | ALGERIA",AR: A3 TV
+http://tigerott.com:8080/0583333/111111/529053
+#EXTINF:-1 tvg-id="" tvg-name="AR: TV 4" tvg-logo="" group-title="AR | ALGERIA",AR: TV 4
+http://tigerott.com:8080/0583333/111111/529054
+#EXTINF:-1 tvg-id="" tvg-name="AR: TV 5" tvg-logo="" group-title="AR | ALGERIA",AR: TV 5
+http://tigerott.com:8080/0583333/111111/529055
+#EXTINF:-1 tvg-id="" tvg-name="AR: TV 6" tvg-logo="" group-title="AR | ALGERIA",AR: TV 6
+http://tigerott.com:8080/0583333/111111/529056
+#EXTINF:-1 tvg-id="" tvg-name="AR: TV7 ELMAARIFA" tvg-logo="" group-title="AR | ALGERIA",AR: TV7 ELMAARIFA
+http://tigerott.com:8080/0583333/111111/529057
+#EXTINF:-1 tvg-id="" tvg-name="AR: TV8 EDHAKIRA" tvg-logo="" group-title="AR | ALGERIA",AR: TV8 EDHAKIRA
+http://tigerott.com:8080/0583333/111111/529058
+#EXTINF:-1 tvg-id="" tvg-name="AR: RASD TV Algeria" tvg-logo="" group-title="AR | ALGERIA",AR: RASD TV Algeria
+http://tigerott.com:8080/0583333/111111/529071
 
 #EXTINF:-1,IR Simaye Azadi Iranntv
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
