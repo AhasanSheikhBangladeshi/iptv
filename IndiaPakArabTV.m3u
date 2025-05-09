@@ -1,29 +1,3 @@
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| ZEE HINDUSTAN NEWS" tvg-logo="https://logo.iptveditor.com/zeehindustannews.png" group-title="INDIA",|HINDI| ZEE HINDUSTAN NEWS
-http://vocotv.pro:80/Kevin1/Kevin1/694077
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD BIHAR" tvg-logo="https://logo.iptveditor.com/ddbihar.png" group-title="INDIA",|HINDI| DD BIHAR
-http://vocotv.pro:80/Kevin1/Kevin1/694207
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD INDIA" tvg-logo="" group-title="INDIA",|HINDI| DD INDIA
-http://vocotv.pro:80/Kevin1/Kevin1/694206
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD MP" tvg-logo="" group-title="INDIA",|HINDI| DD MP
-http://vocotv.pro:80/Kevin1/Kevin1/694205
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD NATIONAL HD" tvg-logo="https://logo.iptveditor.com/ddnational.png" group-title="INDIA",|HINDI| DD NATIONAL HD
-http://vocotv.pro:80/Kevin1/Kevin1/694204
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD NEWS HD" tvg-logo="" group-title="INDIA",|HINDI| DD NEWS HD
-http://vocotv.pro:80/Kevin1/Kevin1/694203
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD RAJASTHAN" tvg-logo="https://logo.iptveditor.com/ddrajasthan.png" group-title="INDIA",|HINDI| DD RAJASTHAN
-http://vocotv.pro:80/Kevin1/Kevin1/694202
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD SPORTS" tvg-logo="https://logo.iptveditor.com/ddsports.png" group-title="INDIA",|HINDI| DD SPORTS
-http://vocotv.pro:80/Kevin1/Kevin1/694201
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD UP" tvg-logo="" group-title="INDIA",|HINDI| DD UP
-http://vocotv.pro:80/Kevin1/Kevin1/694200
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DD URDU" tvg-logo="" group-title="INDIA",|HINDI| DD URDU
-http://vocotv.pro:80/Kevin1/Kevin1/694199
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|HINDI| DILLI AAJ TAKK" tvg-logo="" group-title="INDIA",|HINDI| DILLI AAJ TAKK
-http://vocotv.pro:80/Kevin1/Kevin1/694198
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="|TAMIL| DD PODHIGAI" tvg-logo="https://logo.iptveditor.com/dd podhigai.png" group-title="INDIA",|TAMIL| DD PODHIGAI
-http://vocotv.pro:80/Kevin1/Kevin1/693782
-
-
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK: Ary QTV" tvg-logo="" group-title="Pakistan",PK: Ary QTV
 http://vocotv.pro:80/Kevin1/Kevin1/690624
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK: ARY QTV" tvg-logo="" group-title="Pakistan",PK: ARY QTV
@@ -101,6 +75,93 @@ http://tigerott.com:8080/0583333/111111/82819
 http://tigerott.com:8080/0583333/111111/82820
 #EXTINF:-1 tvg-id="" tvg-name="PK- KAY2" tvg-logo="" group-title="AS | PAKISTAN FAMILY",PK- KAY2
 http://tigerott.com:8080/0583333/111111/82821
+
+#EXTINF:-1 tvg-id="DD National" tvg-name=" DD NATIONAL HD" tvg-logo="" group-title="INDIA", DD NATIONAL HD
+http://tigerott.com:8080/0583333/111111/86136
+#EXTINF:-1 tvg-id="DD Bihar" tvg-name=" DD BIHAR" tvg-logo="" group-title="INDIA", DD BIHAR
+http://tigerott.com:8080/0583333/111111/86137
+#EXTINF:-1 tvg-id="DD India" tvg-name="DD INDIA" tvg-logo="" group-title="INDIA",DD INDIA
+http://tigerott.com:8080/0583333/111111/86138
+#EXTINF:-1 tvg-id="DD Bharati" tvg-name="DD BHARATI" tvg-logo="" group-title="INDIA",DD BHARATI
+http://tigerott.com:8080/0583333/111111/86139
+#EXTINF:-1 tvg-id="" tvg-name=" DD KASHIR" tvg-logo="" group-title="INDIA", DD KASHIR
+http://tigerott.com:8080/0583333/111111/86140
+#EXTINF:-1 tvg-id="DD Kisan" tvg-name="DD KISAN" tvg-logo="" group-title="INDIA",DD KISAN
+http://tigerott.com:8080/0583333/111111/86141
+#EXTINF:-1 tvg-id="DD Sports" tvg-name=" DD SPORTS" tvg-logo="" group-title="INDIA", DD SPORTS
+http://tigerott.com:8080/0583333/111111/86142
+#EXTINF:-1 tvg-id="DD India" tvg-name=" DD INDIA" tvg-logo="" group-title="INDIA", DD INDIA
+http://tigerott.com:8080/0583333/111111/86143
+#EXTINF:-1 tvg-id="DD Uttar Pradesh" tvg-name=" DD UTTAR PRADESH" tvg-logo="" group-title="INDIA", DD UTTAR PRADESH
+http://tigerott.com:8080/0583333/111111/86144
+#EXTINF:-1 tvg-id="" tvg-name=" DD SAHAYADRI" tvg-logo="" group-title="INDIA", DD SAHAYADRI
+http://tigerott.com:8080/0583333/111111/86145
+#EXTINF:-1 tvg-id="DD News" tvg-name=" DD NEWS" tvg-logo="" group-title="INDIAN NEWS", DD NEWS
+http://tigerott.com:8080/0583333/111111/78446
+#EXTINF:-1 tvg-id="DD Podhigai" tvg-name="DD PODHIGAI" tvg-logo="" group-title="TAMIL CHANNELS",DD PODHIGAI
+http://tigerott.com:8080/0583333/111111/82964
+#EXTINF:-1 tvg-id="DD Podhigai" tvg-name="DD PODHIGAI HD" tvg-logo="" group-title="TAMIL CHANNELS",DD PODHIGAI HD
+http://tigerott.com:8080/0583333/111111/82965
+#EXTINF:-1 tvg-id="" tvg-name=" DD PUNJABI" tvg-logo="" group-title="PUNJABI CHANNELS", DD PUNJABI
+http://tigerott.com:8080/0583333/111111/88129
+#EXTINF:-1 tvg-id="DD Odia" tvg-name="DD ODIA" tvg-logo="" group-title="ORIYA CHANNELS",DD ODIA
+http://tigerott.com:8080/0583333/111111/88482
+#EXTINF:-1 tvg-id="Dd Malayalam.in" tvg-name="DD Malayalam" tvg-logo="" group-title="MALAYALAM CHANNELS ",DD Malayalam
+http://tigerott.com:8080/0583333/111111/81853
+#EXTINF:-1 tvg-id="DD North East" tvg-name="DD NORTH EAST" tvg-logo="" group-title="ASSAM CHANNELS",DD NORTH EAST
+http://tigerott.com:8080/0583333/111111/88441
+#EXTINF:-1 tvg-id="Rang" tvg-name="RANG" tvg-logo="" group-title="ASSAM CHANNELS",RANG
+http://tigerott.com:8080/0583333/111111/88442
+#EXTINF:-1 tvg-id="Indradhanu" tvg-name="ADHANU" tvg-logo="" group-title="ASSAM CHANNELS",ADHANU
+http://tigerott.com:8080/0583333/111111/88443
+#EXTINF:-1 tvg-id="Ramdhenu" tvg-name="RAMDHENU" tvg-logo="" group-title="ASSAM CHANNELS",RAMDHENU
+http://tigerott.com:8080/0583333/111111/88444
+#EXTINF:-1 tvg-id="" tvg-name=" DY 365" tvg-logo="" group-title="ASSAM CHANNELS", DY 365
+http://tigerott.com:8080/0583333/111111/88445
+#EXTINF:-1 tvg-id="News18 Assam North East" tvg-name=" NEWS18 ASSAM NORTH EAST" tvg-logo="" group-title="ASSAM CHANNELS", NEWS18 ASSAM NORTH EAST
+http://tigerott.com:8080/0583333/111111/88446
+#EXTINF:-1 tvg-id="Prag News" tvg-name="PRAG NEWS" tvg-logo="" group-title="ASSAM CHANNELS",PRAG NEWS
+http://tigerott.com:8080/0583333/111111/88447
+#EXTINF:-1 tvg-id="Zee News" tvg-name="ZEE NEWS" tvg-logo="" group-title="INDIAN NEWS",ZEE NEWS
+http://tigerott.com:8080/0583333/111111/78449
+#EXTINF:-1 tvg-id="Zee Salaam" tvg-name="ZEE SALAM" tvg-logo="" group-title="INDIA",ZEE SALAM
+http://tigerott.com:8080/0583333/111111/86146
+#EXTINF:-1 tvg-id="Sony Wah" tvg-name="SONY WAH" tvg-logo="" group-title="INDIA",SONY WAH
+http://tigerott.com:8080/0583333/111111/86147
+#EXTINF:-1 tvg-id="Zee 24 Taas" tvg-name="ZEE  24 TAAS" tvg-logo="" group-title="MARATHI",ZEE  24 TAAS
+http://tigerott.com:8080/0583333/111111/8430
+#EXTINF:-1 tvg-id="Kanak News" tvg-name="KANAK TV" tvg-logo="" group-title="ORIYA CHANNELS",KANAK TV
+http://tigerott.com:8080/0583333/111111/88484
+#EXTINF:-1 tvg-id="Kalinga TV" tvg-name="KALINGA TV" tvg-logo="" group-title="ORIYA CHANNELS",KALINGA TV
+http://tigerott.com:8080/0583333/111111/88485
+#EXTINF:-1 tvg-id="" tvg-name="PTC CHAKDE" tvg-logo="" group-title="PUNJABI CHANNELS",PTC CHAKDE
+http://tigerott.com:8080/0583333/111111/88083
+#EXTINF:-1 tvg-id="" tvg-name="PTC SIMRAN" tvg-logo="" group-title="PUNJABI CHANNELS",PTC SIMRAN
+http://tigerott.com:8080/0583333/111111/88084
+#EXTINF:-1 tvg-id="" tvg-name=" ZEE PUNJABI NEWS" tvg-logo="" group-title="PUNJABI CHANNELS", ZEE PUNJABI NEWS
+http://tigerott.com:8080/0583333/111111/88131
+#EXTINF:-1 tvg-id="" tvg-name=" NEWS18 PUNJAB/HARYANA/HIMACHAL" tvg-logo="" group-title="PUNJABI CHANNELS", NEWS18 PUNJAB/HARYANA/HIMACHAL
+http://tigerott.com:8080/0583333/111111/88132
+#EXTINF:-1 tvg-id="Zee Keralam HD" tvg-name="ZEE KERALAM HD" tvg-logo="" group-title="MALAYALAM CHANNELS ",ZEE KERALAM HD
+http://tigerott.com:8080/0583333/111111/81816
+#EXTINF:-1 tvg-id="Asianet" tvg-name="Asianet MiddleEast" tvg-logo="" group-title="MALAYALAM CHANNELS ",Asianet MiddleEast
+http://tigerott.com:8080/0583333/111111/81806
+#EXTINF:-1 tvg-id="Asianet.in" tvg-name="ASIANET HD" tvg-logo="" group-title="MALAYALAM CHANNELS ",ASIANET HD
+http://tigerott.com:8080/0583333/111111/81761
+#EXTINF:-1 tvg-id="Asianet.in" tvg-name="ASIANET FHD" tvg-logo="" group-title="MALAYALAM CHANNELS ",ASIANET FHD
+http://tigerott.com:8080/0583333/111111/81762
+#EXTINF:-1 tvg-id="News18 Kerala" tvg-name="NEWS 18 KERELA HD" tvg-logo="" group-title="MALAYALAM CHANNELS ",NEWS 18 KERELA HD
+http://tigerott.com:8080/0583333/111111/81779
+#EXTINF:-1 tvg-id="News18 India" tvg-name="NEWS 18 INDIA" tvg-logo="" group-title="INDIAN NEWS",NEWS 18 INDIA
+http://tigerott.com:8080/0583333/111111/78445
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name=" ANIMAL PLANET HINDI" tvg-logo="" group-title="INDIA DOUCMENTARY", ANIMAL PLANET HINDI
+http://tigerott.com:8080/0583333/111111/86151
+#EXTINF:-1 tvg-id="FOX Life" tvg-name="FOX LIFE" tvg-logo="" group-title="INDIA ENGLISH MOVIES",FOX LIFE
+http://tigerott.com:8080/0583333/111111/86069
+#EXTINF:-1 tvg-id="Zee Madhya Pradesh Chattisgarh" tvg-name="ZEE MP NEWS" tvg-logo="" group-title="INDIAN NEWS",ZEE MP NEWS
+http://tigerott.com:8080/0583333/111111/78464
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="|NP| NTV NATIONAL FHD" tvg-logo="" group-title="AS | NEPAL",|NP| NTV NATIONAL FHD
 http://tigerott.com:8080/0583333/111111/88637
