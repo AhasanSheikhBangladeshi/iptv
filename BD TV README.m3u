@@ -10,7 +10,7 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangladeshi", BTV CTG Chattogram
 http://103.106.2.152:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA TV Afghan
-http://iptvtree.net:8080/Isidorchait/ea940f8fd1/300674  
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/01.m3u8  
 #EXTINF:-1 tvg-logo="http://tv.ebox.live/assets/images/banglavision.png" group-title="Bangla",Bangla Vision  (BDIX0)
 http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="News",NDTV(480p)
@@ -120,7 +120,7 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w1532942397.m3u8
 #EXTINF:1 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png"https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png group-title="Religious",ARY QTV
 http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/292932 
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/NWljgKa.png",Eman Channel (576p)
-http://opplex.tv:8080/live/6554336/1478554/346406.ts
+https://cdn149.anystream.uk:8082/app/3m9ntv/playlist.m3u8
 #EXTINF:0,Rotana Khalijia HD (1080p)[Saudi Arab]
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/RJn8pDE.png",Bein Sports-1 HD
@@ -156,7 +156,7 @@ http://vipegor.top:8080/live/VIP0187168864034307/7ec37168ec60/6853.ts
 #EXTINF:-1 tvg-id="" tvg-name="Iqra TV" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="Religious",BT- Iqra Tv
 https://cdn149.anystream.uk:8082/app/iq6a7ktv/chunks.m3u8?nimblesessionid=25278798
 #EXTINF:0 tvg-country="SA" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="None",Saudi TV 1 
-https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8 
+https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/saudi_tv-avc1_600000=4-mp4a_41200_ara=2.m3u8 
 #EXTINF:-1 tvg-id=Madani Urdu tv.pk" tvg-name="Madani TV Urdu" tvg-country="PK" tvg-language="Urdu" tvg-logo= "/í" group-title="Religious",Madani Channel Urdu
 http://4ksuper.live/live/Michael88/Michael88/863792.ts
 #EXTINF:-1 tvg-logo="https://dawateislamimidlands.net/wp-content/uploads/2020/01/Madani-Channel-Section-1.png" group-title="Religious",Madani Channel English 
