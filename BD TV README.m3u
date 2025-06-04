@@ -191,8 +191,8 @@ https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/l
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:0 tvg-id="" group-title="ARAB",Palestine/Quds Today TV 
 http://62.171.146.44:8080/hls/alqudstv/alqudstv.m3u8?v=1778398403
-#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="None",Qatar TV
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="Arab",Qatar TV
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/4.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="Pakistani",PTV World
 http://starshare.live:8080/live/Sam123/Sam123/111.ts 
 #EXTINF:-1 tvg-id="PTVHome.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/mJxpdBU.png" group-title="Pakistani",PTV Home (238p)
