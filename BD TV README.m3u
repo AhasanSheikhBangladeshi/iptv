@@ -156,7 +156,7 @@ http://bes5.alphatx.me/live/140925815162/956537834800/542144.ts
 #EXTINF:-1 tvg-id="" tvg-name="Iqra TV" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="Religious",BT- Iqra Tv
 https://cdn149.anystream.uk:8082/app/iq6a7ktv/chunks.m3u8?nimblesessionid=25278798
 #EXTINF:0 tvg-country="SA" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/bZAUTCHe.png" group-title="None",Saudi TV 1 
-https://cdn-globecast.akamaized.net/live/eds/saudi_tv/hls_roku/saudi_tv-avc1_600000=4-mp4a_41200_ara=2.m3u8 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8 
 #EXTINF:-1 tvg-id=Madani Urdu tv.pk" tvg-name="Madani TV Urdu" tvg-country="PK" tvg-language="Urdu" tvg-logo= "/í" group-title="Religious",Madani Channel Urdu
 http://4ksuper.live/live/Michael88/Michael88/863792.ts
 #EXTINF:-1 tvg-logo="https://dawateislamimidlands.net/wp-content/uploads/2020/01/Madani-Channel-Section-1.png" group-title="Religious",Madani Channel English 
