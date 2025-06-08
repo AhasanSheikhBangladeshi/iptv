@@ -173,7 +173,7 @@ http://ss123.pro:80/younes2023/younes2023/294434
 #EXTINF:1 tvg-country="IR" tvg-logo="https://shialivetv.com/shialive/assets/img/velayatiran.jpg"group-title="Religiouhttps://shialivetv.com/shialive/assets/img/velayatiran.jpg" group-title="Relegious",Al Velayat TV
 https://nl2.livekadeh.com/hls2/velayattv_high.m3u8
 #EXTINF:1 tvg-country="IR" tvg-logo="https://www.altkia.com/wp-content/uploads/2015/04/Al-Wilayah-TV.jpg"group-title="Religious",Alwilayah Velayat Tv Arabic
-
+http://starshare.org/live/lauren87/lauren87/309123.ts
 #EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV1-May21-JPG.jpg" group-title="",TV1 (1080p)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1 tvg-id="TV3.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="",TV3 (720p) [Timeout]
@@ -185,7 +185,7 @@ http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="None",TRT 1 (720p)
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",Al Fallujah Tv
-http://bes5.alphatx.me/live/2cb7cafc1a/4dc367b458/505550.ts 
+http://starshare.org/live/lauren87/lauren87/309113.ts 
 #EXTINF:-1 tvg-id="IslamChannel.uk" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png" group-title="Religious",Islam Channel Urdu 
 https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg",Al Iraqiya News
