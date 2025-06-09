@@ -176,6 +176,39 @@ http://xott.live:8080/haji1234/haji1234/351795
 #EXTINF:-1 tvg-id="" tvg-name="KW: Al Maaly TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/93d98029c6a10f2813a01cbf8ac2ef09.jpg" group-title="Kuwait",KW: Al Maaly TV
 http://xott.live:8080/haji1234/haji1234/351779
 
+#EXTINF:-1 tvg-id="" tvg-name="SA: Al Majd" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/016e4e2b9bda48b2c72c666dbd1e79f6.png" group-title="Saudi Arabia",SA: Al Majd
+http://xott.live:8080/haji1234/haji1234/353508
+#EXTINF:-1 tvg-id="" tvg-name="SA: Al Majd Quran" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/109ae895c94a8d05196cfd2ff486c888.png" group-title="Saudi Arabia",SA: Al Majd Quran
+http://xott.live:8080/haji1234/haji1234/353509
+#EXTINF:-1 tvg-id="" tvg-name="SA: Alresalah TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-11/2f3460631cd293bc552ab655575d1a17.png" group-title="Saudi Arabia",SA: Alresalah TV
+http://xott.live:8080/haji1234/haji1234/353510
+#EXTINF:-1 tvg-id="" tvg-name="SA: ART Aflam 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/e070b3c823dd8bd955ec809109924912.png" group-title="Saudi Arabia",SA: ART Aflam 1
+http://xott.live:8080/haji1234/haji1234/353511
+#EXTINF:-1 tvg-id="" tvg-name="SA: ART Aflam 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2ab01084092d12a8f4f7652105f868d4.png" group-title="Saudi Arabia",SA: ART Aflam 2
+http://xott.live:8080/haji1234/haji1234/353512
+#EXTINF:-1 tvg-id="" tvg-name="SA: ART Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b5fa56ecec37bfd53fd71afe41e382d4.png" group-title="Saudi Arabia",SA: ART Cinema
+http://xott.live:8080/haji1234/haji1234/353513
+#EXTINF:-1 tvg-id="" tvg-name="SA: Ekhbariya TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/35c230f60200eb60de3175f084c1c5a4.png" group-title="Saudi Arabia",SA: Ekhbariya TV
+http://xott.live:8080/haji1234/haji1234/353517
+#EXTINF:-1 tvg-id="" tvg-name="SA: Saudi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/595ef759d1c68e061f2abde8a531bea8.png" group-title="Saudi Arabia",SA: Saudi TV
+http://xott.live:8080/haji1234/haji1234/353559
+#EXTINF:-1 tvg-id="" tvg-name="SA: SBC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d6190bb1990c3c8bf7ccfddab5764cf1.png" group-title="Saudi Arabia",SA: SBC
+http://xott.live:8080/haji1234/haji1234/353560
+#EXTINF:-1 tvg-id="" tvg-name="SA: Sunna TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/394a2ce7b4a8768a7a0680d61ddf96e5.png" group-title="Saudi Arabia",SA: Sunna TV
+http://xott.live:8080/haji1234/haji1234/353568
+#EXTINF:-1 tvg-id="" tvg-name="SA: Zad TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/4504d8fe7f3bad1a0e37fd8163dbd68c.png" group-title="Saudi Arabia",SA: Zad TV
+http://xott.live:8080/haji1234/haji1234/353569
+#EXTINF:-1 tvg-id="" tvg-name="SA: Makkah TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/d353edfb6c1b32f960bb286da67c60cd.png" group-title="Saudi Arabia",SA: Makkah TV
+http://xott.live:8080/haji1234/haji1234/353547
+#EXTINF:-1 tvg-id="" tvg-name="SA: Rotana Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/ad55038b791d18fe461828e2efd36f78.png" group-title="Saudi Arabia",SA: Rotana Comedy
+http://xott.live:8080/haji1234/haji1234/353553
+#EXTINF:-1 tvg-id="" tvg-name="SA: Rotana Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a11d298a948b8439e6e198e93c487571.png" group-title="Saudi Arabia",SA: Rotana Drama
+http://xott.live:8080/haji1234/haji1234/353554
+#EXTINF:-1 tvg-id="" tvg-name="SA: Rotana Khalejia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/cf686c86de27cb3accbda17123cd0d4d.png" group-title="Saudi Arabia",SA: Rotana Khalejia
+http://xott.live:8080/haji1234/haji1234/353555
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="YE: Aden TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/677796ba491d1e7a5696ed5bde4d4a6d.png" group-title="Yemen",YE: Aden TV
 http://xott.live:8080/haji1234/haji1234/355182
 #EXTINF:-1 tvg-id="" tvg-name="YE: AL Mahrah TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d01a3d1efc9f733b8fb9bdb4d1c61f2d.png" group-title="Yemen",YE: AL Mahrah TV
@@ -250,6 +283,59 @@ http://xott.live:8080/haji1234/haji1234/354525
 http://xott.live:8080/haji1234/haji1234/354512
 #EXTINF:-1 tvg-id="" tvg-name="SY: Alalam News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/5c862db7584c4957b1ed4778ebeec4a5.png" group-title="Syria",SY: Alalam News
 http://xott.live:8080/haji1234/haji1234/354511
+
+#EXTINF:-1 tvg-id="" tvg-name="EG: Al Masriyah" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ed5a568c95e5fa89e3a021ebcfea7b17.png" group-title="Egypt",EG: Al Masriyah
+http://xott.live:8080/haji1234/haji1234/349695
+#EXTINF:-1 tvg-id="" tvg-name="EG: Al Nada TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8629c4b39a3be2dae5bd125d6f96943a.png" group-title="Egypt",EG: Al Nada TV
+http://xott.live:8080/haji1234/haji1234/349696
+#EXTINF:-1 tvg-id="" tvg-name="EG: Al Nahar Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/22fa00fcd2dba7eab57144466e458451.png" group-title="Egypt",EG: Al Nahar Drama
+http://xott.live:8080/haji1234/haji1234/349697
+#EXTINF:-1 tvg-id="" tvg-name="EG: Al Nahar TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/dfbc23e9d034fe7ff8d4f97be8abb955.png" group-title="Egypt",EG: Al Nahar TV
+http://xott.live:8080/haji1234/haji1234/349698
+#EXTINF:-1 tvg-id="" tvg-name="EG: Al Rahma" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/38d02796e94aafba32edf0148e43d331.png" group-title="Egypt",EG: Al Rahma
+http://xott.live:8080/haji1234/haji1234/349699
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/73e470c9d252ce282882a8bff79f9c7d.png" group-title="Egypt",EG: ERTU 2
+http://xott.live:8080/haji1234/haji1234/349724
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 3 Al Kahera" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f4339cc3d6f44b487e602a1c21631f18.png" group-title="Egypt",EG: ERTU 3 Al Kahera
+http://xott.live:8080/haji1234/haji1234/349725
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 4 Al Kanal" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/d7a7164f6b680c896d17935ad1816746.png" group-title="Egypt",EG: ERTU 4 Al Kanal
+http://xott.live:8080/haji1234/haji1234/349726
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 5 Al Askandria" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/3e8b1c3c8c5752dbbe21dd6c212ceadd.png" group-title="Egypt",EG: ERTU 5 Al Askandria
+http://xott.live:8080/haji1234/haji1234/349727
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 6 Al Delta" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/db63626ade850e58e6a91f2c9ef143e3.png" group-title="Egypt",EG: ERTU 6 Al Delta
+http://xott.live:8080/haji1234/haji1234/349728
+#EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 8 Teba" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5ef33ba361d92de405582c48f5358db3.png" group-title="Egypt",EG: ERTU 8 Teba
+http://xott.live:8080/haji1234/haji1234/349729
+#EXTINF:-1 tvg-id="" tvg-name="EG: ETC" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/867ef153c4aa0ca1eee57c8db38c067b.png" group-title="Egypt",EG: ETC
+http://xott.live:8080/haji1234/haji1234/349730
+#EXTINF:-1 tvg-id="" tvg-name="EG: Extra News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/faad585a566db021be172101c78d7c3b.png" group-title="Egypt",EG: Extra News
+http://xott.live:8080/haji1234/haji1234/349731
+#EXTINF:-1 tvg-id="" tvg-name="EG: CBC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b6c964a3434c30307e25798220096716.png" group-title="Egypt",EG: CBC
+http://xott.live:8080/haji1234/haji1234/349708
+#EXTINF:-1 tvg-id="" tvg-name="EG: CBC Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/dce3a2fde4ad6cdca4b4b074f271d7c8.png" group-title="Egypt",EG: CBC Drama
+http://xott.live:8080/haji1234/haji1234/349709
+#EXTINF:-1 tvg-id="" tvg-name="EG: DMC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/680745c4bcf505cf50c64ac422d9e5db.png" group-title="Egypt",EG: DMC
+http://xott.live:8080/haji1234/haji1234/349713
+#EXTINF:-1 tvg-id="" tvg-name="EG: DMC Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3b37ad9409d3dea299bef7ae44f3a356.png" group-title="Egypt",EG: DMC Drama
+http://xott.live:8080/haji1234/haji1234/349714
+#EXTINF:-1 tvg-id="" tvg-name="EG: Elnas TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/984b4f567c2b960e596cff6a2e2e1c2a.png" group-title="Egypt",EG: Elnas TV
+http://xott.live:8080/haji1234/haji1234/349722
+#EXTINF:-1 tvg-id="" tvg-name="EG: Elsharq" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6ef1ba946f3ffee5995192ff4fdc70e2.png" group-title="Egypt",EG: Elsharq
+http://xott.live:8080/haji1234/haji1234/349723
+#EXTINF:-1 tvg-id="" tvg-name="EG: Mekameleen TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/bcbf5de0f8597e9d04d844beb463aed6.png" group-title="Egypt",EG: Mekameleen TV
+http://xott.live:8080/haji1234/haji1234/349744
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f1c988e4b5e0e793a853bf1f2c031f58.png" group-title="Egypt",EG: Nile Comedy
+http://xott.live:8080/haji1234/haji1234/349750
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile Culture" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/752d876e9685a7c1a6805d0cb3cb3309.png" group-title="Egypt",EG: Nile Culture
+http://xott.live:8080/haji1234/haji1234/349751
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/8d74c72fb6be18262a05b9666105f377.png" group-title="Egypt",EG: Nile Drama
+http://xott.live:8080/haji1234/haji1234/349752
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/ea446693bdfc24900f1c6b1353466da8.png" group-title="Egypt",EG: Nile Family
+http://xott.live:8080/haji1234/haji1234/349753
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile Life" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5c046528ee016541712f9e831f950a14.png" group-title="Egypt",EG: Nile Life
+http://xott.live:8080/haji1234/haji1234/349754
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/5a233184e123ebaab3dd76605a70e318.png" group-title="Egypt",EG: Nile News
+http://xott.live:8080/haji1234/haji1234/349755
 
 
 
