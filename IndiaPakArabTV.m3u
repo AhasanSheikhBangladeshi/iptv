@@ -296,6 +296,23 @@ http://xott.live:8080/shams1234/shams1234/351797
 http://xott.live:8080/shams1234/shams1234/353010
 #EXTINF:-1 tvg-id="" tvg-name="QA: Al Kass Six" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/c86b3bcd939298dbe954c5276d6b99f4.png" group-title="Qatar ➾ Sports",QA: Al Kass Six
 http://xott.live:8080/shams1234/shams1234/353011
+#EXTINF:-1 tvg-id="" tvg-name="QA: Al Rayyan" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/29d0f32601ab29c9e075fbaa0a8ba60a.png" group-title="Qatar ➾ LifeStyle",QA: Al Rayyan
+http://xott.live:8080/shams1234/shams1234/352981
+#EXTINF:-1 tvg-id="" tvg-name="QA: Qatar TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/c00e9e1f74939216fcaeb4aef2d618bb.png" group-title="Qatar ➾ LifeStyle",QA: Qatar TV
+http://xott.live:8080/shams1234/shams1234/352986
+#EXTINF:-1 tvg-id="" tvg-name="QA: Qatar TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/59fd89d0ba11220af065f5e0f7a7f1c8.jpg" group-title="Qatar ➾ LifeStyle",QA: Qatar TV 2
+http://xott.live:8080/shams1234/shams1234/352987
+
+#EXTINF:-1 tvg-id="" tvg-name="BHR: Bahrain International" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/da957cdc5a4987b2b82a7648f7881146.png" group-title="Bahrain",BHR: Bahrain International
+http://xott.live:8080/shams1234/shams1234/348304
+#EXTINF:-1 tvg-id="" tvg-name="BHR: Bahrain Quran" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/deb93e0ee9cfc49ad2b0a2f2f86812dc.png" group-title="Bahrain",BHR: Bahrain Quran
+http://xott.live:8080/shams1234/shams1234/348305
+#EXTINF:-1 tvg-id="" tvg-name="BHR: Bahrain Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/4f426fd13780a71ff829685a7feac5d1.png" group-title="Bahrain",BHR: Bahrain Sports 1
+http://xott.live:8080/shams1234/shams1234/348306
+#EXTINF:-1 tvg-id="" tvg-name="BHR: Bahrain Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/1f001aea9dba05cfea661783c99d649c.png" group-title="Bahrain",BHR: Bahrain Sports 2
+http://xott.live:8080/shams1234/shams1234/348307
+#EXTINF:-1 tvg-id="" tvg-name="BHR: Bahrain TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/de0d8b56a005153380d948b2c53e66a5.png" group-title="Bahrain",BHR: Bahrain TV
+http://xott.live:8080/shams1234/shams1234/348308
 
 #EXTINF:-1 tvg-id="" tvg-name="SA: Al Majd" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/016e4e2b9bda48b2c72c666dbd1e79f6.png" group-title="Saudi Arabia",SA: Al Majd
 http://xott.live:8080/shams1234/shams1234/353508
