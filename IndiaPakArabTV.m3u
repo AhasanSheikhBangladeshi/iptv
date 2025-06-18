@@ -149,8 +149,19 @@ http://xott.live:8080/shams1234/shams1234/351165
 http://xott.live:8080/shams1234/shams1234/351166
 #EXTINF:-1 tvg-id="" tvg-name="IR: SNN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/ef02108b1dfa7fcd74f3520d0d875a4c.png" group-title="Iran",IR: SNN TV
 http://xott.live:8080/shams1234/shams1234/351240
+#EXTINF:-1 SAHAR AZERI
+http://line.queen-pro.cc:80/live/D462C0/97CD4A/44428.ts
+#EXTINF:-1 SAHAR URDU
+http://line.queen-pro.cc:80/live/D462C0/97CD4A/44406.ts
+#EXTINF:-1 SAHAR KURDI 
+http://line.queen-pro.cc:80/live/D462C0/97CD4A/1441695.ts
+#EXTINF:-1 PRESS TV
+http://line.queen-pro.cc:80/live/D462C0/97CD4A/44410.ts
+#EXTINF:-1 Al Alam TV 
+http://line.queen-pro.cc:80/live/D462C0/97CD4A/44484.ts
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Abadan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/85562944f7a6c78c5dc9867eebe03c39" group-title="Iran",IR: IRIB Abadan
 http://xott.live:8080/shams1234/shams1234/351126
+
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Aflak" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/f4bfb7bc1cc33997a657350ae9c85d1b.png" group-title="Iran",IR: IRIB Aflak
 http://xott.live:8080/shams1234/shams1234/351127
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Alborz" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/046c5e5dc6462e9f3b8e98f42eac2b99" group-title="Iran",IR: IRIB Alborz
@@ -369,8 +380,12 @@ http://xott.live:8080/shams1234/shams1234/355194
 http://xott.live:8080/shams1234/shams1234/355195
 #EXTINF:-1 tvg-id="" tvg-name="YE: Yemen Shabab" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/24ee17d47a7db50c1dbeea34743fa398.png" group-title="Yemen",YE: Yemen Shabab
 http://xott.live:8080/shams1234/shams1234/355196
+#EXTINF:-1 YEMEN TODAY AL HOTHIA
+http://line.queen-pro.cc:80/live/D462C0/97CD4A/2951.ts
 #EXTINF:-1 tvg-id="" tvg-name="YE: Yemen Today TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/8c36b216f74618332e44c97cc3f60c9c.png" group-title="Yemen",YE: Yemen Today TV
 http://xott.live:8080/shams1234/shams1234/355197
+#EXTINF:-1 YEMEN Al Hothia TV
+http://line.queen-pro.cc:80/live/D462C0/97CD4A/1216.ts
 #EXTINF:-1 tvg-id="" tvg-name="YE: Yemen TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f9fc99a62ad17a325e8d0127fb787b0b.png" group-title="Yemen",YE: Yemen TV
 http://xott.live:8080/shams1234/shams1234/355198
 
@@ -440,6 +455,8 @@ http://xott.live:8080/shams1234/shams1234/349702
 http://xott.live:8080/shams1234/shams1234/349704
 #EXTINF:-1 tvg-id="" tvg-name="EG: Alhayat Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/16a024e39ff4da2d3d0838f07a1319eb.png" group-title="Egypt",EG: Alhayat Drama
 http://xott.live:8080/shams1234/shams1234/349705
+#EXTINF:-1 MASR AL OULA
+http://line.queen-pro.cc:80/live/D462C0/97CD4A/1440350.ts
 #EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/73e470c9d252ce282882a8bff79f9c7d.png" group-title="Egypt",EG: ERTU 2
 http://xott.live:8080/shams1234/shams1234/349724
 #EXTINF:-1 tvg-id="" tvg-name="EG: ERTU 3 Al Kahera" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f4339cc3d6f44b487e602a1c21631f18.png" group-title="Egypt",EG: ERTU 3 Al Kahera
