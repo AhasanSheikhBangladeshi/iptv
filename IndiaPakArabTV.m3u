@@ -120,35 +120,16 @@ http://xott.live:8080/shams1234/shams1234/347416
 
 
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/7a72febb637901c474b0241f9839e173.png" group-title="Iran",IR: IRIB 1
-http://xott.live:8080/shams1234/shams1234/351120
+http://opplex.tv:8080/live/81236492622/01226390473/351120.ts
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f34a9a3baaefa4dabd7306d3548eb785.png" group-title="Iran",IR: IRIB 2
-http://xott.live:8080/shams1234/shams1234/351121
+http://opplex.tv:8080/live/81236492622/01226390473/351121.ts
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1b9b1cd3c518b9b24e2e3bf0058c8b12.png" group-title="Iran",IR: IRIB 3
-http://xott.live:8080/shams1234/shams1234/351122
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 3 satellite" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/0812c50d77135f0c63395f5d3224c7d3" group-title="Iran",IR: IRIB 3 satellite
-http://xott.live:8080/shams1234/shams1234/351123
+http://opplex.tv:8080/live/81236492622/01226390473/351122.ts
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/9ba9c0691729ee6e594b6a3d5cfba899.png" group-title="Iran",IR: IRIB 4
-http://xott.live:8080/shams1234/shams1234/351124
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1832ff65a39d06f153eb7aae74cfff37.png" group-title="Iran",IR: IRIB 5
-http://xott.live:8080/shams1234/shams1234/351125
+http://opplex.tv:8080/live/81236492622/01226390473/351124.ts
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB IRINN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/2988868e457dc495850fce0204b08cad.png" group-title="Iran",IR: IRIB IRINN
-http://xott.live:8080/shams1234/shams1234/351146
+http://opplex.tv:8080/live/81236492622/01226390473/351146.ts
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Jamejam 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/474b5c8d9393397f825ba3e18aecc969" group-title="Iran",IR: IRIB Jamejam 1
-http://xott.live:8080/shams1234/shams1234/351149
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Jamejam 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/a5b78bdd102297666baac0dd3f34e84c" group-title="Iran",IR: IRIB Jamejam 2
-http://xott.live:8080/shams1234/shams1234/351150
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Jamejam 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/42440c851d537adba48b800b8af2f36e" group-title="Iran",IR: IRIB Jamejam 3
-http://xott.live:8080/shams1234/shams1234/351151
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Mostanad" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/117dde4a7b97bac21b68cdb4ff47605d.png" group-title="Iran",IR: IRIB Mostanad
-http://xott.live:8080/shams1234/shams1234/351163
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Nama" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/1dd1ad5321f3fed6149b88b27ee8b0a2" group-title="Iran",IR: IRIB Nama
-http://xott.live:8080/shams1234/shams1234/351164
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Namayesh" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/bf0f4db0e35d0d45490f4a6da4878b67.png" group-title="Iran",IR: IRIB Namayesh
-http://xott.live:8080/shams1234/shams1234/351165
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Nasim" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/975d91c8699ad2d7f7a0405f9813bd24.png" group-title="Iran",IR: IRIB Nasim
-http://xott.live:8080/shams1234/shams1234/351166
-#EXTINF:-1 tvg-id="" tvg-name="IR: SNN TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/ef02108b1dfa7fcd74f3520d0d875a4c.png" group-title="Iran",IR: SNN TV
-http://xott.live:8080/shams1234/shams1234/351240
 #EXTINF:-1 SAHAR AZERI
 http://line.queen-pro.cc:80/live/D462C0/97CD4A/44428.ts
 #EXTINF:-1 SAHAR URDU
@@ -161,35 +142,6 @@ http://line.queen-pro.cc:80/live/D462C0/97CD4A/44410.ts
 http://line.queen-pro.cc:80/live/D462C0/97CD4A/44484.ts
 #EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Abadan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/85562944f7a6c78c5dc9867eebe03c39" group-title="Iran",IR: IRIB Abadan
 http://xott.live:8080/shams1234/shams1234/351126
-
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Aflak" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/f4bfb7bc1cc33997a657350ae9c85d1b.png" group-title="Iran",IR: IRIB Aflak
-http://xott.live:8080/shams1234/shams1234/351127
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Alborz" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/046c5e5dc6462e9f3b8e98f42eac2b99" group-title="Iran",IR: IRIB Alborz
-http://xott.live:8080/shams1234/shams1234/351129
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Bushehr" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/30f3ab6541e4785567ba8f6c004326bf" group-title="Iran",IR: IRIB Bushehr
-http://xott.live:8080/shams1234/shams1234/351136
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Dena" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/15cd7160bf526b1950b3c08e99e4f383" group-title="Iran",IR: IRIB Dena
-http://xott.live:8080/shams1234/shams1234/351137
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Esfahan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/3c70cbdaf7276b57631c809e253ee6db" group-title="Iran",IR: IRIB Esfahan
-http://xott.live:8080/shams1234/shams1234/351138
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Hamoon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/75e9de114ae1c2ace0dc1514cfe0ac3d" group-title="Iran",IR: IRIB Hamoon
-http://xott.live:8080/shams1234/shams1234/351143
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Khalijefars" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/722f3fa0a323b9ed6d999611403cfa75" group-title="Iran",IR: IRIB Khalijefars
-http://xott.live:8080/shams1234/shams1234/351155
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Khorasanrazavi" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/ef7e6a3713e1fd138c1c56cce4818bcc" group-title="Iran",IR: IRIB Khorasanrazavi
-http://xott.live:8080/shams1234/shams1234/351158
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Qazvin" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/24942ea9e30e05188cdaa7ed4544116f" group-title="Iran",IR: IRIB Qazvin
-http://xott.live:8080/shams1234/shams1234/351172
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Sabalan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/5c5d4722a1137ce15ec4391bc7f6a59f" group-title="Iran",IR: IRIB Sabalan
-http://xott.live:8080/shams1234/shams1234/351173
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Mahabad" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/cdcf4cc511b3e60a6099426f9e0fd1ff" group-title="Iran",IR: IRIB Mahabad
-http://xott.live:8080/shams1234/shams1234/351162
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Taban" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/9427770eac6a908e7f433bfcdc813cc9" group-title="Iran",IR: IRIB Taban
-http://xott.live:8080/shams1234/shams1234/351180
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Tabarestan" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/a526c5c0707f6ef32d4e47fc828511ef" group-title="Iran",IR: IRIB Tabarestan
-http://xott.live:8080/shams1234/shams1234/351181
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Zagros" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/b759d770ce2ca13a5256783c9f05dc41" group-title="Iran",IR: IRIB Zagros
-http://xott.live:8080/shams1234/shams1234/351184
 
 #EXTINF:-1 tvg-id="" tvg-name="IR: MBC Persia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/3e324a91a267406f0b8375db41434586.png" group-title="Iran",IR: MBC Persia
 http://xott.live:8080/shams1234/shams1234/351195
@@ -214,7 +166,7 @@ http://xott.live:8080/shams1234/shams1234/351255
 #EXTINF:-1 tvg-id="" tvg-name="IQ: Al Rafidain TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/9296efba8e765b033ec5793eab781e76.png" group-title="Iraq",IQ: Al Rafidain TV
 http://xott.live:8080/shams1234/shams1234/351256
 #EXTINF:-1 tvg-id="" tvg-name="IQ: Al Rasheed TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f2054408b7411c6efb80a193d3377f73.png" group-title="Iraq",IQ: Al Rasheed TV
-http://xott.live:8080/shams1234/shams1234/351257
+
 #EXTINF:-1 tvg-id="" tvg-name="IQ: Al Salam TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/9345918a076a1d10cbcfebb30e3db79e.png" group-title="Iraq",IQ: Al Salam TV
 http://xott.live:8080/shams1234/shams1234/351258
 #EXTINF:-1 tvg-id="" tvg-name="IQ: Alforat TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/fcdc33f0534b994f3a3059c0986c257e.png" group-title="Iraq",IQ: Alforat TV
