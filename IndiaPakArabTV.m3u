@@ -71,81 +71,29 @@ http://afpanel.one:8080/90230154/90230154/86132
 #EXTINF:-1 tvg-id="" tvg-name="|PK| AAJ ENTERTAINMENT HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aaj_entertainment_pk.png" group-title=" Pakistan Entertainment ⱽᴵᴾ",|PK| AAJ ENTERTAINMENT HD
 http://afpanel.one:8080/90230154/90230154/86133
 
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Afghanistan International" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/2baace0f27a0393c415a09c0b1634240.png" group-title="AF ➾ AFGANISTAN",AFG: Afghanistan International
-http://filex.me:8080/444476/444476/333320
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Afghanistan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/56ee38d81e7627ae3b2b015f8f259f15.png" group-title="AF ➾ AFGANISTAN",AFG: Afghanistan TV
-http://filex.me:8080/444476/444476/333321
-#EXTINF:-1 tvg-id="" tvg-name="AFG: AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/0c358d0d3e0d28c5eb9205a57ae44918.png" group-title="AF ➾ AFGANISTAN",AFG: AMC
-http://filex.me:8080/444476/444476/333322
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Arezo TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/66c74090d67ea4254ca0cd0a3a05f69c.png" group-title="AF ➾ AFGANISTAN",AFG: Arezo TV
-http://filex.me:8080/444476/444476/333323
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Ariana TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/873721cdaec9640667fd6dceb409d5e9.jpeg" group-title="AF ➾ AFGANISTAN",AFG: Ariana TV
-http://filex.me:8080/444476/444476/333324
-#EXTINF:-1 tvg-id="" tvg-name="AFG: ATN International" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/d53f8f2324aa5732aa7a53dbe9c3483e.jpeg" group-title="AF ➾ AFGANISTAN",AFG: ATN International
-http://filex.me:8080/444476/444476/333325
-#EXTINF:-1 tvg-id="" tvg-name="AFG: ATN Jahani" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/6fff0ce686aa45a5a4f9d0119dea1218.jpeg" group-title="AF ➾ AFGANISTAN",AFG: ATN Jahani
-http://filex.me:8080/444476/444476/333326
-#EXTINF:-1 tvg-id="" tvg-name="AFG: ATN Jahani News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/ab5ae688accf9c624dbf21c18c0bded8.jpeg" group-title="AF ➾ AFGANISTAN",AFG: ATN Jahani News
-http://filex.me:8080/444476/444476/333327
-#EXTINF:-1 tvg-id="" tvg-name="AFG: ATN News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/283aaffd8c2493332ce4993d67d1f777.png" group-title="AF ➾ AFGANISTAN",AFG: ATN News
-http://filex.me:8080/444476/444476/333328
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Bahar TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/17a041ac94cb6c88fb37d6d69157f69d.jpeg" group-title="AF ➾ AFGANISTAN",AFG: Bahar TV
-http://filex.me:8080/444476/444476/333329
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Dunya Naw" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6e12444d15a34879861b8f8137b351f5.png" group-title="AF ➾ AFGANISTAN",AFG: Dunya Naw
-http://filex.me:8080/444476/444476/333330
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Eslah TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/97d474f93900f54d9ec942a93959389b.png" group-title="AF ➾ AFGANISTAN",AFG: Eslah TV
-http://filex.me:8080/444476/444476/333331
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Hasti TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/57a4e4fe517cbbfd7cb2f0de48a61b14.png" group-title="AF ➾ AFGANISTAN",AFG: Hasti TV
-http://filex.me:8080/444476/444476/333332
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Lemar TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/711fca337a94cd8f8425c4abbedfb024.png" group-title="AF ➾ AFGANISTAN",AFG: Lemar TV
-http://filex.me:8080/444476/444476/333335
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Payam e Afghan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/0689306db7d682c676c3e9122c379b2e.png" group-title="AF ➾ AFGANISTAN",AFG: Payam e Afghan TV
-http://filex.me:8080/444476/444476/333338
-#EXTINF:-1 tvg-id="" tvg-name="AFG: RTA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/756998d4b81dea6801549ef6a41f2aca.png" group-title="AF ➾ AFGANISTAN",AFG: RTA
-http://filex.me:8080/444476/444476/333339
-#EXTINF:-1 tvg-id="" tvg-name="AFG: RTA Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/a0d00b163fb3c77ae033d10950b00b33.png" group-title="AF ➾ AFGANISTAN",AFG: RTA Sport
-http://filex.me:8080/444476/444476/333340
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Sada e Haq" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="AF ➾ AFGANISTAN",AFG: Sada e Haq
-http://filex.me:8080/444476/444476/333341
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Shamshad TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/9081d478591cb14771362d43e50261fc.png" group-title="AF ➾ AFGANISTAN",AFG: Shamshad TV
-http://filex.me:8080/444476/444476/333342
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Sharq" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/20384a111800db4837b4db10ba703c45.png" group-title="AF ➾ AFGANISTAN",AFG: Sharq
-http://filex.me:8080/444476/444476/333343
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Sohail TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="AF ➾ AFGANISTAN",AFG: Sohail TV
-http://filex.me:8080/444476/444476/333344
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Solh TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/f8e187f8e2851c68c864dbfa9ccdec14.png" group-title="AF ➾ AFGANISTAN",AFG: Solh TV
-http://filex.me:8080/444476/444476/333345
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Tamadon TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/8cf8b9760f816f71691f35976975ef32.png" group-title="AF ➾ AFGANISTAN",AFG: Tamadon TV
-http://filex.me:8080/444476/444476/333346
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Tolo News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/23f0ab14266f28f991faa05114aeea5c.png" group-title="AF ➾ AFGANISTAN",AFG: Tolo News
-http://filex.me:8080/444476/444476/333347
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Tolo TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/293d47a335824c7b8bb06dbf77762625.png" group-title="AF ➾ AFGANISTAN",AFG: Tolo TV
-http://filex.me:8080/444476/444476/333348
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Varzish (Tajikestan)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/16e27fc31eb39f49956b439909640c14.png" group-title="AF ➾ AFGANISTAN",AFG: Varzish (Tajikestan)
-http://filex.me:8080/444476/444476/333349
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Watan e Maa" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="AF ➾ AFGANISTAN",AFG: Watan e Maa
-http://filex.me:8080/444476/444476/333350
-#EXTINF:-1 tvg-id="" tvg-name="AFG: Zhwandoon TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/80b161a8f0a50131795595980c269f23.png" group-title="AF ➾ AFGANISTAN",AFG: Zhwandoon TV
-http://filex.me:8080/444476/444476/333351
 
-#EXTINF:-1 tvg-id="" tvg-name="IRAN | IRIB TV1" tvg-logo="" group-title="IRAN",IRAN | IRIB TV1
-http://filex.me:8080/444476/444476/499890
-#EXTINF:-1 tvg-id="" tvg-name="IRAN | IRIB TV2" tvg-logo="" group-title="IRAN",IRAN | IRIB TV2
-http://filex.me:8080/444476/444476/499891
-#EXTINF:-1 tvg-id="" tvg-name="IRAN | IRIB TV4" tvg-logo="" group-title="IRAN",IRAN | IRIB TV4
-http://filex.me:8080/444476/444476/499892
-#EXTINF:-1 tvg-id="" tvg-name="IRAN | IRIB TV5" tvg-logo="" group-title="IRAN",IRAN | IRIB TV5
-http://filex.me:8080/444476/444476/499893
-#EXTINF:-1 tvg-id="" tvg-name="IRAN | IRIB IRINN" tvg-logo="" group-title="IRAN",IRAN | IRIB IRINN
-http://filex.me:8080/444476/444476/499884
-#EXTINF:-1 tvg-id="" tvg-name="IRAN | IRIB Varzesh" tvg-logo="" group-title="IRAN",IRAN | IRIB Varzesh
-http://filex.me:8080/444476/444476/499894
-#EXTINF:-1 tvg-id="" tvg-name="IRAN | IRIB MOSTANAD" tvg-logo="" group-title="IRAN",IRAN | IRIB MOSTANAD
-http://filex.me:8080/444476/444476/499886
-#EXTINF:-1 tvg-id="" tvg-name="IR | Velayat TV" tvg-logo="" group-title="IRAN",IR | Velayat TV
-http://filex.me:8080/444476/444476/499971
-#EXTINF:-1 tvg-id="" tvg-name="IR | ALKAWTHAR" tvg-logo="" group-title="IRAN",IR | ALKAWTHAR
-http://filex.me:8080/444476/444476/499972
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 1" tvg-logo="https://docdog.top/logo/countries/iran/IRIB1.jpg" group-title="ASIA | IRAN VIP",IR: IRIB 1
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/7461
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 2" tvg-logo="https://docdog.top/logo/countries/iran/IRIBTV2.png" group-title="ASIA | IRAN VIP",IR: IRIB 2
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/7462
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 3" tvg-logo="https://docdog.top/logo/countries/iran/IRIB3.jpg" group-title="ASIA | IRAN VIP",IR: IRIB 3
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/7463
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 4" tvg-logo="https://docdog.top/logo/countries/iran/IRIBTV4.png" group-title="ASIA | IRAN VIP",IR: IRIB 4
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/7464
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 5" tvg-logo="https://docdog.top/logo/countries/iran/IRIB5.jpg" group-title="ASIA | IRAN VIP",IR: IRIB 5
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/7465
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRINN" tvg-logo="https://docdog.top/logo/countries/iran/IRINN.png" group-title="ASIA | IRAN VIP",IR: IRINN
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/7471
+#EXTINF:-1 tvg-id="" tvg-name="IR: JAME JAM 1" tvg-logo="https://docdog.top/logo/countries/iran/JAMEJAM.jpg" group-title="ASIA | IRAN VIP",IR: JAME JAM 1
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/7472
+#EXTINF:-1 tvg-id="" tvg-name="IR: SABALAN TV" tvg-logo="https://docdog.top/logo/countries/iran/SABALANTV.png" group-title="ASIA | IRAN VIP",IR: SABALAN TV
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/7509
+#EXTINF:-1 tvg-id="" tvg-name="IR: SAHAND TV HD" tvg-logo="https://docdog.top/logo/countries/iran/sahandtv.png" group-title="ASIA | IRAN VIP",IR: SAHAND TV HD
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/7510
+#EXTINF:-1 tvg-id="" tvg-name="IR: KALEMEH TV" tvg-logo="https://docdog.top/logo/countries/iran/KALEMEHTV.jpg" group-title="ASIA | IRAN VIP",IR: KALEMEH TV
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/7473
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB VARZESH" tvg-logo="https://docdog.top/logo/countries/iran/IRIBVARZESH.png" group-title="ASIA | IRAN VIP",IR: IRIB VARZESH
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/7470
 #EXTINF:-1 tvg-id="" tvg-name="IR |SAHAR Azeri" tvg-logo="" group-title="IRAN",IR |Sahar Azeri 
 http://line.queen-pro.cc:80/live/D462C0/97CD4A/44428.ts
 #EXTINF:-1 tvg-id="" tvg-name="IR |SAHAR Urdu " tvg-logo="" group-title="IRAN",IR | SAHAR Urdu 
@@ -156,6 +104,52 @@ http://line.queen-pro.cc:80/live/D462C0/97CD4A/1441695.ts
 http://line.queen-pro.cc:80/live/D462C0/97CD4A/44410.ts
 #EXTINF:-1 Al Alam TV 
 http://line.queen-pro.cc:80/live/D462C0/97CD4A/44484.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL HURRA IRAQ TV" tvg-logo="https://docdog.top/logo/countries/arab/alhurra.png" group-title="ARAB VIP",AR: AL HURRA IRAQ TV
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6573
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL IRAQIYA" tvg-logo="" group-title="ARAB VIP",AR: AL IRAQIYA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6574
+#EXTINF:-1 tvg-id="" tvg-name="AR: IRAQ EDU" tvg-logo="https://docdog.top/logo/countries/arab/IRAQEDU.jpg" group-title="ARAB VIP",AR: IRAQ EDU
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6575
+#EXTINF:-1 tvg-id="" tvg-name="AR: IRAQ FUTURE" tvg-logo="https://docdog.top/logo/countries/arab/IRAQFUTURE.jpg" group-title="ARAB VIP",AR: IRAQ FUTURE
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6576
+#EXTINF:-1 tvg-id="" tvg-name="AR: IRAQIA NEWS" tvg-logo="https://docdog.top/logo/countries/arab/iraqianews.png" group-title="ARAB VIP",AR: IRAQIA NEWS
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6577
+#EXTINF:-1 tvg-id="" tvg-name="AR: IRAQIA SPORT" tvg-logo="https://docdog.top/logo/countries/arab/iraqiasport.png" group-title="ARAB VIP",AR: IRAQIA SPORT
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6578
+#EXTINF:-1 tvg-id="" tvg-name="AR: IRAQIA TURKUMAN" tvg-logo="https://docdog.top/logo/countries/arab/iraqiaturkuman.png" group-title="ARAB VIP",AR: IRAQIA TURKUMAN
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6579
+#EXTINF:-1 tvg-id="" tvg-name="AR: IRAQIA TV" tvg-logo="https://docdog.top/logo/countries/arab/iraqiatv.png" group-title="ARAB VIP",AR: IRAQIA TV
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6580
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC IRAQ" tvg-logo="https://docdog.top/logo/countries/arab/MBCIRAQ.png" group-title="ARAB | MBC & MYHD VIP",AR: MBC IRAQ
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6581
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL ANBAR" tvg-logo="https://docdog.top/logo/countries/arab/alanbar.png" group-title="ARAB VIP",AR: AL ANBAR
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6582
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL FALLUJA TV" tvg-logo="https://docdog.top/logo/countries/arab/alfallujahtv.png" group-title="ARAB VIP",AR: AL FALLUJA TV
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6583
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL FORAT" tvg-logo="https://docdog.top/logo/countries/arab/ALFORAT.jpg" group-title="ARAB VIP",AR: AL FORAT
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6584
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL GHADEER" tvg-logo="https://docdog.top/logo/countries/arab/alghadeer.png" group-title="ARAB VIP",AR: AL GHADEER
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6585
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL IMAN TV" tvg-logo="https://docdog.top/logo/countries/arab/ALIMANTV.png" group-title="ARAB VIP",AR: AL IMAN TV
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6586
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL MAWSLEYA" tvg-logo="https://docdog.top/logo/countries/arab/almawsleya.png" group-title="ARAB VIP",AR: AL MAWSLEYA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6587
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL RAFIDAIN" tvg-logo="https://docdog.top/logo/countries/arab/alrafidain.png" group-title="ARAB VIP",AR: AL RAFIDAIN
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6588
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL SHARQIYA" tvg-logo="https://docdog.top/logo/countries/arab/alsharqiya.png" group-title="ARAB VIP",AR: AL SHARQIYA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6589
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL SHARQIYA NEWS" tvg-logo="https://docdog.top/logo/countries/arab/alsharqiyanews.png" group-title="ARAB VIP",AR: AL SHARQIYA NEWS
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6590
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL SUMARIYA" tvg-logo="https://docdog.top/logo/countries/arab/ALSUMARIYA.png" group-title="ARAB VIP",AR: AL SUMARIYA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6591
+#EXTINF:-1 tvg-id="" tvg-name="AR: ANWAR" tvg-logo="https://docdog.top/logo/countries/arab/alanwar.png" group-title="ARAB VIP",AR: ANWAR
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6592
+#EXTINF:-1 tvg-id="" tvg-name="AR: AWDEH" tvg-logo="https://docdog.top/logo/countries/arab/awdeh.png" group-title="ARAB VIP",AR: AWDEH
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6593
+#EXTINF:-1 tvg-id="" tvg-name="AR: BAQDAD" tvg-logo="https://docdog.top/logo/countries/arab/BAQDAD.png" group-title="ARAB VIP",AR: BAQDAD
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6594
+
 #EXTINF:-1 tvg-id="" tvg-name="AR: KUWAIT 1" tvg-logo="https://docdog.top/logo/countries/arab/kuwait1.png" group-title="ARAB VIP",AR: KUWAIT 1
 http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6795
 #EXTINF:-1 tvg-id="" tvg-name="AR: KUWAIT 2" tvg-logo="https://docdog.top/logo/countries/arab/kuwait2.png" group-title="ARAB VIP",AR: KUWAIT 2
