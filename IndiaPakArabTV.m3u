@@ -86,6 +86,10 @@ http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/7465
 http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/7471
 #EXTINF:-1 tvg-id="" tvg-name="IR: JAME JAM 1" tvg-logo="https://docdog.top/logo/countries/iran/JAMEJAM.jpg" group-title="ASIA | IRAN VIP",IR: JAME JAM 1
 http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/7472
+#EXTINF:-1 tvg-id="" tvg-name="IR: ALBORZ TV" tvg-logo="https://docdog.top/logo/countries/iran/ALBORZTV.png" group-title="ASIA | IRAN VIP",IR: ALBORZ TV
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/7415
+#EXTINF:-1 tvg-id="" tvg-name="IR: ALKAWTHAR TV" tvg-logo="https://docdog.top/logo/countries/iran/alkawthartv.png" group-title="ASIA | IRAN VIP",IR: ALKAWTHAR TV
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/7416
 #EXTINF:-1 tvg-id="" tvg-name="IR: SABALAN TV" tvg-logo="https://docdog.top/logo/countries/iran/SABALANTV.png" group-title="ASIA | IRAN VIP",IR: SABALAN TV
 http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/7509
 #EXTINF:-1 tvg-id="" tvg-name="IR: SAHAND TV HD" tvg-logo="https://docdog.top/logo/countries/iran/sahandtv.png" group-title="ASIA | IRAN VIP",IR: SAHAND TV HD
@@ -253,9 +257,88 @@ http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6867
 http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6868
 #EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN TV" tvg-logo="https://docdog.top/logo/countries/arab/yementv.png" group-title="ARAB VIP",AR: YEMEN TV
 http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6869
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALESTINE" tvg-logo="https://docdog.top/logo/countries/arab/palestine.png" group-title="ARAB VIP",AR: PALESTINE
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6546
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALESTINE KOFIYA" tvg-logo="https://docdog.top/logo/countries/arab/palestinekofiya.png" group-title="ARAB VIP",AR: PALESTINE KOFIYA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6547
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALESTINE LIVE" tvg-logo="https://docdog.top/logo/countries/arab/PALESTINELIVE.png" group-title="ARAB VIP",AR: PALESTINE LIVE
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6548
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALESTINE NEWS" tvg-logo="https://docdog.top/logo/countries/arab/palestinenews.png" group-title="ARAB VIP",AR: PALESTINE NEWS
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6549
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALESTINE SPORT" tvg-logo="https://docdog.top/logo/countries/arab/palestinesport.png" group-title="ARAB VIP",AR: PALESTINE SPORT
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6550
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALESTINE TODAY" tvg-logo="https://docdog.top/logo/countries/arab/palestinetoday.png" group-title="ARAB VIP",AR: PALESTINE TODAY
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6551
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL SERAJ" tvg-logo="https://docdog.top/logo/countries/arab/ALSERAJ.jpg" group-title="ARAB VIP",AR: AL SERAJ
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6734
+#EXTINF:-1 tvg-id="" tvg-name="AR-PLS: AL AQSA" tvg-logo="https://docdog.top/logo/countries/ar/AR-PLS_AL_AQSA.png" group-title="ARAB VIP NEW",AR-PLS: AL AQSA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130547
+#EXTINF:-1 tvg-id="" tvg-name="AR-PLS: AL NAJAH" tvg-logo="https://docdog.top/logo/countries/ar/AR-PLS_AL_NAJAH.png" group-title="ARAB VIP NEW",AR-PLS: AL NAJAH
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130548
+#EXTINF:-1 tvg-id="" tvg-name="AR-PLS: AL WATAN" tvg-logo="https://docdog.top/logo/countries/ar/AR-PLS_AL_WATAN.png" group-title="ARAB VIP NEW",AR-PLS: AL WATAN
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130549
+#EXTINF:-1 tvg-id="" tvg-name="AR-PLS: ALQUDS TODAY TV" tvg-logo="https://docdog.top/logo/countries/ar/AR-PLS_ALQUDS_TODAY_TV.jpeg" group-title="ARAB VIP NEW",AR-PLS: ALQUDS TODAY TV
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130550
+#EXTINF:-1 tvg-id="" tvg-name="AR-PLS: AWDEH" tvg-logo="https://docdog.top/logo/countries/ar/AR-PLS_AWDEH.png" group-title="ARAB VIP NEW",AR-PLS: AWDEH
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130551
+#EXTINF:-1 tvg-id="" tvg-name="AR-PLS: AWDEH HD" tvg-logo="https://docdog.top/logo/countries/ar/AR-PLS_AWDEH_HD.png" group-title="ARAB VIP NEW",AR-PLS: AWDEH HD
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130552
+#EXTINF:-1 tvg-id="" tvg-name="AR-PLS: CHABAB TV" tvg-logo="https://docdog.top/logo/countries/ar/AR-PLS_CHABAB_TV.png" group-title="ARAB VIP NEW",AR-PLS: CHABAB TV
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130553
+#EXTINF:-1 tvg-id="" tvg-name="AR-PLS: FALESTINI TV" tvg-logo="https://docdog.top/logo/countries/ar/AR-PLS_FALESTINI_TV.jpeg" group-title="ARAB VIP NEW",AR-PLS: FALESTINI TV
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130554
+#EXTINF:-1 tvg-id="" tvg-name="AR-PLS: HALA TV" tvg-logo="https://docdog.top/logo/countries/ar/AR-PLS_HALA_TV.png" group-title="ARAB VIP NEW",AR-PLS: HALA TV
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130555
+#EXTINF:-1 tvg-id="" tvg-name="AR-PLS: MAAN TV" tvg-logo="https://docdog.top/logo/countries/ar/AR-PLS_MAAN_TV.jpeg" group-title="ARAB VIP NEW",AR-PLS: MAAN TV
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130556
+#EXTINF:-1 tvg-id="" tvg-name="AR-PLS: MUSAWA" tvg-logo="https://docdog.top/logo/countries/ar/AR-PLS_MUSAWA.png" group-title="ARAB VIP NEW",AR-PLS: MUSAWA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130557
+#EXTINF:-1 tvg-id="" tvg-name="AR-PLS: MUSAWA  FHD" tvg-logo="https://docdog.top/logo/countries/ar/AR-PLS_MUSAWA__FHD.png" group-title="ARAB VIP NEW",AR-PLS: MUSAWA  FHD
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130558
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: LANA TV SYRIA" tvg-logo="https://docdog.top/logo/countries/arab/LANATVSYRIA.jpg" group-title="ARAB VIP",AR: LANA TV SYRIA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6831
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAMA SYRIA" tvg-logo="https://docdog.top/logo/countries/arab/samasyria.png" group-title="ARAB VIP",AR: SAMA SYRIA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6832
+#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA" tvg-logo="https://docdog.top/logo/countries/arab/syria.png" group-title="ARAB VIP",AR: SYRIA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6833
+#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA AL OULA" tvg-logo="https://docdog.top/logo/countries/arab/syriaaloula.png" group-title="ARAB VIP",AR: SYRIA AL OULA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6834
+#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA DRAMA" tvg-logo="https://docdog.top/logo/countries/arab/syriadrama.png" group-title="ARAB VIP",AR: SYRIA DRAMA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6835
+#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA NEWS" tvg-logo="https://docdog.top/logo/countries/arab/SYRIANEWS.jpg" group-title="ARAB VIP",AR: SYRIA NEWS
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6841
+#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA SAMA" tvg-logo="https://docdog.top/logo/countries/arab/SYRIASAMA.png" group-title="ARAB VIP",AR: SYRIA SAMA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6842
+#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA SATELLITE TV" tvg-logo="https://docdog.top/logo/countries/arab/syriasatellitetv.png" group-title="ARAB VIP",AR: SYRIA SATELLITE TV
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6843
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AR-EG: AL MASRIYA" tvg-logo="https://docdog.top/logo/countries/ar/AL_MASRIYA.png" group-title="ARAB VIP NEW",AR-EG: AL MASRIYA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130230
+#EXTINF:-1 tvg-id="" tvg-name="AR-EG: AL OULA" tvg-logo="https://docdog.top/logo/countries/ar/AL_OULA_.png" group-title="ARAB VIP NEW",AR-EG: AL OULA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130231
+#EXTINF:-1 tvg-id="" tvg-name="AR-EG: AL OULA FHD" tvg-logo="https://docdog.top/logo/countries/ar/AL_OULA_FHD.png" group-title="ARAB VIP NEW",AR-EG: AL OULA FHD
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130232
+
+
 #EXTINF:-1 MASR AL OULA
 http://line.queen-pro.cc:80/live/D462C0/97CD4A/1440350.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="AR-EG: CBC" tvg-logo="https://docdog.top/logo/countries/ar/CBC.png" group-title="ARAB VIP NEW",AR-EG: CBC
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130249
+#EXTINF:-1 tvg-id="" tvg-name="AR-EG: CBC DRAMA" tvg-logo="https://docdog.top/logo/countries/ar/CBC_DRAMA.png" group-title="ARAB VIP NEW",AR-EG: CBC DRAMA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130250
+#EXTINF:-1 tvg-id="" tvg-name="AR-EG: CBC EXTRA" tvg-logo="https://docdog.top/logo/countries/ar/CBC_EXTRA.jpeg" group-title="ARAB VIP NEW",AR-EG: CBC EXTRA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130251
+#EXTINF:-1 tvg-id="" tvg-name="AR-EG: CBC EXTRA NEWS" tvg-logo="https://docdog.top/logo/countries/ar/CBC_EXTRA_NEWS.png" group-title="ARAB VIP NEW",AR-EG: CBC EXTRA NEWS
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130252
+#EXTINF:-1 tvg-id="" tvg-name="AR-EG: CBC SOFRA" tvg-logo="https://docdog.top/logo/countries/ar/CBC_SOFRA.png" group-title="ARAB VIP NEW",AR-EG: CBC SOFRA
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130253
+#EXTINF:-1 tvg-id="" tvg-name="AR-EG: ESKANDRIA 5" tvg-logo="https://docdog.top/logo/countries/ar/ESKANDRIA_5.png" group-title="ARAB VIP NEW",AR-EG: ESKANDRIA 5
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/130267
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL NAS TV" tvg-logo="https://docdog.top/logo/countries/arab/ALNASTV.png" group-title="ARAB VIP",AR: AL NAS TV
+http://vipppygnn.top:8080/VIP011172424242094/9c211ba27d04/6730
 
 #EXTINF:-1,IR Simaye Azadi Iranntv
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
