@@ -96,7 +96,7 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 ch-id="ARY NEWS (PK)" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg"group-title="India-Pakistani",ARY NEWS (PK)
 http://bes5.alphatx.me/live/140925815162/956537834800/281102.ts
 #EXTINF:-1 ch-id="ARY DIGITAL (PK)" tvg-logo="https://1.bp.blogspot.com/--wDE2l82PT0/YRepmImjWvI/AAAAAAAAA4g/QfuH2Q9yP_I7D6RrkC5IiaEGRLRvPg6JwCLcBGAsYHQ/s200/PicsArt_08-14-05.01.13.jpg"  group-title="India-Pakistani",ARY DIGITAL (PK)
-http://tigerott.com:8080/0583333/111111/82775 
+http://astv.life:8080/live/anil@123/anil@123/399702.ts 
 #EXTINF:-1 ch-id="GEO HD (PK)" tvg-logo="https://1.bp.blogspot.com/-fktS4IURByc/YO43k9xSajI/AAAAAAAAAbM/gex7jop3fIQ62kO64RiVFEmqfg8439VTQCLcBGAsYHQ/s200/PicsArt_07-14-06.29.55.jpg"  group-title="India-Pakistani",GEO TV HD (PK)
 http://tigerott.com:8080/0583333/111111/82779
 #EXTINF:-1,tvg-logo="http://www.arirang.com/images/index/arirang.png" group-title="General",Arirang Korea
@@ -197,7 +197,7 @@ https://qatartv.akamaized.net/hls/live/2026573/qtv1/4.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="Pakistani",PTV World
 http://starshare.live:8080/live/Sam123/Sam123/111.ts 
 #EXTINF:-1 tvg-id="PTVHome.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/mJxpdBU.png" group-title="Pakistani",PTV Home (238p)
-http://line.venomtv.me:80/6f1f8b2b4a90/3d6e9db2ad5d/646763 
+http://astv.life:8080/live/anil@123/anil@123/399761.ts 
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/LyqGxwv.jpg" group-title="News",PTV News (1080p) [Not 24/7]
 http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/25988
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber (720p)
