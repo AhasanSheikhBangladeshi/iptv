@@ -55,8 +55,141 @@ http://b1g.ooo:80/Gerado/Gerado1/76687
 #EXTINF:-1,PK | Aan TV FHD
 http://b1g.ooo:80/Gerado/Gerado1/201026
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB TV 1 HD" tvg-logo="http://tvlogo.xyz/iran/tv1.png" group-title="Iran",IR | IRIB TV 1 HD
+http://vocotv.live:80/yesterday/yesterday/691947
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB TV 1" tvg-logo="http://tvlogo.xyz/iran/tv1.png" group-title="Iran",IR | IRIB TV 1
+http://vocotv.live:80/yesterday/yesterday/691946
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB TV 2 HD" tvg-logo="http://tvlogo.xyz/iran/tv2.png" group-title="Iran",IR | IRIB TV 2 HD
+http://vocotv.live:80/yesterday/yesterday/691945
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB TV 3 HD" tvg-logo="http://iptvw0rld.ga/tv3hds.png" group-title="Iran",IR | IRIB TV 3 HD
+http://vocotv.live:80/yesterday/yesterday/691944
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB TV 4 HD" tvg-logo="" group-title="Iran",IR | IRIB TV 4 HD
+http://vocotv.live:80/yesterday/yesterday/691943
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB TV 5 HD" tvg-logo="http://tvlogo.xyz/iran/tv5.png" group-title="Iran",IR | IRIB TV 5 HD
+http://vocotv.live:80/yesterday/yesterday/691942
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRINN" tvg-logo="http://tvlogo.xyz/iran/inn.png" group-title="Iran",IR | IRINN
+http://vocotv.live:80/yesterday/yesterday/691936
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Quran" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/6/6a/賱賵诏賵_卮亘讴賴_賯乇丌賳.png/150px-賱賵诏賵_卮亘讴賴_賯乇丌賳.png%D9%88%DA%AF%D9%88_%D8%B4%D8%A8%DA%A9%D9%87_%D9%82%D8%B1%D8%A2%D9%86.png" group-title="Iran",IR | IRIB Quran
+http://vocotv.live:80/yesterday/yesterday/691956
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Varzesh" tvg-logo="https://i.postimg.cc/4x2CTy48/amir-ganjvar-iribvarzesh.jpg" group-title="Iran",IR | IRIB Varzesh
+http://vocotv.live:80/yesterday/yesterday/691938
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Sahar Azari" tvg-logo="" group-title="Iran",IR | IRIB Sahar Azari
+http://vocotv.live:80/yesterday/yesterday/691953
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Sahar Balakan" tvg-logo="" group-title="Iran",IR | IRIB Sahar Balakan
+http://vocotv.live:80/yesterday/yesterday/691952
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Salamat" tvg-logo="http://tvlogo.xyz/iran/salamat.png" group-title="Iran",IR | IRIB Salamat
+http://vocotv.live:80/yesterday/yesterday/691951
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Mostanad HD" tvg-logo="" group-title="Iran",IR | IRIB Mostanad HD
+http://vocotv.live:80/yesterday/yesterday/691961
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Khorasan Razavi TV" tvg-logo="png" group-title="Iran",IR | IRIB Khorasan Razavi TV
+http://vocotv.live:80/yesterday/yesterday/691963
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Isfahan TV" tvg-logo="http://tvlogo.xyz/iran/isfehan.png" group-title="Iran",IR | IRIB Isfahan TV
+http://vocotv.live:80/yesterday/yesterday/691968
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Kerman TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/4/4f/IRIB_Kerman_TV.png/150px-IRIB_Kerman_TV.png" group-title="Iran",IR | IRIB Kerman TV
+http://vocotv.live:80/yesterday/yesterday/691967
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Khalij-e Fars TV (Hormozgan)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/7/7c/Bandar_KHALI_J_e_FARS_TV.svg/150px-Bandar_KHALI_J_e_FARS_TV.svg.png" group-title="Iran",IR | IRIB Khalij-e Fars TV (Hormozgan)
+http://vocotv.live:80/yesterday/yesterday/691966
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Abadan TV" tvg-logo="http://tvlogo.xyz/iran/abadan.png" group-title="Iran",IR | IRIB Abadan TV
+http://vocotv.live:80/yesterday/yesterday/691980
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Aflak TV (Lorestan)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/0/0d/Lorestan_TV_Aflak.svg/150px-Lorestan_TV_Aflak.svg.png" group-title="Iran",IR | IRIB Aflak TV (Lorestan)
+http://vocotv.live:80/yesterday/yesterday/691979
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Sabalan TV (Ardabil)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/Ardabil_SABALAN.png/180px-Ardabil_SABALAN.png" group-title="Iran",IR | IRIB Sabalan TV (Ardabil)
+http://vocotv.live:80/yesterday/yesterday/691955
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Sahand TV (Tabriz)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/150px-Tabriz_Sahand.svg.png" group-title="Iran",IR | IRIB Sahand TV (Tabriz)
+http://vocotv.live:80/yesterday/yesterday/691954
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Zagros TV (Kermanshah)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/150px-Kermanshah_Zaghros.svg.png" group-title="Iran",IR | IRIB Zagros TV (Kermanshah)
+http://vocotv.live:80/yesterday/yesterday/691937
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | KORDESTAN" tvg-logo="" group-title="Iran",IR | KORDESTAN
+http://vocotv.live:80/yesterday/yesterday/691928
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | Manoto TV FHD" tvg-logo="http://tvlogo.xyz/iran/manoto.png" group-title="Iran",IR | Manoto TV FHD
+http://vocotv.live:80/yesterday/yesterday/691927
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | Manoto +1 TV " tvg-logo="http://tvlogo.xyz/iran/manoto.png" group-title="Iran",IR | Manoto +1 TV 
+http://vocotv.live:80/yesterday/yesterday/691926
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | IRIB Mahabad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/c/cb/Mahabad_tv.png/120px-Mahabad_tv.png" group-title="Iran",IR | IRIB Mahabad TV
+http://vocotv.live:80/yesterday/yesterday/691962
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | ITN" tvg-logo="http://tvlogo.xyz/iran/itn.png" group-title="Iran",IR | ITN
+http://vocotv.live:80/yesterday/yesterday/691934
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | Kalemeh TV" tvg-logo="https://i.postimg.cc/pTHjKfZq/kalemeh-tv.jpg" group-title="Iran",IR | Kalemeh TV
+http://vocotv.live:80/yesterday/yesterday/691933
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | Velayat TV USA HD" tvg-logo="http://tvlogo.xyz/iran/velayat.png" group-title="Iran",IR | Velayat TV USA HD
+http://vocotv.live:80/yesterday/yesterday/691865
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | VoA TV Persian" tvg-logo="http://tvlogo.xyz/iran/voapersian.png" group-title="Iran",IR | VoA TV Persian
+http://vocotv.live:80/yesterday/yesterday/691864
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR | VOA Persian FHD" tvg-logo="http://tvlogo.xyz/iran/voapersian.png" group-title="Iran",IR | VOA Persian FHD
+http://vocotv.live:80/yesterday/yesterday/691863
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Alawla TV" tvg-logo="" group-title="AR | IRAQ",IQ | Alawla TV
+http://vocotv.live:80/yesterday/yesterday/273327
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | One TV" tvg-logo="" group-title="AR | IRAQ",IQ | One TV
+http://vocotv.live:80/yesterday/yesterday/273326
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Al Rabiaa Iraq" tvg-logo="http://vod-logo.net/photos/41a7cd9836d67fde01c489ef79eb9b0a.png" group-title="AR | IRAQ",IQ | Al Rabiaa Iraq
+http://vocotv.live:80/yesterday/yesterday/273325
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | UTV Iraq HD" tvg-logo="http://vod-logo.net/photos/9da5059490b7295eb22a8f797a95822a.png" group-title="AR | IRAQ",IQ | UTV Iraq HD
+http://vocotv.live:80/yesterday/yesterday/273324
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | OWS TV" tvg-logo="http://vod-logo.net/photos/c14c75009f6355e0fdbbd8b7a2ad5e19.png" group-title="AR | IRAQ",IQ | OWS TV
+http://vocotv.live:80/yesterday/yesterday/273323
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Al Sharqiya HD" tvg-logo="http://vod-logo.net/photos/c7dda25ede63c53c896f642f17eaad76.png" group-title="AR | IRAQ",IQ | Al Sharqiya HD
+http://vocotv.live:80/yesterday/yesterday/273320
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Al Sharqiya News HD" tvg-logo="http://vod-logo.net/photos/c5fec026235f84b518823814cc6b0a2a.png" group-title="AR | IRAQ",IQ | Al Sharqiya News HD
+http://vocotv.live:80/yesterday/yesterday/273319
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Al Wilayah TV" tvg-logo="http://vod-logo.net/photos/8bebe7ae64943c0be4222ca18b55288a.png" group-title="AR | IRAQ",IQ | Al Wilayah TV
+http://vocotv.live:80/yesterday/yesterday/273318
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Al Iraqia HD" tvg-logo="http://vod-logo.net/photos/fad5394a1f2bc1eb6fab8ad3b5f7c5c6.png" group-title="AR | IRAQ",IQ | Al Iraqia HD
+http://vocotv.live:80/yesterday/yesterday/273317
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Iraqia News HD" tvg-logo="http://vod-logo.net/photos/e7050dfcfadcaee5620e6b364ef0f618.png" group-title="AR | IRAQ",IQ | Iraqia News HD
+http://vocotv.live:80/yesterday/yesterday/273316
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Iraq 24 HD" tvg-logo="http://vod-logo.net/photos/88a9811a949903d1d2b22904c4f4481d.png" group-title="AR | IRAQ",IQ | Iraq 24 HD
+http://vocotv.live:80/yesterday/yesterday/273315
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Iraq Future TV" tvg-logo="http://vod-logo.net/photos/0f8648c7053850632d1d3cd561e5e7a9.png" group-title="AR | IRAQ",IQ | Iraq Future TV
+http://vocotv.live:80/yesterday/yesterday/273314
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Iraqia Turkuman" tvg-logo="http://vod-logo.net/photos/7af171ca59720dc512834a65726a1af7.png" group-title="AR | IRAQ",IQ | Iraqia Turkuman
+http://vocotv.live:80/yesterday/yesterday/273313
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Al Hurra Iraq" tvg-logo="http://vod-logo.net/photos/56d5896eb8420b57b48dc998c6e0e5f3.png" group-title="AR | IRAQ",IQ | Al Hurra Iraq
+http://vocotv.live:80/yesterday/yesterday/273312
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Al Hurra HD" tvg-logo="http://vod-logo.net/photos/520c71f763756107171f6f8871e8fbe3.png" group-title="AR | IRAQ",IQ | Al Hurra HD
+http://vocotv.live:80/yesterday/yesterday/273311
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Al Ahd Iraq TV" tvg-logo="http://vod-logo.net/photos/683eaeebf77eea07a0a85d0264e1aece.png" group-title="AR | IRAQ",IQ | Al Ahd Iraq TV
+http://vocotv.live:80/yesterday/yesterday/273310
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Iraqi Education" tvg-logo="http://vod-logo.net/photos/4667bf82a7ab70b20cba17e8df3c13c0.png" group-title="AR | IRAQ",IQ | Iraqi Education
+http://vocotv.live:80/yesterday/yesterday/273309
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | ANB Iraq" tvg-logo="http://vod-logo.net/photos/e0c14a7fc7221d29bc5af68e423ddf30.png" group-title="AR | IRAQ",IQ | ANB Iraq
+http://vocotv.live:80/yesterday/yesterday/273308
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Karbala TV" tvg-logo="http://vod-logo.net/photos/6dfc20d63b307e5146d2db6c0e6303c1.png" group-title="AR | IRAQ",IQ | Karbala TV
+http://vocotv.live:80/yesterday/yesterday/273307
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | WTV Watan TV" tvg-logo="http://vod-logo.net/photos/ed5b33a4cf67ccb3ba33e8146b554ee7.png" group-title="AR | IRAQ",IQ | WTV Watan TV
+http://vocotv.live:80/yesterday/yesterday/273306
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Al Mawsleya" tvg-logo="http://vod-logo.net/photos/fc35162d4f80ccbec1ed6050078f2e2d.png" group-title="AR | IRAQ",IQ | Al Mawsleya
+http://vocotv.live:80/yesterday/yesterday/273305
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Al Mustakila HD" tvg-logo="http://vod-logo.net/photos/ee1f722c70ac2d4d4f37321330b2be6a.png" group-title="AR | IRAQ",IQ | Al Mustakila HD
+http://vocotv.live:80/yesterday/yesterday/273304
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Hona Baghdad" tvg-logo="http://vod-logo.net/photos/1ac107b2ee866b595951ef148716462e.png" group-title="AR | IRAQ",IQ | Hona Baghdad
+http://vocotv.live:80/yesterday/yesterday/273303
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Al Forat TV" tvg-logo="http://vod-logo.net/photos/d93ad568cf2d74c0926656c9eb8293ed.png" group-title="AR | IRAQ",IQ | Al Forat TV
+http://vocotv.live:80/yesterday/yesterday/273302
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Al Baghdadia TV" tvg-logo="http://vod-logo.net/photos/e59e966353ae93ce6a28f3a33167757b.png" group-title="AR | IRAQ",IQ | Al Baghdadia TV
+http://vocotv.live:80/yesterday/yesterday/273301
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Al Sumaria TV" tvg-logo="http://vod-logo.net/photos/e8f5b735571344c89a663c6c94645d22.png" group-title="AR | IRAQ",IQ | Al Sumaria TV
+http://vocotv.live:80/yesterday/yesterday/273300
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Al Rasheed TV" tvg-logo="http://vod-logo.net/photos/81414cda9931bd69b906aa26ecd68106.png" group-title="AR | IRAQ",IQ | Al Rasheed TV
+http://vocotv.live:80/yesterday/yesterday/273299
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Al Rafidain TV" tvg-logo="http://vod-logo.net/photos/b3253118557089c96d55b8a825c04766.png" group-title="AR | IRAQ",IQ | Al Rafidain TV
+http://vocotv.live:80/yesterday/yesterday/273298
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Afaq TV" tvg-logo="http://vod-logo.net/photos/626c1e93137f20df7ef20e510102caa6.png" group-title="AR | IRAQ",IQ | Afaq TV
+http://vocotv.live:80/yesterday/yesterday/273297
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Salahaden TV" tvg-logo="http://vod-logo.net/photos/feabeb952c1063de9623e4726a480113.png" group-title="AR | IRAQ",IQ | Salahaden TV
+http://vocotv.live:80/yesterday/yesterday/273290
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Dijlah Zaman TV" tvg-logo="http://vod-logo.net/photos/2f5d9aef2cd010e8b13dc76cced43758.png" group-title="AR | IRAQ",IQ | Dijlah Zaman TV
+http://vocotv.live:80/yesterday/yesterday/273289
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Dijleh TV" tvg-logo="http://vod-logo.net/photos/feb760f6687ef75ed3949e5e221f7ee8.png" group-title="AR | IRAQ",IQ | Dijleh TV
+http://vocotv.live:80/yesterday/yesterday/273288
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Turkmeneli TV HD" tvg-logo="http://vod-logo.net/photos/7c5d14841efb38c84bf1fb93af0506fa.png" group-title="AR | IRAQ",IQ | Turkmeneli TV HD
+http://vocotv.live:80/yesterday/yesterday/273287
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Al Nabaa HD" tvg-logo="http://vod-logo.net/photos/8d0c9992829f87e740a709267642182e.png" group-title="AR | IRAQ",IQ | Al Nabaa HD
+http://vocotv.live:80/yesterday/yesterday/273286
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IQ | Al Anbar TV" tvg-logo="http://vod-logo.net/photos/0c634fd99eebdfd2d42993b8915e1f3d.png" group-title="AR | IRAQ",IQ | Al Anbar TV
+http://vocotv.live:80/yesterday/yesterday/273285
 
 #EXTINF:-1,IR Simaye Azadi Iranntv
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
