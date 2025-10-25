@@ -116,7 +116,7 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-name="ATN Europe" tvg-logo="https://i.imgur.com/m6tBPia.png" group-title="AFGHANISTAN",ATN Europe
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Lemar TV" tvg-logo="https://i.imgur.com/6l9YYEs.png" group-title="AFGHANISTAN",Lemar TV
-http://forevertv.me:8080/342553618183/180888433334/1771
+http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
 #EXTINF:-1 tvg-name="ATN National" tvg-logo="https://i.imgur.com/m6tBPia.png" group-title="AFGHANISTAN",ATN National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w1532942397.m3u8
 #EXTINF:1 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png"https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png group-title="Religious",ARY QTV
