@@ -104,7 +104,7 @@ http://tigerott.com:8080/0583333/111111/82779
 #EXTINF:-1,tvg-logo="http://www.arirang.com/images/index/arirang.png" group-title="General",Arirang Korea
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TAMADON TV" tvg-logo="https://asiagrandiptv.us/logo/TAMADON.jpg" group-title="AFGHANISTAN",TAMADON TV
-http://4ksuper.live/live/Michael88/Michael88/36995.ts
+https://hls.tamadon.live/hls/stream.m3u8
 #EXTINF:1 tvg-id="" tvg-name="Zee Salaam "  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Salaam_2017.jpg" group-title="India-pakistani",Zee Salaam
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News TV
