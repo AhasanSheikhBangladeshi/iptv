@@ -181,6 +181,45 @@ http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/22249
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AlAan.ae" tvg-name="IQ: AL ANBAR TV" tvg-logo="https://s9.gifyu.com/images/SV54s.png" group-title="AR| IRAQ",IQ: AL ANBAR TV
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/111800
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW: KUWAIT TV CH1 FHD H.265" tvg-logo="https://s9.gifyu.com/images/SVcfY.png" group-title="AR| ARAB TV",KW: KUWAIT TV CH1 FHD H.265
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/682285
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="KUWAIT" tvg-name="KW: KUWAIT TV CH1 HD" tvg-logo="https://s9.gifyu.com/images/SVcfY.png" group-title="AR| ARAB TV",KW: KUWAIT TV CH1 HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/4651
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW: KUWAIT TV CH2 FHD H.265" tvg-logo="https://s9.gifyu.com/images/SVcfA.webp" group-title="AR| ARAB TV",KW: KUWAIT TV CH2 FHD H.265
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/682284
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="KTV2.kw" tvg-name="KW: KUWAIT TV CH2 HD" tvg-logo="https://s9.gifyu.com/images/SVcfA.webp" group-title="AR| ARAB TV",KW: KUWAIT TV CH2 HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/4650
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW: KUWAIT TV AL ARABI HD" tvg-logo="https://s9.gifyu.com/images/SVcYj.png" group-title="AR| ARAB TV",KW: KUWAIT TV AL ARABI HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/682287
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW: KUWAIT TV NEWS  HD" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/KUWAIT%20/KUWAIT-NEWS.PNG" group-title="AR| NEWS",KW: KUWAIT TV NEWS  HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/18310
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="KTVEthraa.kw" tvg-name="KW: KUWAIT TV ETHRAA HD" tvg-logo="https://s12.gifyu.com/images/SVcYf.png" group-title="AR| ARAB TV",KW: KUWAIT TV ETHRAA HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/18311
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="KTVAlQurain.kw" tvg-name="KW: KUWAIT TV AL QURAIN HD" tvg-logo="https://s12.gifyu.com/images/SVcYy.webp" group-title="AR| ARAB TV",KW: KUWAIT TV AL QURAIN HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/38717
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW : KUWAIT TV AL QURAIN HD" tvg-logo="https://s12.gifyu.com/images/SVcYy.webp" group-title="AR| ARAB TV",KW : KUWAIT TV AL QURAIN HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/682288
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW: KUWAIT TV SPORT FHD H.265" tvg-logo="https://s9.gifyu.com/images/SVcYp.png" group-title="AR| SPORT ARAB",KW: KUWAIT TV SPORT FHD H.265
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/682286
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="alrai.sa" tvg-name="KW: ALRAI TV HD" tvg-logo="https://s12.gifyu.com/images/SVclV.png" group-title="AR| ARAB TV",KW: ALRAI TV HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/109434
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW: AL ADALAH TV ATV HD" tvg-logo="https://s12.gifyu.com/images/SVARz.png" group-title="AR| ARAB TV",KW: AL ADALAH TV ATV HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/160144
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AR: Saudia TV FHD (H.265)" tvg-logo="https://www.lyngsat.com/logo/tv/ss/saudi-tv-sa.png" group-title="AR| SAUDI",AR: Saudia TV FHD (H.265)
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/682219
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="saudi1.sa" tvg-name="SA: SAUDIA TV 1 HD" tvg-logo="https://s9.gifyu.com/images/SUvFo.webp" group-title="AR| SAUDI",SA: SAUDIA TV 1 HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/101665
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Saudi1.sa" tvg-name="SA: Channel 24 Sports HD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8SOXaKUgvS5QqrV1K-WSgvbr7trziwJ83pF9PGwwG9TN.png" group-title="AR| SAUDI",SA: Channel 24 Sports HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/104072
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AR: Saudi Zekrayat FHD (H.265)" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/SAUDI/thikrayat-tv-sa.png" group-title="AR| SAUDI",AR: Saudi Zekrayat FHD (H.265)
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/682221
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="thikrayaten.sa" tvg-name="SA: SAUDI THEKRAYAT HD" tvg-logo="https://s9.gifyu.com/images/SVcrE.webp" group-title="AR| SAUDI",SA: SAUDI THEKRAYAT HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/23537
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sbc.sa" tvg-name="SA: SBC HD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8YgYOAuXfV0mfANV3ysIXrE9G5bbhaC47WTL50dy31ZV.png" group-title="AR| SAUDI",SA: SBC HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/55677
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SA: AL SAHRAA CHANNEL FHD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8c-2AiwLv7-jSX3iT9x0M9wj8y-ISJZGA96sLYziNkzi.png" group-title="AR| SAUDI",SA: AL SAHRAA CHANNEL FHD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/47581
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AR: YEMEN SHABAB FHD" tvg-logo="https://s12.gifyu.com/images/SV6Wm.webp" group-title="AR| ARAB TV FHD",AR: YEMEN SHABAB FHD
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/101629
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AR: YEMEN TV FHD" tvg-logo="https://s9.gifyu.com/images/SV6Wp.png" group-title="AR| ARAB TV FHD",AR: YEMEN TV FHD
@@ -205,6 +244,68 @@ http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/86259
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/109510
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AlDafrahTV.ae" tvg-name="YE: ALLAHDAH TV" tvg-logo="https://s12.gifyu.com/images/SVAjl.png" group-title="AR| ARAB TV",YE: ALLAHDAH TV
 http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/11287
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SyriaSatelliteChannel.sy" tvg-name="SY: SYRIA SATELLITE TV" tvg-logo="https://s9.gifyu.com/images/SV8LP.png" group-title="AR| SYRIA",SY: SYRIA SATELLITE TV
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/105390
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Drama.uk" tvg-name="AR: SYRIA NEWS FHD" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/mbc/SYRIA-NEWS.png" group-title="AR| SYRIA",AR: SYRIA NEWS FHD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/156148
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL OULA EGYPTE HD" tvg-logo="https://s9.gifyu.com/images/SV7iT.png" group-title="AR| EGYPT",EG: AL OULA EGYPTE HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/2634
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL THANYA" tvg-logo="https://s9.gifyu.com/images/SVI9A.png" group-title="AR| EGYPT",EG: AL THANYA
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/2633
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AlKaheraWalNas.eg" tvg-name="EG: AL KAHERA" tvg-logo="https://s9.gifyu.com/images/SVITB.png" group-title="AR| EGYPT",EG: AL KAHERA
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/101578
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AlManar.lb" tvg-name="EG: AL KANAL" tvg-logo="https://s9.gifyu.com/images/SVIwv.png" group-title="AR| EGYPT",EG: AL KANAL
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/101660
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Alankar.in" tvg-name="EG: ALASKANDRIA" tvg-logo="https://s9.gifyu.com/images/SVIwL.png" group-title="AR| EGYPT",EG: ALASKANDRIA
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/101589
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MallTV.pa" tvg-name="EG: AL DELTA" tvg-logo="https://s9.gifyu.com/images/SVIwb.png" group-title="AR| EGYPT",EG: AL DELTA
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/101588
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: ALSA3EED" tvg-logo="https://s9.gifyu.com/images/SVIwx.png" group-title="AR| EGYPT",EG: ALSA3EED
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/101646
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: TEBA" tvg-logo="https://s9.gifyu.com/images/SVITX.png" group-title="AR| EGYPT",EG: TEBA
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/38657
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="356.FR" tvg-name="EG: AL MASRIYA SAT" tvg-logo="https://s12.gifyu.com/images/SVIKl.png" group-title="AR| EGYPT",EG: AL MASRIYA SAT
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/7108
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="alhayat.eg" tvg-name="EG: AL HAYAT TV HD" tvg-logo="https://s9.gifyu.com/images/SV7UH.png" group-title="AR| EGYPT",EG: AL HAYAT TV HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/2631
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="alhayat.eg" tvg-name="EG: AL HAYAT TV HD" tvg-logo="https://s9.gifyu.com/images/SV7UH.png" group-title="AR| EGYPT",EG: AL HAYAT TV HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/2636
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbc.eg" tvg-name="EG: CBC" tvg-logo="https://s9.gifyu.com/images/SVI95.png" group-title="AR| EGYPT",EG: CBC
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/1398
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cbcdrama.eg" tvg-name="EG: CBC DRAMA" tvg-logo="https://s9.gifyu.com/images/SVI9D.png" group-title="AR| EGYPT",EG: CBC DRAMA
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/2632
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBCNews.ca" tvg-name="EG: EXTRA NEWS" tvg-logo="https://s12.gifyu.com/images/SV7cZ.png" group-title="AR| EGYPT",EG: EXTRA NEWS
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/3111
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dmc.eg" tvg-name="EG: DMC HD" tvg-logo="https://s9.gifyu.com/images/SVIKe.png" group-title="AR| EGYPT",EG: DMC HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/18227
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dmc.eg" tvg-name="EG: DMC HD" tvg-logo="https://s9.gifyu.com/images/SVIKe.png" group-title="AR| EGYPT",EG: DMC HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/103317
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dmcdrama.eg" tvg-name="EG: DMC DRAMA" tvg-logo="https://s9.gifyu.com/images/SVINS.png" group-title="AR| EGYPT",EG: DMC DRAMA
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/103315
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: SADA EL BALAD HD" tvg-logo="https://s9.gifyu.com/images/SVIxl.webp" group-title="AR| EGYPT",EG: SADA EL BALAD HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/7067
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nilefamily.eg" tvg-name="EG: NILE FAMILY" tvg-logo="https://s12.gifyu.com/images/SV74L.png" group-title="AR| EGYPT",EG: NILE FAMILY
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/3063
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="niledrama.eg" tvg-name="EG: NILE DRAMA" tvg-logo="https://s9.gifyu.com/images/SV7gy.png" group-title="AR| EGYPT",EG: NILE DRAMA
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/3064
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nilelife.eg" tvg-name="EG: NILE LIFE" tvg-logo="https://s9.gifyu.com/images/SV74q.png" group-title="AR| EGYPT",EG: NILE LIFE
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/3062
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: NILE CULTURE" tvg-logo="https://s9.gifyu.com/images/SV74a.png" group-title="AR| EGYPT",EG: NILE CULTURE
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/3065
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mixbelaraby.eg" tvg-name="EG: MIX BEL ARABY" tvg-logo="https://s9.gifyu.com/images/SVIKN.png" group-title="AR| EGYPT",EG: MIX BEL ARABY
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/38625
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nilenews.eg" tvg-name="EG: NILE NEWS" tvg-logo="https://s12.gifyu.com/images/SV74X.png" group-title="AR| EGYPT",EG: NILE NEWS
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/3061
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="niletv.eg" tvg-name="EG: NILE TV INTERNATIONAL" tvg-logo="https://s12.gifyu.com/images/SV76C.png" group-title="AR| EGYPT",EG: NILE TV INTERNATIONAL
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/3060
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Kameme.ke" tvg-name="EG: MEKAMELEEN TV" tvg-logo="https://s9.gifyu.com/images/SVIKw.png" group-title="AR| EGYPT",EG: MEKAMELEEN TV
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/4631
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: ELSHARQ TV HD" tvg-logo="https://s9.gifyu.com/images/SVIT6.png" group-title="AR| NEWS",EG: ELSHARQ TV HD
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/80986
+
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SD: ☯☯ |SD| SUDAN |SD| ☯☯" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8SsMWriEG1znf707IW0cN59kol4F19DTyHWJjbSaCTTA.png" group-title="AR| ARAB TV",SD: ☯☯ |SD| SUDAN |SD| ☯☯
 https://static.videezy.com/system/protected/files/000/042/550/Sudan_Flag_Loop.mp4
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Sudan TV ARB" tvg-name="SD: SUDAN TV" tvg-logo="https://s12.gifyu.com/images/SVAjg.png" group-title="AR| ARAB TV",SD: SUDAN TV
