@@ -41,6 +41,66 @@ http://ip96.uk:8080//live/Ghosia104/pathan104/190144.ts
 #EXTINF:-1,PK | NEO NEWS HD
 http://ip96.uk:8080//live/Ghosia104/pathan104/453383.ts
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB TV 3" tvg-logo="" group-title="AS| IRAN",IR| IRIB TV 3
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410198
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB TV 3" tvg-logo="" group-title="AS| IRAN",IR| IRIB TV 3
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410197
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB TV 2" tvg-logo="" group-title="AS| IRAN",IR| IRIB TV 2
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410196
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB TV 1" tvg-logo="" group-title="AS| IRAN",IR| IRIB TV 1
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410195
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRINN" tvg-logo="" group-title="AS| IRAN",IR| IRINN
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410209
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB Quran" tvg-logo="" group-title="AS| IRAN",IR| IRIB Quran
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410186
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| PRESS TV" tvg-logo="" group-title="AS| IRAN",IR| PRESS TV
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410289
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| Sahar Urdu" tvg-logo="" group-title="AS| IRAN",IR| Sahar Urdu
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410299
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| SAHAR UR" tvg-logo="" group-title="AS| IRAN",IR| SAHAR UR
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410298
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| Sahar Balkan" tvg-logo="" group-title="AS| IRAN",IR| Sahar Balkan
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410297
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| SAHAR AZARI" tvg-logo="" group-title="AS| IRAN",IR| SAHAR AZARI
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410296
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB KHORASAN SHOMALI" tvg-logo="" group-title="AS| IRAN",IR| IRIB KHORASAN SHOMALI
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410174
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB KHORASAN RAZAVI" tvg-logo="" group-title="AS| IRAN",IR| IRIB KHORASAN RAZAVI
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410173
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB MAZANDARAN" tvg-logo="" group-title="AS| IRAN",IR| IRIB MAZANDARAN
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410178
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB Fars TV" tvg-logo="" group-title="AS| IRAN",IR| IRIB Fars TV
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410157
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB Fars Shiraz" tvg-logo="" group-title="AS| IRAN",IR| IRIB Fars Shiraz
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410156
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB GOLESTAN" tvg-logo="" group-title="AS| IRAN",IR| IRIB GOLESTAN
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410159
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB Semnan" tvg-logo="" group-title="AS| IRAN",IR| IRIB Semnan
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410190
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB JAHANBIN" tvg-logo="" group-title="AS| IRAN",IR| IRIB JAHANBIN
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410166
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB Isfahan TV" tvg-logo="" group-title="AS| IRAN",IR| IRIB Isfahan TV
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410165
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB ISFAHAN" tvg-logo="" group-title="AS| IRAN",IR| IRIB ISFAHAN
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410164
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB ALBORZ" tvg-logo="" group-title="AS| IRAN",IR| IRIB ALBORZ
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410147
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| Khoozestan TV" tvg-logo="" group-title="AS| IRAN",IR| Khoozestan TV
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410226
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB Kermanshah Zagros" tvg-logo="" group-title="AS| IRAN",IR| IRIB Kermanshah Zagros
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410171
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB Sahand TV" tvg-logo="" group-title="AS| IRAN",IR| IRIB Sahand TV
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410188
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB SABALAN" tvg-logo="" group-title="AS| IRAN",IR| IRIB SABALAN
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410187
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB Mahabad" tvg-logo="" group-title="AS| IRAN",IR| IRIB Mahabad
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410177
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB Kurdistan" tvg-logo="" group-title="AS| IRAN",IR| IRIB Kurdistan
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410176
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="IR| IRIB KORDESTAN" tvg-logo="" group-title="AS| IRAN",IR| IRIB KORDESTAN
+http://dmtn-tv.com:8080/6323fza0503/xzFMrVcwrw/410175
+
 
 #EXTINF:-1 tvg-id="Channel8.iq@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png" group-title="KURDISH",Channel 8 Kurdish (720p)
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
