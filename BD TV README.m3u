@@ -66,12 +66,6 @@ https://cdn149.anystream.uk:8082/app/iq53la/chunks.m3u8?nimblesessionid=25278712
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-name="Ahlulbayt TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ahlulbayt.jpg",Ahlulbayt TV (1080p)
 
-#EXTINF:-1 tvg-id="AtnBanglaUk",Atn Bangla UK 
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNSA1OjAxOjA3IEFNJmhhc2hfdmFsdWU9TXpFdTZja1owOUJqVnRvVGkxK0FiZz09JnZhbGlkbWludXRlcz00MA%3D%3D
-#EXTINF:-1 tvg-id="ChannelS.bd@SD",Channel S UK (1080p)
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNSA1OjAzOjQzIEFNJmhhc2hfdmFsdWU9RXExR2lZcitvNERRdFlUK2FsU2RuQT09JnZhbGlkbWludXRlcz00MA%3D%3D
-#EXTINF:-1 tvg-id="NTV.UK",NTV UK
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyNSA1OjA0OjQ1IEFNJmhhc2hfdmFsdWU9MVlmQWFHMVJ2blhNVEtyeEgwOENPdz09JnZhbGlkbWludXRlcz00MA==
 
 #EXTINF:-1 tvg-id="30" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Safeer TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/safeer-tv.jpg",Safeer TV (1080)
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
