@@ -120,23 +120,166 @@ https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8
 #EXTINF:-1 tvg-id="NRTTV.iq@SD" tvg-logo="https://i.imgur.com/uGKGtbW.png" group-title="News",NRT TV (720p) [Not 24/7]
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="Aden TV" tvg-logo="https://img.freepik.com/premium-vector/american-national-flag-logo-celebrating-usa-patriotism-liberty_1266009-1259.jpg" group-title="AR | Yemen",Aden TV
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/1976.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AIC TV" tvg-logo="https://img.freepik.com/premium-vector/american-national-flag-logo-celebrating-usa-patriotism-liberty_1266009-1259.jpg" group-title="AR | Yemen",AIC TV
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/1989.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Yemen Documentary" tvg-logo="https://img.freepik.com/premium-vector/american-national-flag-logo-celebrating-usa-patriotism-liberty_1266009-1259.jpg" group-title="AR | Yemen",Yemen Documentary
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/1983.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Yemen Education TV" tvg-logo="https://img.freepik.com/premium-vector/american-national-flag-logo-celebrating-usa-patriotism-liberty_1266009-1259.jpg" group-title="AR | Yemen",Yemen Education TV
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/1981.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Yemen Shabab HD" tvg-logo="https://img.freepik.com/premium-vector/american-national-flag-logo-celebrating-usa-patriotism-liberty_1266009-1259.jpg" group-title="AR | Yemen",Yemen Shabab HD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/1980.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Yemen Today HD" tvg-logo="https://img.freepik.com/premium-vector/american-national-flag-logo-celebrating-usa-patriotism-liberty_1266009-1259.jpg" group-title="AR | Yemen",Yemen Today HD
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/1979.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Yemen TV" tvg-logo="https://img.freepik.com/premium-vector/american-national-flag-logo-celebrating-usa-patriotism-liberty_1266009-1259.jpg" group-title="AR | Yemen",Yemen TV
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/1977.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Belqees TV" tvg-logo="https://img.freepik.com/premium-vector/american-national-flag-logo-celebrating-usa-patriotism-liberty_1266009-1259.jpg" group-title="AR | Yemen",Belqees TV
-http://vlc.news:9000/live/ebrr3e19vm6m/ss9i3z1le3bz/1993.ts
+#EXTINF:-1 tvg-id="" tvg-name="Qatar HD" tvg-logo="https://www.lyngsat.com/logo/flag/az/qa.png" group-title="Gulf ",Qatar HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17148
+#EXTINF:-1 tvg-id="" tvg-name="Qatar 2HD" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar-tv-2-qa.png" group-title="Gulf ",Qatar 2HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17147
+#EXTINF:-1 tvg-id="" tvg-name="Qatar Today 2" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="Gulf ",Qatar Today 2
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17146
+#EXTINF:-1 tvg-id="" tvg-name="Al Rayan TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_rayyan_tv.png" group-title="Gulf ",Al Rayan TV HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17145
+#EXTINF:-1 tvg-id="" tvg-name="Al Rayan Qadeem TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_rayyan_tv_2.png" group-title="Gulf ",Al Rayan Qadeem TV HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17144
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain_tv.png" group-title="Gulf ",Bahrain TV HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17153
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain International TV HD" tvg-logo="https://www.lyngsat.com/logo/flag/az/bh.png" group-title="Gulf ",Bahrain International TV HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17152
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain Sports 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-sport-1-bh.png" group-title="Gulf ",Bahrain Sports 1 HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17151
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait TV 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-1-kw.png" group-title="Gulf ",Kuwait TV 1 HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17054
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait TV 1 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-1-kw.png" group-title="Gulf ",Kuwait TV 1 4K
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17053
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait TV 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-2-kw.png" group-title="Gulf ",Kuwait TV 2 HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17052
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait TV 2 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-2-kw.png" group-title="Gulf ",Kuwait TV 2 4K
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17051
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait Sports HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-sport-kw.png" group-title="Gulf ",Kuwait Sports HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17050
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait Sports 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-sport-kw.png" group-title="Gulf ",Kuwait Sports 4K
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17049
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait Sports Plus HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-sport-kw.png" group-title="Gulf ",Kuwait Sports Plus HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17048
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait Ethraa HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-ethraa-kw.png" group-title="Gulf ",Kuwait Ethraa HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17047
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait Ethraa 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-ethraa-kw.png" group-title="Gulf ",Kuwait Ethraa 4K
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17046
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait AlArabi HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-arabe-kw.png" group-title="Gulf ",Kuwait AlArabi HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17045
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait AlArabi 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-arabe-kw.png" group-title="Gulf ",Kuwait AlArabi 4K
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17044
+#EXTINF:-1 tvg-id="" tvg-name="AL-Akhbar" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-al-akhbar-kw.png" group-title="Gulf ",AL-Akhbar
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17043
+#EXTINF:-1 tvg-id="" tvg-name="Al Rai HD" tvg-logo="http://162.55.245.220/png/alrai-kw.png" group-title="Gulf ",Al Rai HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17042
+#EXTINF:-1 tvg-id="" tvg-name="Adala TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-kw.png" group-title="Gulf ",Adala TV HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17041
+#EXTINF:-1 tvg-id="" tvg-name="Shahed TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_shahed_tv_kw.png" group-title="Gulf ",Shahed TV HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17040
+#EXTINF:-1 tvg-id="" tvg-name="Al Qurain HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-al-qurain-kw.png" group-title="Gulf ",Al Qurain HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17039
+#EXTINF:-1 tvg-id="" tvg-name="Marina TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/marina-tv-kw.png" group-title="Gulf ",Marina TV HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17038
+#EXTINF:-1 tvg-id="" tvg-name="Al-Bawadi HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_bawadi.png" group-title="Gulf ",Al-Bawadi HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17037
+#EXTINF:-1 tvg-id="" tvg-name="Al-Sabah TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_sabah_tv.png" group-title="Gulf ",Al-Sabah TV
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17036
 
+#EXTINF:-1 tvg-id="" tvg-name="Yemen Shabab HD" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yemen-shabab-channel-ye.png" group-title="Gulf ",Yemen Shabab HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17105
+#EXTINF:-1 tvg-id="" tvg-name="Yemen HD" tvg-logo="https://www.asbu.net/uploads/FCK_files/32.png" group-title="Gulf ",Yemen HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17104
+#EXTINF:-1 tvg-id="" tvg-name="Yemen TV" tvg-logo="" group-title="Gulf ",Yemen TV
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17103
+#EXTINF:-1 tvg-id="" tvg-name="Yemen Education TV" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yemen_education_tv_ye.png" group-title="Gulf ",Yemen Education TV
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17102
+#EXTINF:-1 tvg-id="" tvg-name="Yemen Documentary" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yemen_education_tv_ye.png" group-title="Gulf ",Yemen Documentary
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17101
+#EXTINF:-1 tvg-id="" tvg-name="Yemen Today" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yemen-today-tv-ye.png" group-title="Gulf ",Yemen Today
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17100
+#EXTINF:-1 tvg-id="" tvg-name="Aden TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aden-tv-64-ye.png" group-title="Gulf ",Aden TV
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17099
+#EXTINF:-1 tvg-id="" tvg-name="Belqees" tvg-logo="https://www.lyngsat.com/logo/tv/bb/belqees-tv-ye.png" group-title="Gulf ",Belqees
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17098
+#EXTINF:-1 tvg-id="" tvg-name="Almahriah HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/almahriah-tv-ye.png" group-title="Gulf ",Almahriah HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17097
+#EXTINF:-1 tvg-id="" tvg-name="AIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aic-tv-ye.png" group-title="Gulf ",AIC HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17096
+#EXTINF:-1 tvg-id="" tvg-name="Al Sahat" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-sahat-tv-ye.png" group-title="Gulf ",Al Sahat
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17095
+#EXTINF:-1 tvg-id="" tvg-name="Hadramout TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hadhramaut-tv-ye.png" group-title="Gulf ",Hadramout TV
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17094
+#EXTINF:-1 tvg-id="" tvg-name="HADRAMAUT" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hadhramaut-tv-ye.png" group-title="Gulf ",HADRAMAUT
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17093
+#EXTINF:-1 tvg-id="" tvg-name="Suhail TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/suhail-tv-ye.png" group-title="Gulf ",Suhail TV
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17092
+#EXTINF:-1 tvg-id="" tvg-name="AL Masirah TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/almasirah-tv-ye.png" group-title="Gulf ",AL Masirah TV
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17091
+#EXTINF:-1 tvg-id="" tvg-name="Al Maserah Mubasher" tvg-logo="https://www.lyngsat.com/logo/tv/aa/almasirah-mubasher-ye.png" group-title="Gulf ",Al Maserah Mubasher
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17090
+#EXTINF:-1 tvg-id="" tvg-name="AL Hawyah TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-hawyah-ye.png" group-title="Gulf ",AL Hawyah TV
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17089
+#EXTINF:-1 tvg-id="" tvg-name="Al Saeedah" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-saeedah-eg.png" group-title="Gulf ",Al Saeedah
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17088
+#EXTINF:-1 tvg-id="" tvg-name="Al Mughtarib Al Yemeni" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Coat-of-arms-of-Yemen.png" group-title="Gulf ",Al Mughtarib Al Yemeni
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17087
+#EXTINF:-1 tvg-id="" tvg-name="Al joumhouriya Yemen HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-joumhouriyah-tv-uk.png" group-title="Gulf ",Al joumhouriya Yemen HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17086
+#EXTINF:-1 tvg-id="" tvg-name="Saudia TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/saudi-tv-sa.png" group-title="Gulf ",Saudia TV 4K
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17034
+#EXTINF:-1 tvg-id="" tvg-name="Saudi Zekrayat 4K" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thikrayat-tv-sa.png" group-title="Gulf ",Saudi Zekrayat 4K
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17033
+#EXTINF:-1 tvg-id="" tvg-name="SBC 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sbc_so_tv.png" group-title="Gulf ",SBC 4K
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17032
+#EXTINF:-1 tvg-id="" tvg-name="Saudia Alaan TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ss/saudia-alaan-tv-sa.png" group-title="Gulf ",Saudia Alaan TV 4K
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17031
+#EXTINF:-1 tvg-id="" tvg-name="Saudi TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/saudi-tv-sa.png" group-title="Gulf ",Saudi TV HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17030
+
+#EXTINF:-1 tvg-id="" tvg-name="Syria TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Syria_TV_logo.svg/1200px-Syria_TV_logo.svg.png" group-title="Sham",Syria TV HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17384
+#EXTINF:-1 tvg-id="" tvg-name="Syria Al Thania TV" tvg-logo="http://162.55.245.220/png/syria.png" group-title="Sham",Syria Al Thania TV
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17383
+#EXTINF:-1 tvg-id="" tvg-name="Sama Syria" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sama-tv-sy.png" group-title="Sham",Sama Syria
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17382
+#EXTINF:-1 tvg-id="" tvg-name="Syria al Ekhbariya" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alikhbariah-syria-sy.png" group-title="Sham",Syria al Ekhbariya
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17380
+#EXTINF:-1 tvg-id="" tvg-name="Syria Satellite" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syrian-satellite-channel-sy.png" group-title="Sham",Syria Satellite
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17379
+#EXTINF:-1 tvg-id="" tvg-name="Misk Syria TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/misk-tv-tr.png" group-title="Sham",Misk Syria TV
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17371
+#EXTINF:-1 tvg-id="" tvg-name="Sham FM Plus" tvg-logo="http://162.55.245.220/png/sham-fm.png" group-title="Sham",Sham FM Plus
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17370
+#EXTINF:-1 tvg-id="" tvg-name="Syria One TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syria-one.png" group-title="Sham",Syria One TV
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17369
+#EXTINF:-1 tvg-id="" tvg-name="Halab Today" tvg-logo="https://www.lyngsat.com/logo/tv/hh/halab-today-tv-sy.png" group-title="Sham",Halab Today
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17368
+#EXTINF:-1 tvg-id="" tvg-name="Jordan TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jordan-tv-jo.png" group-title="Sham",Jordan TV HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17366
+#EXTINF:-1 tvg-id="" tvg-name="Jordan TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jordan-tv-jo.png" group-title="Sham",Jordan TV 4K
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17365
+#EXTINF:-1 tvg-id="" tvg-name="Roya HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Royatv.png" group-title="Sham",Roya HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17363
+#EXTINF:-1 tvg-id="" tvg-name="RO'YA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Royatv.png" group-title="Sham",RO'YA 4K
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17362
+#EXTINF:-1 tvg-id="" tvg-name="Amman TV HD" tvg-logo="http://162.55.245.220/png/amman.png" group-title="Sham",Amman TV HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17361
+#EXTINF:-1 tvg-id="" tvg-name="Al Mamlaka TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-mamlaka-tv-jo.png" group-title="Sham",Al Mamlaka TV 4K
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17360
+#EXTINF:-1 tvg-id="" tvg-name="Palestine Today" tvg-logo="https://www.lyngsat.com/logo/tv/pp/palestine-al-yawm-lb.png" group-title="Sham",Palestine Today
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17358
+#EXTINF:-1 tvg-id="" tvg-name="Palestine  TV" tvg-logo="" group-title="Sham",Palestine  TV
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17357
+#EXTINF:-1 tvg-id="" tvg-name="Palestine Live" tvg-logo="https://www.lyngsat.com/logo/tv/pp/palestinian-satellite-channel-ps.png" group-title="Sham",Palestine Live
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17356
+#EXTINF:-1 tvg-id="" tvg-name="Palestine News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png" group-title="Sham",Palestine News
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17355
+#EXTINF:-1 tvg-id="" tvg-name="Al Aqsa TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aqsa-satellite-channel-ps.png" group-title="Sham",Al Aqsa TV HD
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17354
+#EXTINF:-1 tvg-id="" tvg-name="Al Salam" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_salam_iq_tv.png" group-title="Sham",Al Salam
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17353
+#EXTINF:-1 tvg-id="" tvg-name="Hala Ramallah TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hala_tv_il.png" group-title="Sham",Hala Ramallah TV
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17352
+#EXTINF:-1 tvg-id="" tvg-name="Falestinona TV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/falestinona-channel-lb.png" group-title="Sham",Falestinona TV
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17351
+#EXTINF:-1 tvg-id="" tvg-name="Al-Najah Nbc" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc-tv-pg.png" group-title="Sham",Al-Najah Nbc
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17350
+#EXTINF:-1 tvg-id="" tvg-name="Maan TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maan-tv-ps.png" group-title="Sham",Maan TV
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17349
+#EXTINF:-1 tvg-id="" tvg-name="Al Quds Today" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-quds-today-tv-ps.png" group-title="Sham",Al Quds Today
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17348
+#EXTINF:-1 tvg-id="" tvg-name="Musawa" tvg-logo="https://www.lyngsat.com/logo/tv/mm/musawa-ps.png" group-title="Sham",Musawa
+http://main-server.spidertvapp.com:2095/7626706753/3731753580/17345
 
 EXTINF:-1 tvg-id="TeleSahel.ne@SD",ORTN Télé Sahel (576p)
 http://69.64.57.208/telesahel/playlist.m3u8
