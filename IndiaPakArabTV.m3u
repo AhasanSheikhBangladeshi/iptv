@@ -65,6 +65,71 @@ https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/107.ts
 #EXTINF:-1,PK: PASHTO TV
 https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/108.ts
 
+#EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="India",DD National HD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 tvg-id="DDNews.in@SD" tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="India",DD News (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 tvg-id="DDOdia.in@SD" tvg-logo="https://i.imgur.com/Rw61ile.png" group-title="India",DD Odia
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/245d9a9e-4820-43b1-af33-4a3017d09f52/2.m3u8
+#EXTINF:-1 tvg-id="DDPunjabi.in@SD" tvg-logo="https://i.imgur.com/WVtl6n2.png" group-title="India",DD Punjabi
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/20c8ad14-a158-4a42-8889-e032d070856e/2.m3u8
+#EXTINF:-1 tvg-id="DDRajasthan.in@SD" tvg-logo="https://i.imgur.com/t8KCi4L.png" group-title="India",DD Rajasthan (720p)
+https://cdn-1.pishow.tv/live/34/master.m3u8
+#EXTINF:-1 tvg-id="DDSahyadri.in@SD" tvg-logo="https://i.imgur.com/svjI6U6.png" group-title="India",DD Sahyadri
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
+#EXTINF:-1 tvg-id="DDArunPrabha.in@SD" tvg-logo="https://i.imgur.com/dHURIzT.png" group-title="India",DD Arun Prabha (360p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+#EXTINF:-1 tvg-id="DDAssam.in@SD" tvg-logo="https://i.imgur.com/UAkOyRI.png" group-title="India",DD Assam
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
+#EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-logo="https://i.imgur.com/RHly9gC.png" group-title="India",DD Bangla
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#EXTINF:-1 tvg-id="DDBihar.in@SD" tvg-logo="https://i.imgur.com/C7KQiZI.png" group-title="India",DD Bihar (720p)
+https://cdn-4.pishow.tv/live/35/master.m3u8
+#EXTINF:-1 tvg-id="DDChandana.in@SD" tvg-logo="https://i.imgur.com/MaDlMtb.png" group-title="India",DD Chandana
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/3829f99b-4951-4a9d-98c1-dbc3acfe5193/2.m3u8
+#EXTINF:-1 tvg-id="DDChhattisgarh.in@SD" tvg-logo="https://i.imgur.com/zBg6Iuv.png" group-title="India",DD Chhattisgarh (720p)
+https://cdn-1.pishow.tv/live/15/master.m3u8
+#EXTINF:-1 tvg-id="DDGirnar.in@SD" tvg-logo="https://i.imgur.com/4RT559e.png" group-title="India",DD Girnar
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/4a7a0c8a-c58d-43d6-baff-13492d67bf3e/2.m3u8
+#EXTINF:-1 tvg-id="DDGoa.in@SD" tvg-logo="https://yt3.googleusercontent.com/TMl5_x4s5QmOQczAtF9Yc4S-l2APomVtQy_diHuDvxLaF70UwFzXgfwTNw8j1adNPKBItex1o5k=s900-c-k-c0x00ffffff-no-rj" group-title="India",DD Goa (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
+#EXTINF:-1 tvg-id="DDKashir.in@SD" tvg-logo="https://i.imgur.com/1EI4LOf.png" group-title="India",DD Kashir (720p)
+https://cdn-6.pishow.tv/live/16/master.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-logo="https://i.imgur.com/x56WJEa.png" group-title="India",DD Kisan (720p)
+https://cdn-6.pishow.tv/live/9/master.m3u8
+#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD" tvg-logo="https://i.imgur.com/Z1yIY4M.png" group-title="India",DD Madhya Pradesh (720p)
+https://cdn-1.pishow.tv/live/31/master.m3u8
+#EXTINF:-1 tvg-id="DDMalayalam.in@SD" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="India",DD Malayalam
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
+#EXTINF:-1 tvg-id="DDManipur.in@SD" tvg-logo="https://i.imgur.com/CvmIwPF.png" group-title="India",DD Manipur (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
+#EXTINF:-1 tvg-id="DDMeghalaya.in@SD" tvg-logo="https://i.imgur.com/ik83EbG.png" group-title="India",DD Meghalaya (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
+#EXTINF:-1 tvg-id="TehzeebTV.in@SD" tvg-logo="https://i.imgur.com/PCVOdup.png" group-title="India",Tehzeeb TV (720p)
+https://cdn-4.pishow.tv/live/239/master.m3u8
+#EXTINF:-1 tvg-id="Zee24Ghanta.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Zee_24_Ghanta_2025.svg/512px-Zee_24_Ghanta_2025.svg.png" group-title="India",Zee 24 Ghanta (576p)
+http://202.164.50.194:8000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBharat.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Zee_Bharat_2025.svg/512px-Zee_Bharat_2025.svg.png" group-title="India",Zee Bharat (720p)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
+#EXTINF:-1 tvg-id="ZeeDelhiNCRHaryana.in@SD" tvg-logo="https://i.imgur.com/jeBUXYz.png" group-title="India",Zee Delhi NCR Haryana (720p)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
+#EXTINF:-1 tvg-id="ZeeNews.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" group-title="India",Zee News (1080p)
+https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+#EXTINF:-1 tvg-id="ZeeNewsMalayalam.in@SD" tvg-logo="https://i.imgur.com/MePj7ET.png" group-title="India",Zee News Malayalam (720p)
+https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1 tvg-id="AsluTV.mv@SD" tvg-logo="https://i.imgur.com/RTv6klV.jpeg" group-title="Maldives",Aslu TV
+http://xui.neongreenlight.com:8081/memfs/b2ee6ee7-28c6-4a71-8ae4-c47ec07bcd22.m3u8
+#EXTINF:-1 tvg-id="Channel13.mv@SD" tvg-logo="https://i.imgur.com/lR5jUSU.jpeg" group-title="Maldives",Channel 13 (720p) [Not 24/7]
+https://stream.theyraonline.com/live/channel13@live/index.m3u8
+#EXTINF:-1 tvg-id="MMTV.mv@SD" tvg-logo="https://i.imgur.com/21tpl5b.png" group-title="Maldives",MMTV (1080p)
+https://sendlive.online/hls/mmtv.m3u8
+#EXTINF:-1 tvg-id="Munnaaru.mv@SD" tvg-logo="https://i.imgur.com/Adhr5xq.png" group-title="Maldives",Munnaaru
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8
+#EXTINF:-1 tvg-id="RaajjeTV.mv@SD" tvg-logo="https://i.imgur.com/NvYCCGl.png" group-title="Maldives",Raajje TV (480p)
+https://stream.raajje.mv/live/rtv_live/index.m3u8
+#EXTINF:-1 tvg-id="SSTV.mv@SD" tvg-logo="https://i.imgur.com/jtIhDZk.png" group-title="Maldives",SSTV (1080p)
+https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
 
 #EXTINF:-1 tvg-id="IRIB1.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/289px-IRIBTV1.svg.png" group-title="Iran",IRIB1
 https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
@@ -74,32 +139,58 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8
 https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 #EXTINF:-1 tvg-id="IRIB4.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/240px-IRIB_TV4_logo.svg.png" group-title="Iran",IRIB4
 https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 tvg-id="AlborzTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/310px-Alborz_TV_logo.svg.png" group-title="Iran",Alborz
-https://ncdn.telewebion.com/alborz/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TehranTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/208px-IRIBTV5.svg.png" group-title="Iran",IRIB5 Tehran TV
+https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
+#EXTINF:-1 tvg-id="IRINN.ir@SD" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="Iran",IRINN
+https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
+#EXTINF:-1 tvg-id="QuranTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png" group-title="Iran",Quran
+https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8
+#EXTINF:-1 tvg-id="IRIBMostanad.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png" group-title="Iran",Mostanad
+https://lenz.splus.ir/PLTV/88888888/224/3221226901/index.m3u8
+#EXTINF:-1 tvg-id="HamoonTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/b/bc/Zahedan_Hamoon.png" group-title="Iran",Hamoon
+https://ncdn.telewebion.com/hamoon/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KhavaranTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/86/KHAVARAN_tv.png" group-title="Iran",Khavaran
+https://ncdn.telewebion.com/khavaran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KhorasanRazaviTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/b/bd/%D9%84%D9%88%DA%AF%D9%88_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86_%D8%B1%D8%B6%D9%88%DB%8C.png" group-title="Iran",Khorasan Razavi
+https://ncdn.telewebion.com/khorasanrazavi/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KhalijeFarsTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/7/7c/Bandar_KHALI_J_e_FARS_TV.svg/290px-Bandar_KHALI_J_e_FARS_TV.svg.png" group-title="Iran",Khalij-e Fars
+https://ncdn.telewebion.com/khalijefars/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KermanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/240px-Kerman_irib_logo_%28blue_version%29.png" group-title="Iran",Kerman
+https://lenz.splus.ir/PLTV/88888888/224/3221226856/index.m3u8
+#EXTINF:-1 tvg-id="YazdTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/382px-Yazd_taban.svg.png" group-title="Iran",Yazd
+https://lenz.splus.ir/PLTV/88888888/224/3221227023/index.m3u8
 #EXTINF:-1 tvg-id="IsfahanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/242px-IsfahanTV.svg.png" group-title="Iran",Isfahan
 https://lenz.splus.ir/PLTV/88888888/224/3221226652/index.m3u8
-#EXTINF:-1 tvg-id="JahanbinTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/4/4a/Shahrekord_Jahanbin.svg/320px-Shahrekord_Jahanbin.svg.png" group-title="Iran",Jahanbin
-https://ncdn.telewebion.com/jahanbin/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FarsTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/7/7b/Iribfars.png" group-title="Iran",Fars
+https://lenz.splus.ir/PLTV/88888888/224/3221226701/index.m3u8
+#EXTINF:-1 tvg-id="AlborzTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/310px-Alborz_TV_logo.svg.png" group-title="Iran",Alborz
+https://ncdn.telewebion.com/alborz/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NoorTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/c/ce/Qum_Noor_TV.svg/288px-Qum_Noor_TV.svg.png" group-title="Iran",Noor
 https://ncdn.telewebion.com/noor/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AftabTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/6/6e/Arak_AFTAB.svg/274px-Arak_AFTAB.svg.png" group-title="Iran",Aftab
-https://lenz.splus.ir/PLTV/88888888/224/3221226899/index.m3u8
-#EXTINF:-1 tvg-id="AflakTV.ir@SD" tvg-logo="https://i.imgur.com/LkLCHpf.png" group-title="Iran",Aflak
-https://lenz.splus.ir/PLTV/88888888/224/3221226675/index.m3u8
-#EXTINF:-1 tvg-id="AbadanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png" group-title="Iran",Abadan
-https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8
-#EXTINF:-1 tvg-id="EshraghNetwork.ir@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AM7W8mE877olzjDXmTN_Sxn_cmR_WAlDKPmE62G8E3cJPJwKdRnIa42quYie9z71Lwo&usqp=CAU" group-title="Iran",Eshragh
-https://ncdn.telewebion.com/eshragh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="JahanbinTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/4/4a/Shahrekord_Jahanbin.svg/320px-Shahrekord_Jahanbin.svg.png" group-title="Iran",Jahanbin
+https://ncdn.telewebion.com/jahanbin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KhozestanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/9a/Ahwaz_TV.svg/320px-Ahwaz_TV.svg.png" group-title="Iran",KhozestanTV
 https://lenz.splus.ir/PLTV/88888888/224/3221226415/index.m3u8
 #EXTINF:-1 tvg-id="SabalanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f2/Ardabil_SABALAN.png" group-title="Iran",Sabalan
 https://ncdn.telewebion.com/sabalan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IlamTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/240px-Ilam_TV.png" group-title="Iran",Ilam
 https://ncdn.telewebion.com/ilam/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SahandTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/320px-Tabriz_Sahand.svg.png" group-title="Iran",Sahand
+https://lenz.splus.ir/PLTV/88888888/224/3221226423/index.m3u8
 #EXTINF:-1 tvg-id="KordestanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/240px-Sanandaj_KORDESTAN.svg.png" group-title="Iran",Kordestan
 https://lenz.splus.ir/PLTV/88888888/224/3221226647/index.m3u8
 #EXTINF:-1 tvg-id="MahabadTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/cb/Mahabad_tv.png" group-title="Iran",Mahabad
 https://ncdn.telewebion.com/mahabad/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ZagrosTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/240px-Kermanshah_Zaghros.svg.png" group-title="Iran",Zagros
+https://ncdn.telewebion.com/zagros/live/playlist.m3u8
+#EXTINF:-1 tvg-id="iFilm2.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png" group-title="Iran",iFilm 2
+https://live.presstv.ir/hls/ifilm2.m3u8
+#EXTINF:-1 tvg-id="iFilmArabic.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Iran",iFilm Arabic
+https://live.presstv.ir/hls/ifilmar.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/250px-Press_TV_logo.svg.png" group-title="Iran",Press TV (720p)
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
+
 
 #EXTINF:-1 tvg-id="Channel8.iq@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png" group-title="KURDISH",Channel 8 Kurdish (720p)
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
