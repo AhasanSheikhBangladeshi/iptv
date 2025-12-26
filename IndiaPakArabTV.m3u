@@ -231,18 +231,11 @@ https://live.presstv.ir/hls/ifilmar.m3u8
 https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Channel8.iq@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/480px-Channel8corp.png" group-title="KURDISH",Channel 8 Kurdish (720p)
-https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="EmanTv.iq@HD" tvg-logo="https://i.imgur.com/QmgaPSi.png" group-title="KURDISH",EmanTv (1080p)
-https://avr.host247.net/live/emantv/playlist.m3u8
-#EXTINF:-1 tvg-id="Kurdistan24.iq@SD" tvg-logo="https://i.imgur.com/9QWs2ms.png" group-title="KURDISH",Kurdistan 24 (720p)
-https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+
 #EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.postimg.cc/MTmv3dXr/kurdistantv.png" group-title="KURDISH",Kurdistan TV (720p) [Not 24/7]
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="RudawTV.iq@SD" tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="News",Rudaw TV (1080p)
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KurdMaxShow.iq@SD" tvg-logo="https://i.imgur.com/XTmyGmL.png" group-title="Entertainment",KurdMax Show (720p)
-https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
 #EXTINF:-1 tvg-id="Kurdsat.iq@SD" tvg-logo="https://i.postimg.cc/cC16pwn1/kurdsat.png" group-title="Entertainment",Kurdsat (1080p)
 https://iko-live.akamaized.net/KurdsatTV/master.m3u8
 #EXTINF:-1 tvg-id="KurdsatNews.iq@SD" tvg-logo="https://i.postimg.cc/Kj94xjPP/kurdsatnews.png" group-title="News",Kurdsat News (1080p)
@@ -290,59 +283,6 @@ http://iptvtree.net:8080/F18115/068f009e/270565
 http://iptvtree.net:8080/F18115/068f009e/266509
 #EXTINF:-1 tvg-id="" tvg-name="IQ: Karbala" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/a253d113f75df58356adf3c900792878.jpg" group-title="Iraq",IQ: Karbala
 http://iptvtree.net:8080/F18115/068f009e/266526
-#EXTINF:-1 tvg-id="" tvg-name="Qatar HD" tvg-logo="https://www.lyngsat.com/logo/flag/az/qa.png" group-title="Gulf ",Qatar HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17148
-#EXTINF:-1 tvg-id="" tvg-name="Qatar 2HD" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar-tv-2-qa.png" group-title="Gulf ",Qatar 2HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17147
-#EXTINF:-1 tvg-id="" tvg-name="Qatar Today 2" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="Gulf ",Qatar Today 2
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17146
-#EXTINF:-1 tvg-id="" tvg-name="Al Rayan TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_rayyan_tv.png" group-title="Gulf ",Al Rayan TV HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17145
-#EXTINF:-1 tvg-id="" tvg-name="Al Rayan Qadeem TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_rayyan_tv_2.png" group-title="Gulf ",Al Rayan Qadeem TV HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17144
-#EXTINF:-1 tvg-id="" tvg-name="Bahrain TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain_tv.png" group-title="Gulf ",Bahrain TV HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17153
-#EXTINF:-1 tvg-id="" tvg-name="Bahrain International TV HD" tvg-logo="https://www.lyngsat.com/logo/flag/az/bh.png" group-title="Gulf ",Bahrain International TV HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17152
-#EXTINF:-1 tvg-id="" tvg-name="Bahrain Sports 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain-sport-1-bh.png" group-title="Gulf ",Bahrain Sports 1 HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17151
-#EXTINF:-1 tvg-id="" tvg-name="Kuwait TV 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-1-kw.png" group-title="Gulf ",Kuwait TV 1 HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17054
-#EXTINF:-1 tvg-id="" tvg-name="Kuwait TV 1 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-1-kw.png" group-title="Gulf ",Kuwait TV 1 4K
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17053
-#EXTINF:-1 tvg-id="" tvg-name="Kuwait TV 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-2-kw.png" group-title="Gulf ",Kuwait TV 2 HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17052
-#EXTINF:-1 tvg-id="" tvg-name="Kuwait TV 2 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-2-kw.png" group-title="Gulf ",Kuwait TV 2 4K
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17051
-#EXTINF:-1 tvg-id="" tvg-name="Kuwait Sports HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-sport-kw.png" group-title="Gulf ",Kuwait Sports HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17050
-#EXTINF:-1 tvg-id="" tvg-name="Kuwait Sports 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-sport-kw.png" group-title="Gulf ",Kuwait Sports 4K
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17049
-#EXTINF:-1 tvg-id="" tvg-name="Kuwait Sports Plus HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-sport-kw.png" group-title="Gulf ",Kuwait Sports Plus HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17048
-#EXTINF:-1 tvg-id="" tvg-name="Kuwait Ethraa HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-ethraa-kw.png" group-title="Gulf ",Kuwait Ethraa HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17047
-#EXTINF:-1 tvg-id="" tvg-name="Kuwait Ethraa 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-ethraa-kw.png" group-title="Gulf ",Kuwait Ethraa 4K
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17046
-#EXTINF:-1 tvg-id="" tvg-name="Kuwait AlArabi HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-arabe-kw.png" group-title="Gulf ",Kuwait AlArabi HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17045
-#EXTINF:-1 tvg-id="" tvg-name="Kuwait AlArabi 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-arabe-kw.png" group-title="Gulf ",Kuwait AlArabi 4K
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17044
-#EXTINF:-1 tvg-id="" tvg-name="AL-Akhbar" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-al-akhbar-kw.png" group-title="Gulf ",AL-Akhbar
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17043
-#EXTINF:-1 tvg-id="" tvg-name="Al Rai HD" tvg-logo="http://162.55.245.220/png/alrai-kw.png" group-title="Gulf ",Al Rai HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17042
-#EXTINF:-1 tvg-id="" tvg-name="Adala TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-kw.png" group-title="Gulf ",Adala TV HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17041
-#EXTINF:-1 tvg-id="" tvg-name="Shahed TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_shahed_tv_kw.png" group-title="Gulf ",Shahed TV HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17040
-#EXTINF:-1 tvg-id="" tvg-name="Al Qurain HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-al-qurain-kw.png" group-title="Gulf ",Al Qurain HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17039
-#EXTINF:-1 tvg-id="" tvg-name="Marina TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/mm/marina-tv-kw.png" group-title="Gulf ",Marina TV HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17038
-#EXTINF:-1 tvg-id="" tvg-name="Al-Bawadi HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_bawadi.png" group-title="Gulf ",Al-Bawadi HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17037
-#EXTINF:-1 tvg-id="" tvg-name="Al-Sabah TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_sabah_tv.png" group-title="Gulf ",Al-Sabah TV
 http://main-server.spidertvapp.com:2095/7626706753/3731753580/17036
 
 #EXTINF:-1 tvg-id="" tvg-name="Yemen Shabab HD" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yemen-shabab-channel-ye.png" group-title="Gulf ",Yemen Shabab HD
