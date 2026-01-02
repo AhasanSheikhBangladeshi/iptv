@@ -278,62 +278,163 @@ http://iptvtree.net:8080/F18115/068f009e/266509
 #EXTINF:-1 tvg-id="" tvg-name="IQ: Karbala" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/a253d113f75df58356adf3c900792878.jpg" group-title="Iraq",IQ: Karbala
 http://iptvtree.net:8080/F18115/068f009e/266526
 
-#EXTINF:-1 tvg-id="" tvg-name="Syria TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Syria_TV_logo.svg/1200px-Syria_TV_logo.svg.png" group-title="Sham",Syria TV HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17384
-#EXTINF:-1 tvg-id="" tvg-name="Syria Al Thania TV" tvg-logo="http://162.55.245.220/png/syria.png" group-title="Sham",Syria Al Thania TV
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17383
-#EXTINF:-1 tvg-id="" tvg-name="Sama Syria" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sama-tv-sy.png" group-title="Sham",Sama Syria
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17382
-#EXTINF:-1 tvg-id="" tvg-name="Syria al Ekhbariya" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alikhbariah-syria-sy.png" group-title="Sham",Syria al Ekhbariya
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17380
-#EXTINF:-1 tvg-id="" tvg-name="Syria Satellite" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syrian-satellite-channel-sy.png" group-title="Sham",Syria Satellite
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17379
-#EXTINF:-1 tvg-id="" tvg-name="Misk Syria TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/misk-tv-tr.png" group-title="Sham",Misk Syria TV
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17371
-#EXTINF:-1 tvg-id="" tvg-name="Sham FM Plus" tvg-logo="http://162.55.245.220/png/sham-fm.png" group-title="Sham",Sham FM Plus
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17370
-#EXTINF:-1 tvg-id="" tvg-name="Syria One TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syria-one.png" group-title="Sham",Syria One TV
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17369
-#EXTINF:-1 tvg-id="" tvg-name="Halab Today" tvg-logo="https://www.lyngsat.com/logo/tv/hh/halab-today-tv-sy.png" group-title="Sham",Halab Today
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17368
-#EXTINF:-1 tvg-id="" tvg-name="Jordan TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jordan-tv-jo.png" group-title="Sham",Jordan TV HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17366
-#EXTINF:-1 tvg-id="" tvg-name="Jordan TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jordan-tv-jo.png" group-title="Sham",Jordan TV 4K
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17365
-#EXTINF:-1 tvg-id="" tvg-name="Roya HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Royatv.png" group-title="Sham",Roya HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17363
-#EXTINF:-1 tvg-id="" tvg-name="RO'YA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Royatv.png" group-title="Sham",RO'YA 4K
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17362
-#EXTINF:-1 tvg-id="" tvg-name="Amman TV HD" tvg-logo="http://162.55.245.220/png/amman.png" group-title="Sham",Amman TV HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17361
-#EXTINF:-1 tvg-id="" tvg-name="Al Mamlaka TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-mamlaka-tv-jo.png" group-title="Sham",Al Mamlaka TV 4K
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17360
-#EXTINF:-1 tvg-id="" tvg-name="Palestine Today" tvg-logo="https://www.lyngsat.com/logo/tv/pp/palestine-al-yawm-lb.png" group-title="Sham",Palestine Today
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17358
-#EXTINF:-1 tvg-id="" tvg-name="Palestine  TV" tvg-logo="" group-title="Sham",Palestine  TV
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17357
-#EXTINF:-1 tvg-id="" tvg-name="Palestine Live" tvg-logo="https://www.lyngsat.com/logo/tv/pp/palestinian-satellite-channel-ps.png" group-title="Sham",Palestine Live
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17356
-#EXTINF:-1 tvg-id="" tvg-name="Palestine News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png" group-title="Sham",Palestine News
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17355
-#EXTINF:-1 tvg-id="" tvg-name="Al Aqsa TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aqsa-satellite-channel-ps.png" group-title="Sham",Al Aqsa TV HD
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17354
-#EXTINF:-1 tvg-id="" tvg-name="Al Salam" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_salam_iq_tv.png" group-title="Sham",Al Salam
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17353
-#EXTINF:-1 tvg-id="" tvg-name="Hala Ramallah TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hala_tv_il.png" group-title="Sham",Hala Ramallah TV
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17352
-#EXTINF:-1 tvg-id="" tvg-name="Falestinona TV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/falestinona-channel-lb.png" group-title="Sham",Falestinona TV
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17351
-#EXTINF:-1 tvg-id="" tvg-name="Al-Najah Nbc" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbc-tv-pg.png" group-title="Sham",Al-Najah Nbc
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17350
-#EXTINF:-1 tvg-id="" tvg-name="Maan TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maan-tv-ps.png" group-title="Sham",Maan TV
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17349
-#EXTINF:-1 tvg-id="" tvg-name="Al Quds Today" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-quds-today-tv-ps.png" group-title="Sham",Al Quds Today
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17348
-#EXTINF:-1 tvg-id="" tvg-name="Musawa" tvg-logo="https://www.lyngsat.com/logo/tv/mm/musawa-ps.png" group-title="Sham",Musawa
-http://main-server.spidertvapp.com:2095/7626706753/3731753580/17345
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW | AL MAJLIS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-majlis-tv-kw.png" group-title="AR | Gulf GCC",KW | AL MAJLIS
+http://b1g.ooo:80/Libra00000/Apple@7700/930582
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW | Al Sabah TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_sabah_tv.png" group-title="AR | Gulf GCC",KW | Al Sabah TV
+http://b1g.ooo:80/Libra00000/Apple@7700/930581
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW | KUWAIT NEWS 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-al-akhbar-kw.png" group-title="AR | Gulf GCC",KW | KUWAIT NEWS 4K
+http://b1g.ooo:80/Libra00000/Apple@7700/930580
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW | Ethraa SD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-ethraa-kw.png" group-title="AR | Gulf GCC",KW | Ethraa SD
+http://b1g.ooo:80/Libra00000/Apple@7700/930579
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW | Qurain SD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-al-qurain-kw.png" group-title="AR | Gulf GCC",KW | Qurain SD
+http://b1g.ooo:80/Libra00000/Apple@7700/930578
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW | TV1" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-1-kw.png" group-title="AR | Gulf GCC",KW | TV1
+http://b1g.ooo:80/Libra00000/Apple@7700/930577
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW | TV2 SD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-2-kw.png" group-title="AR | Gulf GCC",KW | TV2 SD
+http://b1g.ooo:80/Libra00000/Apple@7700/930576
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW | FUNOON HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/funoon_tv_kw.png" group-title="AR | Gulf GCC",KW | FUNOON HD
+http://b1g.ooo:80/Libra00000/Apple@7700/930575
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW | KUWAIT TV 1" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-1-kw.png" group-title="AR | Gulf GCC",KW | KUWAIT TV 1
+http://b1g.ooo:80/Libra00000/Apple@7700/930574
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW | KUWAIT TV ARABI HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-arabe-kw.png" group-title="AR | Gulf GCC",KW | KUWAIT TV ARABI HD
+http://b1g.ooo:80/Libra00000/Apple@7700/930573
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW | KUWAIT TV ETHRAA HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-ethraa-kw.png" group-title="AR | Gulf GCC",KW | KUWAIT TV ETHRAA HD
+http://b1g.ooo:80/Libra00000/Apple@7700/930572
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW | KUWAIT SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-sport-kw.png" group-title="AR | Gulf GCC",KW | KUWAIT SPORTS
+http://b1g.ooo:80/Libra00000/Apple@7700/930571
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW | AL RAI" tvg-logo="https://e7.pngegg.com/pngimages/581/349/png-clipart-kuwait-al-rai-newspaper-iphone-iphone-electronics-text.png" group-title="AR | Gulf GCC",KW | AL RAI
+http://b1g.ooo:80/Libra00000/Apple@7700/930569
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KW | ATV ADALAH +" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-kw.png" group-title="AR | Gulf GCC",KW | ATV ADALAH +
+http://b1g.ooo:80/Libra00000/Apple@7700/930568
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="OM | OMAN TV Live HD" tvg-logo="https://www.lyngsat.com/logo/tv/oo/oman_tv.png" group-title="AR | Gulf GCC",OM | OMAN TV Live HD
+http://b1g.ooo:80/Libra00000/Apple@7700/930567
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="QA | QATAR TODAY" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/06/AlAraby.png" group-title="AR | Gulf GCC",QA | QATAR TODAY
+http://b1g.ooo:80/Libra00000/Apple@7700/930561
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="QA | Al Rayyan" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_rayyan_tv.png" group-title="AR | Gulf GCC",QA | Al Rayyan
+http://b1g.ooo:80/Libra00000/Apple@7700/930560
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="QA | Al Rayyan Al Qadeem" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_rayyan_tv_2.png" group-title="AR | Gulf GCC",QA | Al Rayyan Al Qadeem
+http://b1g.ooo:80/Libra00000/Apple@7700/930559
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="QA | Qatar 2" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar-tv-2-qa.png" group-title="AR | Gulf GCC",QA | Qatar 2
+http://b1g.ooo:80/Libra00000/Apple@7700/930558
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="QA | Qatar TV" tvg-logo="https://www.lyngsat.com/logo/tv/qq/qatar_tv.png" group-title="AR | Gulf GCC",QA | Qatar TV
+http://b1g.ooo:80/Libra00000/Apple@7700/930557
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AR: ALWESAM TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alwesam-tv-sa.png" group-title="AR | Gulf GCC",AR: ALWESAM TV
+http://b1g.ooo:80/Libra00000/Apple@7700/930556
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="AR: ALWAQIE TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/ww/waqie-tv-sa.png" group-title="AR | Gulf GCC",AR: ALWAQIE TV 4K
+http://b1g.ooo:80/Libra00000/Apple@7700/930555
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="NEWS|Al Ekhbaria HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekhbariya-tv-sa.png" group-title="AR | Gulf GCC",NEWS|Al Ekhbaria HD
+http://b1g.ooo:80/Libra00000/Apple@7700/930553
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KSA | SAUDI TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/saudi-tv-sa.png" group-title="AR | Gulf GCC",KSA | SAUDI TV HD
+http://b1g.ooo:80/Libra00000/Apple@7700/930552
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SAU: SBC 4K" tvg-logo="" group-title="AR | Gulf GCC",SAU: SBC 4K
+http://b1g.ooo:80/Libra00000/Apple@7700/930551
 
-EXTINF:-1 tvg-id="TeleSahel.ne@SD",ORTN Télé Sahel (576p)
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: YEMEN TV" tvg-logo="https://s9.gifyu.com/images/SV6Wp.png" group-title="AR | Food Music & West Asia",YE: YEMEN TV
+http://b1g.ooo:80/Libra00000/Apple@7700/851923
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: YEMEN EDUCATIONAL TV" tvg-logo="https://s12.gifyu.com/images/SV6cd.png" group-title="AR | Food Music & West Asia",YE: YEMEN EDUCATIONAL TV
+http://b1g.ooo:80/Libra00000/Apple@7700/851922
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: YEMEN TODAY TV" tvg-logo="https://s12.gifyu.com/images/SV64z.png" group-title="AR | Food Music & West Asia",YE: YEMEN TODAY TV
+http://b1g.ooo:80/Libra00000/Apple@7700/851921
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: YEMEN DOCUMENTARY TV" tvg-logo="https://s9.gifyu.com/images/SV6gK.png" group-title="AR | Food Music & West Asia",YE: YEMEN DOCUMENTARY TV
+http://b1g.ooo:80/Libra00000/Apple@7700/851920
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: YEMEN SHABAB" tvg-logo="https://s12.gifyu.com/images/SV6Wm.webp" group-title="AR | Food Music & West Asia",YE: YEMEN SHABAB
+http://b1g.ooo:80/Libra00000/Apple@7700/851919
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: ALMAHRAH" tvg-logo="https://s12.gifyu.com/images/SVAjF.png" group-title="AR | Food Music & West Asia",YE: ALMAHRAH
+http://b1g.ooo:80/Libra00000/Apple@7700/851918
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: AL SAEEDAH TV" tvg-logo="https://s12.gifyu.com/images/SVAiD.png" group-title="AR | Food Music & West Asia",YE: AL SAEEDAH TV
+http://b1g.ooo:80/Libra00000/Apple@7700/851917
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: SUHAIL TV" tvg-logo="https://s12.gifyu.com/images/SVAii.png" group-title="AR | Food Music & West Asia",YE: SUHAIL TV
+http://b1g.ooo:80/Libra00000/Apple@7700/851916
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: ALMASIRAH MUBASHER TV" tvg-logo="https://s12.gifyu.com/images/SVAR9.png" group-title="AR | Food Music & West Asia",YE: ALMASIRAH MUBASHER TV
+http://b1g.ooo:80/Libra00000/Apple@7700/851915
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: ALLAHDAH TV" tvg-logo="https://s12.gifyu.com/images/SVAjl.png" group-title="AR | Food Music & West Asia",YE: ALLAHDAH TV
+http://b1g.ooo:80/Libra00000/Apple@7700/851914
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: AL YOURMOUK TV FHD" tvg-logo="https://s12.gifyu.com/images/SV68M.png" group-title="AR | Food Music & West Asia",PS: AL YOURMOUK TV FHD
+http://b1g.ooo:80/Libra00000/Apple@7700/852273
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: AWDEH TV FHD" tvg-logo="https://s9.gifyu.com/images/SV6ji.png" group-title="AR | Food Music & West Asia",PS: AWDEH TV FHD
+http://b1g.ooo:80/Libra00000/Apple@7700/852272
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: MUSAWA FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyv56Bn58yyEoE09vx2RS19QUpcGPI-pwF_EZ54EYcsKCsjLe1xjMMjfPa6d-yAlHCkQ2rjURkm_BFmCLhs-_-bSqEZS3-YX8gD7trmEpg6JNa0IGKdVmGTfJt8tkxpWMneM0Lbibj3oJYxAeMavjREhzJF5yPq-9pn0AEpEb_bU3.png" group-title="AR | Food Music & West Asia",PS: MUSAWA FHD
+http://b1g.ooo:80/Libra00000/Apple@7700/852271
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: PALESTINE TV FHD" tvg-logo="https://s9.gifyu.com/images/SVcG7.webp" group-title="AR | Food Music & West Asia",PS: PALESTINE TV FHD
+http://b1g.ooo:80/Libra00000/Apple@7700/852270
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: PALESTINE LIVE FHD" tvg-logo="https://s9.gifyu.com/images/SVcGW.webp" group-title="AR | Food Music & West Asia",PS: PALESTINE LIVE FHD
+http://b1g.ooo:80/Libra00000/Apple@7700/852269
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: PALESTINE NEWS FHD" tvg-logo="https://s9.gifyu.com/images/SVcGW.webp" group-title="AR | Food Music & West Asia",PS: PALESTINE NEWS FHD
+http://b1g.ooo:80/Libra00000/Apple@7700/852268
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: PALESTINE SPORT FHD" tvg-logo="https://s9.gifyu.com/images/SVcGU.webp" group-title="AR | Food Music & West Asia",PS: PALESTINE SPORT FHD
+http://b1g.ooo:80/Libra00000/Apple@7700/852267
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: PALESTINE EDU FHD" tvg-logo="https://s9.gifyu.com/images/SVcGo.png" group-title="AR | Food Music & West Asia",PS: PALESTINE EDU FHD
+http://b1g.ooo:80/Libra00000/Apple@7700/852266
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: RAJEEN TV FHD" tvg-logo="https://s9.gifyu.com/images/SVcPF.png" group-title="AR | Food Music & West Asia",PS: RAJEEN TV FHD
+http://b1g.ooo:80/Libra00000/Apple@7700/852265
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: Shihab FHD" tvg-logo="" group-title="AR | Food Music & West Asia",PS: Shihab FHD
+http://b1g.ooo:80/Libra00000/Apple@7700/852264
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PAL | ALQUDS TODAY TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-quds-today-tv-ps.png" group-title="AR | Food Music & West Asia",PAL | ALQUDS TODAY TV
+http://b1g.ooo:80/Libra00000/Apple@7700/931075
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PAL | PALESTINE TODAY" tvg-logo="https://www.lyngsat.com/logo/tv/pp/palestinian-satellite-channel-ps.png" group-title="AR | Food Music & West Asia",PAL | PALESTINE TODAY
+http://b1g.ooo:80/Libra00000/Apple@7700/931069
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL OULA EGYPTE HD" tvg-logo="https://s9.gifyu.com/images/SV7iT.png" group-title="AR | Food Music & West Asia",EG: AL OULA EGYPTE HD
+http://b1g.ooo:80/Libra00000/Apple@7700/851909
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL THANYA" tvg-logo="https://s9.gifyu.com/images/SVI9A.png" group-title="AR | Food Music & West Asia",EG: AL THANYA
+http://b1g.ooo:80/Libra00000/Apple@7700/851908
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL KAHERA" tvg-logo="https://s9.gifyu.com/images/SVITB.png" group-title="AR | Food Music & West Asia",EG: AL KAHERA
+http://b1g.ooo:80/Libra00000/Apple@7700/851907
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL KANAL" tvg-logo="https://s9.gifyu.com/images/SVIwv.png" group-title="AR | Food Music & West Asia",EG: AL KANAL
+http://b1g.ooo:80/Libra00000/Apple@7700/851906
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: ALASKANDRIA" tvg-logo="https://s9.gifyu.com/images/SVIwL.png" group-title="AR | Food Music & West Asia",EG: ALASKANDRIA
+http://b1g.ooo:80/Libra00000/Apple@7700/851905
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL DELTA" tvg-logo="https://s9.gifyu.com/images/SVIwb.png" group-title="AR | Food Music & West Asia",EG: AL DELTA
+http://b1g.ooo:80/Libra00000/Apple@7700/851904
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: ALSA3EED" tvg-logo="https://s9.gifyu.com/images/SVIwx.png" group-title="AR | Food Music & West Asia",EG: ALSA3EED
+http://b1g.ooo:80/Libra00000/Apple@7700/851903
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: TEBA" tvg-logo="https://s9.gifyu.com/images/SVITX.png" group-title="AR | Food Music & West Asia",EG: TEBA
+http://b1g.ooo:80/Libra00000/Apple@7700/851902
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL MASRIYA SAT" tvg-logo="https://s12.gifyu.com/images/SVIKl.png" group-title="AR | Food Music & West Asia",EG: AL MASRIYA SAT
+http://b1g.ooo:80/Libra00000/Apple@7700/851901
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: EGYPTIAN TV HD" tvg-logo="https://s12.gifyu.com/images/SVI3L.png" group-title="AR | Food Music & West Asia",EG: EGYPTIAN TV HD
+http://b1g.ooo:80/Libra00000/Apple@7700/851900
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL HAYAT TV" tvg-logo="https://s9.gifyu.com/images/SV7UH.png" group-title="AR | Food Music & West Asia",EG: AL HAYAT TV
+http://b1g.ooo:80/Libra00000/Apple@7700/851899
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL HAYAT TV HD" tvg-logo="https://s9.gifyu.com/images/SV7UH.png" group-title="AR | Food Music & West Asia",EG: AL HAYAT TV HD
+http://b1g.ooo:80/Libra00000/Apple@7700/851898
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL NAHAR TV" tvg-logo="https://s12.gifyu.com/images/SV78U.png" group-title="AR | Food Music & West Asia",EG: AL NAHAR TV
+http://b1g.ooo:80/Libra00000/Apple@7700/851897
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL NAHAR DRAMA" tvg-logo="https://s12.gifyu.com/images/SV78y.png" group-title="AR | Food Music & West Asia",EG: AL NAHAR DRAMA
+http://b1g.ooo:80/Libra00000/Apple@7700/851896
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: CBC" tvg-logo="https://s9.gifyu.com/images/SVI95.png" group-title="AR | Food Music & West Asia",EG: CBC
+http://b1g.ooo:80/Libra00000/Apple@7700/851894
+EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: EXTRA NEWS" tvg-logo="https://s12.gifyu.com/images/SV7cZ.png" group-title="AR | Food Music & West Asia",EG: EXTRA NEWS
+http://b1g.ooo:80/Libra00000/Apple@7700/851891
+http://b1g.ooo:80/Libra00000/Apple@7700/851889
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: DMC" tvg-logo="https://s9.gifyu.com/images/SVIKe.png" group-title="AR | Food Music & West Asia",EG: DMC
+http://b1g.ooo:80/Libra00000/Apple@7700/851888
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: DMC DRAMA" tvg-logo="https://s9.gifyu.com/images/SVINS.png" group-title="AR | Food Music & West Asia",EG: DMC DRAMA
+http://b1g.ooo:80/Libra00000/Apple@7700/851887
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: SADA EL BALAD HD" tvg-logo="https://s9.gifyu.com/images/SVIxl.webp" group-title="AR | Food Music & West Asia",EG: SADA EL BALAD HD
+http://b1g.ooo:80/Libra00000/Apple@7700/851886
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: NILE COMEDY" tvg-logo="https://s9.gifyu.com/images/SV7gc.png" group-title="AR | Food Music & West Asia",EG: NILE COMEDY
+http://b1g.ooo:80/Libra00000/Apple@7700/851881
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: NILE FAMILY" tvg-logo="https://s12.gifyu.com/images/SV74L.png" group-title="AR | Food Music & West Asia",EG: NILE FAMILY
+http://b1g.ooo:80/Libra00000/Apple@7700/851880
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: NILE DRAMA" tvg-logo="https://s9.gifyu.com/images/SV7gy.png" group-title="AR | Food Music & West Asia",EG: NILE DRAMA
+http://b1g.ooo:80/Libra00000/Apple@7700/851879
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: NILE LIFE" tvg-logo="https://s9.gifyu.com/images/SV74q.png" group-title="AR | Food Music & West Asia",EG: NILE LIFE
+http://b1g.ooo:80/Libra00000/Apple@7700/851878
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: NILE CULTURE" tvg-logo="https://s9.gifyu.com/images/SV74a.png" group-title="AR | Food Music & West Asia",EG: NILE CULTURE
+http://b1g.ooo:80/Libra00000/Apple@7700/851877
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SUD: SUDAN TV" tvg-logo="" group-title="AR | Arab Africa",SUD: SUDAN TV
+http://b1g.ooo:80/Libra00000/Apple@7700/931017
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SUD: BLUE NILE TV" tvg-logo="" group-title="AR | Arab Africa",SUD: BLUE NILE TV
+http://b1g.ooo:80/Libra00000/Apple@7700/931016
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SUD: AL SHAMALIA" tvg-logo="" group-title="AR | Arab Africa",SUD: AL SHAMALIA
+http://b1g.ooo:80/Libra00000/Apple@7700/931015
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SUD: Sudan El Watania TV" tvg-logo="" group-title="AR | Arab Africa",SUD: Sudan El Watania TV
+http://b1g.ooo:80/Libra00000/Apple@7700/931014
+
+#EXTINF:-1 tvg-id="TeleSahel.ne@SD",ORTN Télé Sahel (576p)
 http://69.64.57.208/telesahel/playlist.m3u8
 #EXTINF:-1 tvg-id="RTB.bf@SD" tvg-logo="https://i.imgur.com/BFfLV0y.png" group-title="Burkina Faso",RTB
 https://edge12.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8
