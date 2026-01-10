@@ -72,7 +72,7 @@ https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="India-Pakistani" tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
 http://103.55.144.46:80/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNQKahI.png" group-title="News",Press TV (720p)
-http://vipegor.top:8080/live/VIP0187168864034307/7ec37168ec60/7504.ts 
+https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 tvg-logo="https://shialivetv.com/shialive/assets/img/saharurdu.jpg" group-title="News",Sahar Urdu
 https://line.now-ott.xyz/live/451AAD/3f41a2/44406.ts
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
