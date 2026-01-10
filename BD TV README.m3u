@@ -86,11 +86,11 @@ https://shls-mbc1na-prod-dub.shahid.net:443/out/v1/84ab37e99d6e4b16b33c6600f94f6
 #EXTINF:-1 tvg-name="Imam Ali Najaf HD Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Imam_Ali_shrine_-_1_May_2015_19.jpg" group-title="Relegious",Imam Ali Najaf Live HD
 http://iptvtree.net:8080/F24365/058a5194/283123
 #EXTINF:-1 tvg-id="1" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB TV 1" tvg-logo=" ",IRIB TV 1(1080)
-https://line.now-ott.xyz/live/451AAD/3f41a2/44547.ts
+https://gg.hls2.xyz/live/irib-tv1/playlist.m3u8
 #EXTINF:-1 tvg-id="IribTv3.ir",IRIB 3 TV
 https://line.now-ott.xyz/live/451AAD/3f41a2/44545.ts
 #EXTINF:-1 tvg-id="20" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
-https://line.now-ott.xyz/live/451AAD/3f41a2/44542.ts
+https://gg.hls2.xyz/live/irib-khabar/playlist.m3u8
 #EXTINF:-1 tvg-id="TakbeerTv.uk" tvg-name="Takbeer TV(UK)" tvg-country="UK" tvg-language"Urdj" tvg-logo="https://www.lyngsat.com/logo/tv/tt/takbeer-tv-uk.png" group-title="Religious",Takbeer TV(UK)
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
