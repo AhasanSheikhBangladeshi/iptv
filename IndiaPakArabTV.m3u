@@ -1,69 +1,4 @@
-#EXTINF:-1 tvg-id="Geonews.pk" tvg-name="PK : Geo News HD" tvg-logo="" group-title="PAKISTAN",PK : Geo News HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/129.ts
-#EXTINF:-1,PK : KHYBER NEWS
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/130.ts
-#EXTINF:-1,PK : PTV News-HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/131.ts
-#EXTINF:-1,PK: PTV NATIONAL 
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/140919.ts
-#EXTINF:-1,PK: PTV GLOBAL
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/109.ts
-#EXTINF:-1,PK: PTV HOME
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/110.ts
-#EXTINF:-1,PK : CAPITAL TV NEWS
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/132.ts
-#EXTINF:-1,PK : DAWN NEWS
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/133.ts
-#EXTINF:-1,PK : DUNYA NEWS
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/134.ts
-#EXTINF:-1,PK : BOL NEWS-HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/135.ts
-#EXTINF:-1,PK : ABB TAK
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/136.ts
-#EXTINF:-1,PK : AAJ NEWS
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/137.ts
-#EXTINF:-1,PK : 24 NEWS HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/138.ts
-#EXTINF:-1,PK : GNN NEWS-HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/139.ts
-#EXTINF:-1,PK : SAMAA NEWS
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/140.ts
-#EXTINF:-1,PK : 92 NEWS-HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/141.ts
-#EXTINF:-1,PK : NEWS ONE
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/142.ts
-#EXTINF:-1,PK : ARY NEWS-HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/143.ts
-#EXTINF:-1,PK : GEO TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/119.ts
-#EXTINF:-1,PK: GEO KAHANI-HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/120.ts
-#EXTINF:-1,PK : HUM TV EUROPE
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/121.ts
-#EXTINF:-1,PK: HUM TV-HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/122.ts
-#EXTINF:-1,PK : ARY ZINDAGI
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/123.ts
-#EXTINF:-1,PK: ARY DIGITAL-HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/124.ts
-#EXTINF:-1,PK: ARY DIGITAL (UK)
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/125.ts
-#EXTINF:-1,PK : A PLUS
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/126.ts
-#EXTINF:-1,PK: PLAY TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/859.ts
-#EXTINF:-1,PK: APNA
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/869.ts
-#EXTINF:-1,PK: BOL ENTERTAINMENT TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/99.ts
-#EXTINF:-1,PK: AAJ ENTERTAINMENT
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/105.ts
-#EXTINF:-1,PK: Z9TV DIGITAL CANDA-HD
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/106.ts
-#EXTINF:-1,PK: KHYBER TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/107.ts
-#EXTINF:-1,PK: PASHTO TV
-https://dhoomtv.xyz:443/live/P4B9TB9xR8/humongous2tonight/108.ts
+
 
 #EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="India",DD National HD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
@@ -125,7 +60,7 @@ http://iptvtree.net:8080/F18115/068f009e/306415
 #EXTINF:-1 tvg-id="" tvg-name="AFG: Dunya Naw" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/6e12444d15a34879861b8f8137b351f5.png" group-title="Afghanistan",AFG: Dunya Naw
 http://iptvtree.net:8080/F18115/068f009e/272812
 #EXTINF:-1 tvg-id="" tvg-name="AFG: Eslah TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/97d474f93900f54d9ec942a93959389b.png" group-title="Afghanistan",AFG: Eslah TV
-http://iptvtree.net:8080/F18115/068f009e/302402
+http://iptvtree.net:880/F18115/068f009e/302402
 #EXTINF:-1 tvg-id="" tvg-name="AFG: Hasti TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/57a4e4fe517cbbfd7cb2f0de48a61b14.png" group-title="Afghanistan",AFG: Hasti TV
 http://iptvtree.net:8080/F18115/068f009e/287454
 #EXTINF:-1 tvg-id="" tvg-name="AFG: Tolo News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-06/23f0ab14266f28f991faa05114aeea5c.png" group-title="Afghanistan",AFG: Tolo News
@@ -321,125 +256,63 @@ http://b1g.ooo:80/Libra00000/Apple@7700/930552
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SAU: SBC 4K" tvg-logo="" group-title="AR | Gulf GCC",SAU: SBC 4K
 http://b1g.ooo:80/Libra00000/Apple@7700/930551
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: YEMEN TV" tvg-logo="https://s9.gifyu.com/images/SV6Wp.png" group-title="AR | Food Music & West Asia",YE: YEMEN TV
-http://b1g.ooo:80/Libra00000/Apple@7700/851923
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: YEMEN EDUCATIONAL TV" tvg-logo="https://s12.gifyu.com/images/SV6cd.png" group-title="AR | Food Music & West Asia",YE: YEMEN EDUCATIONAL TV
-http://b1g.ooo:80/Libra00000/Apple@7700/851922
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: YEMEN TODAY TV" tvg-logo="https://s12.gifyu.com/images/SV64z.png" group-title="AR | Food Music & West Asia",YE: YEMEN TODAY TV
-http://b1g.ooo:80/Libra00000/Apple@7700/851921
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: YEMEN DOCUMENTARY TV" tvg-logo="https://s9.gifyu.com/images/SV6gK.png" group-title="AR | Food Music & West Asia",YE: YEMEN DOCUMENTARY TV
-http://b1g.ooo:80/Libra00000/Apple@7700/851920
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: YEMEN SHABAB" tvg-logo="https://s12.gifyu.com/images/SV6Wm.webp" group-title="AR | Food Music & West Asia",YE: YEMEN SHABAB
-http://b1g.ooo:80/Libra00000/Apple@7700/851919
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: ALMAHRAH" tvg-logo="https://s12.gifyu.com/images/SVAjF.png" group-title="AR | Food Music & West Asia",YE: ALMAHRAH
-http://b1g.ooo:80/Libra00000/Apple@7700/851918
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: AL SAEEDAH TV" tvg-logo="https://s12.gifyu.com/images/SVAiD.png" group-title="AR | Food Music & West Asia",YE: AL SAEEDAH TV
-http://b1g.ooo:80/Libra00000/Apple@7700/851917
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: SUHAIL TV" tvg-logo="https://s12.gifyu.com/images/SVAii.png" group-title="AR | Food Music & West Asia",YE: SUHAIL TV
-http://b1g.ooo:80/Libra00000/Apple@7700/851916
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: ALMASIRAH MUBASHER TV" tvg-logo="https://s12.gifyu.com/images/SVAR9.png" group-title="AR | Food Music & West Asia",YE: ALMASIRAH MUBASHER TV
-http://b1g.ooo:80/Libra00000/Apple@7700/851915
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: ALLAHDAH TV" tvg-logo="https://s12.gifyu.com/images/SVAjl.png" group-title="AR | Food Music & West Asia",YE: ALLAHDAH TV
-http://b1g.ooo:80/Libra00000/Apple@7700/851914
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: HADRAMAUT TV" tvg-logo="https://s12.gifyu.com/images/SVA8S.png" group-title="AR | Food Music & West Asia",YE: HADRAMAUT TV
-http://vipbhbiss.top:8080/live/08072024LC/08072024LC/130671.ts
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YEMEN: HADRMAUT TV RED" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hadhramaut-tv-ye.png" group-title="AR | Food Music & West Asia",YEMEN: HADRMAUT TV RED
-http://b1g.ooo:80/Libra00000/Apple@7700/931046
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YEMEN: HADARMAUT 1" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hadramout-satellite-channel-ye.png" group-title="AR | Food Music & West Asia",YEMEN: HADARMAUT 1
-http://b1g.ooo:80/Libra00000/Apple@7700/931045
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YEMEN: MUSTAKILA AIC" tvg-logo="https://i5.satexpat.com/cha/ye/aic-95x97.gif" group-title="AR | Food Music & West Asia",YEMEN: MUSTAKILA AIC
-http://b1g.ooo:80/Libra00000/Apple@7700/931044
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YEMEN: SUHEIL TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/suhail-tv-ye.png" group-title="AR | Food Music & West Asia",YEMEN: SUHEIL TV
-http://b1g.ooo:80/Libra00000/Apple@7700/931043
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YEMEN: ADEN TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aden-satellite-channel-ye.png" group-title="AR | Food Music & West Asia",YEMEN: ADEN TV
-http://b1g.ooo:80/Libra00000/Apple@7700/931042
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YE: SHEBA TV" tvg-logo="https://s12.gifyu.com/images/SVA81.png" group-title="AR | Food Music & West Asia",YE: SHEBA TV
-http://b1g.ooo:80/Libra00000/Apple@7700/851670
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="YEMEN: ALMASIRAH TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/almasirah-tv-ye.png" group-title="AR | News",YEMEN: ALMASIRAH TV
-http://b1g.ooo:80/Libra00000/Apple@7700/929692
+##EXTINF:-1 tvg-id="" tvg-name="AR: ADEN TV" tvg-logo="https://docdog.top/logo/countries/arab/adentv.png" group-title="ARAB VIP",AR: ADEN TV
+http://vipbhbiss.top:8080/08072024LC/08072024LC/6956
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN EDU" tvg-logo="https://docdog.top/logo/countries/arab/YEMENEDU.png" group-title="ARAB VIP",AR: YEMEN EDU
+http://vipbhbiss.top:8080/08072024LC/08072024LC/6865
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN SAMA TV" tvg-logo="https://docdog.top/logo/countries/arab/YEMENSAMATV.jpg" group-title="ARAB VIP",AR: YEMEN SAMA TV
+http://vipbhbiss.top:8080/08072024LC/08072024LC/6866
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN SHABAB" tvg-logo="https://docdog.top/logo/countries/arab/yemenshabab.png" group-title="ARAB VIP",AR: YEMEN SHABAB
+http://vipbhbiss.top:8080/08072024LC/08072024LC/6867
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN TODAY" tvg-logo="https://docdog.top/logo/countries/arab/yementoday.png" group-title="ARAB VIP",AR: YEMEN TODAY
+http://vipbhbiss.top:8080/08072024LC/08072024LC/6868
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN TV" tvg-logo="https://docdog.top/logo/countries/arab/yementv.png" group-title="ARAB VIP",AR: YEMEN TV
+http://vipbhbiss.top:8080/08072024LC/08072024LC/6869
+#EXTINF:-1 tvg-id="" tvg-name="AR: ADEN TV" tvg-logo="https://docdog.top/logo/countries/arab/adentv.png" group-title="ARAB VIP",AR: ADEN TV
+http://vipbhbiss.top:8080/08072024LC/08072024LC/6956
+#EXTINF:-1 tvg-id="" tvg-name="AR-YEM: ADEN ALMUSTAKILLA" tvg-logo="https://docdog.top/logo/countries/ar/AR-YEM_ADEN_ALMUSTAKILLA.jpeg" group-title="ARAB VIP NEW",AR-YEM: ADEN ALMUSTAKILLA
+http://vipbhbiss.top:8080/08072024LC/08072024LC/130660
+#EXTINF:-1 tvg-id="" tvg-name="AR-YEM: ADEN YAMEN" tvg-logo="https://docdog.top/logo/countries/ar/AR-YEM_ADEN_YAMEN.jpeg" group-title="ARAB VIP NEW",AR-YEM: ADEN YAMEN
+http://vipbhbiss.top:8080/08072024LC/08072024LC/130661
+#EXTINF:-1 tvg-id="" tvg-name="AR-YEM: ALHAWYAH TV" tvg-logo="https://docdog.top/logo/countries/ar/AR-YEM_ALHAWYAH_TV.jpeg" group-title="ARAB VIP NEW",AR-YEM: ALHAWYAH TV
+http://vipbhbiss.top:8080/08072024LC/08072024LC/130662
+#EXTINF:-1 tvg-id="" tvg-name="AR-YEM: ALIMAN TV" tvg-logo="https://docdog.top/logo/countries/ar/AR-YEM_ALIMAN_TV.png" group-title="ARAB VIP NEW",AR-YEM: ALIMAN TV
+http://vipbhbiss.top:8080/08072024LC/08072024LC/130663
+#EXTINF:-1 tvg-id="" tvg-name="AR-YEM: ALLAHDAH TV" tvg-logo="https://docdog.top/logo/countries/ar/AR-YEM_ALLAHDAH_TV.png" group-title="ARAB VIP NEW",AR-YEM: ALLAHDAH TV
+http://vipbhbiss.top:8080/08072024LC/08072024LC/130664
+#EXTINF:-1 tvg-id="" tvg-name="AR-YEM: ALMAHRIAH" tvg-logo="https://docdog.top/logo/countries/ar/AR-YEM_ALMAHRIAH.png" group-title="ARAB VIP NEW",AR-YEM: ALMAHRIAH
+http://vipbhbiss.top:8080/08072024LC/08072024LC/130665
+#EXTINF:-1 tvg-id="" tvg-name="AR-YEM: ALMASIRAH MUBASHAR" tvg-logo="https://docdog.top/logo/countries/ar/AR-YEM_ALMASIRAH_MUBASHAR.jpeg" group-title="ARAB VIP NEW",AR-YEM: ALMASIRAH MUBASHAR
+http://vipbhbiss.top:8080/08072024LC/08072024LC/130666
+#EXTINF:-1 tvg-id="" tvg-name="AR-YEM: ALMASIRAH TV" tvg-logo="https://docdog.top/logo/countries/ar/AR-YEM_ALMASIRAH_TV.jpeg" group-title="ARAB VIP NEW",AR-YEM: ALMASIRAH TV
+http://vipbhbiss.top:8080/08072024LC/08072024LC/130667
+#EXTINF:-1 tvg-id="" tvg-name="AR-YEM: BELQEES FHD" tvg-logo="https://docdog.top/logo/countries/ar/AR-YEM_BELQEES_FHD.png" group-title="ARAB VIP NEW",AR-YEM: BELQEES FHD
+http://vipbhbiss.top:8080/08072024LC/08072024LC/130668
+#EXTINF:-1 tvg-id="" tvg-name="AR-YEM: EL EIMAN TV" tvg-logo="https://docdog.top/logo/countries/ar/AR-YEM_EL_EIMAN_TV.jpeg" group-title="ARAB VIP NEW",AR-YEM: EL EIMAN TV
+http://vipbhbiss.top:8080/08072024LC/08072024LC/130670
+#EXTINF:-1 tvg-id="" tvg-name="AR-YEM: HADRAMOUT" tvg-logo="https://docdog.top/logo/countries/ar/AR-YEM_HADRAMOUT.png" group-title="ARAB VIP NEW",AR-YEM: HADRAMOUT
+http://vipbhbiss.top:8080/08072024LC/08072024LC/130671
+#EXTINF:-1 tvg-id="" tvg-name="AR-YEM: SHEBA TV" tvg-logo="https://docdog.top/logo/countries/ar/AR-YEM_SHEBA_TV.png" group-title="ARAB VIP NEW",AR-YEM: SHEBA TV
+http://vipbhbiss.top:8080/08072024LC/08072024LC/130672
+#EXTINF:-1 tvg-id="" tvg-name="AR-YEM: SUHAIL TV" tvg-logo="https://docdog.top/logo/countries/ar/AR-YEM_SUHAIL_TV.jpeg" group-title="ARAB VIP NEW",AR-YEM: SUHAIL TV
+http://vipbhbiss.top:8080/08072024LC/08072024LC/130673
+#EXTINF:-1 tvg-id="" tvg-name="AR-YEM: YAMEN SHABAB" tvg-logo="https://docdog.top/logo/countries/ar/AR-YEM_YAMEN_SHABAB.jpg" group-title="ARAB VIP NEW",AR-YEM: YAMEN SHABAB
+http://vipbhbiss.top:8080/08072024LC/08072024LC/130674
+#EXTINF:-1 tvg-id="" tvg-name="AR: SUHAIL TV" tvg-logo="https://docdog.top/logo/countries/arab/suhailtv.png" group-title="ARAB VIP",AR: SUHAIL TV
+http://vipbhbiss.top:8080/08072024LC/08072024LC/6774
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: AL YOURMOUK TV FHD" tvg-logo="https://s12.gifyu.com/images/SV68M.png" group-title="AR | Food Music & West Asia",PS: AL YOURMOUK TV FHD
-http://b1g.ooo:80/Libra00000/Apple@7700/852273
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: AWDEH TV FHD" tvg-logo="https://s9.gifyu.com/images/SV6ji.png" group-title="AR | Food Music & West Asia",PS: AWDEH TV FHD
-http://b1g.ooo:80/Libra00000/Apple@7700/852272
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: MUSAWA FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyv56Bn58yyEoE09vx2RS19QUpcGPI-pwF_EZ54EYcsKCsjLe1xjMMjfPa6d-yAlHCkQ2rjURkm_BFmCLhs-_-bSqEZS3-YX8gD7trmEpg6JNa0IGKdVmGTfJt8tkxpWMneM0Lbibj3oJYxAeMavjREhzJF5yPq-9pn0AEpEb_bU3.png" group-title="AR | Food Music & West Asia",PS: MUSAWA FHD
-http://b1g.ooo:80/Libra00000/Apple@7700/852271
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: PALESTINE TV FHD" tvg-logo="https://s9.gifyu.com/images/SVcG7.webp" group-title="AR | Food Music & West Asia",PS: PALESTINE TV FHD
-http://b1g.ooo:80/Libra00000/Apple@7700/852270
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: PALESTINE LIVE FHD" tvg-logo="https://s9.gifyu.com/images/SVcGW.webp" group-title="AR | Food Music & West Asia",PS: PALESTINE LIVE FHD
-http://b1g.ooo:80/Libra00000/Apple@7700/852269
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: PALESTINE NEWS FHD" tvg-logo="https://s9.gifyu.com/images/SVcGW.webp" group-title="AR | Food Music & West Asia",PS: PALESTINE NEWS FHD
-http://b1g.ooo:80/Libra00000/Apple@7700/852268
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: PALESTINE SPORT FHD" tvg-logo="https://s9.gifyu.com/images/SVcGU.webp" group-title="AR | Food Music & West Asia",PS: PALESTINE SPORT FHD
-http://b1g.ooo:80/Libra00000/Apple@7700/852267
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: PALESTINE EDU FHD" tvg-logo="https://s9.gifyu.com/images/SVcGo.png" group-title="AR | Food Music & West Asia",PS: PALESTINE EDU FHD
-http://b1g.ooo:80/Libra00000/Apple@7700/852266
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: RAJEEN TV FHD" tvg-logo="https://s9.gifyu.com/images/SVcPF.png" group-title="AR | Food Music & West Asia",PS: RAJEEN TV FHD
-http://b1g.ooo:80/Libra00000/Apple@7700/852265
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS: Shihab FHD" tvg-logo="" group-title="AR | Food Music & West Asia",PS: Shihab FHD
-http://b1g.ooo:80/Libra00000/Apple@7700/852264
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PAL | ALQUDS TODAY TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-quds-today-tv-ps.png" group-title="AR | Food Music & West Asia",PAL | ALQUDS TODAY TV
-http://b1g.ooo:80/Libra00000/Apple@7700/931075
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PAL | PALESTINE TODAY" tvg-logo="https://www.lyngsat.com/logo/tv/pp/palestinian-satellite-channel-ps.png" group-title="AR | Food Music & West Asia",PAL | PALESTINE TODAY
-http://b1g.ooo:80/Libra00000/Apple@7700/931069
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALESTINE" tvg-logo="https://docdog.top/logo/countries/arab/palestine.png" group-title="ARAB VIP",AR: PALESTINE
+http://vipbhbiss.top:8080/08072024LC/08072024LC/6546
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALESTINE KOFIYA" tvg-logo="https://docdog.top/logo/countries/arab/palestinekofiya.png" group-title="ARAB VIP",AR: PALESTINE KOFIYA
+http://vipbhbiss.top:8080/08072024LC/08072024LC/6547
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALESTINE LIVE" tvg-logo="https://docdog.top/logo/countries/arab/PALESTINELIVE.png" group-title="ARAB VIP",AR: PALESTINE LIVE
+http://vipbhbiss.top:8080/08072024LC/08072024LC/6548
+#EXTINF:-1 tvg-id="" tvg-name="AR-PLS: AL WATAN" tvg-logo="https://docdog.top/logo/countries/ar/AR-PLS_AL_WATAN.png" group-title="ARAB VIP NEW",AR-PLS: AL WATAN
+http://vipbhbiss.top:8080/08072024LC/08072024LC/130549
+#EXTINF:-1 tvg-id="" tvg-name="AR-PLS: PALESTINE TODAY" tvg-logo="https://docdog.top/logo/countries/ar/AR-PLS_PALESTINE_TODAY.jpg" group-title="ARAB VIP NEW",AR-PLS: PALESTINE TODAY
+http://vipbhbiss.top:8080/08072024LC/08072024LC/130566
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL OULA EGYPTE HD" tvg-logo="https://s9.gifyu.com/images/SV7iT.png" group-title="AR | Food Music & West Asia",EG: AL OULA EGYPTE HD
-http://b1g.ooo:80/Libra00000/Apple@7700/851909
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL THANYA" tvg-logo="https://s9.gifyu.com/images/SVI9A.png" group-title="AR | Food Music & West Asia",EG: AL THANYA
-http://b1g.ooo:80/Libra00000/Apple@7700/851908
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL KAHERA" tvg-logo="https://s9.gifyu.com/images/SVITB.png" group-title="AR | Food Music & West Asia",EG: AL KAHERA
-http://b1g.ooo:80/Libra00000/Apple@7700/851907
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL KANAL" tvg-logo="https://s9.gifyu.com/images/SVIwv.png" group-title="AR | Food Music & West Asia",EG: AL KANAL
-http://b1g.ooo:80/Libra00000/Apple@7700/851906
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: ALASKANDRIA" tvg-logo="https://s9.gifyu.com/images/SVIwL.png" group-title="AR | Food Music & West Asia",EG: ALASKANDRIA
-http://b1g.ooo:80/Libra00000/Apple@7700/851905
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL DELTA" tvg-logo="https://s9.gifyu.com/images/SVIwb.png" group-title="AR | Food Music & West Asia",EG: AL DELTA
-http://b1g.ooo:80/Libra00000/Apple@7700/851904
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: ALSA3EED" tvg-logo="https://s9.gifyu.com/images/SVIwx.png" group-title="AR | Food Music & West Asia",EG: ALSA3EED
-http://b1g.ooo:80/Libra00000/Apple@7700/851903
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: TEBA" tvg-logo="https://s9.gifyu.com/images/SVITX.png" group-title="AR | Food Music & West Asia",EG: TEBA
-http://b1g.ooo:80/Libra00000/Apple@7700/851902
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL MASRIYA SAT" tvg-logo="https://s12.gifyu.com/images/SVIKl.png" group-title="AR | Food Music & West Asia",EG: AL MASRIYA SAT
-http://b1g.ooo:80/Libra00000/Apple@7700/851901
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: EGYPTIAN TV HD" tvg-logo="https://s12.gifyu.com/images/SVI3L.png" group-title="AR | Food Music & West Asia",EG: EGYPTIAN TV HD
-http://b1g.ooo:80/Libra00000/Apple@7700/851900
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL HAYAT TV" tvg-logo="https://s9.gifyu.com/images/SV7UH.png" group-title="AR | Food Music & West Asia",EG: AL HAYAT TV
-http://b1g.ooo:80/Libra00000/Apple@7700/851899
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL HAYAT TV HD" tvg-logo="https://s9.gifyu.com/images/SV7UH.png" group-title="AR | Food Music & West Asia",EG: AL HAYAT TV HD
-http://b1g.ooo:80/Libra00000/Apple@7700/851898
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL NAHAR TV" tvg-logo="https://s12.gifyu.com/images/SV78U.png" group-title="AR | Food Music & West Asia",EG: AL NAHAR TV
-http://b1g.ooo:80/Libra00000/Apple@7700/851897
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: AL NAHAR DRAMA" tvg-logo="https://s12.gifyu.com/images/SV78y.png" group-title="AR | Food Music & West Asia",EG: AL NAHAR DRAMA
-http://b1g.ooo:80/Libra00000/Apple@7700/851896
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: CBC" tvg-logo="https://s9.gifyu.com/images/SVI95.png" group-title="AR | Food Music & West Asia",EG: CBC
-http://b1g.ooo:80/Libra00000/Apple@7700/851894
-EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: EXTRA NEWS" tvg-logo="https://s12.gifyu.com/images/SV7cZ.png" group-title="AR | Food Music & West Asia",EG: EXTRA NEWS
-http://b1g.ooo:80/Libra00000/Apple@7700/851891
-http://b1g.ooo:80/Libra00000/Apple@7700/851889
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: DMC" tvg-logo="https://s9.gifyu.com/images/SVIKe.png" group-title="AR | Food Music & West Asia",EG: DMC
-http://b1g.ooo:80/Libra00000/Apple@7700/851888
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: DMC DRAMA" tvg-logo="https://s9.gifyu.com/images/SVINS.png" group-title="AR | Food Music & West Asia",EG: DMC DRAMA
-http://b1g.ooo:80/Libra00000/Apple@7700/851887
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: SADA EL BALAD HD" tvg-logo="https://s9.gifyu.com/images/SVIxl.webp" group-title="AR | Food Music & West Asia",EG: SADA EL BALAD HD
-http://b1g.ooo:80/Libra00000/Apple@7700/851886
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: NILE COMEDY" tvg-logo="https://s9.gifyu.com/images/SV7gc.png" group-title="AR | Food Music & West Asia",EG: NILE COMEDY
-http://b1g.ooo:80/Libra00000/Apple@7700/851881
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: NILE FAMILY" tvg-logo="https://s12.gifyu.com/images/SV74L.png" group-title="AR | Food Music & West Asia",EG: NILE FAMILY
-http://b1g.ooo:80/Libra00000/Apple@7700/851880
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: NILE DRAMA" tvg-logo="https://s9.gifyu.com/images/SV7gy.png" group-title="AR | Food Music & West Asia",EG: NILE DRAMA
-http://b1g.ooo:80/Libra00000/Apple@7700/851879
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: NILE LIFE" tvg-logo="https://s9.gifyu.com/images/SV74q.png" group-title="AR | Food Music & West Asia",EG: NILE LIFE
-http://b1g.ooo:80/Libra00000/Apple@7700/851878
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG: NILE CULTURE" tvg-logo="https://s9.gifyu.com/images/SV74a.png" group-title="AR | Food Music & West Asia",EG: NILE CULTURE
-http://b1g.ooo:80/Libra00000/Apple@7700/851877
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SUD: SUDAN TV" tvg-logo="" group-title="AR | Arab Africa",SUD: SUDAN TV
-http://b1g.ooo:80/Libra00000/Apple@7700/931017
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SUD: BLUE NILE TV" tvg-logo="" group-title="AR | Arab Africa",SUD: BLUE NILE TV
-http://b1g.ooo:80/Libra00000/Apple@7700/931016
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SUD: AL SHAMALIA" tvg-logo="" group-title="AR | Arab Africa",SUD: AL SHAMALIA
-http://b1g.ooo:80/Libra00000/Apple@7700/931015
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SUD: Sudan El Watania TV" tvg-logo="" group-title="AR | Arab Africa",SUD: Sudan El Watania TV
-http://b1g.ooo:80/Libra00000/Apple@7700/931014
+
 
 #EXTINF:-1 tvg-id="TeleSahel.ne@SD",ORTN Télé Sahel (576p)
 http://69.64.57.208/telesahel/playlist.m3u8
