@@ -255,6 +255,73 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 #EXTINF:-1 tvg-id="BahrainTV.bh@SD" tvg-logo="https://i.postimg.cc/rw57LMpY/bahraintv.png" group-title="Bahrain",Bahrain TV (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 
+#EXTINF:-1,|SA| MBC 1
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/41429
+#EXTINF:-1,|SA| MBC 2
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/7311
+#EXTINF:-1,|SA| SAUDI 1
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/7288
+#EXTINF:-1,|SA| SAUDI 24
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/7287
+#EXTINF:-1,|SA| THIKRAYAT
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/7286
+#EXTINF:-1,|YE| YEMEN TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/76589
+#EXTINF:-1,|YE| YEMEN SHABAB
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/76590
+#EXTINF:-1,|YE| SHEBA TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/76592
+#EXTINF:-1,|YE| YEMEN TODAY
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/76593
+#EXTINF:-1,|YE| ADEN TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/76594
+#EXTINF:-1,|YE| AL SAEEDAH
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/76595
+#EXTINF:-1,|YE| AIC TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/76596
+#EXTINF:-1,|YE| HADRAMOOT
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/111363
+#EXTINF:-1,|YE| EL EIMAN TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/111364
+#EXTINF:-1,|YE| AL SAHAT
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/111365
+#EXTINF:-1,|YE| BELQESS
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/111366
+#EXTINF:-1,|YE| ALLAHDAH TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/111367
+#EXTINF:-1,|YE| AL MASIRAH TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/111368
+#EXTINF:-1,|YE| AL MAHRIAH
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/284912
+#EXTINF:-1,|YE| AL GHAD AL MUSHREQ
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/111369
+#EXTINF:-1,|YE| YEMEN EDUCATION TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/111370
+
+#EXTINF:-1,|EG| AL OULA HD
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/105560
+#EXTINF:-1,|EG| AL MASRIYA
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/7567
+#EXTINF:-1,|EG| CH3 AL KAHERA TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/698891
+#EXTINF:-1,|EG| CH4 AL KANAL
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/698892
+#EXTINF:-1,|EG| CH5 AL ASKANDRIA
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/698893
+#EXTINF:-1,|EG| CH6 AL DELTA TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/698894
+#EXTINF:-1,|EG| CH7 AL SAEED TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/698895
+#EXTINF:-1,|EG| CH8 TEBA TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/698896
+#EXTINF:-1,|EG| DMC HD
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/105562
+#EXTINF:-1,|EG| DMC
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/7182
+#EXTINF:-1,|EG| DMC DRAMA
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/7181
+#EXTINF:-1,|EG| CBC
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/7253
 
 #EXTINF:-1 tvg-id="TeleSahel.ne@SD",ORTN Télé Sahel (576p)
 http://69.64.57.208/telesahel/playlist.m3u8
