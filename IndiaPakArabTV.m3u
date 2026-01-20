@@ -158,22 +158,48 @@ https://stream.raajje.mv/live/rtv_live/index.m3u8
 #EXTINF:-1 tvg-id="SSTV.mv@SD" tvg-logo="https://i.imgur.com/jtIhDZk.png" group-title="Maldives",SSTV (1080p)
 https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/7a72febb637901c474b0241f9839e173.png" group-title="Iran",IR: IRIB 1
-http://opplex.to:8080/Rachitfb/182903/351120
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/f34a9a3baaefa4dabd7306d3548eb785.png" group-title="Iran",IR: IRIB 2
-http://opplex.to:8080/Rachitfb/182903/351121
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/1b9b1cd3c518b9b24e2e3bf0058c8b12.png" group-title="Iran",IR: IRIB 3
-http://opplex.to:8080/Rachitfb/182903/351122
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 3 satellite" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/0812c50d77135f0c63395f5d3224c7d3" group-title="Iran",IR: IRIB 3 satellite
-http://opplex.to:8080/Rachitfb/182903/351123
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/9ba9c0691729ee6e594b6a3d5cfba899.png" group-title="Iran",IR: IRIB 4
-http://opplex.to:8080/Rachitfb/182903/351124
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB IRINN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/2988868e457dc495850fce0204b08cad.png" group-title="Iran",IR: IRIB IRINN
-http://opplex.to:8080/Rachitfb/182903/351146
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Jamejam 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/474b5c8d9393397f825ba3e18aecc969" group-title="Iran",IR: IRIB Jamejam 1
-http://opplex.to:8080/Rachitfb/182903/351149
-#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Jamejam 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/a5b78bdd102297666baac0dd3f34e84c" group-title="Iran",IR: IRIB Jamejam 2
-http://opplex.to:8080/Rachitfb/182903/351150
+#EXTINF:-1,|IR| IRIB TV 1
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100835
+#EXTINF:-1,|IR| IRIB TV 2
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100836
+#EXTINF:-1,|IR| IRIB TV 3
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100837
+#EXTINF:-1,|IR| IRINN
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100840
+#EXTINF:-1,|IR| ABADAN TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100909
+#EXTINF:-1,|IR| AFTAB TV |MARKAZI|
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100910
+#EXTINF:-1,|IR| AFLAK TV |LORESTAN|
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100911
+#EXTINF:-1,|IR| ALBORZ TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100912
+#EXTINF:-1,|IR| ATRAK TV |KHORASAN SHOMALI|
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100913
+#EXTINF:-1,|IR| FARS TV |SHIRAZ|
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100919
+#EXTINF:-1,|IR| KHORASAN RAZAVI TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100931
+#EXTINF:-1,|IR| KHOZESTAN TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100932
+#EXTINF:-1,|IR| KORDESTAN TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/192720
+#EXTINF:-1,|IR| MAHABAD TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100933
+#EXTINF:-1,|IR| SAHAR AZARI
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100948
+#EXTINF:-1,|IR| SAHAR FR-BIH
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100950
+#EXTINF:-1,|IR| SAHAR FRANCOPHONE
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100951
+#EXTINF:-1,|IR| SAHAR URDU
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100952
+#EXTINF:-1,|IR| SAHAR URDU TV
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100953
+#EXTINF:-1,|IR| VOA TV PERSIAN
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100869
+#EXTINF:-1,|IR| IRAN INTERNATIONAL HD
+http://sansatplus.net:88/02042005511366/1bvZ7513bO9oCzN/100870
 
 
 #EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.postimg.cc/MTmv3dXr/kurdistantv.png" group-title="KURDISH",Kurdistan TV (720p) [Not 24/7]
