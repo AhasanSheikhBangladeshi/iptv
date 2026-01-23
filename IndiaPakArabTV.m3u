@@ -379,7 +379,57 @@ http://teratv.xyz:8880/387708389664/513367594186/533074
 http://teratv.xyz:8880/387708389664/513367594186/12728
 #EXTINF:-1 tvg-id="" tvg-name="JO : QUDS TODAY" tvg-logo="http://go4.pw//PALESTINE/ALQUDSTODAY.png" group-title="JORDAN | الاردن",JO : QUDS TODAY
 http://teratv.xyz:8880/387708389664/513367594186/12734
+#EXTINF:-1 tvg-id="" tvg-name="PAL : AWDEH FHD" tvg-logo="http://go4.pw/PALESTINE/AWDEHTV.png" group-title="PALESTINE | فلسطين",PAL : AWDEH FHD
+http://teratv.xyz:8880/387708389664/513367594186/114009
+#EXTINF:-1 tvg-id="" tvg-name="PAL : PALESTINE FHD" tvg-logo="http://go4.pw/ASIA/PALESTINE/PALESTINE.png" group-title="PALESTINE | فلسطين",PAL : PALESTINE FHD
+http://teratv.xyz:8880/387708389664/513367594186/264
+#EXTINF:-1 tvg-id="" tvg-name="PAL : PALESTINE LIVE FHD" tvg-logo="http://go4.pw/PALESTINE/PALESTINELIVE.png" group-title="PALESTINE | فلسطين",PAL : PALESTINE LIVE FHD
+http://teratv.xyz:8880/387708389664/513367594186/114005
+#EXTINF:-1 tvg-id="" tvg-name="PAL : ALSERAJ" tvg-logo="http://go4.pw//PALESTINE/ALSERAJALAQSA.png" group-title="PALESTINE | فلسطين",PAL : ALSERAJ
+http://teratv.xyz:8880/387708389664/513367594186/114001
+#EXTINF:-1 tvg-id="" tvg-name="PAL : ALAQSA" tvg-logo="http://go4.pw//PALESTINE/ALSERAJALAQSA.png" group-title="PALESTINE | فلسطين",PAL : ALAQSA
+http://teratv.xyz:8880/387708389664/513367594186/114000
+#EXTINF:-1 tvg-id="" tvg-name="PAL : ALKOFIYA" tvg-logo="http://go4.pw//PALESTIAUDENE/ALKOFIYA.png" group-title="PALESTINE | فلسطين",PAL : ALKOFIYA
+http://teratv.xyz:8880/387708389664/513367594186/255
+#EXTINF:-1 tvg-id="" tvg-name="PAL : PALESTINE NEWS FHD" tvg-logo="http://go4.pw/PALESTINE/PALESTINENEWS.png" group-title="PALESTINE | فلسطين",PAL : PALESTINE NEWS FHD
+http://teratv.xyz:8880/387708389664/513367594186/114012
 
+#EXTINF:-1 tvg-id="" tvg-name="EGY.DMC HD" tvg-logo="http://go4.pw/AFRICA/EGYPT/DMC.png" group-title="EGYPT | مصر ",EGY.DMC HD
+http://teratv.xyz:8880/387708389664/513367594186/38806
+#EXTINF:-1 tvg-id="" tvg-name="EGY.DMC DRAMA" tvg-logo="http://go4.pw/AFRICA/EGYPT/DMC.png" group-title="EGYPT | مصر ",EGY.DMC DRAMA
+http://teratv.xyz:8880/387708389664/513367594186/38805
+#EXTINF:-1 tvg-id="" tvg-name="EGY.CBC FHD" tvg-logo="http://go4.pw/AFRICA/EGYPT/CBC.png" group-title="EGYPT | مصر ",EGY.CBC FHD
+http://teratv.xyz:8880/387708389664/513367594186/38798
+#EXTINF:-1 tvg-id="" tvg-name="EGY. CBC" tvg-logo="http://go4.pw/AFRICA/EGYPT/CBC.png" group-title="EGYPT | مصر ",EGY. CBC
+http://teratv.xyz:8880/387708389664/513367594186/223764
+#EXTINF:-1 tvg-id="" tvg-name="EGY.CBC DRAMA FHD" tvg-logo="http://go4.pw/AFRICA/EGYPT/CBCDRAMA.png" group-title="EGYPT | مصر ",EGY.CBC DRAMA FHD
+http://teratv.xyz:8880/387708389664/513367594186/38799
+#EXTINF:-1 tvg-id="" tvg-name="EGY.AL OULA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/15/Logo_al_aoula.png" group-title="EGYPT | مصر ",EGY.AL OULA HD
+http://teratv.xyz:8880/387708389664/513367594186/38779
+#EXTINF:-1 tvg-id="" tvg-name="EGY.AL THANYA FHD" tvg-logo="http://go4.pw/AFRICA/EGYPT/ALTHANYA.png" group-title="EGYPT | مصر ",EGY.AL THANYA FHD
+http://teratv.xyz:8880/387708389664/513367594186/38774
+#EXTINF:-1 tvg-id="" tvg-name="EGY.AL MASRIYA 1 FHD" tvg-logo="http://go4.pw/AFRICA/EGYPT/ALMASRIYA.png" group-title="EGYPT | مصر ",EGY.AL MASRIYA 1 FHD
+http://teratv.xyz:8880/387708389664/513367594186/38773
+#EXTINF:-1 tvg-id="" tvg-name="SD: Sudan Now 24" tvg-logo="https://th.bing.com/th/id/OIP.2RxU7lFC078TUK11MvN31QAAAA?w=119&h=148&c=7&r=0&o=5&dpr=1.1&pid=1.7" group-title="SUDAN | السودان",SD: Sudan Now 24
+http://teratv.xyz:8880/387708389664/513367594186/272454
+#EXTINF:-1 tvg-id="" tvg-name="SU: Sudania 24 HD" tvg-logo="https://static.mytuner.mobi/media/countries/sd.png" group-title="SUDAN | السودان",SU: Sudania 24 HD
+http://teratv.xyz:8880/387708389664/513367594186/37784
+#EXTINF:-1 tvg-id="" tvg-name="SU: ASHOROOQ" tvg-logo="https://th.bing.com/th/id/OIP.tnOq6EQbnijr4a6h7IbCBAAAAA?pid=ImgDet&w=132&h=99&c=7&dpr=1.1" group-title="SUDAN | السودان",SU: ASHOROOQ
+http://teratv.xyz:8880/387708389664/513367594186/37788
+#EXTINF:-1 tvg-id="" tvg-name="SU: Sudan Bukra" tvg-logo="http://go4.pw/AFRICA/SUDAN/BOUKRA.png" group-title="SUDAN | السودان",SU: Sudan Bukra
+http://teratv.xyz:8880/387708389664/513367594186/272459
+#EXTINF:-1 tvg-id="" tvg-name="SU: Sudan Al Barlemania" tvg-logo="http://go4.pw/AFRICA/SUDAN/BARLAMAN.png" group-title="SUDAN | السودان",SU: Sudan Al Barlemania
+http://teratv.xyz:8880/387708389664/513367594186/272461
+#EXTINF:-1 tvg-id="" tvg-name="SU:SUDAN BUKRA" tvg-logo="http://go4.pw/AFRICA/SUDAN/BOUKRA.png" group-title="SUDAN | السودان",SU:SUDAN BUKRA
+http://teratv.xyz:8880/387708389664/513367594186/37790
+#EXTINF:-1 tvg-id="" tvg-name="SU:Sahel TV" tvg-logo="http://go4.pw/AFRICA/MAURITANIA/SAHELTV.png" group-title="SUDAN | السودان",SU:Sahel TV
+http://teratv.xyz:8880/387708389664/513367594186/37791
+#EXTINF:-1 tvg-id="" tvg-name="SU: Tebe 8" tvg-logo="http://go4.pw/EUROPE/FRANCE/telesud.png" group-title="SUDAN | السودان",SU: Tebe 8
+http://teratv.xyz:8880/387708389664/513367594186/272470
+#EXTINF:-1 tvg-id="" tvg-name="SU: BALAD" tvg-logo="https://static.mytuner.mobi/media/countries/sd.png" group-title="SUDAN | السودان",SU: BALAD
+http://teratv.xyz:8880/387708389664/513367594186/122145
+#EXTINF:-1 tvg-id="" tvg-name="SU: SudanTV" tvg-logo="http://go4.pw/AFRICA/SUDAN/SUDANTV.png" group-title="SUDAN | السودان",SU: SudanTV
+http://teratv.xyz:8880/387708389664/513367594186/37785
 #EXTINF:-1 tvg-id="TeleSahel.ne@SD",ORTN Télé Sahel (576p)
 http://69.64.57.208/telesahel/playlist.m3u8
 #EXTINF:-1 tvg-id="BurkinaInfoTV.bf@SD" tvg-logo="https://i.imgur.com/a9v5CbU.png" group-title="Burkina Faso",Burkina Info TV (540p)
