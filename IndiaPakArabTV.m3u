@@ -1,65 +1,77 @@
-#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK | ARY DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY DIGITAL
-http://opplex.to:8080/Rachitfb/182903/221337
-#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK | ARY DIGITAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY DIGITAL HD
-http://opplex.to:8080/Rachitfb/182903/25989
-#EXTINF:-1 tvg-id="aryzindagi.pk" tvg-name="PK | ARY ZINDAGI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY ZINDAGI
-http://opplex.to:8080/Rachitfb/182903/25990
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY Family" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/12/ARY-Family.png" group-title="PAKISTAN | ENTERTAINMENT",PK: ARY Family
-http://opplex.to:8080/Rachitfb/182903/103673
-#EXTINF:-1 tvg-id="expressentertainment.pk" tvg-name="PK | Express Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Express_Entertainment.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Express Entertainment
-http://opplex.to:8080/Rachitfb/182903/26010
-#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | HUM TV HD
-http://opplex.to:8080/Rachitfb/182903/221339
-#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV (4K)" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | HUM TV (4K)
-http://opplex.to:8080/Rachitfb/182903/25981
-#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | HUM SITARAY
-http://opplex.to:8080/Rachitfb/182903/25983
-#EXTINF:-1 tvg-id="humtvworld.pk" tvg-name="PK: HUM EUROPE*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="PAKISTAN | ENTERTAINMENT",PK: HUM EUROPE*
-http://opplex.to:8080/Rachitfb/182903/103688
-#EXTINF:-1 tvg-id="hummasala.pk" tvg-name="PK: HUM MASALA" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: HUM MASALA
-http://opplex.to:8080/Rachitfb/182903/103689
-#EXTINF:-1 tvg-id="" tvg-name="PK: Hum Pashto 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/22-35-30-cropped-pashto-logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK: Hum Pashto 1
-http://opplex.to:8080/Rachitfb/182903/207397
-#EXTINF:-1 tvg-id="geotv.pk" tvg-name="PK | GEO ENTERMENT" tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | GEO ENTERMENT
-http://opplex.to:8080/Rachitfb/182903/221338
-#EXTINF:-1 tvg-id="geotv.pk" tvg-name="PK | GEO ENTERMENT FHD" tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | GEO ENTERMENT FHD
-http://opplex.to:8080/Rachitfb/182903/25977
-#EXTINF:-1 tvg-id="geokahani.pk" tvg-name="PK | GEO KAHANI HD" tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | GEO KAHANI HD
-http://opplex.to:8080/Rachitfb/182903/221341
-#EXTINF:-1 tvg-id="urdu1.pk" tvg-name="PK | Urdu 1" tvg-logo="http://pm1.narvii.com/6639/b6b2cb046acee550b1fab849ab8d841bf19c4030_00.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK | Urdu 1
-http://opplex.to:8080/Rachitfb/182903/221340
-#EXTINF:-1 tvg-id="" tvg-name="PK | Urdu 1 HD" tvg-logo="http://pm1.narvii.com/6639/b6b2cb046acee550b1fab849ab8d841bf19c4030_00.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK | Urdu 1 HD
-http://opplex.to:8080/Rachitfb/182903/26040
-#EXTINF:-1 tvg-id="" tvg-name="PK: PTV HOME" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV HOME
-http://opplex.to:8080/Rachitfb/182903/221342
 #EXTINF:-1 tvg-id="geonews.pk" tvg-name="PK | GEO NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/150px-GEO_News_logo_in_Urdu.png" group-title="PAKISTAN | NEWS",PK | GEO NEWS
-http://opplex.to:8080/Rachitfb/182903/221343
+http://xtv.ooo:8080/43843274/54920340/221343
 #EXTINF:-1 tvg-id="geonews.pk" tvg-name="PK | GEO NEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/GEO_News_logo_in_Urdu.png/150px-GEO_News_logo_in_Urdu.png" group-title="PAKISTAN | NEWS",PK | GEO NEWS FHD
-http://opplex.to:8080/Rachitfb/182903/25976
+http://xtv.ooo:8080/43843274/54920340/25976
 #EXTINF:-1 tvg-id="arynews.eg" tvg-name="PK | ARY News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="PAKISTAN | NEWS",PK | ARY News
-http://opplex.to:8080/Rachitfb/182903/221344
+http://xtv.ooo:8080/43843274/54920340/221344
 #EXTINF:-1 tvg-id="arynews.eg" tvg-name="PK | ARY News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="PAKISTAN | NEWS",PK | ARY News HD
-http://opplex.to:8080/Rachitfb/182903/25980
+http://xtv.ooo:8080/43843274/54920340/25980
 #EXTINF:-1 tvg-id="expressnews.pk" tvg-name="PK | Express news" tvg-logo="http://logo.opplextv.com/logo/EXPRESSNEWS.png" group-title="PAKISTAN | NEWS",PK | Express news
-http://opplex.to:8080/Rachitfb/182903/26011
+http://xtv.ooo:8080/43843274/54920340/26011
 #EXTINF:-1 tvg-id="" tvg-name="PK | Geo Tezz" tvg-logo="http://logo.opplextv.com/logo/GEOTEZZ.png" group-title="PAKISTAN | NEWS",PK | Geo Tezz
-http://opplex.to:8080/Rachitfb/182903/26013
+http://xtv.ooo:8080/43843274/54920340/26013
 #EXTINF:-1 tvg-id="92news.pk" tvg-name="PK | 92 News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="PAKISTAN | NEWS",PK | 92 News
-http://opplex.to:8080/Rachitfb/182903/221345
+http://xtv.ooo:8080/43843274/54920340/221345
 #EXTINF:-1 tvg-id="92news.pk" tvg-name="PK | 92 News HD" tvg-logo="https://static.epg.best/pk/92News.pk.png" group-title="PAKISTAN | NEWS",PK | 92 News HD
-http://opplex.to:8080/Rachitfb/182903/25996
+http://xtv.ooo:8080/43843274/54920340/25996
 #EXTINF:-1 tvg-id="dunyanews.pk" tvg-name="PK | Dunya News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Dunya_News.jpg/220px-Dunya_News.jpg" group-title="PAKISTAN | NEWS",PK | Dunya News
-http://opplex.to:8080/Rachitfb/182903/221346
+http://xtv.ooo:8080/43843274/54920340/221346
 #EXTINF:-1 tvg-id="dunyanews.pk" tvg-name="PK | Dunya News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Dunya_News.jpg/220px-Dunya_News.jpg" group-title="PAKISTAN | NEWS",PK | Dunya News HD
-http://opplex.to:8080/Rachitfb/182903/26008
+http://xtv.ooo:8080/43843274/54920340/26008
 #EXTINF:-1 tvg-id="samaatv.pk" tvg-name="PK | Samaa News" tvg-logo="http://logo.opplextv.com/logo/SAMAANEWS.png" group-title="PAKISTAN | NEWS",PK | Samaa News
-http://opplex.to:8080/Rachitfb/182903/26036
+http://xtv.ooo:8080/43843274/54920340/26036
 #EXTINF:-1 tvg-id="" tvg-name="PK | Bol News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAKISTAN | NEWS",PK | Bol News HD
-http://opplex.to:8080/Rachitfb/182903/26046
+http://xtv.ooo:8080/43843274/54920340/26046
 #EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | Hum News FHD" tvg-logo="" group-title="PAKISTAN | NEWS",PK | Hum News FHD
-http://opplex.to:8080/Rachitfb/182903/26018
+http://xtv.ooo:8080/43843274/54920340/26018
 #EXTINF:-1 tvg-id="" tvg-name="PK | Lahore News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Lahore_News.png/220px-Lahore_News.png" group-title="PAKISTAN | NEWS",PK | Lahore News HD
-http://opplex.to:8080/Rachitfb/182903/26047
+http://xtv.ooo:8080/43843274/54920340/26047
+#EXTINF:-1 tvg-id="" tvg-name="PK | PTV NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png" group-title="PAKISTAN | NEWS",PK | PTV NEWS
+http://xtv.ooo:8080/43843274/54920340/25988
+#EXTINF:-1 tvg-id="" tvg-name="PK | GNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/GNN_News_logo.png" group-title="PAKISTAN | NEWS",PK | GNN HD
+http://xtv.ooo:8080/43843274/54920340/25991
+#EXTINF:-1 tvg-id="" tvg-name="PK | Capital Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Capital_TV.jpg/200px-Capital_TV.jpg" group-title="PAKISTAN | NEWS",PK | Capital Tv
+http://xtv.ooo:8080/43843274/54920340/25992
+#EXTINF:-1 tvg-id="" tvg-name="PK | NEO NEWS" tvg-logo="https://www.neonetwork.pk/uploads/theme/logo-1532677402.png" group-title="PAKISTAN | NEWS",PK | NEO NEWS
+http://xtv.ooo:8080/43843274/54920340/25993
+#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK | ARY DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY DIGITAL
+http://xtv.ooo:8080/43843274/54920340/221337
+#EXTINF:-1 tvg-id="arydigital.pk" tvg-name="PK | ARY DIGITAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY DIGITAL HD
+http://xtv.ooo:8080/43843274/54920340/25989
+#EXTINF:-1 tvg-id="aryzindagi.pk" tvg-name="PK | ARY ZINDAGI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/ARY_Zindagi.png" group-title="PAKISTAN | ENTERTAINMENT",PK | ARY ZINDAGI
+http://xtv.ooo:8080/43843274/54920340/25990
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY Family" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/12/ARY-Family.png" group-title="PAKISTAN | ENTERTAINMENT",PK: ARY Family
+http://xtv.ooo:8080/43843274/54920340/103673
+#EXTINF:-1 tvg-id="expressentertainment.pk" tvg-name="PK | Express Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Express_Entertainment.png" group-title="PAKISTAN | ENTERTAINMENT",PK | Express Entertainment
+http://xtv.ooo:8080/43843274/54920340/26010
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV HD" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | HUM TV HD
+http://xtv.ooo:8080/43843274/54920340/221339
+#EXTINF:-1 tvg-id="humtv.pk" tvg-name="PK | HUM TV (4K)" tvg-logo="https://static.epg.best/pk/HumTV.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | HUM TV (4K)
+http://xtv.ooo:8080/43843274/54920340/25981
+#EXTINF:-1 tvg-id="" tvg-name="PK | HUM SITARAY" tvg-logo="https://static.epg.best/pk/HumSitaray.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | HUM SITARAY
+http://xtv.ooo:8080/43843274/54920340/25983
+#EXTINF:-1 tvg-id="humtvworld.pk" tvg-name="PK: HUM EUROPE*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="PAKISTAN | ENTERTAINMENT",PK: HUM EUROPE*
+http://xtv.ooo:8080/43843274/54920340/103688
+#EXTINF:-1 tvg-id="hummasala.pk" tvg-name="PK: HUM MASALA" tvg-logo="" group-title="PAKISTAN | ENTERTAINMENT",PK: HUM MASALA
+http://xtv.ooo:8080/43843274/54920340/103689
+#EXTINF:-1 tvg-id="" tvg-name="PK: Hum Pashto 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/22-35-30-cropped-pashto-logo.png" group-title="PAKISTAN | ENTERTAINMENT",PK: Hum Pashto 1
+http://xtv.ooo:8080/43843274/54920340/207397
+#EXTINF:-1 tvg-id="geotv.pk" tvg-name="PK | GEO ENTERMENT" tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | GEO ENTERMENT
+http://xtv.ooo:8080/43843274/54920340/221338
+#EXTINF:-1 tvg-id="geotv.pk" tvg-name="PK | GEO ENTERMENT FHD" tvg-logo="https://static.epg.best/pk/HarPalGeo.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | GEO ENTERMENT FHD
+http://xtv.ooo:8080/43843274/54920340/25977
+#EXTINF:-1 tvg-id="geokahani.pk" tvg-name="PK | GEO KAHANI HD" tvg-logo="https://static.epg.best/pk/Geokahani.pk.png" group-title="PAKISTAN | ENTERTAINMENT",PK | GEO KAHANI HD
+http://xtv.ooo:8080/43843274/54920340/221341
+#EXTINF:-1 tvg-id="urdu1.pk" tvg-name="PK | Urdu 1" tvg-logo="http://pm1.narvii.com/6639/b6b2cb046acee550b1fab849ab8d841bf19c4030_00.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK | Urdu 1
+http://xtv.ooo:8080/43843274/54920340/221340
+#EXTINF:-1 tvg-id="" tvg-name="PK | Urdu 1 HD" tvg-logo="http://pm1.narvii.com/6639/b6b2cb046acee550b1fab849ab8d841bf19c4030_00.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK | Urdu 1 HD
+http://xtv.ooo:8080/43843274/54920340/26040
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV HOME" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV HOME
+http://xtv.ooo:8080/43843274/54920340/221342
+#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PK: PTV HOME HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/PTV_Home.png" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV HOME HD
+http://xtv.ooo:8080/43843274/54920340/103703
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV NATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/PTV_National.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK: PTV NATIONAL
+http://xtv.ooo:8080/43843274/54920340/110050
 
 #EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="India",DD National HD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
@@ -68,7 +80,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/in
 #EXTINF:-1 tvg-id="DDOdia.in@SD" tvg-logo="https://i.imgur.com/Rw61ile.png" group-title="India",DD Odia
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/245d9a9e-4820-43b1-af33-4a3017d09f52/2.m3u8
 #EXTINF:-1 tvg-id="DDPunjabi.in@SD" tvg-logo="https://i.imgur.com/WVtl6n2.png" group-title="India",DD Punjabi
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/20c8ad14-a158-4a42-8889-e032d070856e/2.m3u8
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f856e/2.m3u8
 #EXTINF:-1 tvg-id="DDRajasthan.in@SD" tvg-logo="https://i.imgur.com/t8KCi4L.png" group-title="India",DD Rajasthan (720p)
 https://cdn-1.pishow.tv/live/34/master.m3u8
 #EXTINF:-1 tvg-id="DDArunPrabha.in@SD" tvg-logo="https://i.imgur.com/dHURIzT.png" group-title="India",DD Arun Prabha (360p)
