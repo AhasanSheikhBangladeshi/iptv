@@ -254,22 +254,11 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 #EXTINF:-1 tvg-id="BahrainTV.bh@SD" tvg-logo="https://i.postimg.cc/rw57LMpY/bahraintv.png" group-title="Bahrain",Bahrain TV (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="Ye: Al Yemen" tvg-logo="http://tv.asc.vg/al.yemen.ye.png" group-title="Yemen ⭐",Ye: Yemen TV
+http://vipxtv.net:80/live/Rawan11/01552777793m/348204.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ye: Hadramaut" tvg-logo="http://tv.asc.vg/hadramaut.ye.png" group-title="Yemen ⭐",Ye: Hadramaut
+http://vipxtv.net:80/live/Rawan11/01552777793m/348215.ts
 
-
-#EXTINF:-1 tvg-ID="" tvg-name="SY: Syria TV HD" tvg-logo="http://tv.asc.vg/syria.tv.sy.png" group-title="Syria ⭐",SY: Syria TV HD
-
-#EXTINF:-1 tvg-ID="" tvg-name="Sy: Syria TV 2 SD" tvg-logo="http://tv.asc.vg/syriatv2.sy.png" group-title="Syria ⭐",Sy: Syria TV 2 SD
-
-#EXTINF:-1 tvg-ID="" tvg-name="Sy: Syria One" tvg-logo="http://tv.asc.vg/syria.one.sy.png" group-title="Syria ⭐",Sy: Syria One
-
-#EXTINF:-1 tvg-ID="" tvg-name="Sy: Ana Sooria" tvg-logo="http://tv.asc.vg/syria.today.sy.png" group-title="Syria ⭐",Sy: Ana Sooria
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="Sy: Misk TV" tvg-logo="http://tv.asc.vg/misk.sy.png" group-title="Syria ⭐",Sy: Misk TV
-
-#EXTINF:-1 tvg-ID="" tvg-name="Sy: Al Ekhbariya Sy HD" tvg-logo="http://tv.asc.vg/al.ikhbariya.sy.png" group-title="Syria ⭐",Sy: Al Ekhbariya Sy HD
-
-#EXTINF:-1 tvg-ID="" tvg-name="EG: Al Oula HD" tvg-logo="http://tv.asc.vg/al.oula.hd.eg.png" group-title="Egypt ⭐",EG: Al Oula HD
 
 #EXTINF:-1 tvg-id="TeleSahel.ne@SD",ORTN Télé Sahel (576p)
 http://69.64.57.208/telesahel/playlist.m3u8
