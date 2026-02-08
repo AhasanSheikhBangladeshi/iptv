@@ -187,6 +187,14 @@ https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IQ: Afaq TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/9406549d09fe5b92f850d147c11f4c0f.png" group-title="Iraq",IQ: Afaq TV
 http://iptvtree.net:8080/F18115/068f009e/225973
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Fallujah TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/033e00aae3ee875b4a4b77a9a837ec5b.png" group-title="Iraq",IQ: Al Fallujah TV
+http://iptvtree.net:8080/F18115/068f009e/225974
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Mawsleya TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/3a977b7fe95483c687cce734e94c48cb.png" group-title="Iraq",IQ: Al Mawsleya TV
+http://iptvtree.net:8080/F18115/068f009e/11332
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Naeem TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/22df46555902b11a8e47ad92297dad9d.jpg" group-title="Iraq",IQ: Al Naeem TV
+http://iptvtree.net:8080/F18115/068f009e/295177
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Nujaba TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/f8fbe68c43dfda53c4ea37df45448597.jpg" group-title="Iraq",IQ: Al Nujaba TV
+http://iptvtree.net:8080/F18115/068f009e/270571
 #EXTINF:-1 tvg-id="" tvg-name="IQ: Al Rafidain TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/9296efba8e765b033ec5793eab781e76.png" group-title="Iraq",IQ: Al Rafidain TV
 http://iptvtree.net:8080/F18115/068f009e/225175
 #EXTINF:-1 tvg-id="" tvg-name="IQ: Al Rasheed TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/f2054408b7411c6efb80a193d3377f73.png" group-title="Iraq",IQ: Al Rasheed TV
@@ -225,7 +233,10 @@ http://iptvtree.net:8080/F18115/068f009e/270565
 http://iptvtree.net:8080/F18115/068f009e/266509
 #EXTINF:-1 tvg-id="" tvg-name="IQ: Karbala" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/a253d113f75df58356adf3c900792878.jpg" group-title="Iraq",IQ: Karbala
 http://iptvtree.net:8080/F18115/068f009e/266526
-
+#EXTINF:-1 tvg-id="" tvg-name="IQ: MBC Iraq" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a88b67a72a12e2187ecb56f6a363918c.png" group-title="Iraq",IQ: MBC Iraq
+http://iptvtree.net:8080/F18115/068f009e/225136
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Samarra TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/1638ada83babfcd52ced2f51748b5930.png" group-title="Iraq",IQ: Samarra TV
+http://iptvtree.net:8080/F18115/068f009e/64284
 
 #EXTINF:-1 tvg-id="KTV1.kw@SD" tvg-logo="https://i.imgur.com/kG0d8Ay.png" group-title="Kuwait",KTV 1 (1080p)
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
