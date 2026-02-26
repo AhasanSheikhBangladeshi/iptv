@@ -314,7 +314,10 @@ http://iptvtree.net:8080/F18115/068f009e/201162
 http://iptvtree.net:8080/F18115/068f009e/201144
 #EXTINF:-1 tvg-id="" tvg-name="SY: Halab Today TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/45157da3e9365e960882e3c9ca6d202b.png" group-title="Syria",SY: Halab Today TV
 http://iptvtree.net:8080/F18115/068f009e/17410
-
+#EXTINF:-1 tvg-id="" tvg-name="EG: Alhayah" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/2fd46d9667f14278e41bd414634619a9.png" group-title="Egypt",EG: Alhayah
+http://iptvtree.net:8080/F18115/068f009e/1290
+#EXTINF:-1 tvg-id="" tvg-name="EG: Alhayat Drama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/16a024e39ff4da2d3d0838f07a1319eb.png" group-title="Egypt",EG: Alhayat Drama
+http://iptvtree.net:8080/F18115/068f009e/43804
 #EXTINF:-1 tvg-id="" tvg-name="EG: Al Masriyah" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ed5a568c95e5fa89e3a021ebcfea7b17.png" group-title="Egypt",EG: Al Masriyah
 http://iptvtree.net:8080/F18115/068f009e/265137
 #EXTINF:-1 tvg-id="" tvg-name="EG: AL MASSAR AL OULA" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="Egypt",EG: AL MASSAR AL OULA
