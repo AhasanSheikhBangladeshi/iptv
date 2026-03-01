@@ -170,7 +170,34 @@ https://stream.raajje.mv/live/rtv_live/index.m3u8
 #EXTINF:-1 tvg-id="SSTV.mv@SD" tvg-logo="https://i.imgur.com/jtIhDZk.png" group-title="Maldives",SSTV (1080p)
 https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
 
-#EXTINF:-1,|IR| IRIB TV 1
+#EXTINF:-1 tvg-id="" tvg-name="Per: IRIB TV 1" tvg-logo="http://imag.dream-tv.ga:2095/images/imageIRIB.png" group-title="Iran-ايران",Per: IRIB TV 1
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/122607
+#EXTINF:-1 tvg-id="" tvg-name="Per: IRIB TV 2" tvg-logo="http://imag.dream-tv.ga:2095/images/imageIRIB.png" group-title="Iran-ايران",Per: IRIB TV 2
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/122606
+#EXTINF:-1 tvg-id="" tvg-name="Per: IRIB TV 3" tvg-logo="http://imag.dream-tv.ga:2095/images/imageIRIB.png" group-title="Iran-ايران",Per: IRIB TV 3
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/122605
+#EXTINF:-1 tvg-id="" tvg-name="Per: IRIB TV 4" tvg-logo="http://imag.dream-tv.ga:2095/images/imageIRIB.png" group-title="Iran-ايران",Per: IRIB TV 4
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/122604
+#EXTINF:-1 tvg-id="" tvg-name="Per: IRIB TV 5" tvg-logo="http://imag.dream-tv.ga:2095/images/imageIRIB.png" group-title="Iran-ايران",Per: IRIB TV 5
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/122603
+#EXTINF:-1 tvg-id="" tvg-name="Per: IRINN" tvg-logo="http://imag.dream-tv.ga:2095/images/imageIRINN.png" group-title="Iran-ايران",Per: IRINN
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/122602
+#EXTINF:-1 tvg-id="" tvg-name="Per: IRIB 3 TV FHD" tvg-logo="http://imag.dream-tv.ga:2095/images/image5cadcdc7e032b.png" group-title="Iran-ايران",Per: IRIB 3 TV FHD
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/122689
+#EXTINF:-1 tvg-id="" tvg-name="Per: IRIB Jame Jam" tvg-logo="http://imag.dream-tv.ga:2095/images/imageIRIB.png" group-title="Iran-ايران",Per: IRIB Jame Jam
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/122591
+#EXTINF:-1 tvg-id="" tvg-name="Per: Sahar Urdu" tvg-logo="http://imag.dream-tv.ga:2095/images/imageSahar.png" group-title="Iran-ايران",Per: Sahar Urdu
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/122561
+#EXTINF:-1 tvg-id="" tvg-name="Per: Sahar Balkan" tvg-logo="http://imag.dream-tv.ga:2095/images/imageSahar.png" group-title="Iran-ايران",Per: Sahar Balkan
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/122560
+#EXTINF:-1 tvg-id="" tvg-name="Per: Sahar Azari" tvg-logo="http://imag.dream-tv.ga:2095/images/imageSahar.png" group-title="Iran-ايران",Per: Sahar Azari
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/122559
+#EXTINF:-1 tvg-id="" tvg-name="Per: Gem TV" tvg-logo="http://imag.dream-tv.ga:2095/images/imageGemTV.png" group-title="Iran-ايران",Per: Gem TV
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/122673
+#EXTINF:-1 tvg-id="" tvg-name="Per: Omid e Iran" tvg-logo="http://imag.dream-tv.ga:2095/images/imageOmideIran.png" group-title="Iran-ايران",Per: Omid e Iran
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/122700
+#EXTINF:-1 tvg-id="" tvg-name="Per: BBC Persian" tvg-logo="http://imag.dream-tv.ga:2095/images/imageBBC.png" group-title="Iran-ايران",Per: BBC Persian
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/122722
 
 
 
@@ -185,20 +212,66 @@ https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8
 #EXTINF:-1 tvg-id="NRTTV.iq@SD" tvg-logo="https://i.imgur.com/uGKGtbW.png" group-title="News",NRT TV (720p) [Not 24/7]
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IQ: Afaq TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/9406549d09fe5b92f850d147c11f4c0f.png" group-title="Iraq",IQ: Afaq TV
-http://iptvtree.net:8080/F18115/068f009e/225973
-#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Fallujah TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/033e00aae3ee875b4a4b77a9a837ec5b.png" group-title="Iraq",IQ: Al Fallujah TV
-http://iptvtree.net:8080/F18115/068f009e/225974
-#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Mawsleya TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/3a977b7fe95483c687cce734e94c48cb.png" group-title="Iraq",IQ: Al Mawsleya TV
-http://iptvtree.net:8080/F18115/068f009e/11332
-#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Naeem TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/22df46555902b11a8e47ad92297dad9d.jpg" group-title="Iraq",IQ: Al Naeem TV
-http://iptvtree.net:8080/F18115/068f009e/295177
-#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Nujaba TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/f8fbe68c43dfda53c4ea37df45448597.jpg" group-title="Iraq",IQ: Al Nujaba TV
-http://iptvtree.net:8080/F18115/068f009e/270571
-#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Rafidain TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/9296efba8e765b033ec5793eab781e76.png" group-title="Iraq",IQ: Al Rafidain TV
-http://iptvtree.net:8080/F18115/068f009e/225175
-#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Rasheed TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/f2054408b7411c6efb80a193d3377f73.png" group-title="Iraq",IQ: Al Rasheed TV
-http://iptvtree.net:8080/F18115/
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Al Rabiaa Iraq ✦" tvg-logo="https://i.ibb.co/ynQVvdRQ/1381-1.png" group-title="IRAQ-العراق",IQ-Al Rabiaa Iraq ✦
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/1692102
+#EXTINF:-1 tvg-id="" tvg-name="IQ-MBC IRAQ" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/mbc-iraq-ae-iq.png" group-title="IRAQ-العراق",IQ-MBC IRAQ
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/119291
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Iraqia-News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvEuJlDHOrKdn2ka4sTOE2Z2-F78j96eQDw&usqp=CAU" group-title="IRAQ-العراق",IQ-Iraqia-News
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/53152
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Iraqia TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/imn-iq.png" group-title="IRAQ-العراق",IQ-Iraqia TV
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/52370
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Iraqia Turkuman" tvg-logo="http://imag.dream-tv.ga:2095/images/imageimn-turkmen-iq.png" group-title="IRAQ-العراق",IQ-Iraqia Turkuman
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/227
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Iraqia-Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/imn-turkmen-iq.png" group-title="IRAQ-العراق",IQ-Iraqia-Sport
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/53153
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Iraq 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/iraq-24.png" group-title="IRAQ-العراق",IQ-Iraq 24
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/118244
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Alsharqiya  HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alsharqiya-tv-ae.png" group-title="IRAQ-العراق",IQ-Alsharqiya  HD
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/382
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Alsharqiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Al_Sharqiya.png" group-title="IRAQ-العراق",IQ-Alsharqiya
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/136699
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Alsharqiya News HD" tvg-logo="http://toptv2.com:25461/logo/logoo/al_sharqiya_news.png" group-title="IRAQ-العراق",IQ-Alsharqiya News HD
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/441
+#EXTINF:-1 tvg-id="" tvg-name="IQ-UTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/utv-iq.png" group-title="IRAQ-العراق",IQ-UTV
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/81590
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Afak" tvg-logo="https://afaq.iq/static/images/site/logo_afaq2.png" group-title="IRAQ-العراق",IQ-Afak
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/327
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Future" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iraq_future_tv.png" group-title="IRAQ-العراق",IQ-Future
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/229
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Hona-Baghdad" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hona-baghdad-satellite-channel-iq.png" group-title="IRAQ-العراق",IQ-Hona-Baghdad
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/235
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Alahad" tvg-logo="http://imag.dream-tv.ga:2095/images/imageAlahad.png" group-title="IRAQ-العراق",IQ-Alahad
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/341
+#EXTINF:-1 tvg-id="" tvg-name="IQ-ALanbar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/alanbar-satellite-channel-iq.png" group-title="IRAQ-العراق",IQ-ALanbar
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/342
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Alanwar" tvg-logo="http://imag.dream-tv.ga:2095/images/imageAlanwar.png" group-title="IRAQ-العراق",IQ-Alanwar
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/343
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Anwar-TV-2" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj1z2gNMAGAskCkwCXu29n3RdwrNmYsqvPn0Y4V=s900-c-k-c0x00ffffff-no-rj" group-title="IRAQ-العراق",IQ-Anwar-TV-2
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/20645
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Al-AqilaT" tvg-logo="http://imag.dream-tv.ga:2095/images/imageAl-Aqila.png" group-title="IRAQ-العراق",IQ-Al-AqilaT
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/344
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Alforat" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/alforat-tv-iq.png" group-title="IRAQ-العراق",IQ-Alforat
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/351
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Alsharqiya News" tvg-logo="http://imag.dream-tv.ga:2095/images/imageAlsharqiya News.png" group-title="IRAQ-العراق",IQ-Alsharqiya News
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/136700
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Alkawthar" tvg-logo="http://imag.dream-tv.ga:2095/images/imageAlkawthar.png" group-title="IRAQ-العراق",IQ-Alkawthar
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/364
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Al-Naeem TV" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/al-naeem-tv-iq.png" group-title="IRAQ-العراق",IQ-Al-Naeem TV
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/374
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Al-Rafiden" tvg-logo="http://imag.dream-tv.ga:2095/images/imageAl-Rafiden.png" group-title="IRAQ-العراق",IQ-Al-Rafiden
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/380
+#EXTINF:-1 tvg-id="" tvg-name="IQ-AlRasheed" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/al_rasheed_tv.png" group-title="IRAQ-العراق",IQ-AlRasheed
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/381
+#EXTINF:-1 tvg-id="" tvg-name="IQ-AlSumaria" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/alsumaria-iq.png" group-title="IRAQ-العراق",IQ-AlSumaria
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/384
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Altaghier" tvg-logo="http://imag.dream-tv.ga:2095/images/imageAltaghier.png" group-title="IRAQ-العراق",IQ-Altaghier
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/385
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Albasira" tvg-logo="http://imag.dream-tv.ga:2095/images/imageAlbasira.png" group-title="IRAQ-العراق",IQ-Albasira
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/397
+#EXTINF:-1 tvg-id="" tvg-name="IQ-Almawsleya" tvg-logo="http://imag.dream-tv.ga:2095/images/imageAlmawsleya.png" group-title="IRAQ-العراق",IQ-Almawsleya
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/422
+#EXTINF:-1 tvg-id="" tvg-name="IQ-KARBALA-TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/karbala_satellite_channel.png" group-title="IRAQ-العراق",IQ-KARBALA-TV
+http://magic-tv.live:80/muvxx5294458/cwazz51166589/49415
 
 
 #EXTINF:-1 tvg-id="KTV1.kw@SD" tvg-logo="https://i.imgur.com/kG0d8Ay.png" group-title="Kuwait",KTV 1 (1080p)
@@ -227,32 +300,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainTV.bh@SD" tvg-logo="https://i.postimg.cc/rw57LMpY/bahraintv.png" group-title="Bahrain",Bahrain TV (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SA: Alarabiya" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-10/1e9d95fff526f4e673f1e47f34eed476.png" group-title="Saudi Arabia",SA: Alarabiya
-http://iptvtree.net:8080/F18115/068f009e/308368
-#EXTINF:-1 tvg-id="" tvg-name="SA: Al Majd" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/016e4e2b9bda48b2c72c666dbd1e79f6.png" group-title="Saudi Arabia",SA: Al Majd
-http://iptvtree.net:8080/F18115/068f009e/225298
-#EXTINF:-1 tvg-id="" tvg-name="SA: Alresalah TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-11/2f3460631cd293bc552ab655575d1a17.png" group-title="Saudi Arabia",SA: Alresalah TV
-http://iptvtree.net:8080/F18115/068f009e/225180
-#EXTINF:-1 tvg-id="" tvg-name="SA: Alsahraa TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/56dd00640216705fb95285bcd39d0851.png" group-title="Saudi Arabia",SA: Alsahraa TV
-http://iptvtree.net:8080/F18115/068f009e/306107
-#EXTINF:-1 tvg-id="" tvg-name="SA: ART Aflam 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/e070b3c823dd8bd955ec809109924912.png" group-title="Saudi Arabia",SA: ART Aflam 1
-http://iptvtree.net:8080/F18115/068f009e/1278
-#EXTINF:-1 tvg-id="" tvg-name="SA: Bedaya TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/532b479b31cbadf8ec7a0a8baa7305ab.png" group-title="Saudi Arabia",SA: Bedaya TV
-http://iptvtree.net:8080/F18115/068f009e/245624
-#EXTINF:-1 tvg-id="" tvg-name="SA: Ekhbariya TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/35c230f60200eb60de3175f084c1c5a4.png" group-title="Saudi Arabia",SA: Ekhbariya TV
-http://iptvtree.net:8080/F18115/068f009e/36634
-#EXTINF:-1 tvg-id="" tvg-name="SA: Saudi TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/595ef759d1c68e061f2abde8a531bea8.png" group-title="Saudi Arabia",SA: Saudi TV
-http://iptvtree.net:8080/F18115/068f009e/3741
-#EXTINF:-1 tvg-id="" tvg-name="SA: Saudia Alaan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2026-02/1784fe66319c032e8271969d2d1e2d58.png" group-title="Saudi Arabia",SA: Saudia Alaan TV
-http://iptvtree.net:8080/F18115/068f009e/309247
-#EXTINF:-1 tvg-id="" tvg-name="YE: Aden TV 33" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/677796ba491d1e7a5696ed5bde4d4a6d.png" group-title="Yemen",YE: Aden TV 33
-http://iptvtree.net:8080/F18115/068f009e/266324
-#EXTINF:-1 tvg-id="" tvg-name="YE: Alhawyah" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1d273d77aec2d7f29f0c946f06139b50.png" group-title="Yemen",YE: Alhawyah
-http://iptvtree.net:8080/F18115/068f009e/298407
-#EXTINF:-1 tvg-id="" tvg-name="YE: Almahriah TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d01a3d1efc9f733b8fb9bdb4d1c61f2d.png" group-title="Yemen",YE: Almahriah TV
-http://iptvtree.net:8080/F18115/068f009e/266325
-#EXTINF:-1 tvg-id="" tvg-name="YE: Almasirah Mubasher" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/4195eaf2bf271f68605df92c8dc008f1.png" group-title="Yemen",YE: Almasirah Mubasher
-http://iptvtree.net:8080/F18115/068f009e/166341
+
 
 
 
