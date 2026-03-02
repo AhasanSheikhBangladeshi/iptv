@@ -86,6 +86,74 @@ https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8
 #EXTINF:-1 tvg-id="NRTTV.iq@SD" tvg-logo="https://i.imgur.com/uGKGtbW.png" group-title="News",NRT TV (720p) [Not 24/7]
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Iq| Iraqia News HD ✦" tvg-logo="http://vod-logo.net/photos/e7050dfcfadcaee5620e6b364ef0f618.png" group-title="✔️IRAQ | العراق",Iq| Iraqia News HD ✦
+http://hlaa-tv.com:80/0563925599/266638892887/708854
+#EXTINF:-1 tvg-id="" tvg-name="Iq| Al Iraqia HD ✦" tvg-logo="http://vod-logo.net/photos/fad5394a1f2bc1eb6fab8ad3b5f7c5c6.png" group-title="✔️IRAQ | العراق",Iq| Al Iraqia HD ✦
+http://hlaa-tv.com:80/0563925599/266638892887/708853
+#EXTINF:-1 tvg-id="" tvg-name="Iq| Al Wilayah TV ✦" tvg-logo="http://vod-logo.net/photos/8bebe7ae64943c0be4222ca18b55288a.png" group-title="✔️IRAQ | العراق",Iq| Al Wilayah TV ✦
+http://hlaa-tv.com:80/0563925599/266638892887/708852
+#EXTINF:-1 tvg-id="" tvg-name="AR: IRAQ 24 4K" tvg-logo="" group-title="IRAQ TV",AR: IRAQ 24 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692383
+#EXTINF:-1 tvg-id="" tvg-name="AR: IRAQIA ENTERTAIMENT" tvg-logo="" group-title="IRAQ TV",AR: IRAQIA ENTERTAIMENT
+http://hlaa-tv.com:80/0563925599/266638892887/692384
+#EXTINF:-1 tvg-id="" tvg-name="AR: IRAQIA ENTERTAIMENT 4K" tvg-logo="" group-title="IRAQ TV",AR: IRAQIA ENTERTAIMENT 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692385
+#EXTINF:-1 tvg-id="" tvg-name="AR: IRAQIA KURD" tvg-logo="" group-title="IRAQ TV",AR: IRAQIA KURD
+http://hlaa-tv.com:80/0563925599/266638892887/692387
+#EXTINF:-1 tvg-id="" tvg-name="AR: IRAQIA NEWS 4K" tvg-logo="" group-title="IRAQ TV",AR: IRAQIA NEWS 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692388
+#EXTINF:-1 tvg-id="" tvg-name="AR: IRAQIA TURKUMAN" tvg-logo="" group-title="IRAQ TV",AR: IRAQIA TURKUMAN
+http://hlaa-tv.com:80/0563925599/266638892887/692391
+#EXTINF:-1 tvg-id="" tvg-name="AR: AKOMAILY TV 4K" tvg-logo="" group-title="IRAQ TV",AR: AKOMAILY TV 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692392
+#EXTINF:-1 tvg-id="" tvg-name="AR: AFAQ 4K" tvg-logo="" group-title="IRAQ TV",AR: AFAQ 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692393
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALANBAR TV" tvg-logo="" group-title="IRAQ TV",AR: ALANBAR TV
+http://hlaa-tv.com:80/0563925599/266638892887/692396
+#EXTINF:-1 tvg-id="" tvg-name="AR: HUNA ALIRAQ  TV" tvg-logo="" group-title="IRAQ TV",AR: HUNA ALIRAQ  TV
+http://hlaa-tv.com:80/0563925599/266638892887/692397
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALAWLA IRAQ 4K" tvg-logo="" group-title="IRAQ TV",AR: ALAWLA IRAQ 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692398
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALETEJAH TV" tvg-logo="" group-title="IRAQ TV",AR: ALETEJAH TV
+http://hlaa-tv.com:80/0563925599/266638892887/692401
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALFALLOUJAH TV" tvg-logo="" group-title="IRAQ TV",AR: ALFALLOUJAH TV
+http://hlaa-tv.com:80/0563925599/266638892887/692402
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALFORAT 4K" tvg-logo="" group-title="IRAQ TV",AR: ALFORAT 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692403
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALGHADEER" tvg-logo="" group-title="IRAQ TV",AR: ALGHADEER
+http://hlaa-tv.com:80/0563925599/266638892887/692404
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALKAWTHAR" tvg-logo="" group-title="IRAQ TV",AR: ALKAWTHAR
+http://hlaa-tv.com:80/0563925599/266638892887/692405
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALMAHDI TV" tvg-logo="" group-title="IRAQ TV",AR: ALMAHDI TV
+http://hlaa-tv.com:80/0563925599/266638892887/692406
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALNAEEM TV 4K" tvg-logo="" group-title="IRAQ TV",AR: ALNAEEM TV 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692407
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALTAGHIERT HD" tvg-logo="" group-title="IRAQ TV",AR: ALTAGHIERT HD
+http://hlaa-tv.com:80/0563925599/266638892887/692408
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALTALEAA 4K" tvg-logo="" group-title="IRAQ TV",AR: ALTALEAA 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692409
+#EXTINF:-1 tvg-id="" tvg-name="AR: DIWAN 4K" tvg-logo="" group-title="IRAQ TV",AR: DIWAN 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692410
+#EXTINF:-1 tvg-id="" tvg-name="AR: KARBALA TV HD" tvg-logo="" group-title="IRAQ RELIGION TV",AR: KARBALA TV HD
+http://hlaa-tv.com:80/0563925599/266638892887/692421
+#EXTINF:-1 tvg-id="" tvg-name="AR: KARBALA AL QURAN TV" tvg-logo="" group-title="IRAQ RELIGION TV",AR: KARBALA AL QURAN TV
+http://hlaa-tv.com:80/0563925599/266638892887/692422
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALANWAR 4K" tvg-logo="" group-title="IRAQ RELIGION TV",AR: ALANWAR 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692423
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALANWAR 2 4K" tvg-logo="" group-title="IRAQ RELIGION TV",AR: ALANWAR 2 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692424
+#EXTINF:-1 tvg-id="" tvg-name="AR: IMAM ALI 4K" tvg-logo="" group-title="IRAQ RELIGION TV",AR: IMAM ALI 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692425
+#EXTINF:-1 tvg-id="" tvg-name="AR: IMAM ALI HD" tvg-logo="" group-title="IRAQ RELIGION TV",AR: IMAM ALI HD
+http://hlaa-tv.com:80/0563925599/266638892887/692426
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALSHARQIYA HD" tvg-logo="" group-title="IRAQ TV",AR: ALSHARQIYA HD
+http://hlaa-tv.com:80/0563925599/266638892887/692369
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALSHARQIYA NEWS 4K" tvg-logo="" group-title="IRAQ TV",AR: ALSHARQIYA NEWS 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692370
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALSHARQIYA NEWS HD" tvg-logo="" group-title="IRAQ TV",AR: ALSHARQIYA NEWS HD
+http://hlaa-tv.com:80/0563925599/266638892887/692371
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALRABIAATV 4K" tvg-logo="" group-title="IRAQ TV",AR: ALRABIAATV 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692372
 
 #EXTINF:-1 tvg-id="KTV1.kw@SD" tvg-logo="https://i.imgur.com/kG0d8Ay.png" group-title="Kuwait",KTV 1 (1080p)
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
@@ -113,6 +181,43 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainTV.bh@SD" tvg-logo="https://i.postimg.cc/rw57LMpY/bahraintv.png" group-title="Bahrain",Bahrain TV (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALRAYYAN 4K" tvg-logo="" group-title="QATAR TV",AR: ALRAYYAN 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692709
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALRAYYAN ALQADEEM 4K" tvg-logo="" group-title="QATAR TV",AR: ALRAYYAN ALQADEEM 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692710
+#EXTINF:-1 tvg-id="" tvg-name="AR: QATAR 1 4K" tvg-logo="" group-title="QATAR TV",AR: QATAR 1 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692711
+#EXTINF:-1 tvg-id="" tvg-name="AR: QATAR 1 HD" tvg-logo="" group-title="QATAR TV",AR: QATAR 1 HD
+http://hlaa-tv.com:80/0563925599/266638892887/692712
+#EXTINF:-1 tvg-id="" tvg-name="AR: QATAR 2 4K" tvg-logo="" group-title="QATAR TV",AR: QATAR 2 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692713
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALSAHRAA" tvg-logo="" group-title="SAUDI TV",AR: ALSAHRAA
+http://hlaa-tv.com:80/0563925599/266638892887/692661
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAUDI 1 4K" tvg-logo="" group-title="SAUDI TV",AR: SAUDI 1 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692662
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAUDI 1 HD" tvg-logo="" group-title="SAUDI TV",AR: SAUDI 1 HD
+http://hlaa-tv.com:80/0563925599/266638892887/692663
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAUDI 24 TV" tvg-logo="" group-title="SAUDI TV",AR: SAUDI 24 TV
+http://hlaa-tv.com:80/0563925599/266638892887/692664
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAUDI ALEKHBARIA 4K" tvg-logo="" group-title="SAUDI TV",AR: SAUDI ALEKHBARIA 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692665
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAUDI ALEKHBARIA HD" tvg-logo="" group-title="SAUDI TV",AR: SAUDI ALEKHBARIA HD
+http://hlaa-tv.com:80/0563925599/266638892887/692666
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALTHAKAFIYA 4K" tvg-logo="" group-title="SAUDI TV",AR: ALTHAKAFIYA 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692667
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAUDI ALAAN 4K" tvg-logo="" group-title="SAUDI TV",AR: SAUDI ALAAN 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692670
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAUDI THIKRAYATT 4K" tvg-logo="" group-title="SAUDI TV",AR: SAUDI THIKRAYATT 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692671
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAUDI THIKRAYAT HD" tvg-logo="" group-title="SAUDI TV",AR: SAUDI THIKRAYAT HD
+http://hlaa-tv.com:80/0563925599/266638892887/692672
+#EXTINF:-1 tvg-id="" tvg-name="AR: SBC 4K" tvg-logo="" group-title="SAUDI TV",AR: SBC 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692673
+#EXTINF:-1 tvg-id="" tvg-name="AR: SBC HD" tvg-logo="" group-title="SAUDI TV",AR: SBC HD
+http://hlaa-tv.com:80/0563925599/266638892887/692674
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALWESAM TV" tvg-logo="" group-title="SAUDI TV",AR: ALWESAM TV
+http://hlaa-tv.com:80/0563925599/266638892887/692677
 
 #EXTINF:-1 tvg-id="" tvg-name="AR: SABA 4K" tvg-logo="" group-title="YEMAN TV",AR: SABA 4K
 http://hlaa-tv.com:80/0563925599/266638892887/692745
@@ -152,6 +257,47 @@ http://hlaa-tv.com:80/0563925599/266638892887/692758
 http://hlaa-tv.com:80/0563925599/266638892887/692759
 #EXTINF:-1 tvg-id="" tvg-name="AR: ALMAHRIAH" tvg-logo="" group-title="YEMAN TV",AR: ALMAHRIAH
 http://hlaa-tv.com:80/0563925599/266638892887/692760
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALAQSA TV 4K" tvg-logo="" group-title="PALASTINA TV",AR: ALAQSA TV 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692622
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALAQSA TV HD" tvg-logo="" group-title="PALASTINA TV",AR: ALAQSA TV HD
+http://hlaa-tv.com:80/0563925599/266638892887/692623
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALASTINE 4K" tvg-logo="" group-title="PALASTINA TV",AR: PALASTINE 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692624
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALASTINE TODAY" tvg-logo="" group-title="PALASTINA TV",AR: PALASTINE TODAY
+http://hlaa-tv.com:80/0563925599/266638892887/692630
+#EXTINF:-1 tvg-id="" tvg-name="AR: FALASTINI TV" tvg-logo="" group-title="PALASTINA TV",AR: FALASTINI TV
+http://hlaa-tv.com:80/0563925599/266638892887/692631
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALQUDS TODAY TV" tvg-logo="" group-title="PALASTINA TV",AR: ALQUDS TODAY TV
+http://hlaa-tv.com:80/0563925599/266638892887/692632
+#EXTINF:-1 tvg-id="" tvg-name="AR: MUSAWA 4K" tvg-logo="" group-title="PALASTINA TV",AR: MUSAWA 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692633
+#EXTINF:-1 tvg-id="" tvg-name="AR: Syria One TV" tvg-logo="http://pic.apkdt.co/pic/Syria/Menbeg.png" group-title="✔️ SYRIA | سـوريـا",AR: Syria One TV
+http://hlaa-tv.com:80/0563925599/266638892887/709374
+#EXTINF:-1 tvg-id="" tvg-name="AR: Halab Today" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKnsBWyNDu-IxcQCSNZhswXHge-f2LxkLnfA&s" group-title="✔️ SYRIA | سـوريـا",AR: Halab Today
+http://hlaa-tv.com:80/0563925599/266638892887/709366
+#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA NEWS 4K" tvg-logo="" group-title="SYRIA TV",AR: SYRIA NEWS 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692061
+#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA NEWS HD" tvg-logo="" group-title="SYRIA TV",AR: SYRIA NEWS HD
+http://hlaa-tv.com:80/0563925599/266638892887/692062
+#EXTINF:-1 tvg-id="" tvg-name="AR: LANA TV HD" tvg-logo="" group-title="SYRIA TV",AR: LANA TV HD
+http://hlaa-tv.com:80/0563925599/266638892887/692063
+#EXTINF:-1 tvg-id="" tvg-name="AR: LANA TV" tvg-logo="" group-title="SYRIA TV",AR: LANA TV
+http://hlaa-tv.com:80/0563925599/266638892887/692064
+#EXTINF:-1 tvg-id="" tvg-name="AR: HALAB TODAY 4K" tvg-logo="" group-title="SYRIA TV",AR: HALAB TODAY 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692065
+#EXTINF:-1 tvg-id="" tvg-name="AR: HALAB TODAY HD" tvg-logo="" group-title="SYRIA TV",AR: HALAB TODAY HD
+http://hlaa-tv.com:80/0563925599/266638892887/692066
+#EXTINF:-1 tvg-id="" tvg-name="AR: MISK TV" tvg-logo="" group-title="SYRIA TV",AR: MISK TV
+http://hlaa-tv.com:80/0563925599/266638892887/692067
+#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA ONE TV" tvg-logo="" group-title="SYRIA TV",AR: SYRIA ONE TV
+http://hlaa-tv.com:80/0563925599/266638892887/692068
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALYAUM TV 4K" tvg-logo="" group-title="SYRIA TV",AR: ALYAUM TV 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692069
+#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA HD" tvg-logo="" group-title="SYRIA TV",AR: SYRIA HD
+http://hlaa-tv.com:80/0563925599/266638892887/692057
+#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA 2 4K" tvg-logo="" group-title="SYRIA TV",AR: SYRIA 2 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692058
 
 
 #EXTINF:-1 tvg-id="TeleSahel.ne@SD",ORTN Télé Sahel (576p)
