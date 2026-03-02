@@ -1,3 +1,19 @@
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV HOME" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/pakistan/PTV-HOME.png" group-title="PK| PAKISTAN 4K",PK: PTV HOME
+http://hlaa-tv.com:80/0563925599/266638892887/700507
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV SPORTS" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/pakistan/PTV-SPORTS.png" group-title="PK| PAKISTAN 4K",PK: PTV SPORTS
+http://hlaa-tv.com:80/0563925599/266638892887/700508
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV WORLD" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/pakistan/PTV-WORLD.png" group-title="PK| PAKISTAN 4K",PK: PTV WORLD
+http://hlaa-tv.com:80/0563925599/266638892887/700509
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV GLOBAL" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/pakistan/PTV-GLOBAL.png" group-title="PK| PAKISTAN 4K",PK: PTV GLOBAL
+http://hlaa-tv.com:80/0563925599/266638892887/700510
+#EXTINF:-1 tvg-id="" tvg-name="PK: PTV NEWS" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/pakistan/PTV-NEWS.png" group-title="PK| PAKISTAN 4K",PK: PTV NEWS
+http://hlaa-tv.com:80/0563925599/266638892887/700511
+#EXTINF:-1 tvg-id="" tvg-name="PK: HUM TV WORLD" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/pakistan/HUM-TV-WORLD.PNG" group-title="PK| PAKISTAN 4K",PK: HUM TV WORLD
+http://hlaa-tv.com:80/0563925599/266638892887/700512
+#EXTINF:-1 tvg-id="" tvg-name="PK: 92 NEWS HD" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/pakistan/92-NEWS.PNG" group-title="PK| PAKISTAN 4K",PK: 92 NEWS HD
+http://hlaa-tv.com:80/0563925599/266638892887/700532
+#EXTINF:-1 tvg-id="" tvg-name="PK: GNN NEWS HD" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/pakistan/GNN-NEWS.PNG" group-title="PK| PAKISTAN 4K",PK: GNN NEWS HD
+http://hlaa-tv.com:80/0563925599/266638892887/700535
 
 #EXTINF:-1 tvg-id="" tvg-name="AFG: 1 TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/dc5dcc0dc734c63ab0460eaa9d177467.png" group-title="Afghanistan",AFG: 1 TV
 http://iptvtree.net:8080/F18115/068f009e/18183
@@ -51,35 +67,12 @@ https://stream.raajje.mv/live/rtv_live/index.m3u8
 #EXTINF:-1 tvg-id="SSTV.mv@SD" tvg-logo="https://i.imgur.com/jtIhDZk.png" group-title="Maldives",SSTV (1080p)
 https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Per: IRIB TV 1" tvg-logo="http://imag.dream-tv.ga:2095/images/imageIRIB.png" group-title="Iran-ايران",Per: IRIB TV 1
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/122607
-#EXTINF:-1 tvg-id="" tvg-name="Per: IRIB TV 2" tvg-logo="http://imag.dream-tv.ga:2095/images/imageIRIB.png" group-title="Iran-ايران",Per: IRIB TV 2
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/122606
-#EXTINF:-1 tvg-id="" tvg-name="Per: IRIB TV 3" tvg-logo="http://imag.dream-tv.ga:2095/images/imageIRIB.png" group-title="Iran-ايران",Per: IRIB TV 3
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/122605
-#EXTINF:-1 tvg-id="" tvg-name="Per: IRIB TV 4" tvg-logo="http://imag.dream-tv.ga:2095/images/imageIRIB.png" group-title="Iran-ايران",Per: IRIB TV 4
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/122604
-#EXTINF:-1 tvg-id="" tvg-name="Per: IRIB TV 5" tvg-logo="http://imag.dream-tv.ga:2095/images/imageIRIB.png" group-title="Iran-ايران",Per: IRIB TV 5
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/122603
-#EXTINF:-1 tvg-id="" tvg-name="Per: IRINN" tvg-logo="http://imag.dream-tv.ga:2095/images/imageIRINN.png" group-title="Iran-ايران",Per: IRINN
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/122602
-#EXTINF:-1 tvg-id="" tvg-name="Per: IRIB 3 TV FHD" tvg-logo="http://imag.dream-tv.ga:2095/images/image5cadcdc7e032b.png" group-title="Iran-ايران",Per: IRIB 3 TV FHD
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/122689
-#EXTINF:-1 tvg-id="" tvg-name="Per: IRIB Jame Jam" tvg-logo="http://imag.dream-tv.ga:2095/images/imageIRIB.png" group-title="Iran-ايران",Per: IRIB Jame Jam
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/122591
-#EXTINF:-1 tvg-id="" tvg-name="Per: Sahar Urdu" tvg-logo="http://imag.dream-tv.ga:2095/images/imageSahar.png" group-title="Iran-ايران",Per: Sahar Urdu
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/122561
-#EXTINF:-1 tvg-id="" tvg-name="Per: Sahar Balkan" tvg-logo="http://imag.dream-tv.ga:2095/images/imageSahar.png" group-title="Iran-ايران",Per: Sahar Balkan
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/122560
-#EXTINF:-1 tvg-id="" tvg-name="Per: Sahar Azari" tvg-logo="http://imag.dream-tv.ga:2095/images/imageSahar.png" group-title="Iran-ايران",Per: Sahar Azari
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/122559
-#EXTINF:-1 tvg-id="" tvg-name="Per: Gem TV" tvg-logo="http://imag.dream-tv.ga:2095/images/imageGemTV.png" group-title="Iran-ايران",Per: Gem TV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/122673
-#EXTINF:-1 tvg-id="" tvg-name="Per: Omid e Iran" tvg-logo="http://imag.dream-tv.ga:2095/images/imageOmideIran.png" group-title="Iran-ايران",Per: Omid e Iran
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/122700
-#EXTINF:-1 tvg-id="" tvg-name="Per: BBC Persian" tvg-logo="http://imag.dream-tv.ga:2095/images/imageBBC.png" group-title="Iran-ايران",Per: BBC Persian
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/122722
-
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV 1" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Iran/TV%201.png" group-title="IR| IRAN TV",IR: IRIB TV 1
+http://hlaa-tv.com:80/0563925599/266638892887/700460
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV 3 HD" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Iran/TV%203.png" group-title="IR| IRAN TV",IR: IRIB TV 3 HD
+http://hlaa-tv.com:80/0563925599/266638892887/700457
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRINN" tvg-logo="http://pic.apkdt.co/pic/temu/Asia/Iran/IRINN.png" group-title="IR| IRAN TV",IR: IRINN
+http://hlaa-tv.com:80/0563925599/266638892887/700454
 
 
 #EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.postimg.cc/MTmv3dXr/kurdistantv.png" group-title="KURDISH",Kurdistan TV (720p) [Not 24/7]
@@ -93,68 +86,6 @@ https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8
 #EXTINF:-1 tvg-id="NRTTV.iq@SD" tvg-logo="https://i.imgur.com/uGKGtbW.png" group-title="News",NRT TV (720p) [Not 24/7]
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Al Rabiaa Iraq ✦" tvg-logo="https://i.ibb.co/ynQVvdRQ/1381-1.png" group-title="IRAQ-العراق",IQ-Al Rabiaa Iraq ✦
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1692102
-#EXTINF:-1 tvg-id="" tvg-name="IQ-MBC IRAQ" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/mbc-iraq-ae-iq.png" group-title="IRAQ-العراق",IQ-MBC IRAQ
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/119291
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Iraqia-News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvEuJlDHOrKdn2ka4sTOE2Z2-F78j96eQDw&usqp=CAU" group-title="IRAQ-العراق",IQ-Iraqia-News
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/53152
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Iraqia TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/imn-iq.png" group-title="IRAQ-العراق",IQ-Iraqia TV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/52370
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Iraqia Turkuman" tvg-logo="http://imag.dream-tv.ga:2095/images/imageimn-turkmen-iq.png" group-title="IRAQ-العراق",IQ-Iraqia Turkuman
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/227
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Iraqia-Sport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/imn-turkmen-iq.png" group-title="IRAQ-العراق",IQ-Iraqia-Sport
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/53153
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Iraq 24" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/iraq-24.png" group-title="IRAQ-العراق",IQ-Iraq 24
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/118244
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Alsharqiya  HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alsharqiya-tv-ae.png" group-title="IRAQ-العراق",IQ-Alsharqiya  HD
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/382
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Alsharqiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Al_Sharqiya.png" group-title="IRAQ-العراق",IQ-Alsharqiya
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/136699
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Alsharqiya News HD" tvg-logo="http://toptv2.com:25461/logo/logoo/al_sharqiya_news.png" group-title="IRAQ-العراق",IQ-Alsharqiya News HD
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/441
-#EXTINF:-1 tvg-id="" tvg-name="IQ-UTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/utv-iq.png" group-title="IRAQ-العراق",IQ-UTV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/81590
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Afak" tvg-logo="https://afaq.iq/static/images/site/logo_afaq2.png" group-title="IRAQ-العراق",IQ-Afak
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/327
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Future" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iraq_future_tv.png" group-title="IRAQ-العراق",IQ-Future
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/229
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Hona-Baghdad" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hona-baghdad-satellite-channel-iq.png" group-title="IRAQ-العراق",IQ-Hona-Baghdad
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/235
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Alahad" tvg-logo="http://imag.dream-tv.ga:2095/images/imageAlahad.png" group-title="IRAQ-العراق",IQ-Alahad
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/341
-#EXTINF:-1 tvg-id="" tvg-name="IQ-ALanbar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/alanbar-satellite-channel-iq.png" group-title="IRAQ-العراق",IQ-ALanbar
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/342
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Alanwar" tvg-logo="http://imag.dream-tv.ga:2095/images/imageAlanwar.png" group-title="IRAQ-العراق",IQ-Alanwar
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/343
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Anwar-TV-2" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj1z2gNMAGAskCkwCXu29n3RdwrNmYsqvPn0Y4V=s900-c-k-c0x00ffffff-no-rj" group-title="IRAQ-العراق",IQ-Anwar-TV-2
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/20645
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Alforat" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/alforat-tv-iq.png" group-title="IRAQ-العراق",IQ-Alforat
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/351
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Alkawthar" tvg-logo="http://imag.dream-tv.ga:2095/images/imageAlkawthar.png" group-title="IRAQ-العراق",IQ-Alkawthar
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/364
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Al-Naeem TV" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/al-naeem-tv-iq.png" group-title="IRAQ-العراق",IQ-Al-Naeem TV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/374
-#EXTINF:-1 tvg-id="" tvg-name="IQ-AlRasheed" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/al_rasheed_tv.png" group-title="IRAQ-العراق",IQ-AlRasheed
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/381
-#EXTINF:-1 tvg-id="" tvg-name="IQ-AlSumaria" tvg-logo="https://www.lyngsat-stream.com/logo/tv/aa/alsumaria-iq.png" group-title="IRAQ-العراق",IQ-AlSumaria
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/384
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Altaghier" tvg-logo="http://imag.dream-tv.ga:2095/images/imageAltaghier.png" group-title="IRAQ-العراق",IQ-Altaghier
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/385
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Almawsleya" tvg-logo="http://imag.dream-tv.ga:2095/images/imageAlmawsleya.png" group-title="IRAQ-العراق",IQ-Almawsleya
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/422
-#EXTINF:-1 tvg-id="" tvg-name="IQ-KARBALA-TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/karbala_satellite_channel.png" group-title="IRAQ-العراق",IQ-KARBALA-TV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/49415
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Imam Ali 1 FA TV" tvg-logo="https://i.ibb.co/H4Ktfn9/5.jpg" group-title="IRAQ-العراق",IQ-Imam Ali 1 FA TV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/121446
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Al Etejah TV" tvg-logo="http://vod-logo.net/photos/a5ec0bffc6dc89d79a67206bb270a9d4.jpg" group-title="IRAQ-العراق",IQ-Al Etejah TV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/121466
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Alghadeer TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al_ghadeer_iq.png" group-title="IRAQ-العراق",IQ-Alghadeer TV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/118236
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Al Wilayah TV" tvg-logo="https://shiachannel.in/livetv/img/channels/wilayah-tv.jpg" group-title="IRAQ-العراق",IQ-Al Wilayah TV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/121507
-#EXTINF:-1 tvg-id="" tvg-name="IQ-Salahaden TV" tvg-logo="http://www.vod-logo.net/photos/c1c6692769214936b31398ea8d6d3cce.jpg" group-title="IRAQ-العراق",IQ-Salahaden TV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/121475
 
 #EXTINF:-1 tvg-id="KTV1.kw@SD" tvg-logo="https://i.imgur.com/kG0d8Ay.png" group-title="Kuwait",KTV 1 (1080p)
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
@@ -183,152 +114,44 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 #EXTINF:-1 tvg-id="BahrainTV.bh@SD" tvg-logo="https://i.postimg.cc/rw57LMpY/bahraintv.png" group-title="Bahrain",Bahrain TV (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Om:Oman TV Sport HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oman_tv_sport.png" group-title="Oman-عمان",Om:Oman TV Sport HD
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1505993
-#EXTINF:-1 tvg-id="" tvg-name="Om:Al Istiqama TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al_istiqama_tv_om.png" group-title="Oman-عمان",Om:Al Istiqama TV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1505992
-#EXTINF:-1 tvg-id="" tvg-name="Om:Oman TV Culture" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oman_tv_culture.png" group-title="Oman-عمان",Om:Oman TV Culture
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1505991
-#EXTINF:-1 tvg-id="" tvg-name="Om:Oman TV General" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oman_tv.png" group-title="Oman-عمان",Om:Oman TV General
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1505990
-#EXTINF:-1 tvg-id="" tvg-name="Om:Oman TV Live" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oman-tv-mubashir-om.png" group-title="Oman-عمان",Om:Oman TV Live
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1505989
-#EXTINF:-1 tvg-id="qatartv.qa" tvg-name="QA:Qatar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/qatar_tv.png" group-title="Qatar-قطر",QA:Qatar
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/26463
-#EXTINF:-1 tvg-id="" tvg-name="QA:Qatar 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/qatar-tv-2-qa.png" group-title="Qatar-قطر",QA:Qatar 2
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/113681
-#EXTINF:-1 tvg-id="" tvg-name="QA:Al Rayyan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRFuMJ5PLbpLyqDbQHrVHTGMXYSCdcv4A50Ccd1-jthdXFT3Ds" group-title="Qatar-قطر",QA:Al Rayyan
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/73464
-
-#EXTINF:-1 tvg-id="" tvg-name="SA-Zad TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zad-tv-sa.png" group-title="Saudi-السعوديه",SA-Zad TV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/119627
-#EXTINF:-1 tvg-id="" tvg-name="SA-SBC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sbc-sa.png" group-title="Saudi-السعوديه",SA-SBC
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/28928
-#EXTINF:-1 tvg-id="thikrayaten.sa" tvg-name="SA-Zakareyat" tvg-logo="https://i.ytimg.com/vi/-td7rNnY2vc/maxresdefault.jpg" group-title="Saudi-السعوديه",SA-Zakareyat
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/79895
-#EXTINF:-1 tvg-id="" tvg-name="SA-Saudi-1" tvg-logo="http://logo.apktv.live/logo/logoo/saudi_tv1.png" group-title="Saudi-السعوديه",SA-Saudi-1
-
-#EXTINF:-1 tvg-id="" tvg-name="YE-Yemen." tvg-logo="https://www.lyngsat-logo.com/logo/tv/yy/yemen_tv.png" group-title="Yemen-اليمن",YE-Yemen.
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/24806
-#EXTINF:-1 tvg-id="" tvg-name="YE-Shabab" tvg-logo="https://www.lyngsat-logo.com/logo/tv/yy/yemen-shabab-channel-ye.png" group-title="Yemen-اليمن",YE-Shabab
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/24808
-#EXTINF:-1 tvg-id="" tvg-name="YE-Today" tvg-logo="https://www.lyngsat-logo.com/logo/tv/yy/yemen_today_tv_ye.png" group-title="Yemen-اليمن",YE-Today
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/24809
-#EXTINF:-1 tvg-id="" tvg-name="YE-Al Masirah Mubacher" tvg-logo="http://imag.dream-tv.ga:2095/images/imageAlMasirah.png" group-title="Yemen-اليمن",YE-Al Masirah Mubacher
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/42217
-#EXTINF:-1 tvg-id="" tvg-name="YE-ALMASIRAH" tvg-logo="https://www.lyngsat.com/logo/tv/aa/almasirah-tv-ye.png" group-title="Yemen-اليمن",YE-ALMASIRAH
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/42218
-#EXTINF:-1 tvg-id="" tvg-name="YE-Hadramout" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hadramout-satellite-channel-ye.png" group-title="Yemen-اليمن",YE-Hadramout
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/82485
-#EXTINF:-1 tvg-id="" tvg-name="YE-Aden-TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aden_tv_ye.png" group-title="Yemen-اليمن",YE-Aden-TV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/109393
-#EXTINF:-1 tvg-id="" tvg-name="YE-AIC-TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aic-tv-ye.png" group-title="Yemen-اليمن",YE-AIC-TV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/109392
-#EXTINF:-1 tvg-id="" tvg-name="YE-ALHAWYAH-TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al-hawyah-ye.png" group-title="Yemen-اليمن",YE-ALHAWYAH-TV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/109390
-#EXTINF:-1 tvg-id="" tvg-name="YE-Almahriah" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/almahriah-tv-ye.png" group-title="Yemen-اليمن",YE-Almahriah
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/109389
-#EXTINF:-1 tvg-id="" tvg-name="YE-Almasirah Mubasher" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/almasirah-mubasher-ye.png" group-title="Yemen-اليمن",YE-Almasirah Mubasher
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/109388
-#EXTINF:-1 tvg-id="" tvg-name="YE-AL-SAHAT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/al-sahat-tv-ye.png" group-title="Yemen-اليمن",YE-AL-SAHAT
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/109387
-#EXTINF:-1 tvg-id="" tvg-name="YE-Hadramout-RED" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hadhramaut-tv-ye.png" group-title="Yemen-اليمن",YE-Hadramout-RED
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/109385
-#EXTINF:-1 tvg-id="" tvg-name="YE-Al Lahdah" tvg-logo="https://www.lyngsat.com/logo/tv/aa/allahdhah-tv-ye.png" group-title="Yemen-اليمن",YE-Al Lahdah
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1503511
-#EXTINF:-1 tvg-id="" tvg-name="YE-AlSaeedah" tvg-logo="http://imag.dream-tv.ga:2095/images/imageAlSaeedah.png" group-title="Yemen-اليمن",YE-AlSaeedah
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/436
-#EXTINF:-1 tvg-id="" tvg-name="YE-Suhail TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/suhail_tv.png" group-title="Yemen-اليمن",YE-Suhail TV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1503497
-#EXTINF:-1 tvg-id="" tvg-name="PS-Sport" tvg-logo="https://i.imgur.com/BsYNKfp.jpg" group-title="Palestine-فلسطين",PS-Sport
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/52
-#EXTINF:-1 tvg-id="" tvg-name="PS-Today" tvg-logo="http://toptv2.com:25461/logo/logoo/palestine_al_yawm.png" group-title="Palestine-فلسطين",PS-Today
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/140
-#EXTINF:-1 tvg-id="" tvg-name="PS-Palestine" tvg-logo="https://www.lyngsat.com/logo/tv/pp/palestinian-satellite-channel-ps.png" group-title="Palestine-فلسطين",PS-Palestine
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/141
-#EXTINF:-1 tvg-id="" tvg-name="PS-AWDA " tvg-logo="http://logo.apktv.live/logo/logoo/al_asrar_tv_lb.png" group-title="Palestine-فلسطين",PS-AWDA 
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/394
-#EXTINF:-1 tvg-id="" tvg-name="PS- SPI" tvg-logo="http://logo.apktv.live/logo/logoo/al_quds.png" group-title="Palestine-فلسطين",PS- SPI
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/433
-#EXTINF:-1 tvg-id="" tvg-name="PS-AL-KOFIYA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alkofiya_tv_ps.png" group-title="Palestine-فلسطين",PS-AL-KOFIYA
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/21671
-#EXTINF:-1 tvg-id="" tvg-name="PS-MUSAWA" tvg-logo="https://lh3.googleusercontent.com/RGM49_O_upxybeM6b1T3pArg25OvZ2OgXMmFjm_j4sCgC0KatHTao20QdpT4sWsJdSo=s180" group-title="Palestine-فلسطين",PS-MUSAWA
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/73472
-#EXTINF:-1 tvg-id="" tvg-name="PS-Al Fajer 1" tvg-logo="https://i.imgur.com/WIdgIkC.jpg" group-title="Palestine-فلسطين",PS-Al Fajer 1
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/76109
-#EXTINF:-1 tvg-id="" tvg-name="PS-AL AQSA" tvg-logo="http://imag.dream-tv.ga:2095/images/imageALAQSA.png" group-title="Palestine-فلسطين",PS-AL AQSA
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/76116
-#EXTINF:-1 tvg-id="" tvg-name="SY:AlsouriyaTV HD" tvg-logo="" group-title="Syria [ سوريا ]",SY:AlsouriyaTV HD
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1702843
-#EXTINF:-1 tvg-id="" tvg-name="SY:LTV" tvg-logo="https://www.lyngsat.com/logo/tv/ll/ltv-lb.png" group-title="Syria [ سوريا ]",SY:LTV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696048
-#EXTINF:-1 tvg-id="" tvg-name="SY:Syria HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syria-tv-tr.svg" group-title="Syria [ سوريا ]",SY:Syria HD
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696047
-#EXTINF:-1 tvg-id="" tvg-name="SY:Syria TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syria-tv-tr.svg" group-title="Syria [ سوريا ]",SY:Syria TV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696046
-#EXTINF:-1 tvg-id="" tvg-name="SY:Syria 4K" tvg-logo="" group-title="Syria [ سوريا ]",SY:Syria 4K
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1704876
-#EXTINF:-1 tvg-id="" tvg-name="SY:Syria  2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syria-lite-tr.png" group-title="Syria [ سوريا ]",SY:Syria  2
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696045
-#EXTINF:-1 tvg-id="" tvg-name="SY:Syria 2 HD" tvg-logo="" group-title="Syria [ سوريا ]",SY:Syria 2 HD
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1704878
-#EXTINF:-1 tvg-id="" tvg-name="SY:Syria 2 4K" tvg-logo="" group-title="Syria [ سوريا ]",SY:Syria 2 4K
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1704877
-#EXTINF:-1 tvg-id="" tvg-name="SY:Syria One" tvg-logo="https://www.lyngsat.com/logo/tv/ss/syria-one.png" group-title="Syria [ سوريا ]",SY:Syria One
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696044
-#EXTINF:-1 tvg-id="" tvg-name="SY:Ana Sooria" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ana-sooria-lb.png" group-title="Syria [ سوريا ]",SY:Ana Sooria
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696043
-#EXTINF:-1 tvg-id="" tvg-name="SY:Misk TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/misk-tv-tr.png" group-title="Syria [ سوريا ]",SY:Misk TV
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696042
-#EXTINF:-1 tvg-id="" tvg-name="SY:Al Ekhbariya Sy" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alikhbariah-syria-sy.png" group-title="Syria [ سوريا ]",SY:Al Ekhbariya Sy
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696041
-#EXTINF:-1 tvg-id="" tvg-name="SY:Halab Today" tvg-logo="https://www.lyngsat.com/logo/tv/hh/halab-today-tv-sy.png" group-title="Syria [ سوريا ]",SY:Halab Today
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696040
-#EXTINF:-1 tvg-id="" tvg-name="EG:AlOula" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ertu-1-eg.png" group-title="Egypt [ مصر ]",EG:AlOula
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696013
-#EXTINF:-1 tvg-id="" tvg-name="EG:AlOula HD" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ertu-1-eg.png" group-title="Egypt [ مصر ]",EG:AlOula HD
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696012
-#EXTINF:-1 tvg-id="" tvg-name="EG:AlMasryia" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-masriyah-eg.png" group-title="Egypt [ مصر ]",EG:AlMasryia
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696011
-#EXTINF:-1 tvg-id="" tvg-name="EG:AlKAHERA" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ertu-3-al-kahera-eg.png" group-title="Egypt [ مصر ]",EG:AlKAHERA
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696010
-#EXTINF:-1 tvg-id="" tvg-name="EG:AlKANAL" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ertu-4-al-kanal-eg.png" group-title="Egypt [ مصر ]",EG:AlKANAL
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696009
-#EXTINF:-1 tvg-id="" tvg-name="EG:AlAskandaria" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ertu-5-al-askandria-eg.png" group-title="Egypt [ مصر ]",EG:AlAskandaria
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696008
-#EXTINF:-1 tvg-id="" tvg-name="EG:AlDELTA" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ertu-6-al-delta-eg.png" group-title="Egypt [ مصر ]",EG:AlDELTA
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696007
-
-#EXTINF:-1 tvg-id="" tvg-name="EG:Extra live" tvg-logo="https://www.lyngsat.com/logo/tv/ee/extra-live-eg.png" group-title="Egypt [ مصر ]",EG:Extra live
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1504391
-#EXTINF:-1 tvg-id="" tvg-name="EG:AlHayat" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alhayah-eg.png" group-title="Egypt [ مصر ]",EG:AlHayat
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696023
-#EXTINF:-1 tvg-id="" tvg-name="EG:AlHayat HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alhayah-eg.png" group-title="Egypt [ مصر ]",EG:AlHayat HD
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696022
-#EXTINF:-1 tvg-id="" tvg-name="EG:DMC HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmc_eg.png" group-title="Egypt [ مصر ]",EG:DMC HD
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696028
-#EXTINF:-1 tvg-id="" tvg-name="EG:DMC Drama" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmc_eg_drama.png" group-title="Egypt [ مصر ]",EG:DMC Drama
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696027
-#EXTINF:-1 tvg-id="" tvg-name="EG:CBC" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc_eg.png" group-title="Egypt [ مصر ]",EG:CBC
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696033
-#EXTINF:-1 tvg-id="" tvg-name="EG:CBC HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbc_eg.png" group-title="Egypt [ مصر ]",EG:CBC HD
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696032
-#EXTINF:-1 tvg-id="" tvg-name="EG:AlNahar" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-nahar-tv-eg.png" group-title="Egypt [ مصر ]",EG:AlNahar
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1696019
-#EXTINF:-1 tvg-id="" tvg-name="EG:Nile Cinema" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nile_cinema_eg.png" group-title="Egypt [ مصر ]",EG:Nile Cinema
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1695984
-#EXTINF:-1 tvg-id="" tvg-name="EG:Nile Comedy" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nile_comedy_eg.png" group-title="Egypt [ مصر ]",EG:Nile Comedy
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1695983
-#EXTINF:-1 tvg-id="" tvg-name="EG:Nile Culture" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nile_culture_eg.png" group-title="Egypt [ مصر ]",EG:Nile Culture
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1695982
-#EXTINF:-1 tvg-id="" tvg-name="EG:Nile Drama" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nile_drama_eg.png" group-title="Egypt [ مصر ]",EG:Nile Drama
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1695981
-#EXTINF:-1 tvg-id="" tvg-name="EG:Nile Life" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nile_life_eg.png" group-title="Egypt [ مصر ]",EG:Nile Life
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1695980
-#EXTINF:-1 tvg-id="" tvg-name="EG:Nile News" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nile_news_eg.png" group-title="Egypt [ مصر ]",EG:Nile News
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1695979
-#EXTINF:-1 tvg-id="" tvg-name="EG:Nile TV International" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nile-tv-international-eg.png" group-title="Egypt [ مصر ]",EG:Nile TV International
-http://magic-tv.live:80/muvxx5294458/cwazz51166589/1695978
+#EXTINF:-1 tvg-id="" tvg-name="AR: SABA 4K" tvg-logo="" group-title="YEMAN TV",AR: SABA 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692745
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN TV" tvg-logo="" group-title="YEMAN TV",AR: YEMEN TV
+http://hlaa-tv.com:80/0563925599/266638892887/692746
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALMASIRAH MUBASHAR" tvg-logo="" group-title="YEMAN TV",AR: ALMASIRAH MUBASHAR
+http://hlaa-tv.com:80/0563925599/266638892887/692762
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALMASIRAH TV" tvg-logo="" group-title="YEMAN TV",AR: ALMASIRAH TV
+http://hlaa-tv.com:80/0563925599/266638892887/692763
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALSAEEDA TV" tvg-logo="" group-title="YEMAN TV",AR: ALSAEEDA TV
+http://hlaa-tv.com:80/0563925599/266638892887/692764
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALSAHAT" tvg-logo="" group-title="YEMAN TV",AR: ALSAHAT
+http://hlaa-tv.com:80/0563925599/266638892887/692765
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALYEMEN TV" tvg-logo="" group-title="YEMAN TV",AR: ALYEMEN TV
+http://hlaa-tv.com:80/0563925599/266638892887/692766
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN SHABAB" tvg-logo="" group-title="YEMAN TV",AR: YEMEN SHABAB
+http://hlaa-tv.com:80/0563925599/266638892887/692749
+#EXTINF:-1 tvg-id="" tvg-name="AR: YEMEN EDUCATION TV" tvg-logo="" group-title="YEMAN TV",AR: YEMEN EDUCATION TV
+http://hlaa-tv.com:80/0563925599/266638892887/692750
+#EXTINF:-1 tvg-id="" tvg-name="AR: SUHAIL TV" tvg-logo="" group-title="YEMAN TV",AR: SUHAIL TV
+http://hlaa-tv.com:80/0563925599/266638892887/692751
+#EXTINF:-1 tvg-id="" tvg-name="AR: SHEBA TV" tvg-logo="" group-title="YEMAN TV",AR: SHEBA TV
+http://hlaa-tv.com:80/0563925599/266638892887/692752
+#EXTINF:-1 tvg-id="" tvg-name="AR: ADEN ALMUSTAKILLA 4K" tvg-logo="" group-title="YEMAN TV",AR: ADEN ALMUSTAKILLA 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692753
+#EXTINF:-1 tvg-id="" tvg-name="AR: ADEN ALMUSTAKILLA HD" tvg-logo="" group-title="YEMAN TV",AR: ADEN ALMUSTAKILLA HD
+http://hlaa-tv.com:80/0563925599/266638892887/692754
+#EXTINF:-1 tvg-id="" tvg-name="AR: ADEN TV" tvg-logo="" group-title="YEMAN TV",AR: ADEN TV
+http://hlaa-tv.com:80/0563925599/266638892887/692755
+#EXTINF:-1 tvg-id="" tvg-name="AR: Yemen Documentary TV" tvg-logo="" group-title="YEMAN TV",AR: Yemen Documentary TV
+http://hlaa-tv.com:80/0563925599/266638892887/692756
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALHAWYAH TV" tvg-logo="" group-title="YEMAN TV",AR: ALHAWYAH TV
+http://hlaa-tv.com:80/0563925599/266638892887/692757
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL JOMHORIA YEMEN TV" tvg-logo="" group-title="YEMAN TV",AR: AL JOMHORIA YEMEN TV
+http://hlaa-tv.com:80/0563925599/266638892887/692758
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALLAHDAH TV" tvg-logo="" group-title="YEMAN TV",AR: ALLAHDAH TV
+http://hlaa-tv.com:80/0563925599/266638892887/692759
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALMAHRIAH" tvg-logo="" group-title="YEMAN TV",AR: ALMAHRIAH
+http://hlaa-tv.com:80/0563925599/266638892887/692760
 
 
 #EXTINF:-1 tvg-id="TeleSahel.ne@SD",ORTN Télé Sahel (576p)
