@@ -299,6 +299,44 @@ http://hlaa-tv.com:80/0563925599/266638892887/692057
 #EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA 2 4K" tvg-logo="" group-title="SYRIA TV",AR: SYRIA 2 4K
 http://hlaa-tv.com:80/0563925599/266638892887/692058
 
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALMASRYIA HD" tvg-logo="" group-title="EGYPT TV",AR: ALMASRYIA HD
+http://hlaa-tv.com:80/0563925599/266638892887/692277
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALOULA 4K" tvg-logo="" group-title="EGYPT TV",AR: ALOULA 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692278
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALOULA HD" tvg-logo="" group-title="EGYPT TV",AR: ALOULA HD
+http://hlaa-tv.com:80/0563925599/266638892887/692279
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALTHANYA HD" tvg-logo="" group-title="EGYPT TV",AR: ALTHANYA HD
+http://hlaa-tv.com:80/0563925599/266638892887/692280
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALKAHERA" tvg-logo="" group-title="EGYPT TV",AR: ALKAHERA
+http://hlaa-tv.com:80/0563925599/266638892887/692284
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALKANAL" tvg-logo="" group-title="EGYPT TV",AR: ALKANAL
+http://hlaa-tv.com:80/0563925599/266638892887/692285
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALASKANDRIA" tvg-logo="" group-title="EGYPT TV",AR: ALASKANDRIA
+http://hlaa-tv.com:80/0563925599/266638892887/692286
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALDELTA" tvg-logo="" group-title="EGYPT TV",AR: ALDELTA
+http://hlaa-tv.com:80/0563925599/266638892887/692287
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALSA3EED" tvg-logo="" group-title="EGYPT TV",AR: ALSA3EED
+http://hlaa-tv.com:80/0563925599/266638892887/692288
+#EXTINF:-1 tvg-id="" tvg-name="AR: TEBA" tvg-logo="" group-title="EGYPT TV",AR: TEBA
+http://hlaa-tv.com:80/0563925599/266638892887/692289
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALKAHERA WAL NAS" tvg-logo="" group-title="EGYPT TV",AR: ALKAHERA WAL NAS
+http://hlaa-tv.com:80/0563925599/266638892887/692290
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALKAHERA WAL NAS 2" tvg-logo="" group-title="EGYPT TV",AR: ALKAHERA WAL NAS 2
+http://hlaa-tv.com:80/0563925599/266638892887/692291
+#EXTINF:-1 tvg-id="" tvg-name="AR: NAHAR 1HD" tvg-logo="" group-title="EGYPT TV",AR: NAHAR 1HD
+http://hlaa-tv.com:80/0563925599/266638892887/692298
+#EXTINF:-1 tvg-id="" tvg-name="AR: CBC 4K" tvg-logo="" group-title="EGYPT TV",AR: CBC 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692302
+#EXTINF:-1 tvg-id="" tvg-name="AR: CBC HD" tvg-logo="" group-title="EGYPT TV",AR: CBC HD
+http://hlaa-tv.com:80/0563925599/266638892887/692303
+#EXTINF:-1 tvg-id="" tvg-name="AR: CBC DRAMA" tvg-logo="" group-title="EGYPT TV",AR: CBC DRAMA
+http://hlaa-tv.com:80/0563925599/266638892887/692304
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL HAYAT 4K" tvg-logo="" group-title="EGYPT TV",AR: AL HAYAT 4K
+http://hlaa-tv.com:80/0563925599/266638892887/692306
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL HAYAT HD" tvg-logo="" group-title="EGYPT TV",AR: AL HAYAT HD
+http://hlaa-tv.com:80/0563925599/266638892887/692307
+#EXTINF:-1 tvg-id="" tvg-name="AR: DMC HD" tvg-logo="" group-title="EGYPT TV",AR: DMC HD
+http://hlaa-tv.com:80/0563925599/266638892887/692311
 
 #EXTINF:-1 tvg-id="TeleSahel.ne@SD",ORTN Télé Sahel (576p)
 http://69.64.57.208/telesahel/playlist.m3u8
