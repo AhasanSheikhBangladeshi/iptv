@@ -258,6 +258,52 @@ http://hlaa-tv.com:80/0563925599/266638892887/692759
 #EXTINF:-1 tvg-id="" tvg-name="AR: ALMAHRIAH" tvg-logo="" group-title="YEMAN TV",AR: ALMAHRIAH
 http://hlaa-tv.com:80/0563925599/266638892887/692760
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LB | Lebanon TV [ Tele Liban ] HD" tvg-logo="http://vod-logo.net/photos/0a70fcd74e4675fcb24c48fde3285eeb.png" group-title="AR | LEBANON",LB | Lebanon TV [ Tele Liban ] HD
+http://doubleclicktv.live:80/david1234/david4321/273247
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LB | OTV Lebanon HD" tvg-logo="http://vod-logo.net/photos/d9519a86eb67032a003b80950c406b31.png" group-title="AR | LEBANON",LB | OTV Lebanon HD
+http://doubleclicktv.live:80/david1234/david4321/273246
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LB | Future TV" tvg-logo="http://vod-logo.net/photos/0f8648c7053850632d1d3cd561e5e7a9.png" group-title="AR | LEBANON",LB | Future TV
+http://doubleclicktv.live:80/david1234/david4321/273245
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LB | Al Mayadeen TV" tvg-logo="http://138.199.27.237:8080/0tv_logo/132.png" group-title="AR | LEBANON",LB | Al Mayadeen TV
+http://doubleclicktv.live:80/david1234/david4321/273244
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LB | Al Iman TV" tvg-logo="http://vod-logo.net/photos/95ed18a874b8bd938735f72c3770b10e.png" group-title="AR | LEBANON",LB | Al Iman TV
+http://doubleclicktv.live:80/david1234/david4321/273241
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="LB | Al Ettihad TV" tvg-logo="http://vod-logo.net/photos/53a6c294226f62b835e4ba8de4d2dc15.png" group-title="AR | LEBANON",LB | Al Ettihad TV
+http://doubleclicktv.live:80/david1234/david4321/273235
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS | Palestine TV" tvg-logo="http://vod-logo.net/photos/aa0faaa262943ea9c9909abad554bdd1.png" group-title="AR | PALESTINE",PS | Palestine TV
+http://doubleclicktv.live:80/david1234/david4321/272757
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS | Palestine Mubashir [ Live ]" tvg-logo="http://vod-logo.net/photos/8108b1155bd9125df6dc2fd111826b0c.png" group-title="AR | PALESTINE",PS | Palestine Mubashir [ Live ]
+http://doubleclicktv.live:80/david1234/david4321/272756
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS | Palestine Al Yawm HD" tvg-logo="http://vod-logo.net/photos/be0dca7b2715957d8eafcc91f5f03d1a.png" group-title="AR | PALESTINE",PS | Palestine Al Yawm HD
+http://doubleclicktv.live:80/david1234/david4321/272755
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS | Palestine Sport" tvg-logo="http://vod-logo.net/photos/fc70437bf2772a7adc5bbc5ced8bcc9f.png" group-title="AR | PALESTINE",PS | Palestine Sport
+http://doubleclicktv.live:80/david1234/david4321/272754
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS | Falastini TV" tvg-logo="http://vod-logo.net/photos/23cd8ce8f36ce10c4a450cf61b8ac98a.png" group-title="AR | PALESTINE",PS | Falastini TV
+http://doubleclicktv.live:80/david1234/david4321/272753
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS | Al Kofiya" tvg-logo="http://vod-logo.net/photos/afbd65a623ee50f6e2b6c05e9efcb360.png" group-title="AR | PALESTINE",PS | Al Kofiya
+http://doubleclicktv.live:80/david1234/david4321/272752
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS | Al Quds Today" tvg-logo="http://vod-logo.net/photos/8e98d8a9a41ca80195ec589844b6494a.png" group-title="AR | PALESTINE",PS | Al Quds Today
+http://doubleclicktv.live:80/david1234/david4321/272751
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS | Al Seraj TV" tvg-logo="http://vod-logo.net/photos/f39bed9977e3a528283694f31947ff65.png" group-title="AR | PALESTINE",PS | Al Seraj TV
+http://doubleclicktv.live:80/david1234/david4321/272750
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS | Hebron Sat [ Al Khaleel ]" tvg-logo="http://vod-logo.net/photos/d7d4b01c07b080c3ea49bf72a04f7384.png" group-title="AR | PALESTINE",PS | Hebron Sat [ Al Khaleel ]
+http://doubleclicktv.live:80/david1234/david4321/272749
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS | Hala TV" tvg-logo="http://vod-logo.net/photos/a73605b5ddebd37643e8958ccbd1d00a.png" group-title="AR | PALESTINE",PS | Hala TV
+http://doubleclicktv.live:80/david1234/david4321/272748
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS | Al Fadjr TV" tvg-logo="http://138.199.27.237:8080/0tv_logo/847.png" group-title="AR | PALESTINE",PS | Al Fadjr TV
+http://doubleclicktv.live:80/david1234/david4321/272747
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS | Al Salam TV" tvg-logo="http://vod-logo.net/photos/f17828ef2c2f6fa0f29389a738c54e03.png" group-title="AR | PALESTINE",PS | Al Salam TV
+http://doubleclicktv.live:80/david1234/david4321/272746
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS | Musawa TV" tvg-logo="http://vod-logo.net/photos/4bc0ead61ef21911beeb98fbae1853ad.png" group-title="AR | PALESTINE",PS | Musawa TV
+http://doubleclicktv.live:80/david1234/david4321/272745
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS | Al Seraj Al Aqsa 4K" tvg-logo="http://xplatinmedia.com:8080/images/b1dd612c44c93c108dc8c1716e2e0ffa.png" group-title="AR | PALESTINE",PS | Al Seraj Al Aqsa 4K
+http://doubleclicktv.live:80/david1234/david4321/272744
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS | Makan TV" tvg-logo="http://www.vod-logo.net/photos/1cf6e3c829f0c31b7426f9083c8df54c.jpg" group-title="AR | PALESTINE",PS | Makan TV
+http://doubleclicktv.live:80/david1234/david4321/272743
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PS | Awdah TV" tvg-logo="" group-title="AR | PALESTINE",PS | Awdah TV
+http://doubleclicktv.live:80/david1234/david4321/272742
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SY | Halab Today TV" tvg-logo="http://vod-logo.net/photos/60c57ea0dd48273c5d706a84d55e9359.png" group-title="AR | SYRIA",SY | Halab Today TV
 http://doubleclicktv.live:80/david1234/david4321/273218
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SY | Syria TV" tvg-logo="http://vod-logo.net/photos/4a6143dc3d545816b5ed98a4f48b5879.png" group-title="AR | SYRIA",SY | Syria TV
@@ -272,6 +318,74 @@ http://doubleclicktv.live:80/david1234/david4321/273221
 http://doubleclicktv.live:80/david1234/david4321/273230
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SY | Lana TV 4K" tvg-logo="http://vod-logo.net/photos/366e4fc15332e968fa0d1d34189bf9bd.png" group-title="AR | SYRIA",SY | Lana TV 4K
 http://doubleclicktv.live:80/david1234/david4321/273229
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Al Nahar HD" tvg-logo="http://vod-logo.net/photos/53b003bd9cb06783c8977be0315dcda2.png" group-title="AR | EGYPT",EG | Al Nahar HD
+http://doubleclicktv.live:80/david1234/david4321/272502
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Al Nahar Drama HD" tvg-logo="http://vod-logo.net/photos/f5209bef47338b76fac2fd093759907c.png" group-title="AR | EGYPT",EG | Al Nahar Drama HD
+http://doubleclicktv.live:80/david1234/david4321/272501
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Al Masryia" tvg-logo="http://vod-logo.net/photos/e2d17a24be2d52c3be965147116882ba.png" group-title="AR | EGYPT",EG | Al Masryia
+http://doubleclicktv.live:80/david1234/david4321/272500
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Masir AL Oula HD" tvg-logo="http://138.199.27.237:8080/1%20MISSING%20LOGO/ARABIC/ALMASSAR.png" group-title="AR | EGYPT",EG | Masir AL Oula HD
+http://doubleclicktv.live:80/david1234/david4321/272499
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Al Thanya" tvg-logo="http://vod-logo.net/photos/d908e6f7b803eb138ce75107a0c33b5c.png" group-title="AR | EGYPT",EG | Al Thanya
+http://doubleclicktv.live:80/david1234/david4321/272498
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Al Kahera 3" tvg-logo="http://vod-logo.net/photos/5d2c0479eb5f3958e91ce682fd6906b5.jpg" group-title="AR | EGYPT",EG | Al Kahera 3
+http://doubleclicktv.live:80/david1234/david4321/272476
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Al Kanal TV 4" tvg-logo="http://vod-logo.net/photos/c320736073552f57d98cd837ef298816.png" group-title="AR | EGYPT",EG | Al Kanal TV 4
+http://doubleclicktv.live:80/david1234/david4321/272475
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Al Askandaria TV 5" tvg-logo="http://vod-logo.net/photos/85fca788d79e6d707ec38599da74f96c.png" group-title="AR | EGYPT",EG | Al Askandaria TV 5
+http://doubleclicktv.live:80/david1234/david4321/272474
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Al Delta TV 6" tvg-logo="http://vod-logo.net/photos/637d24afc2958fb9cf4993f0dc5aafd9.png" group-title="AR | EGYPT",EG | Al Delta TV 6
+http://doubleclicktv.live:80/david1234/david4321/272473
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Al Saeed TV 5" tvg-logo="http://vod-logo.net/photos/1a97826edf16c23d23c275b05f8bde7c.png" group-title="AR | EGYPT",EG | Al Saeed TV 5
+http://doubleclicktv.live:80/david1234/david4321/272472
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Teba TV8" tvg-logo="http://vod-logo.net/photos/d75979daced8dcb46432053222122c3c.png" group-title="AR | EGYPT",EG | Teba TV8
+http://doubleclicktv.live:80/david1234/david4321/272444
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Mekameleen TV" tvg-logo="http://vod-logo.net/photos/f0b6b87f1ce0f4fa9d46b34a11d08e0a.png" group-title="AR | EGYPT",EG | Mekameleen TV
+http://doubleclicktv.live:80/david1234/david4321/272495
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Al-Mehwar TV" tvg-logo="http://vod-logo.net/photos/8cafc82ce580d8c64ecca0844af33d38.png" group-title="AR | EGYPT",EG | Al-Mehwar TV
+http://doubleclicktv.live:80/david1234/david4321/272439
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Azhari TV" tvg-logo="http://vod-logo.net/photos/cd7452f3a0d5ece86fe8b153d5cff966.png" group-title="AR | EGYPT",EG | Azhari TV
+http://doubleclicktv.live:80/david1234/david4321/272438
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | El Sharq TV" tvg-logo="http://vod-logo.net/photos/33e8e669c97388a0fa0248fda77dbd58.png" group-title="AR | EGYPT",EG | El Sharq TV
+http://doubleclicktv.live:80/david1234/david4321/272437
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Al Nas" tvg-logo="http://vod-logo.net/photos/6fb2543c0813a5143aac0d86167b6e54.png" group-title="AR | EGYPT",EG | Al Nas
+http://doubleclicktv.live:80/david1234/david4321/272465
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Al Seha Wal Jamal TV" tvg-logo="http://vod-logo.net/photos/8f7f57a8c76830a07ee71c735fef6dcd.png" group-title="AR | EGYPT",EG | Al Seha Wal Jamal TV
+http://doubleclicktv.live:80/david1234/david4321/272464
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Sada El Balad" tvg-logo="http://vod-logo.net/photos/bf25f32b4e40508be6d3035cc734db29.png" group-title="AR | EGYPT",EG | Sada El Balad
+http://doubleclicktv.live:80/david1234/david4321/272459
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Al Hayat HD" tvg-logo="http://vod-logo.net/photos/767c9c3cecbdd5c81994d67993f3cf8e.png" group-title="AR | EGYPT",EG | Al Hayat HD
+http://doubleclicktv.live:80/david1234/david4321/272471
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Al Hhayat Drama" tvg-logo="http://vod-logo.net/photos/5a5eabb26a0e2ce1db912a7b264fa940.png" group-title="AR | EGYPT",EG | Al Hhayat Drama
+http://doubleclicktv.live:80/david1234/david4321/272470
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Al Kahera Wal Nas 1" tvg-logo="http://vod-logo.net/photos/df89f2014d6918ac01b39493d5d0c053.png" group-title="AR | EGYPT",EG | Al Kahera Wal Nas 1
+http://doubleclicktv.live:80/david1234/david4321/272469
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Nile News" tvg-logo="http://www.vod-logo.net/photos/04d64357d1f9415bf44eb0e587f29f8e.jpg" group-title="AR | EGYPT",EG | Nile News
+http://doubleclicktv.live:80/david1234/david4321/272487
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Nile Life" tvg-logo="http://vod-logo.net/photos/0abfd837fa79150c94f4be2b6cb30ae6.png" group-title="AR | EGYPT",EG | Nile Life
+http://doubleclicktv.live:80/david1234/david4321/272486
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="niletv.eg" tvg-name="EG | Nile TV International" tvg-logo="http://vod-logo.net/photos/42f9dae1dd7aa13e5f52ef8c5a744a7a.png" group-title="AR | EGYPT",EG | Nile TV International
+http://doubleclicktv.live:80/david1234/david4321/272485
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Nile Cinema" tvg-logo="http://vod-logo.net/photos/4098b7df4388388ce59c2185180d26a7.png" group-title="AR | EGYPT",EG | Nile Cinema
+http://doubleclicktv.live:80/david1234/david4321/272484
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | Nile Family" tvg-logo="http://vod-logo.net/photos/6446e820354ed8507c0786af3f395cff.png" group-title="AR | EGYPT",EG | Nile Family
+http://doubleclicktv.live:80/david1234/david4321/272479
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EG | DMC HD" tvg-logo="http://vod-logo.net/photos/1994a962fe544ae2cc8f9ec76f6f5241.png" group-title="AR | EGYPT",EG | DMC HD
+http://doubleclicktv.live:80/david1234/david4321/272478
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="dmcdrama.eg" tvg-name="EG | DMC Drama" tvg-logo="http://vod-logo.net/photos/f2b3a4b621ecace6716bf70eedd7f196.png" group-title="AR | EGYPT",EG | DMC Drama
+http://doubleclicktv.live:80/david1234/david4321/272477
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SD | Sudania 24 HD" tvg-logo="http://vod-logo.net/photos/306a0447d46aed7945529c08d1f32987.png" group-title="AR | SUDAN",SD | Sudania 24 HD
+http://doubleclicktv.live:80/david1234/david4321/272844
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SD | Sudan TV" tvg-logo="http://vod-logo.net/photos/0c5c9b9b7d0b6dc8c6f65d83053a41fc.png" group-title="AR | SUDAN",SD | Sudan TV
+http://doubleclicktv.live:80/david1234/david4321/272843
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SD | Sudan Ashorooq" tvg-logo="" group-title="AR | SUDAN",SD | Sudan Ashorooq
+http://doubleclicktv.live:80/david1234/david4321/272842
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SD | Sudan Bukra" tvg-logo="http://vod-logo.net/photos/adede21a4220a01161d531b42a7df24c.png" group-title="AR | SUDAN",SD | Sudan Bukra
+http://doubleclicktv.live:80/david1234/david4321/272841
+
+
 
 #EXTINF:-1 tvg-id="TeleSahel.ne@SD",ORTN Télé Sahel (576p)
 http://69.64.57.208/telesahel/playlist.m3u8
