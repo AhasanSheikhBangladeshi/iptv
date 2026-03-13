@@ -331,6 +331,24 @@ http://teslasmartv.com:2095/Drms110002/779494448944/103711
 #EXTINF:-1 tvg-id="" tvg-name="Ye: Al Lahdah" tvg-logo="http://tv.asc.vg/al.lahdah.ye.png" group-title="YEMEN ⭐ اليمن",Ye: Al Lahdah
 http://teslasmartv.com:2095/Drms110002/779494448944/103709
 
+#EXTINF:-1 tvg-id="" tvg-name="LB: Tele Liban" tvg-logo="http://tv.asc.vg/teleliban.lb.png" group-title="Lebanon ⭐ لبنان",LB: Tele Liban
+http://teslasmartv.com:2095/Drms110002/779494448944/690
+#EXTINF:-1 tvg-id="" tvg-name="LB: Tele liban SD" tvg-logo="http://tv.asc.vg/teleliban.lb.png" group-title="Lebanon ⭐ لبنان",LB: Tele liban SD
+http://teslasmartv.com:2095/Drms110002/779494448944/293142
+#EXTINF:-1 tvg-id="" tvg-name="LB: Future TV" tvg-logo="http://tv.asc.vg/futuretv.lb.png" group-title="Lebanon ⭐ لبنان",LB: Future TV
+http://teslasmartv.com:2095/Drms110002/779494448944/328865
+#EXTINF:-1 tvg-id="" tvg-name="LB: Al Manar SD" tvg-logo="http://tv.asc.vg/al.manar.lb.png" group-title="Lebanon ⭐ لبنان",LB: Al Manar SD
+http://teslasmartv.com:2095/Drms110002/779494448944/336203
+#EXTINF:-1 tvg-id="" tvg-name="LB: Al Manar HD" tvg-logo="http://tv.asc.vg/al.manar.lb.png" group-title="Lebanon ⭐ لبنان",LB: Al Manar HD
+http://teslasmartv.com:2095/Drms110002/779494448944/336202
+#EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed TV HD" tvg-logo="http://tv.asc.vg/al.jadeed.lb.png" group-title="Lebanon ⭐ لبنان",LB: Al Jadeed TV HD
+http://teslasmartv.com:2095/Drms110002/779494448944/702
+#EXTINF:-1 tvg-id="" tvg-name="LB: Al Jadeed SD" tvg-logo="http://tv.asc.vg/al.jadeed.lb.png" group-title="Lebanon ⭐ لبنان",LB: Al Jadeed SD
+http://teslasmartv.com:2095/Drms110002/779494448944/293144
+#EXTINF:-1 tvg-id="" tvg-name="LB: OTV Lebanon HD" tvg-logo="http://tv.asc.vg/otv.lb.png" group-title="Lebanon ⭐ لبنان",LB: OTV Lebanon HD
+http://teslasmartv.com:2095/Drms110002/779494448944/698
+#EXTINF:-1 tvg-id="" tvg-name="LB: LBC International HD" tvg-logo="http://tv.asc.vg/lbc.inter.lb.png" group-title="Lebanon ⭐ لبنان",LB: LBC International HD
+http://teslasmartv.com:2095/Drms110002/779494448944/688
 
 #EXTINF:-1 tvg-id="" tvg-name="Ps: AL KOFIYA HD" tvg-logo="http://tv.asc.vg/al.kofiya.ps.png" group-title="PALESTINE ⭐ فلسطين",Ps: AL KOFIYA HD
 http://teslasmartv.com:2095/Drms110002/779494448944/649
@@ -382,6 +400,88 @@ http://teslasmartv.com:2095/Drms110002/779494448944/440
 http://teslasmartv.com:2095/Drms110002/779494448944/312514
 #EXTINF:-1 tvg-id="" tvg-name="Sy: Misk TV" tvg-logo="http://tv.asc.vg/misk.sy.png" group-title="SYRIA ⭐ سوريا",Sy: Misk TV
 http://teslasmartv.com:2095/Drms110002/779494448944/312515
+
+#EXTINF:-1 tvg-id="" tvg-name="EG: Al Oula HD" tvg-logo="http://tv.asc.vg/al.oula.hd.eg.png" group-title="EGYPT ⭐ مصر",EG: Al Oula HD
+http://teslasmartv.com:2095/Drms110002/779494448944/191
+#EXTINF:-1 tvg-id="" tvg-name="EG: Al Oula SD" tvg-logo="http://tv.asc.vg/al.oula.eg.png" group-title="EGYPT ⭐ مصر",EG: Al Oula SD
+http://teslasmartv.com:2095/Drms110002/779494448944/258392
+#EXTINF:-1 tvg-id="" tvg-name="EG: Al Thanya" tvg-logo="http://tv.asc.vg/al.thanya.eg.png" group-title="EGYPT ⭐ مصر",EG: Al Thanya
+http://teslasmartv.com:2095/Drms110002/779494448944/311
+#EXTINF:-1 tvg-id="" tvg-name="EG: AL Masriya" tvg-logo="http://tv.asc.vg/al.masriya.eg.png" group-title="EGYPT ⭐ مصر",EG: AL Masriya
+http://teslasmartv.com:2095/Drms110002/779494448944/283
+#EXTINF:-1 tvg-id="" tvg-name="EG: Misr Al Balad" tvg-logo="http://tv.asc.vg/misr.al.balad.eg.png" group-title="EGYPT ⭐ مصر",EG: Misr Al Balad
+http://teslasmartv.com:2095/Drms110002/779494448944/103777
+#EXTINF:-1 tvg-id="" tvg-name="EG: AL Kahera" tvg-logo="http://tv.asc.vg/al.kahera3.eg.png" group-title="EGYPT ⭐ مصر",EG: AL Kahera
+http://teslasmartv.com:2095/Drms110002/779494448944/143062
+#EXTINF:-1 tvg-id="" tvg-name="EG: AL Askandaria" tvg-logo="http://tv.asc.vg/al.askandaria5.eg.png" group-title="EGYPT ⭐ مصر",EG: AL Askandaria
+http://teslasmartv.com:2095/Drms110002/779494448944/143061
+#EXTINF:-1 tvg-id="" tvg-name="EG: AL DELTA" tvg-logo="http://tv.asc.vg/al.delta6.eg.png" group-title="EGYPT ⭐ مصر",EG: AL DELTA
+http://teslasmartv.com:2095/Drms110002/779494448944/143060
+#EXTINF:-1 tvg-id="" tvg-name="EG: AL Kanal" tvg-logo="http://tv.asc.vg/al.qanal4.eg.png" group-title="EGYPT ⭐ مصر",EG: AL Kanal
+http://teslasmartv.com:2095/Drms110002/779494448944/143059
+#EXTINF:-1 tvg-id="" tvg-name="EG: AL SA3EED" tvg-logo="http://tv.asc.vg/al.saeed7.eg.png" group-title="EGYPT ⭐ مصر",EG: AL SA3EED
+http://teslasmartv.com:2095/Drms110002/779494448944/143058
+#EXTINF:-1 tvg-id="" tvg-name="EG: Teba TV 8" tvg-logo="http://tv.asc.vg/teba8.eg.png" group-title="EGYPT ⭐ مصر",EG: Teba TV 8
+http://teslasmartv.com:2095/Drms110002/779494448944/103783
+#EXTINF:-1 tvg-id="" tvg-name="EG: Egyptian TV HD" tvg-logo="http://tv.asc.vg/egyptian.tv.eg.png" group-title="EGYPT ⭐ مصر",EG: Egyptian TV HD
+http://teslasmartv.com:2095/Drms110002/779494448944/194151
+#EXTINF:-1 tvg-id="" tvg-name="EG: CBC HD" tvg-logo="http://tv.asc.vg/cbc.hd2.eg.png" group-title="EGYPT ⭐ مصر",EG: CBC HD
+http://teslasmartv.com:2095/Drms110002/779494448944/312668
+#EXTINF:-1 tvg-id="" tvg-name="EG: CBC SD" tvg-logo="http://tv.asc.vg/cbc.sd2.eg.png" group-title="EGYPT ⭐ مصر",EG: CBC SD
+http://teslasmartv.com:2095/Drms110002/779494448944/310
+#EXTINF:-1 tvg-id="" tvg-name="EG: CBC Drama" tvg-logo="http://tv.asc.vg/cbc.draama.eg.png" group-title="EGYPT ⭐ مصر",EG: CBC Drama
+http://teslasmartv.com:2095/Drms110002/779494448944/309
+#EXTINF:-1 tvg-id="" tvg-name="EG: CBC Extra News" tvg-logo="http://tv.asc.vg/cbc.extra.news.eg.png" group-title="EGYPT ⭐ مصر",EG: CBC Extra News
+http://teslasmartv.com:2095/Drms110002/779494448944/308
+#EXTINF:-1 tvg-id="" tvg-name="EG: CBC Sofra" tvg-logo="http://tv.asc.vg/cbc.sofra.eg.png" group-title="EGYPT ⭐ مصر",EG: CBC Sofra
+http://teslasmartv.com:2095/Drms110002/779494448944/307
+#EXTINF:-1 tvg-id="" tvg-name="EG: ON E HD" tvg-logo="http://tv.asc.vg/on.e.eg.png" group-title="EGYPT ⭐ مصر",EG: ON E HD
+http://teslasmartv.com:2095/Drms110002/779494448944/292
+#EXTINF:-1 tvg-id="" tvg-name="EG: On E SD" tvg-logo="http://tv.asc.vg/on.e.eg.png" group-title="EGYPT ⭐ مصر",EG: On E SD
+http://teslasmartv.com:2095/Drms110002/779494448944/258294
+#EXTINF:-1 tvg-id="" tvg-name="EG: ON Drama" tvg-logo="http://tv.asc.vg/on.drama.eg.png" group-title="EGYPT ⭐ مصر",EG: ON Drama
+http://teslasmartv.com:2095/Drms110002/779494448944/278
+#EXTINF:-1 tvg-id="" tvg-name="EG: Sada El Balad" tvg-logo="http://tv.asc.vg/sada.al.balad.eg.png" group-title="EGYPT ⭐ مصر",EG: Sada El Balad
+http://teslasmartv.com:2095/Drms110002/779494448944/290
+#EXTINF:-1 tvg-id="" tvg-name="EG: DMC" tvg-logo="http://tv.asc.vg/dmc.eg.png" group-title="EGYPT ⭐ مصر",EG: DMC
+http://teslasmartv.com:2095/Drms110002/779494448944/280
+#EXTINF:-1 tvg-id="" tvg-name="EG: Al Hayat HD" tvg-logo="http://tv.asc.vg/al.hayah.eg.png" group-title="EGYPT ⭐ مصر",EG: Al Hayat HD
+http://teslasmartv.com:2095/Drms110002/779494448944/314
+#EXTINF:-1 tvg-id="" tvg-name="EG: Al Hayat SD" tvg-logo="http://tv.asc.vg/al.hayah.eg.png" group-title="EGYPT ⭐ مصر",EG: Al Hayat SD
+http://teslasmartv.com:2095/Drms110002/779494448944/258379
+#EXTINF:-1 tvg-id="" tvg-name="EG: Al Hayat Muslsalat" tvg-logo="http://tv.asc.vg/al.hayah.drama.eg.png" group-title="EGYPT ⭐ مصر",EG: Al Hayat Muslsalat
+http://teslasmartv.com:2095/Drms110002/779494448944/315
+#EXTINF:-1 tvg-id="" tvg-name="EG: Al Nahar Drama" tvg-logo="http://tv.asc.vg/al.nahar.drama.eg.png" group-title="EGYPT ⭐ مصر",EG: Al Nahar Drama
+http://teslasmartv.com:2095/Drms110002/779494448944/312
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile TV" tvg-logo="http://tv.asc.vg/nile.tv.inter.eg.png" group-title="EGYPT ⭐ مصر",EG: Nile TV
+http://teslasmartv.com:2095/Drms110002/779494448944/293
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile Drama" tvg-logo="http://tv.asc.vg/nile.drama.eg.png" group-title="EGYPT ⭐ مصر",EG: Nile Drama
+http://teslasmartv.com:2095/Drms110002/779494448944/297
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile Cinema" tvg-logo="http://tv.asc.vg/nile.cinema.eg.png" group-title="EGYPT ⭐ مصر",EG: Nile Cinema
+http://teslasmartv.com:2095/Drms110002/779494448944/300
+#EXTINF:-1 tvg-id="" tvg-name="EG: NILE FAMILY" tvg-logo="http://tv.asc.vg/nile.family.eg.png" group-title="EGYPT ⭐ مصر",EG: NILE FAMILY
+http://teslasmartv.com:2095/Drms110002/779494448944/268
+#EXTINF:-1 tvg-id="" tvg-name="EG: NILE Education" tvg-logo="http://tv.asc.vg/nile.education.eg.png" group-title="EGYPT ⭐ مصر",EG: NILE Education
+http://teslasmartv.com:2095/Drms110002/779494448944/28525
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile Comedy" tvg-logo="http://tv.asc.vg/nile.comedy.eg.png" group-title="EGYPT ⭐ مصر",EG: Nile Comedy
+http://teslasmartv.com:2095/Drms110002/779494448944/299
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile Culture" tvg-logo="http://tv.asc.vg/nile.culture.eg.png" group-title="EGYPT ⭐ مصر",EG: Nile Culture
+http://teslasmartv.com:2095/Drms110002/779494448944/298
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile Life" tvg-logo="http://tv.asc.vg/nile.life.eg.png" group-title="EGYPT ⭐ مصر",EG: Nile Life
+http://teslasmartv.com:2095/Drms110002/779494448944/296
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile News" tvg-logo="http://tv.asc.vg/nile.news.eg.png" group-title="EGYPT ⭐ مصر",EG: Nile News
+http://teslasmartv.com:2095/Drms110002/779494448944/295
+
+#EXTINF:-1 tvg-id="" tvg-name="SD: Khartoum TV" tvg-logo="http://tv.asc.vg/al.khartoom.sd.png" group-title="SUDAN ⭐ السودان",SD: Khartoum TV
+http://teslasmartv.com:2095/Drms110002/779494448944/300600
+#EXTINF:-1 tvg-id="" tvg-name="SD: Tayba tv" tvg-logo="http://tv.asc.vg/tayba.sd.png" group-title="SUDAN ⭐ السودان",SD: Tayba tv
+http://teslasmartv.com:2095/Drms110002/779494448944/300599
+#EXTINF:-1 tvg-id="" tvg-name="SD: SSBC" tvg-logo="http://tv.asc.vg/ssbc.sd.png" group-title="SUDAN ⭐ السودان",SD: SSBC
+http://teslasmartv.com:2095/Drms110002/779494448944/178481
+#EXTINF:-1 tvg-id="" tvg-name="SD: Shamalia" tvg-logo="http://tv.asc.vg/shamalia.sd.png" group-title="SUDAN ⭐ السودان",SD: Shamalia
+http://teslasmartv.com:2095/Drms110002/779494448944/153392
+#EXTINF:-1 tvg-id="" tvg-name="SD: Sudan TV" tvg-logo="http://tv.asc.vg/sudan.sd.png" group-title="SUDAN ⭐ السودان",SD: Sudan TV
+http://teslasmartv.com:2095/Drms110002/779494448944/777
 
 #EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1080p)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
@@ -451,3 +551,57 @@ http://89.187.191.41/ATV-HD-TR/video.m3u8
 http://116.202.238.88/ATV_TR/index.m3u8
 #EXTINF:-1 tvg-id="ATVAlanya.tr@SD",ATV Alanya (720p) [Not 24/7]
 http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TN: Tunisia Nat 1 HD" tvg-logo="http://tv.asc.vg/tunisia.nat1.tn.png" group-title="TUNISIA ⭐ تونس",TN: Tunisia Nat 1 HD
+http://teslasmartv.com:2095/Drms110002/779494448944/562
+#EXTINF:-1 tvg-id="" tvg-name="TN: Tunisia NAT 1 SD" tvg-logo="http://tv.asc.vg/tunisia.nat1.tn.png" group-title="TUNISIA ⭐ تونس",TN: Tunisia NAT 1 SD
+http://teslasmartv.com:2095/Drms110002/779494448944/323020
+#EXTINF:-1 tvg-id="" tvg-name="TN: Tunisia Nat 2 HD" tvg-logo="http://tv.asc.vg/tunisia.nat2.tn.png" group-title="TUNISIA ⭐ تونس",TN: Tunisia Nat 2 HD
+http://teslasmartv.com:2095/Drms110002/779494448944/561
+#EXTINF:-1 tvg-id="" tvg-name="TN: Tunisia NAT 2 SD" tvg-logo="http://tv.asc.vg/tunisia.nat2.tn.png" group-title="TUNISIA ⭐ تونس",TN: Tunisia NAT 2 SD
+http://teslasmartv.com:2095/Drms110002/779494448944/323019
+#EXTINF:-1 tvg-id="" tvg-name="TN: ATTESSIA TV" tvg-logo="http://tv.asc.vg/attassia.tn.png" group-title="TUNISIA ⭐ تونس",TN: ATTESSIA TV
+http://teslasmartv.com:2095/Drms110002/779494448944/567
+#EXTINF:-1 tvg-id="" tvg-name="TN: Carthage+" tvg-logo="http://tv.asc.vg/carthage.plus.tn.png" group-title="TUNISIA ⭐ تونس",TN: Carthage+
+http://teslasmartv.com:2095/Drms110002/779494448944/566
+#EXTINF:-1 tvg-id="" tvg-name="TN: El hiwar Ettounsi" tvg-logo="http://tv.asc.vg/al.hiwar.ettounsi.tn.png" group-title="TUNISIA ⭐ تونس",TN: El hiwar Ettounsi
+http://teslasmartv.com:2095/Drms110002/779494448944/565
+#EXTINF:-1 tvg-id="" tvg-name="TN: ZAYTOONA" tvg-logo="http://tv.asc.vg/zaytoona.tn.png" group-title="TUNISIA ⭐ تونس",TN: ZAYTOONA
+http://teslasmartv.com:2095/Drms110002/779494448944/560
+#EXTINF:-1 tvg-id="" tvg-name="TN: Telvza TV" tvg-logo="http://tv.asc.vg/telvza.tn.png" group-title="TUNISIA ⭐ تونس",TN: Telvza TV
+http://teslasmartv.com:2095/Drms110002/779494448944/559
+#EXTINF:-1 tvg-id="" tvg-name="TN: TUNISNA" tvg-logo="http://tv.asc.vg/tunisna.tn.png" group-title="TUNISIA ⭐ تونس",TN: TUNISNA
+http://teslasmartv.com:2095/Drms110002/779494448944/558
+#EXTINF:-1 tvg-id="" tvg-name="TN: HANNIBAL TV" tvg-logo="http://tv.asc.vg/hannibal.tn.png" group-title="TUNISIA ⭐ تونس",TN: HANNIBAL TV
+http://teslasmartv.com:2095/Drms110002/779494448944/557
+#EXTINF:-1 tvg-id="" tvg-name="TN: Al Insan TV" tvg-logo="http://tv.asc.vg/al.insen.tn.png" group-title="TUNISIA ⭐ تونس",TN: Al Insan TV
+http://teslasmartv.com:2095/Drms110002/779494448944/555
+#EXTINF:-1 tvg-id="" tvg-name="TN: AL Janoubia" tvg-logo="http://tv.asc.vg/al.janoubia.tn.png" group-title="TUNISIA ⭐ تونس",TN: AL Janoubia
+http://teslasmartv.com:2095/Drms110002/779494448944/554
+#EXTINF:-1 tvg-id="" tvg-name="Ly: Salam TV" tvg-logo="http://tv.asc.vg/salam.ly.png" group-title="LIBYA ⭐ ليبيا",Ly: Salam TV
+http://teslasmartv.com:2095/Drms110002/779494448944/711
+#EXTINF:-1 tvg-id="" tvg-name="Ly: NEW LIBYA" tvg-logo="http://tv.asc.vg/new.libya.ly.png" group-title="LIBYA ⭐ ليبيا",Ly: NEW LIBYA
+http://teslasmartv.com:2095/Drms110002/779494448944/253669
+#EXTINF:-1 tvg-id="" tvg-name="Ly: Libya Al Ahrar TV" tvg-logo="http://tv.asc.vg/libya.al.ahrar.ly.png" group-title="LIBYA ⭐ ليبيا",Ly: Libya Al Ahrar TV
+http://teslasmartv.com:2095/Drms110002/779494448944/710
+#EXTINF:-1 tvg-id="" tvg-name="Ly: Libya WTV" tvg-logo="http://tv.asc.vg/libya.wtv.ly.png" group-title="LIBYA ⭐ ليبيا",Ly: Libya WTV
+http://teslasmartv.com:2095/Drms110002/779494448944/708
+#EXTINF:-1 tvg-id="" tvg-name="Ly: Allibiya TV" tvg-logo="http://tv.asc.vg/allibiya.ly.png" group-title="LIBYA ⭐ ليبيا",Ly: Allibiya TV
+http://teslasmartv.com:2095/Drms110002/779494448944/259357
+#EXTINF:-1 tvg-id="" tvg-name="Ly: Libya Al Mustakbal TV" tvg-logo="http://tv.asc.vg/libya.al.mustakbal.ly.png" group-title="LIBYA ⭐ ليبيا",Ly: Libya Al Mustakbal TV
+http://teslasmartv.com:2095/Drms110002/779494448944/706
+#EXTINF:-1 tvg-id="" tvg-name="Ly: Libya Education" tvg-logo="http://tv.asc.vg/libya.education.ly.png" group-title="LIBYA ⭐ ليبيا",Ly: Libya Education
+http://teslasmartv.com:2095/Drms110002/779494448944/153754
+#EXTINF:-1 tvg-id="" tvg-name="Ly: Libya Ifta TV" tvg-logo="http://tv.asc.vg/libya.ifta.ly.png" group-title="LIBYA ⭐ ليبيا",Ly: Libya Ifta TV
+http://teslasmartv.com:2095/Drms110002/779494448944/259924
+#EXTINF:-1 tvg-id="" tvg-name="Ly: Libya Al Hadath" tvg-logo="http://tv.asc.vg/libya.al.hadath.ly.png" group-title="LIBYA ⭐ ليبيا",Ly: Libya Al Hadath
+http://teslasmartv.com:2095/Drms110002/779494448944/716
+#EXTINF:-1 tvg-id="" tvg-name="Ly: Libya Al Wataniya" tvg-logo="http://tv.asc.vg/libya.al.wataniya.ly.png" group-title="LIBYA ⭐ ليبيا",Ly: Libya Al Wataniya
+http://teslasmartv.com:2095/Drms110002/779494448944/715
+#EXTINF:-1 tvg-id="" tvg-name="Ly: Libya Al Rasmia" tvg-logo="http://tv.asc.vg/libya.al.rasmia.ly.png" group-title="LIBYA ⭐ ليبيا",Ly: Libya Al Rasmia
+http://teslasmartv.com:2095/Drms110002/779494448944/86268
+#EXTINF:-1 tvg-id="" tvg-name="Ly: Tanasuh Education TV" tvg-logo="http://tv.asc.vg/tanasuh.education.ly.png" group-title="LIBYA ⭐ ليبيا",Ly: Tanasuh Education TV
+http://teslasmartv.com:2095/Drms110002/779494448944/259925
+#EXTINF:-1 tvg-id="" tvg-name="Ly: Tanasuh TV" tvg-logo="http://tv.asc.vg/tanasuh.ly.png" group-title="LIBYA ⭐ ليبيا",Ly: Tanasuh TV
+http://teslasmartv.com:2095/Drms110002/779494448944/259923
