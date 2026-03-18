@@ -33,6 +33,10 @@ https://starshare.one:443/live/umaduttjisgpr/iptvsonu/1384.ts
 https://starshare.one:443/live/umaduttjisgpr/iptvsonu/861.ts
 #EXTINF:-1 tvg-id="92news.pk" tvg-name="PK : PTV News-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/PTV_News_Logo.png" group-title="PAKISTAN NEWS",PK : PTV News-HD
 https://starshare.one:443/live/umaduttjisgpr/iptvsonu/131.ts
+#EXTINF:-1 tvg-id="ptvhome.pk" tvg-name="PK: PTV HOME" tvg-logo="" group-title="PAKISTAN",PK: PTV HOME
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/110.ts
+#EXTINF:-1 tvg-id="ptvglobal.pk" tvg-name="PK: PTV GLOBAL" tvg-logo="" group-title="PAKISTAN",PK: PTV GLOBAL
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/109.ts
 #EXTINF:-1 tvg-id="92news.pk" tvg-name="PK : AAJ NEWS" tvg-logo="" group-title="PAKISTAN NEWS",PK : AAJ NEWS
 https://starshare.one:443/live/umaduttjisgpr/iptvsonu/137.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK : ABB TAK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Abb_Tak_news_logo.png" group-title="PAKISTAN NEWS",PK : ABB TAK
@@ -83,6 +87,48 @@ https://starshare.one:443/live/umaduttjisgpr/iptvsonu/115.ts
 #EXTINF:-1 tvg-id="aryqtv.pk" tvg-name="PK: Ary Qtv" tvg-logo="" group-title="ISLAMIC",PK: Ary Qtv
 https://starshare.one:443/live/umaduttjisgpr/iptvsonu/127.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="7TH-CIRCUIT" tvg-logo="" group-title="SRI LANKA",7TH-CIRCUIT
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23962.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADA-DERENA24" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ada_derana_lk.png" group-title="SRI LANKA",ADA-DERENA24
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23963.ts
+#EXTINF:-1 tvg-id="" tvg-name="ART-TELEVISION" tvg-logo="https://www.lyngsat.com/logo/tv/aa/art_tv_lk.png" group-title="SRI LANKA",ART-TELEVISION
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23964.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL-ONE" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-one-lk.png" group-title="SRI LANKA",CHANNEL-ONE
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23969.ts
+#EXTINF:-1 tvg-id="" tvg-name="HARITHA TV" tvg-logo="" group-title="SRI LANKA",HARITHA TV
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23971.ts
+#EXTINF:-1 tvg-id="" tvg-name="HIRUTV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hiru_tv.png" group-title="SRI LANKA",HIRUTV
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23975.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITN " tvg-logo="https://www.lyngsat.com/logo/tv/ii/itn-lk.png" group-title="SRI LANKA",ITN 
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23976.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETHRA TV" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nenasa-tamil-o-l-lk.png" group-title="SRI LANKA",NETHRA TV
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23977.ts
+#EXTINF:-1 tvg-id="" tvg-name="NETHRA TV TAMIL" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nenasa-sinhala-o-l-lk.png" group-title="SRI LANKA",NETHRA TV TAMIL
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23978.ts
+#EXTINF:-1 tvg-id="" tvg-name="RIDEE-TV" tvg-logo="https://www.lyngsat.com/logo/tv/rr/ridee_tv_lk.png" group-title="SRI LANKA",RIDEE-TV
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23981.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUPAVAHINI" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rupavahini.png" group-title="SRI LANKA",RUPAVAHINI
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23982.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHAKTHI-TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shakthi-tv-lk.png" group-title="SRI LANKA",SHAKTHI-TV
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23983.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIYATHA-TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/siyatha_tv.png" group-title="SRI LANKA",SIYATHA-TV
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23986.ts
+#EXTINF:-1 tvg-id="" tvg-name="SWARNAVAHINI" tvg-logo="https://www.lyngsat.com/logo/tv/ss/swarnavahini-lk.png" group-title="SRI LANKA",SWARNAVAHINI
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23987.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnl_tv.png" group-title="SRI LANKA",TNL
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23988.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV-DERANA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-derana-lk.png" group-title="SRI LANKA",TV-DERANA
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23989.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV-DIDULA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_didula_lk.png" group-title="SRI LANKA",TV-DIDULA
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23990.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV1 " tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-1-lk.png" group-title="SRI LANKA",TV1 
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23991.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRACE-TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trace_fr_urban.png" group-title="SRI LANKA",TRACE-TV
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23992.ts
+#EXTINF:-1 tvg-id="" tvg-name="VASANTHAM" tvg-logo="https://f.top4top.io/p_2580gdpbi1.jpg" group-title="SRI LANKA",VASANTHAM
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23993.ts
+#EXTINF:-1 tvg-id="" tvg-name="HI-TV LANKA " tvg-logo="https://www.lyngsat.com/logo/tv/hh/hitv.png" group-title="SRI LANKA",HI-TV LANKA 
+https://starshare.one:443/live/umaduttjisgpr/iptvsonu/23995.ts
 
 #EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.postimg.cc/MTmv3dXr/kurdistantv.png" group-title="KURDISH",Kurdistan TV (720p) [Not 24/7]
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8 
