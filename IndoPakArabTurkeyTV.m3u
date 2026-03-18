@@ -1,5 +1,5 @@
 #EXTM3U
-EXTINF:-1 tvg-id="92news.pk" tvg-name="PK : 92 NEWS-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="PAKISTAN NEWS",PK : 92 NEWS-HD
+#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK : 92 NEWS-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="PAKISTAN NEWS",PK : 92 NEWS-HD
 https://starshare.one:443/live/umaduttjisgpr/iptvsonu/141.ts
 #EXTINF:-1 tvg-id="" tvg-name="PK : GNN NEWS-HD" tvg-logo="https://www.dishurdu.com/images/GNN-News-Logo.png" group-title="PAKISTAN NEWS",PK : GNN NEWS-HD
 https://starshare.one:443/live/umaduttjisgpr/iptvsonu/139.ts
