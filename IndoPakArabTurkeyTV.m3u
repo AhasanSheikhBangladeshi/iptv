@@ -84,18 +84,48 @@ https://lana.psm.mv/live/mtv.m3u8
 https://lana.psm.mv/live/yes.m3u8
 #EXTINF:-1 tvg-id="RaajjeTV.mv@SD" tvg-logo="https://i.imgur.com/NvYCCGl.png" group-title="Maldives",Raajje TV
 https://stream.raajje.mv/live/stream_c95ravtr7cyk/video1_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV 1" tvg-logo="http://tv.asc.vg/irib1.ir.png" group-title="Iran",IR: IRIB TV 1
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/2215.ts
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV 2" tvg-logo=" " group-title="Iran",IR: IRIB TV 2
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/2216.ts
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV 3" tvg-logo=" " group-title="Iran",IR: IRIB TV 3
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/2217.ts
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Iraqia" tvg-logo="http://tv.asc.vg/iraqia.iq.png" group-title="IRAQ",IQ: Iraqia
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/3154.ts
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Iraqia TV News" tvg-logo="http://tv.asc.vg/iraqia.news.iq.png" group-title="IRAQ",IQ: Iraqia TV News
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/497878.ts
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Iraqia Kurdish" tvg-logo=" " group-title="IRAQ",IQ: Iraqia Kurdish
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/499719.ts
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Fallojah" tvg-logo="http://tv.asc.vg/al.fallojah.iq.png" group-title="IRAQ",IQ: Al Fallojah
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/239034.ts
+#EXTINF:-1 tvg-id="" tvg-name="IQ: AL SHARQIYA HD" tvg-logo="http://tv.asc.vg/al.sharqiya.iq.png" group-title="IRAQ",IQ: AL SHARQIYA HD
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/497952.ts
+#EXTINF:-1 tvg-id="" tvg-name="IQ: KARBALA TV" tvg-logo="http://tv.asc.vg/karbala.iq.png" group-title="IRAQ",IQ: KARBALA TV
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/4339.ts
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Afaq" tvg-logo="http://tv.asc.vg/afaq.iq.png" group-title="IRAQ",IQ: Afaq
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/599406.ts
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Forat" tvg-logo="http://tv.asc.vg/al.forat.iq.png" group-title="IRAQ",IQ: Al Forat
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/3199.ts
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Sumaria TV" tvg-logo="http://tv.asc.vg/al.sumaria.iq.png" group-title="IRAQ",IQ: Al Sumaria TV
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/3250.ts
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Etejah" tvg-logo=" " group-title="IRAQ",IQ: Al Etejah
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/498892.ts
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Al Ghadeer" tvg-logo="http://tv.asc.vg/al.ghadeer.iq.png" group-title="IRAQ",IQ: Al Ghadeer
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/3233.ts
+#EXTINF:-1 tvg-id="" tvg-name="IQ: Al rasheed" tvg-logo="http://tv.asc.vg/al.rasheed.iq.png" group-title="IRAQ ⭐ العراق",IQ: Al rasheed
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/3292.ts
 
-#EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.postimg.cc/MTmv3dXr/kurdistantv.png" group-title="KURDISH",Kurdistan TV (720p) [Not 24/7]
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8 
-#EXTINF:-1 tvg-id="RudawTV.iq@SD" tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="News",Rudaw TV (1080p)
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Kurdsat.iq@SD" tvg-logo="https://i.postimg.cc/cC16pwn1/kurdsat.png" group-title="Entertainment",Kurdsat (1080p)
-https://iko-live.akamaized.net/KurdsatTV/master.m3u8
-#EXTINF:-1 tvg-id="KurdsatNews.iq@SD" tvg-logo="https://i.postimg.cc/Kj94xjPP/kurdsatnews.png" group-title="News",Kurdsat News (1080p)
-https://iko-streamline-live1.akamaized.net/KurdsatNews/master.m3u8
-#EXTINF:-1 tvg-id="NRTTV.iq@SD" tvg-logo="https://i.imgur.com/uGKGtbW.png" group-title="News",NRT TV (720p) [Not 24/7]
-https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Om: Oman TV Culture" tvg-logo="http://tv.asc.vg/oman.culture.om.png" group-title="OMAN",Om: Oman TV Culture
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Om: Oman TV General" tvg-logo="http://tv.asc.vg/oman.general.om.png" group-title="OMAN",Om: Oman TV General
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b2000000.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Qa: Qatar 1 HD" tvg-logo="http://tv.asc.vg/qatar.1.qa.png" group-title="QATAR",Qa: Qatar 1 HD
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/4415.ts
+#EXTINF:-1 tvg-id="" tvg-name="Qa: Qatar 2 HD" tvg-logo="http://tv.asc.vg/qatar.2.qa.png" group-title="QATAR",Qa: Qatar 2 HD
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/499145.ts
+#EXTINF:-1 tvg-id="" tvg-name="Qa: Al Rayyan HD" tvg-logo="http://tv.asc.vg/al.rayyan.qa.png" group-title="QATAR",Qa: Al Rayyan HD
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/2321.ts
 
 #EXTINF:-1 tvg-id="KTV1.kw@SD" tvg-logo="https://i.imgur.com/kG0d8Ay.png" group-title="Kuwait",KTV 1 (1080p)
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
