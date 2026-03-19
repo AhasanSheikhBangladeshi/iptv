@@ -1,5 +1,89 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK : 92 NEWS-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="PAKISTAN",PK : 92 NEWS-HD
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/141.ts
+#EXTINF:-1,PK : GNN NEWS-HD
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/139.ts
+#EXTINF:-1,PK : ARY NEWS-HD
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/143.ts
+#EXTINF:-1,PK : GEO NEWS-HD
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/129.ts
+#EXTINF:-1,PK : GEO TEZ-HD
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/128.ts
+#EXTINF:-1,PK : HUM NEWS-HD
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/103.ts
+#EXTINF:-1,UK: HUM NEWS
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/4087.ts
+#EXTINF:-1,PK : SAMAA NEWS
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/140.ts
+#EXTINF:-1,PK : BOL NEWS-HD
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/135.ts
+#EXTINF:-1,PK : DUNYA NEWS
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/134.ts
+#EXTINF:-1,PK : 24 NEWS HD
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/138.ts
+#EXTINF:-1,PK: 24 NEWS-HD
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/6626.ts
+#EXTINF:-1,PK : DAWN NEWS
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/133.ts
+#EXTINF:-1,PK: EXPRESS NEWS
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/58.ts
+#EXTINF:-1,PK : AAJ NEWS
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/137.ts
+#EXTINF:-1,PK : NEWS ONE
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/142.ts
+#EXTINF:-1,PK : ABB TAK
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/136.ts
+#EXTINF:-1,PK: SACH NEWS
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/2011.ts
+#EXTINF:-1,PK: NEO NEWS 
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/2009.ts
+#EXTINF:-1,PK: GTV NETWORK
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/4058.ts
+#EXTINF:-1,PK : CAPITAL TV NEWS
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/132.ts
+#EXTINF:-1,PK: PTV HOME
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/110.ts
+#EXTINF:-1,PK: PTV GLOBAL
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/109.ts
+#EXTINF:-1,PK : PTV News-HD
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/131.ts
+#EXTINF:-1,PK: HUM TV-HD
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/122.ts
+#EXTINF:-1,PK : HUM TV EUROPE
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/121.ts
+#EXTINF:-1,PK : ARY ZINDAGI
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/123.ts
+#EXTINF:-1,PK: ARY DIGITAL (4K)
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/257229.ts
+#EXTINF:-1,PK: ARY DIGITAL-HD
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/124.ts
+#EXTINF:-1,PK: ARY DIGITAL (UK)
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/125.ts
+#EXTINF:-1,PK : GEO TV
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/119.ts
+#EXTINF:-1,PK: AAJ ENTERTAINMENT
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/105.ts
+#EXTINF:-1,PK: KHYBER TV
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/107.ts
+#EXTINF:-1,PK: K21 NEWS
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/2012.ts
+#EXTINF:-1,PK : KHYBER NEWS
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/130.ts
+#EXTINF:-1,PK: AVT KHYBER NEWS
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/868.ts
+#EXTINF:-1,PK: KTN 
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/4227.ts
+#EXTINF:-1,PK: SINDH TV
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/2498.ts
 
+#EXTINF:-1 tvg-id="TVM.mv@SD" tvg-logo="https://i.imgur.com/1c7rFKC.png" group-title="Maldives",TVM
+https://lana.psm.mv/live/tvm.m3u8
+#EXTINF:-1 tvg-id="MaldivesTV.mv@SD" tvg-logo="https://i.imgur.com/Zl2FmFC.png" group-title="Maldives",Maldives TV (720p)
+https://lana.psm.mv/live/mtv.m3u8
+#EXTINF:-1 tvg-id="YES.mv@SD" tvg-logo="https://i.imgur.com/HARIGQl.png" group-title="Maldives",YES
+https://lana.psm.mv/live/yes.m3u8
+#EXTINF:-1 tvg-id="RaajjeTV.mv@SD" tvg-logo="https://i.imgur.com/NvYCCGl.png" group-title="Maldives",Raajje TV
+https://stream.raajje.mv/live/stream_c95ravtr7cyk/video1_stream.m3u8
 
 #EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.postimg.cc/MTmv3dXr/kurdistantv.png" group-title="KURDISH",Kurdistan TV (720p) [Not 24/7]
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8 
