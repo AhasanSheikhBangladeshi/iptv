@@ -164,9 +164,9 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Sa: AL Sahraa" tvg-logo="http://tv.asc.vg/al.sahraa.ksa.png" group-title="SAUDI",Sa: AL Sahraa
-
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/171693.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sa: Saudia Al Ekhbariya HD" tvg-logo="http://tv.asc.vg/al.ekhbaria.ksa.png" group-title="SAUDI",Sa: Saudia Al Ekhbariya HD
-
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/317544.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ye: Al Mahriah HD" tvg-logo="http://tv.asc.vg/al.mahriah.ye.png" group-title="YEMEN",Ye: Al Mahriah HD
 http://ford8k.com/live/a9ef867fad1f/3ad795a711/120733.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ye: Aden TV" tvg-logo="http://tv.asc.vg/aden.ye.png" group-title="YEMEN",Ye: Aden TV
@@ -190,6 +190,29 @@ http://ford8k.com/live/a9ef867fad1f/3ad795a711/343538.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ye: Al Masirah TV" tvg-logo="http://tv.asc.vg/al.masirah.ye.png" group-title="YEMEN",Ye: Al Masirah TV
 http://ford8k.com/live/a9ef867fad1f/3ad795a711/242394.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ye: Al Jomhoria Yemen TV" tvg-logo="http://tv.asc.vg/al.joumhouria.ye.png" group-title="YEMEN",Ye: Al Jomhoria Yemen TV
+
+#EXTINF:-1 tvg-id="" tvg-name="Ps: AL KOFIYA HD" tvg-logo="http://tv.asc.vg/al.kofiya.ps.png" group-title="PALESTINE ⭐ فلسطين",Ps: AL KOFIYA HD
+
+#EXTINF:-1 tvg-id="" tvg-name="Ps: Al Quds Al Yawm" tvg-logo="http://tv.asc.vg/al.quds.al.yawm.ps.png" group-title="PALESTINE ⭐ فلسطين",Ps: Al Quds Al Yawm
+
+#EXTINF:-1 tvg-id="" tvg-name="Ps: Palestine Al Yawm HD" tvg-logo="http://tv.asc.vg/palestine.al.yawm.ps.png" group-title="PALESTINE ⭐ فلسطين",Ps: Palestine Al Yawm HD
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/249835.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ps: Palestine TV" tvg-logo="http://tv.asc.vg/Palestine.ps.png" group-title="PALESTINE ⭐ فلسطين",Ps: Palestine TV
+
+#EXTINF:-1 tvg-id="" tvg-name="Sy: Syria TV SD" tvg-logo="http://tv.asc.vg/syria.tv.sy.png" group-title="SYRIA ⭐ سوريا",Sy: Syria TV SD
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/1824005.ts
+#EXTINF:-1 tvg-id="" tvg-name="SY: Syria TV HD" tvg-logo="http://tv.asc.vg/syria.tv.sy.png" group-title="SYRIA ⭐ سوريا",SY: Syria TV HD
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/1371910.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sy: Syria TV 2 SD" tvg-logo="http://tv.asc.vg/syriatv2.sy.png" group-title="SYRIA ⭐ سوريا",Sy: Syria TV 2 SD
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/1371913.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sy: Al Ekhbariya Sy HD" tvg-logo="http://tv.asc.vg/al.ikhbariya.sy.png" group-title="SYRIA ⭐ سوريا",Sy: Al Ekhbariya Sy HD
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/1346562.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sy: Misk TV" tvg-logo="http://tv.asc.vg/misk.sy.png" group-title="SYRIA ⭐ سوريا",Sy: Misk TV
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EG: Al Oula HD" tvg-logo="http://tv.asc.vg/al.oula.hd.eg.png" group-title="EGYPT ⭐ مصر",EG: Al Oula HD
+http://ford8k.com/live/a9ef867fad1f/3ad795a711/497871.ts
+#EXTINF:-1 tvg-id="" tvg-name="EG: CBC HD" tvg-logo="http://tv.asc.vg/cbc.hd2.eg.png" group-title="EGYPT ⭐ مصر",EG: CBC HD
 
 
 #EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1080p)
