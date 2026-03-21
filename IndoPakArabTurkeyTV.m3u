@@ -76,6 +76,39 @@ https://starshare.one:443/live/saxsenajiiptv/sonuiptv/4227.ts
 #EXTINF:-1,PK: SINDH TV
 https://starshare.one:443/live/saxsenajiiptv/sonuiptv/2498.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="ADA-DERENA24" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ada_derana_lk.png" group-title="SRI LANKA",ADA-DERENA24
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23963.ts
+#EXTINF:-1,ART-TELEVISION
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23964.ts
+#EXTINF:-1,HIRUTV
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23975.ts
+#EXTINF:-1,ITN 
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23976.ts
+#EXTINF:-1,NETHRA TV
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23977.ts
+#EXTINF:-1,NETHRA TV TAMIL
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23978.ts
+#EXTINF:-1,RIDEE-TV
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23981.ts
+#EXTINF:-1,RUPAVAHINI
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23982.ts
+#EXTINF:-1,SHAKTHI-TV
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23983.ts
+#EXTINF:-1,SHRADDHA-TV
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23984.ts
+#EXTINF:-1,SIRASA-TV
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23985.ts
+#EXTINF:-1,SIYATHA-TV
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23986.ts
+#EXTINF:-1,SWARNAVAHINI
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23987.ts
+#EXTINF:-1,TNL
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23988.ts
+#EXTINF:-1,TV-DERANA
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23989.ts
+#EXTINF:-1,VASANTHAM
+https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23993.ts
+
 #EXTINF:-1 tvg-id="TVM.mv@SD" tvg-logo="https://i.imgur.com/1c7rFKC.png" group-title="Maldives",TVM
 https://lana.psm.mv/live/tvm.m3u8
 #EXTINF:-1 tvg-id="MaldivesTV.mv@SD" tvg-logo="https://i.imgur.com/Zl2FmFC.png" group-title="Maldives",Maldives TV (720p)
