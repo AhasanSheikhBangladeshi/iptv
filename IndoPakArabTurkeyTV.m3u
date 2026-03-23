@@ -178,6 +178,11 @@ https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="MarinaTV.kw@SD" tvg-logo="https://i.imgur.com/F2PzEaw.png" group-title="Kuwait",Marina TV (1080p)
 https://ffs.gulfsat.com/Marina-TV-HD/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Kw: A TV HD" tvg-logo="http://tv.asc.vg/a.tv.kw.png" group-title="Kuwait",A TV HD
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/184435
+#EXTINF:-1 tvg-ID="" tvg-name="Kw: Al Rai" tvg-logo="http://tv.asc.vg/al.rai.kw.png" group-title="Kuwait",Al Rai
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/189136
+
 #EXTINF:-1 tvg-id="BahrainQuran.bh@SD" tvg-logo="https://i.postimg.cc/J4fSgGRk/bahrainquran.png" group-title="Bahrain",Bahrain Quran (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainSports1.bh@SD" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Bahrain",Bahrain Sports 1 (720p) [Not 24/7]
@@ -187,19 +192,28 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 #EXTINF:-1 tvg-id="BahrainTV.bh@SD" tvg-logo="https://i.postimg.cc/rw57LMpY/bahraintv.png" group-title="Bahrain",Bahrain TV (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sa: Saudi 1" tvg-logo="http://tv.asc.vg/saudi1.ksa.png" group-title="SAUDI",Sa: Saudi 1
+#EXTINF:-1 tvg-ID="" tvg-name="Sa: Saudi 1" tvg-logo="http://tv.asc.vg/saudi1.ksa.png" group-title="Saudi Arabia ⭐",Sa: Saudi 1
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/15315
+#EXTINF:-1 tvg-ID="" tvg-name="Sa: Saudia Alaan HD" tvg-logo="http://tv.asc.vg/saudi.now.png" group-title="Saudi Arabia ⭐",Sa: Saudia Alaan HD
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/239717
+#EXTINF:-1 tvg-ID="" tvg-name="Sa: Mecca" tvg-logo="http://tv.asc.vg/mecca.ksa.png" group-title="Saudi Arabia ⭐",Sa: Mecca
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/11520
+#EXTINF:-1 tvg-ID="" tvg-name="Sa: AL Sahraa" tvg-logo="http://tv.asc.vg/al.sahraa.ksa.png" group-title="Saudi Arabia ⭐",Sa: AL Sahraa
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/42136
+#EXTINF:-1 tvg-ID="" tvg-name="Sa: Bin Othaimeen" tvg-logo="http://tv.asc.vg/bin.othaimeen.ksa.png" group-title="Saudi Arabia ⭐",Sa: Bin Othaimeen
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/184432
+#EXTINF:-1 tvg-ID="" tvg-name="Sa: SBC" tvg-logo="http://tv.asc.vg/sbc.ksa.png" group-title="Saudi Arabia ⭐",Sa: SBC
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/14248
+#EXTINF:-1 tvg-ID="" tvg-name="Sa: SBC HD" tvg-logo="http://tv.asc.vg/sbc.ksa.png" group-title="Saudi Arabia ⭐",Sa: SBC HD
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/11463
+#EXTINF:-1 tvg-ID="" tvg-name="Sa: Thikrayat HD" tvg-logo="http://tv.asc.vg/thikrayat.ksa.png" group-title="Saudi Arabia ⭐",Sa: Thikrayat HD
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/105864
+#EXTINF:-1 tvg-ID="" tvg-name="Sa: Saudia Al Ekhbariya HD" tvg-logo="http://tv.asc.vg/al.ekhbaria.ksa.png" group-title="Saudi Arabia ⭐",Sa: Saudia Al Ekhbariya HD
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/184431
+#EXTINF:-1 tvg-ID="" tvg-name="Sa: Oyoun Al Watan" tvg-logo="http://tv.asc.vg/oyoun.al.watan.ksa.png" group-title="Saudi Arabia ⭐",Sa: Oyoun Al Watan
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/148609
 
-#EXTINF:-1 tvg-id="" tvg-name="Sa: Saudia Alaan HD" tvg-logo="http://tv.asc.vg/saudi.now.png" group-title="SAUDI",Sa: Saudia Alaan HD
 
-#EXTINF:-1 tvg-id="" tvg-name="Sa: Mecca" tvg-logo="http://tv.asc.vg/mecca.ksa.png" group-title="SAUDI",Sa: Mecca
-
-#EXTINF:-1 tvg-id="" tvg-name="Sa: SBC" tvg-logo="http://tv.asc.vg/sbc.ksa.png" group-title="SAUDI",Sa: SBC
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Sa: AL Sahraa" tvg-logo="http://tv.asc.vg/al.sahraa.ksa.png" group-title="SAUDI",Sa: AL Sahraa
-http://ford8k.com/live/a9ef867fad1f/3ad795a711/171693.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sa: Saudia Al Ekhbariya HD" tvg-logo="http://tv.asc.vg/al.ekhbaria.ksa.png" group-title="SAUDI",Sa: Saudia Al Ekhbariya HD
-http://ford8k.com/live/a9ef867fad1f/3ad795a711/317544.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ye: Al Mahriah HD" tvg-logo="http://tv.asc.vg/al.mahriah.ye.png" group-title="YEMEN",Ye: Al Mahriah HD
 http://ford8k.com/live/a9ef867fad1f/3ad795a711/120733.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ye: Aden TV" tvg-logo="http://tv.asc.vg/aden.ye.png" group-title="YEMEN",Ye: Aden TV
@@ -214,6 +228,8 @@ http://ford8k.com/live/a9ef867fad1f/3ad795a711/319846.ts
 http://ford8k.com/live/a9ef867fad1f/3ad795a711/4381.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ye: Yemen TV Hothia " tvg-logo="http://tv.asc.vg/al.yemen.ye.png" group-title="YEMEN",Ye: Yemen TV Hothia
 http://ford8k.com/live/a9ef867fad1f/3ad795a711/2290.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ye: Yemen TV" tvg-logo="http://tv.asc.vg/al.yemen.ye.png" group-title="YEMEN",Ye: Yemen TV
+http://istarpro.org:80/live/05081749220/68115834384901/513259.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ye: Al Hawyah TV" tvg-logo="http://tv.asc.vg/al.hawyah.ye.png" group-title="YEMEN",Ye: Al Hawyah TV
 http://ford8k.com/live/a9ef867fad1f/3ad795a711/120736.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ye: Suhail TV" tvg-logo="http://tv.asc.vg/suhail.ye.png" group-title="YEMEN",Ye: Suhail TV
@@ -224,13 +240,15 @@ http://ford8k.com/live/a9ef867fad1f/3ad795a711/343538.ts
 http://ford8k.com/live/a9ef867fad1f/3ad795a711/242394.ts
 #EXTINF:-1 tvg-id="" tvg-name="Ye: Al Jomhoria Yemen TV" tvg-logo="http://tv.asc.vg/al.joumhouria.ye.png" group-title="YEMEN",Ye: Al Jomhoria Yemen TV
 
-#EXTINF:-1 tvg-id="" tvg-name="Ps: AL KOFIYA HD" tvg-logo="http://tv.asc.vg/al.kofiya.ps.png" group-title="PALESTINE ⭐ فلسطين",Ps: AL KOFIYA HD
+#EXTINF:-1 tvg-ID="" tvg-name="Ps: AL KOFIYA HD" tvg-logo="http://tv.asc.vg/al.kofiya.ps.png" group-title="palestine ⭐",Ps: AL KOFIYA HD
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/996
+#EXTINF:-1 tvg-ID="" tvg-name="Ps: Palestine TV" tvg-logo="http://tv.asc.vg/Palestine.ps.png" group-title="palestine ⭐",Ps: Palestine TV
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/8590
+#EXTINF:-1 tvg-ID="" tvg-name="Ps: Al Quds Al Yawm" tvg-logo="http://tv.asc.vg/al.quds.al.yawm.ps.png" group-title="palestine ⭐",Ps: Al Quds Al Yawm
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/395234
+#EXTINF:-1 tvg-ID="" tvg-name="Ps: Palestine Al Yawm HD" tvg-logo="http://tv.asc.vg/palestine.al.yawm.ps.png" group-title="palestine ⭐",Ps: Palestine Al Yawm HD
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/8592
 
-#EXTINF:-1 tvg-id="" tvg-name="Ps: Al Quds Al Yawm" tvg-logo="http://tv.asc.vg/al.quds.al.yawm.ps.png" group-title="PALESTINE ⭐ فلسطين",Ps: Al Quds Al Yawm
-
-#EXTINF:-1 tvg-id="" tvg-name="Ps: Palestine Al Yawm HD" tvg-logo="http://tv.asc.vg/palestine.al.yawm.ps.png" group-title="PALESTINE ⭐ فلسطين",Ps: Palestine Al Yawm HD
-http://ford8k.com/live/a9ef867fad1f/3ad795a711/249835.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ps: Palestine TV" tvg-logo="http://tv.asc.vg/Palestine.ps.png" group-title="PALESTINE ⭐ فلسطين",Ps: Palestine TV
 
 #EXTINF:-1 tvg-id="" tvg-name="Sy: Syria TV SD" tvg-logo="http://tv.asc.vg/syria.tv.sy.png" group-title="SYRIA ⭐ سوريا",Sy: Syria TV SD
 http://ford8k.com/live/a9ef867fad1f/3ad795a711/1824005.ts
@@ -243,10 +261,55 @@ http://ford8k.com/live/a9ef867fad1f/3ad795a711/1346562.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sy: Misk TV" tvg-logo="http://tv.asc.vg/misk.sy.png" group-title="SYRIA ⭐ سوريا",Sy: Misk TV
 
 
-#EXTINF:-1 tvg-id="" tvg-name="EG: Al Oula HD" tvg-logo="http://tv.asc.vg/al.oula.hd.eg.png" group-title="EGYPT ⭐ مصر",EG: Al Oula HD
-http://ford8k.com/live/a9ef867fad1f/3ad795a711/497871.ts
-#EXTINF:-1 tvg-id="" tvg-name="EG: CBC HD" tvg-logo="http://tv.asc.vg/cbc.hd2.eg.png" group-title="EGYPT ⭐ مصر",EG: CBC HD
+#EXTINF:-1 tvg-ID="" tvg-name="EG: Al Nahar" tvg-logo="http://tv.asc.vg/al.nahar.eg.png" group-title="Egypt ⭐",EG: Al Nahar
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/454
+#EXTINF:-1 tvg-ID="" tvg-name="EG: CBC SD" tvg-logo="http://tv.asc.vg/cbc.sd2.eg.png" group-title="Egypt ⭐",EG: CBC SD
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/257
+#EXTINF:-1 tvg-ID="" tvg-name="EG: CBC HD" tvg-logo="http://tv.asc.vg/cbc.hd2.eg.png" group-title="Egypt ⭐",EG: CBC HD
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/442101
+#EXTINF:-1 tvg-ID="" tvg-name="EG: CBC Drama" tvg-logo="http://tv.asc.vg/cbc.draama.eg.png" group-title="Egypt ⭐",EG: CBC Drama
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/256
+#EXTINF:-1 tvg-ID="" tvg-name="EG: Al Oula HD" tvg-logo="http://tv.asc.vg/al.oula.hd.eg.png" group-title="Egypt ⭐",EG: Al Oula HD
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/14173
+#EXTINF:-1 tvg-ID="" tvg-name="EG: Al Thanya" tvg-logo="http://tv.asc.vg/al.thanya.eg.png" group-title="Egypt ⭐",EG: Al Thanya
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/296
+#EXTINF:-1 tvg-ID="" tvg-name="EG: AL Masriya" tvg-logo="http://tv.asc.vg/al.masriya.eg.png" group-title="Egypt ⭐",EG: AL Masriya
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/448
+#EXTINF:-1 tvg-ID="" tvg-name="EG: AL Kahera" tvg-logo="http://tv.asc.vg/al.kahera3.eg.png" group-title="Egypt ⭐",EG: AL Kahera
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/131431
+#EXTINF:-1 tvg-ID="" tvg-name="EG: AL Kanal" tvg-logo="http://tv.asc.vg/al.qanal4.eg.png" group-title="Egypt ⭐",EG: AL Kanal
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/131432
+#EXTINF:-1 tvg-ID="" tvg-name="EG: AL Askandaria" tvg-logo="http://tv.asc.vg/al.askandaria5.eg.png" group-title="Egypt ⭐",EG: AL Askandaria
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/131433
+#EXTINF:-1 tvg-ID="" tvg-name="EG: AL DELTA" tvg-logo="http://tv.asc.vg/al.delta6.eg.png" group-title="Egypt ⭐",EG: AL DELTA
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/131434
+#EXTINF:-1 tvg-ID="" tvg-name="EG: ALSA3EED" tvg-logo="http://tv.asc.vg/al.saeed7.eg.png" group-title="Egypt ⭐",EG: ALSA3EED
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/131435
+#EXTINF:-1 tvg-ID="" tvg-name="EG: AL S3YDA" tvg-logo="http://tv.asc.vg/al.saaiyda.eg.png" group-title="Egypt ⭐",EG: AL S3YDA
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/256146
+#EXTINF:-1 tvg-ID="" tvg-name="EG: Nile TV" tvg-logo="http://tv.asc.vg/nile.tv.inter.eg.png" group-title="Egypt ⭐",EG: Nile TV
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/406
+#EXTINF:-1 tvg-ID="" tvg-name="EG: Nile Life" tvg-logo="http://tv.asc.vg/nile.life.eg.png" group-title="Egypt ⭐",EG: Nile Life
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/214
+#EXTINF:-1 tvg-ID="" tvg-name="EG: Nile News" tvg-logo="http://tv.asc.vg/nile.news.eg.png" group-title="Egypt ⭐",EG: Nile News
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/213
+#EXTINF:-1 tvg-ID="" tvg-name="EG: Nile Culture" tvg-logo="http://tv.asc.vg/nile.culture.eg.png" group-title="Egypt ⭐",EG: Nile Culture
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/216
+#EXTINF:-1 tvg-ID="" tvg-name="EG: Al Hayat HD" tvg-logo="http://tv.asc.vg/al.hayah.eg.png" group-title="Egypt ⭐",EG: Al Hayat HD
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/863
+#EXTINF:-1 tvg-ID="" tvg-name="EG: DMC" tvg-logo="http://tv.asc.vg/dmc.eg.png" group-title="Egypt ⭐",EG: DMC
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/4489
+#EXTINF:-1 tvg-ID="" tvg-name="EG: Al Kahera We Al Nas" tvg-logo="http://tv.asc.vg/al.kahera.wal.nas.eg.png" group-title="Egypt ⭐",EG: Al Kahera We Al Nas
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/453
 
+#EXTINF:-1 tvg-ID="" tvg-name="SD: Sudan TV" tvg-logo="http://tv.asc.vg/sudan.sd.png" group-title="Sudan ⭐",SD: Sudan TV
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/1762
+#EXTINF:-1 tvg-ID="" tvg-name="SD: Khartoum TV" tvg-logo="http://tv.asc.vg/al.khartoom.sd.png" group-title="Sudan ⭐",SD: Khartoum TV
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/428268
+#EXTINF:-1 tvg-ID="" tvg-name="SD: Tayba tv" tvg-logo="http://tv.asc.vg/tayba.sd.png" group-title="Sudan ⭐",SD: Tayba tv
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/428267
+#EXTINF:-1 tvg-ID="" tvg-name="SD: Shamalia" tvg-logo="http://tv.asc.vg/shamalia.sd.png" group-title="Sudan ⭐",SD: Shamalia
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/243905
 
 #EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1080p)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
@@ -308,3 +371,32 @@ http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 #EXTINF:-1 tvg-id="ATV.tr@SD",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Ly: Libya Al Ahrar TV" tvg-logo="http://tv.asc.vg/libya.al.ahrar.ly.png" group-title="Libya ⭐",Ly: Libya Al Ahrar TV
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/616
+#EXTINF:-1 tvg-ID="" tvg-name="Ly: Libya Al Wataniya" tvg-logo="http://tv.asc.vg/libya.al.wataniya.ly.png" group-title="Libya ⭐",Ly: Libya Al Wataniya
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/11533
+#EXTINF:-1 tvg-ID="" tvg-name="Ly: Libya Al Hadath" tvg-logo="http://tv.asc.vg/libya.al.hadath.ly.png" group-title="Libya ⭐",Ly: Libya Al Hadath
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/42522
+#EXTINF:-1 tvg-ID="" tvg-name="Ly: Libya Al Mustakbal TV" tvg-logo="http://tv.asc.vg/libya.al.mustakbal.ly.png" group-title="Libya ⭐",Ly: Libya Al Mustakbal TV
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/112840
+#EXTINF:-1 tvg-ID="" tvg-name="Ly: Libya Al Rasmia" tvg-logo="http://tv.asc.vg/libya.al.rasmia.ly.png" group-title="Libya ⭐",Ly: Libya Al Rasmia
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/157034
+#EXTINF:-1 tvg-ID="" tvg-name="Ly: Libya Education" tvg-logo="http://tv.asc.vg/libya.education.ly.png" group-title="Libya ⭐",Ly: Libya Education
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/244323
+#EXTINF:-1 tvg-ID="" tvg-name="Ly: Salam TV" tvg-logo="http://tv.asc.vg/salam.ly.png" group-title="Libya ⭐",Ly: Salam TV
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/11752
+#EXTINF:-1 tvg-ID="" tvg-name="Ly: NEW LIBYA" tvg-logo="http://tv.asc.vg/new.libya.ly.png" group-title="Libya ⭐",Ly: NEW LIBYA
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/379614
+#EXTINF:-1 tvg-ID="" tvg-name="Ly: Allibiya TV" tvg-logo="http://tv.asc.vg/allibiya.ly.png" group-title="Libya ⭐",Ly: Allibiya TV
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/385282
+#EXTINF:-1 tvg-ID="" tvg-name="Ly: Libya Ifta TV" tvg-logo="http://tv.asc.vg/libya.ifta.ly.png" group-title="Libya ⭐",Ly: Libya Ifta TV
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/385854
+#EXTINF:-1 tvg-ID="" tvg-name="Ly: Tanasuh Education TV" tvg-logo="http://tv.asc.vg/tanasuh.education.ly.png" group-title="Libya ⭐",Ly: Tanasuh Education TV
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/385855
+#EXTINF:-1 tvg-ID="" tvg-name="Ly: Tanasuh TV" tvg-logo="http://tv.asc.vg/tanasuh.ly.png" group-title="Libya ⭐",Ly: Tanasuh TV
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/385853
+#EXTINF:-1 tvg-ID="" tvg-name="Ly: AL MASAR TV" tvg-logo="http://tv.asc.vg/al.masar.ly.png" group-title="Libya ⭐",Ly: AL MASAR TV
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/244322
+#EXTINF:-1 tvg-ID="" tvg-name="Ly: AL Nabaa TV" tvg-logo="http://tv.asc.vg/al.nabaa.ly.png" group-title="Libya ⭐",Ly: AL Nabaa TV
+http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/244325
