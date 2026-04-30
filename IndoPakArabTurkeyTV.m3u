@@ -171,6 +171,30 @@ https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b20000
 #EXTINF:-1 tvg-id="" tvg-name="Om: Oman TV General" tvg-logo="http://tv.asc.vg/oman.general.om.png" group-title="OMAN",Om: Oman TV General
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b2000000.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="IR: Avang TV" tvg-logo="https://thumbs.dreamstime.com/b/iran-logo-map-iran-country-name-flag-captivating-vector-illustration-iran-logo-map-iran-country-name-flag-168183733.jpg" group-title="AR | IR - IRAN",IR: Avang TV
+https://nova4k.xyz:443/32575368800375/94390682782213/383583
+#EXTINF:-1 tvg-id="" tvg-name="IR: BBC Persian" tvg-logo="https://banner2.cleanpng.com/20180710/rov/kisspng-bbc-america-business-united-kingdom-corporation-bbc-logo-5b4472a703af41.2043623415312124550151.jpg" group-title="AR | IR - IRAN",IR: BBC Persian
+https://nova4k.xyz:443/32575368800375/94390682782213/383549
+#EXTINF:-1 tvg-id="" tvg-name="IR: Didgah TV" tvg-logo="https://thumbs.dreamstime.com/b/iran-logo-map-iran-country-name-flag-captivating-vector-illustration-iran-logo-map-iran-country-name-flag-168183733.jpg" group-title="AR | IR - IRAN",IR: Didgah TV
+https://nova4k.xyz:443/32575368800375/94390682782213/383631
+#EXTINF:-1 tvg-id="" tvg-name="IR: Iran International HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1280px-Iran_International.svg.png" group-title="AR | IR - IRAN",IR: Iran International HD
+https://nova4k.xyz:443/32575368800375/94390682782213/383545
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRAN TV NETWORK ITN" tvg-logo="https://thumbs.dreamstime.com/b/iran-logo-map-iran-country-name-flag-captivating-vector-illustration-iran-logo-map-iran-country-name-flag-168183733.jpg" group-title="AR | IR - IRAN",IR: IRAN TV NETWORK ITN
+https://nova4k.xyz:443/32575368800375/94390682782213/383642
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV 1" tvg-logo="https://thumbs.dreamstime.com/b/iran-logo-map-iran-country-name-flag-captivating-vector-illustration-iran-logo-map-iran-country-name-flag-168183733.jpg" group-title="AR | IR - IRAN",IR: IRIB TV 1
+https://nova4k.xyz:443/32575368800375/94390682782213/383676
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV 2" tvg-logo="https://thumbs.dreamstime.com/b/iran-logo-map-iran-country-name-flag-captivating-vector-illustration-iran-logo-map-iran-country-name-flag-168183733.jpg" group-title="AR | IR - IRAN",IR: IRIB TV 2
+https://nova4k.xyz:443/32575368800375/94390682782213/383677
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV 3" tvg-logo="https://thumbs.dreamstime.com/b/iran-logo-map-iran-country-name-flag-captivating-vector-illustration-iran-logo-map-iran-country-name-flag-168183733.jpg" group-title="AR | IR - IRAN",IR: IRIB TV 3
+https://nova4k.xyz:443/32575368800375/94390682782213/383678
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV 4" tvg-logo="https://thumbs.dreamstime.com/b/iran-logo-map-iran-country-name-flag-captivating-vector-illustration-iran-logo-map-iran-country-name-flag-168183733.jpg" group-title="AR | IR - IRAN",IR: IRIB TV 4
+https://nova4k.xyz:443/32575368800375/94390682782213/383679
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV 5" tvg-logo="https://thumbs.dreamstime.com/b/iran-logo-map-iran-country-name-flag-captivating-vector-illustration-iran-logo-map-iran-country-name-flag-168183733.jpg" group-title="AR | IR - IRAN",IR: IRIB TV 5
+https://nova4k.xyz:443/32575368800375/94390682782213/383680
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRINN" tvg-logo="https://thumbs.dreamstime.com/b/iran-logo-map-iran-country-name-flag-captivating-vector-illustration-iran-logo-map-iran-country-name-flag-168183733.jpg" group-title="AR | IR - IRAN",IR: IRINN
+https://nova4k.xyz:443/32575368800375/94390682782213/383681
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Quran" tvg-logo="https://thumbs.dreamstime.com/b/iran-logo-map-iran-country-name-flag-captivating-vector-illustration-iran-logo-map-iran-country-name-flag-168183733.jpg" group-title="AR | IR - IRAN",IR: IRIB Quran
+https://nova4k.xyz:443/32575368800375/94390682782213/383683
 
 #EXTINF:-1 tvg-id="KTV1.kw@SD" tvg-logo="https://i.imgur.com/kG0d8Ay.png" group-title="Kuwait",KTV 1 (1080p)
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
