@@ -1,71 +1,47 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="92news.pk" tvg-name="PK : 92 NEWS-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="PAKISTAN",PK : 92 NEWS-HD
-http://line.nspivot.com:80/live/C01D92/60CA8D/99711.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="Afg: RTA Sports" tvg-logo="http://tv.asc.vg/rta.sport.afg.png" group-title="Afghanistan ⭐",Afg: RTA Sports
-http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/254770
-#EXTINF:-1 tvg-ID="" tvg-name="Afg: ATN TV" tvg-logo="http://tv.asc.vg/atn.afg.png" group-title="Afghanistan ⭐",Afg: ATN TV
-http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/254768
-#EXTINF:-1 tvg-ID="" tvg-name="Afg: ATN News TV" tvg-logo="http://tv.asc.vg/atn.news.afg.png" group-title="Afghanistan ⭐",Afg: ATN News TV
-http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/254767
-#EXTINF:-1 tvg-ID="" tvg-name="Afg: ATN USA" tvg-logo="http://tv.asc.vg/atn.afg.png" group-title="Afghanistan ⭐",Afg: ATN USA
-http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/254766
-#EXTINF:-1 tvg-ID="" tvg-name="Afg: Tamadon TV" tvg-logo="http://tv.asc.vg/tamadon.afg.png" group-title="Afghanistan ⭐",Afg: Tamadon TV
-http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/254763
-#EXTINF:-1 tvg-ID="" tvg-name="Afg: Watan e Maa TV" tvg-logo="http://tv.asc.vg/watan.e.maa.afg.png" group-title="Afghanistan ⭐",Afg: Watan e Maa TV
-http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/254762
-#EXTINF:-1 tvg-ID="" tvg-name="Afg: Lemar HD" tvg-logo="http://tv.asc.vg/lemar.afg.png" group-title="Afghanistan ⭐",Afg: Lemar HD
-http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/254760
-#EXTINF:-1 tvg-ID="" tvg-name="Afg: Arezo News TV" tvg-logo="http://tv.asc.vg/arezo.afg.png" group-title="Afghanistan ⭐",Afg: Arezo News TV
-http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/254759
-#EXTINF:-1 tvg-ID="" tvg-name="Afg: 1 TV" tvg-logo="http://tv.asc.vg/1tv.afg.png" group-title="Afghanistan ⭐",Afg: 1 TV
-http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/254758
-#EXTINF:-1 tvg-ID="" tvg-name="Afg: AFGHAN INTERNATIONAL" tvg-logo="http://tv.asc.vg/afghan.international.afg.png" group-title="Afghanistan ⭐",Afg: AFGHAN INTERNATIONAL
-http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/254757
-#EXTINF:-1 tvg-ID="" tvg-name="Afg: Eslah TV" tvg-logo="http://tv.asc.vg/eslah.afg.png" group-title="Afghanistan ⭐",Afg: Eslah TV
-http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/254756
-#EXTINF:-1 tvg-ID="" tvg-name="Afg: Payam E Afghan" tvg-logo="http://tv.asc.vg/payam.e.afghan.afg.png" group-title="Afghanistan ⭐",Afg: Payam E Afghan
-http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/254755
-#EXTINF:-1 tvg-ID="" tvg-name="Afg: Shamshad TV" tvg-logo="http://tv.asc.vg/shamshad.afg.png" group-title="Afghanistan ⭐",Afg: Shamshad TV
-http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/254754
-#EXTINF:-1 tvg-ID="" tvg-name="Afg: Tolo HD" tvg-logo="http://tv.asc.vg/tolo.afg.png" group-title="Afghanistan ⭐",Afg: Tolo HD
-http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/254753
-#EXTINF:-1 tvg-ID="" tvg-name="Afg: Tolo News HD" tvg-logo="http://tv.asc.vg/tolo.news.afg.png" group-title="Afghanistan ⭐",Afg: Tolo News HD
-http://nasatvpro.pro:2095/Mohammedxaltona/ba9289h/254752
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ADA-DERENA24" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ada_derana_lk.png" group-title="SRI LANKA",ADA-DERENA24
-https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23963.ts
-#EXTINF:-1,ART-TELEVISION
-https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23964.ts
-#EXTINF:-1,HIRUTV
-https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23975.ts
-#EXTINF:-1,ITN 
-https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23976.ts
-#EXTINF:-1,NETHRA TV
-https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23977.ts
-#EXTINF:-1,NETHRA TV TAMIL
-https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23978.ts
-#EXTINF:-1,RIDEE-TV
-https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23981.ts
-#EXTINF:-1,RUPAVAHINI
-https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23982.ts
-#EXTINF:-1,SHAKTHI-TV
-https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23983.ts
-#EXTINF:-1,SHRADDHA-TV
-https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23984.ts
-#EXTINF:-1,SIRASA-TV
-https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23985.ts
-#EXTINF:-1,SIYATHA-TV
-https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23986.ts
-#EXTINF:-1,SWARNAVAHINI
-https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23987.ts
-#EXTINF:-1,TNL
-https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23988.ts
-#EXTINF:-1,TV-DERANA
-https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23989.ts
-#EXTINF:-1,VASANTHAM
-https://starshare.one:443/live/saxsenajiiptv/sonuiptv/23993.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pk: ARY Digital" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: ARY Digital
+https://nova4k.xyz:443/32575368800375/94390682782213/591750
+#EXTINF:-1 tvg-id="" tvg-name="Pk: Ary Digital UK" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: Ary Digital UK
+https://nova4k.xyz:443/32575368800375/94390682782213/591751
+#EXTINF:-1 tvg-id="" tvg-name="Pk: ARY NEWS" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: ARY NEWS
+https://nova4k.xyz:443/32575368800375/94390682782213/591701
+#EXTINF:-1 tvg-id="" tvg-name="Pk: ARY QTV" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: ARY QTV
+https://nova4k.xyz:443/32575368800375/94390682782213/591778
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY World" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",PK: ARY World
+https://nova4k.xyz:443/32575368800375/94390682782213/591789
+#EXTINF:-1 tvg-id="" tvg-name="Pk: ARY ZINDAGI" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: ARY ZINDAGI
+https://nova4k.xyz:443/32575368800375/94390682782213/591744
+#EXTINF:-1 tvg-id="" tvg-name="Pk: ATV" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: ATV
+https://nova4k.xyz:443/32575368800375/94390682782213/591737
+#EXTINF:-1 tvg-id="" tvg-name="Pk: AWAZ TV" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: AWAZ TV
+https://nova4k.xyz:443/32575368800375/94390682782213/591780
+#EXTINF:-1 tvg-id="" tvg-name="Pk: BOL Entertainment" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: BOL Entertainment
+https://nova4k.xyz:443/32575368800375/94390682782213/591740
+#EXTINF:-1 tvg-id="" tvg-name="Pk: BOL News" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: BOL News
+https://nova4k.xyz:443/32575368800375/94390682782213/591718
+#EXTINF:-1 tvg-id="" tvg-name="PK:  Geo Tv UK" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",PK:  Geo Tv UK
+https://nova4k.xyz:443/32575368800375/94390682782213/591787
+#EXTINF:-1 tvg-id="" tvg-name="Pk: 24 News" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: 24 News
+https://nova4k.xyz:443/32575368800375/94390682782213/591717
+#EXTINF:-1 tvg-id="" tvg-name="Pk: 8XM HD" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: 8XM HD
+https://nova4k.xyz:443/32575368800375/94390682782213/591736
+#EXTINF:-1 tvg-id="" tvg-name="Pk: 92 News HD" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: 92 News HD
+https://nova4k.xyz:443/32575368800375/94390682782213/591706
+#EXTINF:-1 tvg-id="" tvg-name="Pk: A PLUS" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: A PLUS
+https://nova4k.xyz:443/32575368800375/94390682782213/591738
+#EXTINF:-1 tvg-id="" tvg-name="Pk: AAJ Entertainment" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: AAJ Entertainment
+https://nova4k.xyz:443/32575368800375/94390682782213/591742
+#EXTINF:-1 tvg-id="" tvg-name="Pk: AAJ NEWS" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: AAJ NEWS
+https://nova4k.xyz:443/32575368800375/94390682782213/591722
+#EXTINF:-1 tvg-id="" tvg-name="Pk: ABB Takk News" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: ABB Takk News
+https://nova4k.xyz:443/32575368800375/94390682782213/591712
+#EXTINF:-1 tvg-id="" tvg-name="Pk: Dawn News" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: Dawn News
+https://nova4k.xyz:443/32575368800375/94390682782213/591714
+#EXTINF:-1 tvg-id="" tvg-name="Pk: Dunya News" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: Dunya News
+https://nova4k.xyz:443/32575368800375/94390682782213/591721
+#EXTINF:-1 tvg-id="" tvg-name="Pk: Express Entertainment" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: Express Entertainment
+https://nova4k.xyz:443/32575368800375/94390682782213/591741
+#EXTINF:-1 tvg-id="" tvg-name="Pk: Express News" tvg-logo="https://www.clipartmax.com/png/middle/318-3180190_get-on-edge-by-such-assignments-is-that-it-precisely-pakistan-flag.png" group-title="PAK | PAKISTAN",Pk: Express News
+https://nova4k.xyz:443/32575368800375/94390682782213/591729
 
 #EXTINF:-1 tvg-id="TVM.mv@SD" tvg-logo="https://i.imgur.com/1c7rFKC.png" group-title="Maldives",TVM
 https://lana.psm.mv/live/tvm.m3u8
@@ -76,12 +52,6 @@ https://lana.psm.mv/live/yes.m3u8
 #EXTINF:-1 tvg-id="RaajjeTV.mv@SD" tvg-logo="https://i.imgur.com/NvYCCGl.png" group-title="Maldives",Raajje TV
 https://stream.raajje.mv/live/stream_c95ravtr7cyk/video1_stream.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="IR: IRIB TV 1" tvg-logo="http://tv.asc.vg/irib1.ir.png" group-title="Iran ⭐ ",IR: IRIB TV 1
-http://line.nspivot.com:80/live/C01D92/60CA8D/44547.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IR: IRIB TV 2" tvg-logo="http://tv.asc.vg/irib2.ir.png" group-title="Iran ⭐ ",IR: IRIB TV 2
-http://line.nspivot.com:80/live/C01D92/60CA8D/44546.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IR: IRIB TV 3" tvg-logo="http://tv.asc.vg/irib3.ir.png" group-title="Iran ⭐ ",IR: IRIB TV 3
-http://line.nspivot.com:80/live/C01D92/60CA8D/44545.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Om: Oman TV Culture" tvg-logo="http://tv.asc.vg/oman.culture.om.png" group-title="OMAN",Om: Oman TV Culture
