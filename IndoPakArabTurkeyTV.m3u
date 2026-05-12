@@ -1,5 +1,5 @@
 
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Hum TV HD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Hum TV HD
+#EXTINF:-1 tvg-ID="" tvg-name="PK: Hum TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png" group-title="PAKISTAN",PK: Hum TV HD
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380074
 #EXTINF:-1 tvg-ID="" tvg-name="PK: Hum TV SD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Hum TV SD
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380075
@@ -9,9 +9,9 @@ http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380076
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380078
 #EXTINF:-1 tvg-ID="" tvg-name="PK: Hum Pashto SD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Hum Pashto SD
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380079
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Bol Ent FHD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Bol Ent FHD
+#EXTINF:-1 tvg-ID="" tvg-name="PK: Bol Ent FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png" group-title="PAKISTAN",PK: Bol Ent FHD
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380080
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Ary Digital FHD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Ary Digital FHD
+#EXTINF:-1 tvg-ID="" tvg-name="PK: Ary Digital FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_digital_asia.png" group-title="PAKISTAN",PK: Ary Digital FHD
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380083
 #EXTINF:-1 tvg-ID="" tvg-name="PK: Ary Zindagi SD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Ary Zindagi SD
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380085
