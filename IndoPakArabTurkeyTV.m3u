@@ -1,8 +1,6 @@
 #EXTINF:-1 tvg-ID="" tvg-name="PK: Hum TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png" group-title="PAKISTAN",PK: Hum TV HD
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380074
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Hum TV SD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Hum TV SD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380075
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Hum Sitaray SD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Hum Sitaray SD
+#EXTINF:-1 tvg-ID="" tvg-name="PK: Hum Sitaray SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-sitaray-pk.png" group-title="PAKISTAN",PK: Hum Sitaray SD
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380076
 #EXTINF:-1 tvg-ID="" tvg-name="PK: Hum Masala TV" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Hum Masala TV
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380078
@@ -16,13 +14,11 @@ http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380083
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380085
 #EXTINF:-1 tvg-ID="" tvg-name="PK: Geo TV SD*" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Geo TV SD*
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380086
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Geo Ent FHD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Geo Ent FHD
+#EXTINF:-1 tvg-ID="" tvg-name="PK: Geo Ent FHD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_uk.png" group-title="PAKISTAN",PK: Geo Ent FHD
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380087
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Geo Ent SD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Geo Ent SD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380088
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Ptv Home SD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Ptv Home SD
+#EXTINF:-1 tvg-ID="" tvg-name="PK: Ptv Home SD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-home-pk.png" group-title="PAKISTAN",PK: Ptv Home SD
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380091
-#EXTINF:-1 tvg-ID="" tvg-name="PK: PTV NEWS FHD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: PTV NEWS FHD
+#EXTINF:-1 tvg-ID="" tvg-name="PK: PTV NEWS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-news-pk.png" group-title="PAKISTAN",PK: PTV NEWS FHD
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380139
 #EXTINF:-1 tvg-ID="" tvg-name="PK: Ptv World SD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Ptv World SD
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380092
@@ -34,7 +30,7 @@ http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380095
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380097
 #EXTINF:-1 tvg-ID="" tvg-name="PK: Express Ent HD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Express Ent HD
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380098
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Aaj Ent SD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Aaj Ent SD
+#EXTINF:-1 tvg-ID="" tvg-name="PK: Aaj Ent SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj_entertainment_pk.png" group-title="PAKISTAN",PK: Aaj Ent SD
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380099
 #EXTINF:-1 tvg-ID="" tvg-name="PK: A PLUS" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: A PLUS
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380101
@@ -111,32 +107,26 @@ http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413592
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413593
 #EXTINF:-1 tvg-ID="" tvg-name="AR: IRAQIA TURKUMAN" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imn-turkmen-iq.png" group-title="IRAQ",AR: IRAQIA TURKUMAN
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413594
-#EXTINF:-1 tvg-ID="" tvg-name="AR: AFAQ 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: AFAQ 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AFAQ 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/afaq-tv-iq.png" group-title="IRAQ",AR: AFAQ 4K
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413596
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ALANBAR TV" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: ALANBAR TV
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ALANBAR TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anbar-tv-channel-iq.png" group-title="IRAQ",AR: ALANBAR TV
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413599
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ALANES  TV" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: ALANES  TV
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413600
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ALAWLA IRAQ 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: ALAWLA IRAQ 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ALAWLA IRAQ 4K" tvg-logo="https://www.lyngsat.com/logo/tv/num/1tv-iq.png" group-title="IRAQ",AR: ALAWLA IRAQ 4K
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413601
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ALETEJAH TV" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: ALETEJAH TV
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ALETEJAH TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-etejah-tv-iq.png" group-title="IRAQ",AR: ALETEJAH TV
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413604
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ALFALLOUJAH tv" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: ALFALLOUJAH tv
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ALFALLOUJAH tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr_KeYr3AY62HjdNGA_ENchYBhWNqzpKn6DfcmibdnsQJGXnBRQpGAO49f&s=10" group-title="IRAQ",AR: ALFALLOUJAH tv
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413605
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ALFORAT 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: ALFORAT 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ALFORAT 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%81%D8%B1%D8%A7%D8%AA.jpg" group-title="IRAQ",AR: ALFORAT 4K
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413606
-#EXTINF:-1 tvg-ID="" tvg-name="AR: KARBALA TV 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: KARBALA TV 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: KARBALA TV 4K" tvg-logo="https://www.lyngsat.com/logo/tv/kk/karbala_satellite_channel.png" group-title="IRAQ",AR: KARBALA TV 4K
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413625
-#EXTINF:-1 tvg-ID="" tvg-name="AR: KARBALA TV HD" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: KARBALA TV HD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413626
-#EXTINF:-1 tvg-ID="" tvg-name="AR: KARBALA AL QURAN TV" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: KARBALA AL QURAN TV
+#EXTINF:-1 tvg-ID="" tvg-name="AR: KARBALA AL QURAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alquran-iq.png" group-title="IRAQ",AR: KARBALA AL QURAN TV
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413627
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ALANWAR 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: ALANWAR 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ALANWAR 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv.png" group-title="IRAQ",AR: ALANWAR 4K
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413628
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ALANWAR 2 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: ALANWAR 2 4K
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ALANWAR 2 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alanwar_tv2.png" group-title="IRAQ",AR: ALANWAR 2 4K
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413629
-#EXTINF:-1 tvg-ID="" tvg-name="AR: IMAM ALI 4K" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: IMAM ALI 4K
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413630
 #EXTINF:-1 tvg-ID="" tvg-name="AR: IMAM ALI HD" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: IMAM ALI HD
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413631
 
@@ -145,14 +135,12 @@ http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413631
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413641
 #EXTINF:-1 tvg-ID="" tvg-name="AR: AL AHVAZ" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: AL AHVAZ
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413644
-#EXTINF:-1 tvg-ID="" tvg-name="AR: AL HUJJA TV" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: AL HUJJA TV
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL HUJJA TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_hujja_sat_iq.png" group-title="IRAQ",AR: AL HUJJA TV
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413645
 #EXTINF:-1 tvg-ID="" tvg-name="AR: ALJWADEN TV" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: ALJWADEN TV
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413653
 #EXTINF:-1 tvg-ID="" tvg-name="AR: ALKAFEL TV" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: ALKAFEL TV
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413654
-#EXTINF:-1 tvg-ID="" tvg-name="AR: ALKARBALAEIA TV" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: ALKARBALAEIA TV
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413655
 #EXTINF:-1 tvg-ID="" tvg-name="AR: ALNOJABA TV" tvg-logo="http://163.172.39.182:80/logo/countryies/IRAQ.png" group-title="IRAQ",AR: ALNOJABA TV
 http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/413664
 
