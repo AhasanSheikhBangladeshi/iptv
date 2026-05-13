@@ -250,6 +250,8 @@ https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8
 https://ncdn.telewebion.ir/kerman/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KhalijeFarsTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/7/7c/Bandar_KHALI_J_e_FARS_TV.svg/960px-Bandar_KHALI_J_e_FARS_TV.svg.png" group-title="Iran",Khalij-e Fars
 https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SemnanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/35/Semnan_TV.png" group-title="Iran",Semnan
+https://ncdn.telewebion.ir/semnan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IsfahanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/960px-IsfahanTV.svg.png" group-title="Iran",Isfahan
 https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NoorTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/c/ce/Qum_Noor_TV.svg/960px-Qum_Noor_TV.svg.png" group-title="Iran",Noor
@@ -264,7 +266,25 @@ https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8
 https://ncdn.telewebion.ir/sahand/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/960px-Kermanshah_Zaghros.svg.png" group-title="Iran",Zagros
 https://ncdn.telewebion.ir/zagros/live/playlist.m3u8
-
+#EXTINF:-1 tvg-id="IlamTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/960px-Ilam_TV.png" group-title="Iran",Ilam
+https://ncdn.telewebion.ir/ilam/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KordestanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/960px-Sanandaj_KORDESTAN.svg.png" group-title="Iran",Kordestan
+https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MahabadTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/cb/Mahabad_tv.png" group-title="Iran",Mahabad
+https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" http-referrer="https://odysee.com/" group-title="Iran",Press TV (720p)
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
+#EXTINF:-1 tvg-id="AlAlam.ir@SD" tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="Iran",Al Alam (360p)
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-id="IranNationalRevolutionTV.us@HD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iran-national-revolution-tv-us.png" group-title="Iran",Iran National Revolution TV
+https://hls.irannrtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="IranPress.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg/960px-%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg" group-title="Iran",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
+#EXTINF:-1 tvg-id="IraneFardaTV.uk@SD" tvg-logo="https://i.imgur.com/ixgcgZY.png" group-title="Iran",IraneFarda TV (720p)
+https://hls.iranfarda.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SimayeAzadi.uk@SD" tvg-logo="https://i.imgur.com/yXcczMq.png" group-title="Iran",Simaye Azadi (1080p)
+https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="AR: ALSHARQIYA 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQldGmx9FkGSaf-heNSmmjenpOHoQhzS0Do0Ec_tBVlILYOMprZT4dVqrs&s=10" group-title="IRAQ",AR: ALSHARQIYA 4K
