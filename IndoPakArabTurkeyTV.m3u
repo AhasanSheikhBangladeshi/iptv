@@ -1,71 +1,4 @@
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Hum TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum_tv_pk.png" group-title="PAKISTAN",PK: Hum TV HD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380074
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Hum Sitaray SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hum-sitaray-pk.png" group-title="PAKISTAN",PK: Hum Sitaray SD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380076
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Hum Masala TV" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Hum Masala TV
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380078
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Hum Pashto SD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Hum Pashto SD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380079
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Bol Ent FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bol-entertainment-pk.png" group-title="PAKISTAN",PK: Bol Ent FHD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380080
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Ary Digital FHD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_digital_asia.png" group-title="PAKISTAN",PK: Ary Digital FHD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380083
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Ary Zindagi SD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Ary Zindagi SD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380085
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Geo TV SD*" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Geo TV SD*
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380086
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Geo Ent FHD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_uk.png" group-title="PAKISTAN",PK: Geo Ent FHD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380087
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Ptv Home SD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-home-pk.png" group-title="PAKISTAN",PK: Ptv Home SD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380091
-#EXTINF:-1 tvg-ID="" tvg-name="PK: PTV NEWS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv-news-pk.png" group-title="PAKISTAN",PK: PTV NEWS FHD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380139
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Ptv World SD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Ptv World SD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380092
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Sab Ent FHD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Sab Ent FHD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380094
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Atv Ent HD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Atv Ent HD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380095
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Urdu 1 HD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Urdu 1 HD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380097
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Express Ent HD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Express Ent HD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380098
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Aaj Ent SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj_entertainment_pk.png" group-title="PAKISTAN",PK: Aaj Ent SD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380099
-#EXTINF:-1 tvg-ID="" tvg-name="PK: A PLUS" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: A PLUS
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380101
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Tv One SD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Tv One SD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380102
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Apna TV SD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Apna TV SD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380103
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Kay-2 FHD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Kay-2 FHD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380108
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Avt Khyber HD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Avt Khyber HD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380111
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Sindh Ent FHD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Sindh Ent FHD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380112
-#EXTINF:-1 tvg-ID="" tvg-name="PK: ARY NEWS HD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: ARY NEWS HD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380126
-#EXTINF:-1 tvg-ID="" tvg-name="PK: BOL NEWS UHD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: BOL NEWS UHD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380128
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Hum News SD*" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Hum News SD*
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380129
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Geo News SD*" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Geo News SD*
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380144
-#EXTINF:-1 tvg-ID="" tvg-name="PK: GEO NEWS FHD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: GEO NEWS FHD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380145
-#EXTINF:-1 tvg-ID="" tvg-name="PK: ABN NEWS" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: ABN NEWS
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380147
-#EXTINF:-1 tvg-ID="" tvg-name="PK: DUNYA NEWS FHD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: DUNYA NEWS FHD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380140
-#EXTINF:-1 tvg-ID="" tvg-name="PK: Dawn News SD*" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: Dawn News SD*
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380141
-#EXTINF:-1 tvg-ID="" tvg-name="PK: GNN NEWS FHD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: GNN NEWS FHD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380134
-#EXTINF:-1 tvg-ID="" tvg-name="PK: SAMAA NEWS" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: SAMAA NEWS
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380154
-#EXTINF:-1 tvg-ID="" tvg-name="PK: SUCH NEWS HD" tvg-logo="http://163.172.39.182/logo/countryies/pakistan.png" group-title="PAKISTAN",PK: SUCH NEWS HD
-http://xlion.net:8080/68:fc:ca:55:0c:33/217578005705/380164
+
 
 
 #EXTINF:-1 tvg-id="DDArunPrabha.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ARUNPRABHA/images/LOGO_HD/image.png" group-title="India",DD Arun Prabha (360p)
@@ -73,11 +6,11 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/in
 #EXTINF:-1 tvg-id="DDAssam.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" group-title="India",DD Assam (576p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
 #EXTINF:-1 tvg-id="DDBangla.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142778_ld_h15_aa.png?lock=720x540" group-title="India",DD Bangla (576p)
-https://mumt05.tangotv.in/DDBANGLA/index.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
 #EXTINF:-1 tvg-id="DDBihar.in@SD" tvg-logo="https://i.imgur.com/C7KQiZI.png" group-title="India",DD Bihar (720p)
 https://cdn-4.pishow.tv/live/35/master.m3u8
 #EXTINF:-1 tvg-id="DDChandana.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_CHANDANA/images/LOGO_HD/image.png" group-title="India",DD Chandana (504p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
+
 #EXTINF:-1 tvg-id="DDChhattisgarh.in@SD" tvg-logo="https://i.imgur.com/zBg6Iuv.png" group-title="India",DD Chhattisgarh (720p)
 https://cdn-1.pishow.tv/live/15/master.m3u8
 #EXTINF:-1 tvg-id="DDGirnar.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142782_ld_h15_aa.png?lock=720x540" group-title="India",DD Girnar (576p)
@@ -106,9 +39,9 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/in
 #EXTINF:-1 tvg-id="DDMeghalaya.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SHILLONG/images/LOGO_HD/image.png" group-title="India",DD Meghalaya (504p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
 #EXTINF:-1 tvg-id="DDMizoram.in@SD" tvg-logo="https://i.imgur.com/I5zT1DG.png" group-title="India",DD Mizoram (504p)
-
+https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
 #EXTINF:-1 tvg-id="DDNagaland.in@SD" tvg-logo="https://i.imgur.com/HUL4aF6.png" group-title="India",DD Nagaland (576p)
-
+https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
 #EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png" group-title="India",DD National HD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 tvg-id="DDNews.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png" group-title="India",DD News HD (1080p)
