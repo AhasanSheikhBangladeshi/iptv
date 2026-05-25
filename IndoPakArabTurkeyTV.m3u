@@ -40,7 +40,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b5256b391a7c4ae6977535b73fd6f591/in
 https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index_3.m3u8
 #EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LOGO_HD/image.png" group-title="India",DD Tamil (1080p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index_6.m3u8
-
+#EXTINF:-1 tvg-id="DDYadagiri.in@SD",DD Yadagiri (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/index_3.m3u8
 #EXTINF:-1 tvg-id="DDManipur.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_IMPHAL/images/LOGO_HD/image.png" group-title="India",DD Manipur (504p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index_3.m3u8
 #EXTINF:-1 tvg-id="DDMeghalaya.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SHILLONG/images/LOGO_HD/image.png" group-title="India",DD Meghalaya (504p)
@@ -160,15 +161,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainTV.bh@SD" tvg-logo="https://i.postimg.cc/rw57LMpY/bahraintv.png" group-title="Bahrain",Bahrain TV (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QATAR  2" tvg-logo="http://x12tv.co/uploads/channels/110.png" group-title="AR| EMIRATES-الإمارات",QATAR  2
-http://cli2345.live:2082/live/79766341/58845974/2043.ts
-#EXTINF:-1 tvg-id="" tvg-name="QATAR AL RAYYAN" tvg-logo="http://x12tv.co/uploads/channels/rayyan.jpeg" group-title="AR| EMIRATES-الإمارات",QATAR AL RAYYAN
-http://cli2345.live:2082/live/79766341/58845974/2044.ts
-#EXTINF:-1 tvg-id="" tvg-name="QATAR AL RAYYAN AL QADEEM" tvg-logo="http://x12tv.co/uploads/channels/rayyan.jpeg" group-title="AR| EMIRATES-الإمارات",QATAR AL RAYYAN AL QADEEM
-http://cli2345.live:2082/live/79766341/58845974/2045.ts
-#EXTINF:-1 tvg-id="" tvg-name="QATAR TV" tvg-logo="http://x12tv.co/uploads/channels/109.jpg" group-title="AR| EMIRATES-الإمارات",QATAR TV
-http://cli2345.live:2082/live/79766341/58845974/2042.ts
-
 
 #EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1080p)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
