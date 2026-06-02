@@ -124,6 +124,79 @@ https://hls.iranfarda.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SimayeAzadi.uk@SD" tvg-logo="https://i.imgur.com/yXcczMq.png" group-title="Iran",Simaye Azadi (1080p)
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u833/217578005705/413664
 
+#EXTINF:-1 tvg-id="" tvg-name="Imam Ali 1 FA TV" tvg-logo="http://phomar.sbs:80/images/marvel/1730033119235.jpg" group-title="IRAQ CHANNELS",Imam Ali 1 FA TV
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/322409
+#EXTINF:-1 tvg-id="" tvg-name="AL RABIAA MOVIES" tvg-logo="" group-title="IRAQ CHANNELS",AL RABIAA MOVIES
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/505866
+#EXTINF:-1 tvg-id="" tvg-name="AFAK HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",AFAK HD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524304
+#EXTINF:-1 tvg-id="" tvg-name="AL  MAWSLEYA" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",AL  MAWSLEYA
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524305
+#EXTINF:-1 tvg-id="" tvg-name="AL ANBAR" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",AL ANBAR
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524307
+#EXTINF:-1 tvg-id="" tvg-name="Al Anwar 1" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",Al Anwar 1
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524308
+#EXTINF:-1 tvg-id="" tvg-name="Al Anwar 2" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",Al Anwar 2
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524309
+#EXTINF:-1 tvg-id="" tvg-name="AL FALLUJA TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",AL FALLUJA TV
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524312
+#EXTINF:-1 tvg-id="" tvg-name="AL GHADEER" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",AL GHADEER
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524313
+#EXTINF:-1 tvg-id="" tvg-name="Al Ghadeer TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",Al Ghadeer TV
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524314
+#EXTINF:-1 tvg-id="" tvg-name="AL ITEJAH TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",AL ITEJAH TV
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524315
+#EXTINF:-1 tvg-id="" tvg-name="Al Mawsleya" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",Al Mawsleya
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524319
+#EXTINF:-1 tvg-id="" tvg-name="AL RASHEED" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",AL RASHEED
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524327
+#EXTINF:-1 tvg-id="" tvg-name="Al Shaaer TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",Al Shaaer TV
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524328
+#EXTINF:-1 tvg-id="" tvg-name="AL SHARQIYA HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",AL SHARQIYA HD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524329
+#EXTINF:-1 tvg-id="" tvg-name="AL SUMARIA HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",AL SUMARIA HD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524331
+#EXTINF:-1 tvg-id="" tvg-name="ALFORAT HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",ALFORAT HD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524332
+#EXTINF:-1 tvg-id="" tvg-name="Altaghier" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",Altaghier
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524333
+#EXTINF:-1 tvg-id="" tvg-name="Baghdadiya TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",Baghdadiya TV
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524337
+#EXTINF:-1 tvg-id="" tvg-name="DIJLAH HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",DIJLAH HD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524338
+#EXTINF:-1 tvg-id="" tvg-name="I News HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",I News HD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524344
+#EXTINF:-1 tvg-id="" tvg-name="IMAM HUSSEIN 2" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",IMAM HUSSEIN 2
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524345
+#EXTINF:-1 tvg-id="" tvg-name="Iraqia Syriac" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",Iraqia Syriac
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524346
+#EXTINF:-1 tvg-id="" tvg-name="Iraq 24 HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",Iraq 24 HD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524348
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ NOW" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",IRAQ NOW
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524349
+#EXTINF:-1 tvg-id="" tvg-name="Iraqi Edu" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",Iraqi Edu
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524350
+#EXTINF:-1 tvg-id="" tvg-name="Iraqia Entertainment" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",Iraqia Entertainment
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524351
+#EXTINF:-1 tvg-id="" tvg-name="IRAQIA NEWS HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",IRAQIA NEWS HD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524352
+#EXTINF:-1 tvg-id="" tvg-name="IRAQIA SPORT SD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",IRAQIA SPORT SD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524353
+#EXTINF:-1 tvg-id="" tvg-name="Iraqia Turkuman" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",Iraqia Turkuman
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524354
+#EXTINF:-1 tvg-id="" tvg-name="IRAQIA TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",IRAQIA TV
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524355
+#EXTINF:-1 tvg-id="" tvg-name="KARBALA  TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",KARBALA  TV
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524356
+#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ FHD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",MBC IRAQ FHD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524359
+#EXTINF:-1 tvg-id="" tvg-name="NRT HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",NRT HD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524360
+#EXTINF:-1 tvg-id="" tvg-name="Salahaden TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",Salahaden TV
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524361
+#EXTINF:-1 tvg-id="" tvg-name="SAMARRA  HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ CHANNELS",SAMARRA  HD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/524362
+
 #EXTINF:-1 tvg-id="" tvg-name="Om: Oman TV Culture" tvg-logo="http://tv.asc.vg/oman.culture.om.png" group-title="OMAN",Om: Oman TV Culture
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Om: Oman TV General" tvg-logo="http://tv.asc.vg/oman.general.om.png" group-title="OMAN",Om: Oman TV General
@@ -161,6 +234,197 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainTV.bh@SD" tvg-logo="https://i.postimg.cc/rw57LMpY/bahraintv.png" group-title="Bahrain",Bahrain TV (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Majd General" tvg-logo="http://phomar.sbs:80/images/marvel/1716985526449.jpg" group-title="AL MAJD CHANNELS",Al Majd General
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261351
+#EXTINF:-1 tvg-id="" tvg-name="Al Majd Rawda ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1716985579112.jpg" group-title="AL MAJD CHANNELS",Al Majd Rawda ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261349
+#EXTINF:-1 tvg-id="" tvg-name="Sa| Oyoon Alwatan ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1718618189390.jpg" group-title="KSA CHANNELS",Sa| Oyoon Alwatan ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258809
+#EXTINF:-1 tvg-id="" tvg-name="Sa| Thikrayat HD ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1718618219166.jpg" group-title="KSA CHANNELS",Sa| Thikrayat HD ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258808
+#EXTINF:-1 tvg-id="" tvg-name="Sa| Bin Othaimeen ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1718618261130.jpg" group-title="KSA CHANNELS",Sa| Bin Othaimeen ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258807
+#EXTINF:-1 tvg-id="" tvg-name="Sa| Al Mergab TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1718618313487.jpg" group-title="KSA CHANNELS",Sa| Al Mergab TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258806
+#EXTINF:-1 tvg-id="" tvg-name="Sa| Al Sahraa TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1718620678120.jpg" group-title="KSA CHANNELS",Sa| Al Sahraa TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258805
+#EXTINF:-1 tvg-id="" tvg-name="Sa| Al Waqie TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1718620706262.jpg" group-title="KSA CHANNELS",Sa| Al Waqie TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258803
+#EXTINF:-1 tvg-id="" tvg-name="Sa| SBC Saudia HD ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1718620742246.jpg" group-title="KSA CHANNELS",Sa| SBC Saudia HD ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258802
+#EXTINF:-1 tvg-id="" tvg-name="Sa| Saudia Quran HD ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1718620793263.jpg" group-title="KSA CHANNELS",Sa| Saudia Quran HD ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258801
+#EXTINF:-1 tvg-id="" tvg-name="Sa| Saudi TV HD ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1718620839362.jpg" group-title="KSA CHANNELS",Sa| Saudi TV HD ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258799
+#EXTINF:-1 tvg-id="" tvg-name="Sa| iEN TV HD ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1718718556364.jpg" group-title="KSA CHANNELS",Sa| iEN TV HD ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258791
+#EXTINF:-1 tvg-id="" tvg-name="Sa| Al Wesam TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1718718612395.jpg" group-title="KSA CHANNELS",Sa| Al Wesam TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258779
+
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Yemen TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719684690127.jpg" group-title="YEMEN CHANNELS",Ye| Yemen TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261463
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Al Yemen HD ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719684693269.jpg" group-title="YEMEN CHANNELS",Ye| Al Yemen HD ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261462
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Yemen Today HD ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719684733177.jpg" group-title="YEMEN CHANNELS",Ye| Yemen Today HD ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261461
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Yemen Shabab HD ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719684751382.jpg" group-title="YEMEN CHANNELS",Ye| Yemen Shabab HD ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261460
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Yemen Education TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719684794264.jpg" group-title="YEMEN CHANNELS",Ye| Yemen Education TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261459
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Yemen Documentary ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719684868103.jpg" group-title="YEMEN CHANNELS",Ye| Yemen Documentary ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261458
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Suhail TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719684900122.jpg" group-title="YEMEN CHANNELS",Ye| Suhail TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261457
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Sheba TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719684923135.jpg" group-title="YEMEN CHANNELS",Ye| Sheba TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261456
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Aden TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719684940372.jpg" group-title="YEMEN CHANNELS",Ye| Aden TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261455
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Aden Al Shareyyah ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719685630301.jpg" group-title="YEMEN CHANNELS",Ye| Aden Al Shareyyah ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261454
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Aden Almustakilla ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719684978286.jpg" group-title="YEMEN CHANNELS",Ye| Aden Almustakilla ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261453
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Al Saeedah TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719684997172.jpg" group-title="YEMEN CHANNELS",Ye| Al Saeedah TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261452
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Hadramaut TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719685021209.jpg" group-title="YEMEN CHANNELS",Ye| Hadramaut TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261451
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Al Ghad Al Mushreq ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719685040328.jpg" group-title="YEMEN CHANNELS",Ye| Al Ghad Al Mushreq ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261450
+#EXTINF:-1 tvg-id="" tvg-name="Ye| AIC TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719685061341.jpg" group-title="YEMEN CHANNELS",Ye| AIC TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261449
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Al Eiman TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719685076151.jpg" group-title="YEMEN CHANNELS",Ye| Al Eiman TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261448
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Al Masirah TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719685162107.jpg" group-title="YEMEN CHANNELS",Ye| Al Masirah TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261447
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Al Masirah Mubasher TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719685253412.jpg" group-title="YEMEN CHANNELS",Ye| Al Masirah Mubasher TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261446
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Belqees TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719685272319.jpg" group-title="YEMEN CHANNELS",Ye| Belqees TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261445
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Al Erth Alnabawi TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719685299149.jpg" group-title="YEMEN CHANNELS",Ye| Al Erth Alnabawi TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261444
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Al Mahrah HD ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719685355395.jpg" group-title="YEMEN CHANNELS",Ye| Al Mahrah HD ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261443
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Al Shareyah ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719685393417.jpg" group-title="YEMEN CHANNELS",Ye| Al Shareyah ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261442
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Al Hawyah TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719685422181.jpg" group-title="YEMEN CHANNELS",Ye| Al Hawyah TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261441
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Al Lahdah ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719685524342.jpg" group-title="YEMEN CHANNELS",Ye| Al Lahdah ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261440
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Al Sahat ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719685591492.jpg" group-title="YEMEN CHANNELS",Ye| Al Sahat ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261439
+#EXTINF:-1 tvg-id="" tvg-name="Ye| Al Joumhouriyah TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719685613451.jpg" group-title="YEMEN CHANNELS",Ye| Al Joumhouriyah TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/261438
+
+#EXTINF:-1 tvg-id="" tvg-name="Ana Soria" tvg-logo="" group-title="SYRIA CHANNELS",Ana Soria
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/528603
+#EXTINF:-1 tvg-id="" tvg-name="ALSOURIYA FHD" tvg-logo="" group-title="SYRIA CHANNELS",ALSOURIYA FHD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/528606
+#EXTINF:-1 tvg-id="" tvg-name="سوريا الأرضية" tvg-logo="http://phomar.sbs:80/images/marvel/1719843656371.jpg" group-title="SYRIA CHANNELS",سوريا الأرضية
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/320909
+#EXTINF:-1 tvg-id="" tvg-name="Sy| Sama TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719843698365.jpg" group-title="SYRIA CHANNELS",Sy| Sama TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258677
+#EXTINF:-1 tvg-id="" tvg-name="Sy| Lana TV HD ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719843725283.jpg" group-title="SYRIA CHANNELS",Sy| Lana TV HD ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258675
+#EXTINF:-1 tvg-id="" tvg-name="Al Khabar TV" tvg-logo="http://phomar.sbs:80/images/marvel/1719843757452.jpg" group-title="SYRIA CHANNELS",Al Khabar TV
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258672
+#EXTINF:-1 tvg-id="" tvg-name="Sy| Syria Drama ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719843788333.jpg" group-title="SYRIA CHANNELS",Sy| Syria Drama ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258671
+#EXTINF:-1 tvg-id="" tvg-name="Sy| Syria TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719843831208.jpg" group-title="SYRIA CHANNELS",Sy| Syria TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258669
+#EXTINF:-1 tvg-id="" tvg-name="Sy| Syria News ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719843857314.jpg" group-title="SYRIA CHANNELS",Sy| Syria News ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258666
+#EXTINF:-1 tvg-id="" tvg-name="Halab Today TV" tvg-logo="http://phomar.sbs:80/images/marvel/1719843950434.jpg" group-title="SYRIA CHANNELS",Halab Today TV
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258663
+#EXTINF:-1 tvg-id="" tvg-name="Sy| Noor Al Sham TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719843987126.jpg" group-title="SYRIA CHANNELS",Sy| Noor Al Sham TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258661
+#EXTINF:-1 tvg-id="" tvg-name="Sy| SYRIA 2" tvg-logo="http://phomar.sbs:80/images/marvel/1719844023345.jpg" group-title="SYRIA CHANNELS",Sy| SYRIA 2
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/258660
+
+#EXTINF:-1 tvg-id="" tvg-name="Jo| Al Mamlaka HD" tvg-logo="http://phomar.sbs:80/images/marvel/1729770455452.jpg" group-title="JORDAN CHANNELS",Jo| Al Mamlaka HD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/259795
+#EXTINF:-1 tvg-id="" tvg-name="Jo| Roya HD" tvg-logo="http://phomar.sbs:80/images/marvel/1729770455452.jpg" group-title="JORDAN CHANNELS",Jo| Roya HD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/259794
+#EXTINF:-1 tvg-id="" tvg-name="Jo| Sama Jordan" tvg-logo="http://phomar.sbs:80/images/marvel/1729770455452.jpg" group-title="JORDAN CHANNELS",Jo| Sama Jordan
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/259801
+#EXTINF:-1 tvg-id="" tvg-name="Jo| Jordan TV" tvg-logo="http://phomar.sbs:80/images/marvel/1729770455452.jpg" group-title="JORDAN CHANNELS",Jo| Jordan TV
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/259800
+#EXTINF:-1 tvg-id="" tvg-name="Jo| Yarmouk TV" tvg-logo="http://phomar.sbs:80/images/marvel/1729770455452.jpg" group-title="JORDAN CHANNELS",Jo| Yarmouk TV
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/259790
+#EXTINF:-1 tvg-id="" tvg-name="holyquran" tvg-logo="http://phomar.sbs:80/images/marvel/1719845554278.jpg" group-title="PALESTINE CHANNELS",holyquran
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/321195
+#EXTINF:-1 tvg-id="" tvg-name="wattantv" tvg-logo="http://phomar.sbs:80/images/marvel/1719845578423.jpg" group-title="PALESTINE CHANNELS",wattantv
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/321193
+#EXTINF:-1 tvg-id="" tvg-name="alaRamallah" tvg-logo="http://phomar.sbs:80/images/marvel/1719845628487.jpg" group-title="PALESTINE CHANNELS",alaRamallah
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/321188
+#EXTINF:-1 tvg-id="" tvg-name="Ps| Palestine TV" tvg-logo="http://phomar.sbs:80/images/marvel/1719845687173.jpg" group-title="PALESTINE CHANNELS",Ps| Palestine TV
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/262249
+#EXTINF:-1 tvg-id="" tvg-name="Ps| Palestine Al Yawm HD ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719845712312.jpg" group-title="PALESTINE CHANNELS",Ps| Palestine Al Yawm HD ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/262247
+#EXTINF:-1 tvg-id="" tvg-name="Ps| Falastini TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719845734134.jpg" group-title="PALESTINE CHANNELS",Ps| Falastini TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/262246
+#EXTINF:-1 tvg-id="" tvg-name="Ps| Al Kofiya ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719845753156.jpg" group-title="PALESTINE CHANNELS",Ps| Al Kofiya ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/262244
+#EXTINF:-1 tvg-id="" tvg-name="Ps| Al Seraj TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719845777298.jpg" group-title="PALESTINE CHANNELS",Ps| Al Seraj TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/262242
+#EXTINF:-1 tvg-id="" tvg-name="Ps| Hebron Sat [ Al Khaleel ] ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719845846384.jpg" group-title="PALESTINE CHANNELS",Ps| Hebron Sat [ Al Khaleel ] ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/262241
+#EXTINF:-1 tvg-id="" tvg-name="Ps| Maan TV ✦" tvg-logo="http://phomar.sbs:80/images/marvel/1719846041260.jpg" group-title="PALESTINE CHANNELS",Ps| Maan TV ✦
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/262230
+
+#EXTINF:-1 tvg-id="" tvg-name="Misr Quran Kareem" tvg-logo="https://tayaara.store/islam/egypt/2.jpg" group-title="EGYPT CHANNELS",Misr Quran Kareem
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/156893
+#EXTINF:-1 tvg-id="" tvg-name="Al Oula EG" tvg-logo="https://tayaara.store/islam/egypt/5.jpg" group-title="EGYPT CHANNELS",Al Oula EG
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88643
+#EXTINF:-1 tvg-id="" tvg-name="Althanya EG" tvg-logo="https://tayaara.store/islam/egypt/7.jpg" group-title="EGYPT CHANNELS",Althanya EG
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88646
+#EXTINF:-1 tvg-id="" tvg-name="Al Nahar Drama" tvg-logo="https://tayaara.store/islam/egypt/6.jpg" group-title="EGYPT CHANNELS",Al Nahar Drama
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/205290
+#EXTINF:-1 tvg-id="" tvg-name="DMC HD" tvg-logo="https://tayaara.store/islam/egypt/8.jpg" group-title="EGYPT CHANNELS",DMC HD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88652
+#EXTINF:-1 tvg-id="" tvg-name="DMC DRAMA" tvg-logo="https://tayaara.store/islam/egypt/9.jpg" group-title="EGYPT CHANNELS",DMC DRAMA
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88653
+#EXTINF:-1 tvg-id="" tvg-name="CBC" tvg-logo="https://tayaara.store/islam/egypt/10.jpg" group-title="EGYPT CHANNELS",CBC
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88654
+#EXTINF:-1 tvg-id="" tvg-name="CBC Extra News HD" tvg-logo="https://tayaara.store/islam/egypt/17.jpg" group-title="EGYPT CHANNELS",CBC Extra News HD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88655
+#EXTINF:-1 tvg-id="" tvg-name="CBC Drama" tvg-logo="https://tayaara.store/islam/egypt/12.jpg" group-title="EGYPT CHANNELS",CBC Drama
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88656
+#EXTINF:-1 tvg-id="سي بي سي سفرة.eg" tvg-name="CBC Sofra" tvg-logo="https://tayaara.store/islam/egypt/11.jpg" group-title="EGYPT CHANNELS",CBC Sofra
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88657
+#EXTINF:-1 tvg-id="" tvg-name="ON E FHD" tvg-logo="https://tayaara.store/islam/egypt/13.jpg" group-title="EGYPT CHANNELS",ON E FHD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88659
+#EXTINF:-1 tvg-id="" tvg-name="ON Drama" tvg-logo="https://tayaara.store/islam/egypt/14.jpg" group-title="EGYPT CHANNELS",ON Drama
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88660
+#EXTINF:-1 tvg-id="" tvg-name="ALHAYAT HD" tvg-logo="https://tayaara.store/islam/egypt/15.jpg" group-title="EGYPT CHANNELS",ALHAYAT HD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88661
+#EXTINF:-1 tvg-id="" tvg-name="Alhayat Muslsalat" tvg-logo="https://tayaara.store/islam/egypt/16.jpg" group-title="EGYPT CHANNELS",Alhayat Muslsalat
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88662
+#EXTINF:-1 tvg-id="" tvg-name="Al Kahera Wal Nas" tvg-logo="https://tayaara.store/islam/egypt/18.jpg" group-title="EGYPT CHANNELS",Al Kahera Wal Nas
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88663
+#EXTINF:-1 tvg-id="" tvg-name="ELMEHWAR TV" tvg-logo="https://tayaara.store/islam/egypt/19.jpg" group-title="EGYPT CHANNELS",ELMEHWAR TV
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88665
+#EXTINF:-1 tvg-id="" tvg-name="SADA EL BALAD" tvg-logo="https://tayaara.store/islam/egypt/20.jpg" group-title="EGYPT CHANNELS",SADA EL BALAD
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88666
+#EXTINF:-1 tvg-id="" tvg-name="SADA AL BALAD DRAMA" tvg-logo="https://tayaara.store/islam/egypt/21.jpg" group-title="EGYPT CHANNELS",SADA AL BALAD DRAMA
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88668
+#EXTINF:-1 tvg-id="" tvg-name="Al Moled Music" tvg-logo="https://tayaara.store/islam/egypt/4.jpg" group-title="EGYPT CHANNELS",Al Moled Music
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/267895
+#EXTINF:-1 tvg-id="" tvg-name="AL Nahar " tvg-logo="https://tayaara.store/islam/egypt/22.jpg" group-title="EGYPT CHANNELS",AL Nahar 
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88671
+#EXTINF:-1 tvg-id="" tvg-name="Nile News" tvg-logo="http://phomar.sbs:80/images/marvel/1717082846230.jpg" group-title="EGYPT CHANNELS",Nile News
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/267889
+#EXTINF:-1 tvg-id="" tvg-name="Nile Family" tvg-logo="https://tayaara.store/islam/egypt/23.jpg" group-title="EGYPT CHANNELS",Nile Family
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88674
+#EXTINF:-1 tvg-id="" tvg-name="Nile Cinema" tvg-logo="https://tayaara.store/islam/egypt/24.jpg" group-title="EGYPT CHANNELS",Nile Cinema
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88676
+#EXTINF:-1 tvg-id="" tvg-name="Nile Drama" tvg-logo="https://tayaara.store/islam/egypt/25.jpg" group-title="EGYPT CHANNELS",Nile Drama
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88679
+#EXTINF:-1 tvg-id="" tvg-name="Nile Comedy" tvg-logo="https://tayaara.store/islam/egypt/26.jpg" group-title="EGYPT CHANNELS",Nile Comedy
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/88677
+#EXTINF:-1 tvg-id="" tvg-name="Nile Culture" tvg-logo="http://tayaara.info/img/live/liveimg/149311.jpg" group-title="EGYPT CHANNELS",Nile Culture
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/149311
+#EXTINF:-1 tvg-id="" tvg-name="Nile life" tvg-logo="https://tayaara.store/islam/egypt/37.jpg" group-title="EGYPT CHANNELS",Nile life
+http://marveliptv.life:80/HUSSEIN5050/Hussein6060/149317
 
 #EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1080p)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
