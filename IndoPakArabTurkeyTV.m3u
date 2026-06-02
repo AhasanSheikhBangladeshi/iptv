@@ -124,6 +124,19 @@ https://hls.iranfarda.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SimayeAzadi.uk@SD" tvg-logo="https://i.imgur.com/yXcczMq.png" group-title="Iran",Simaye Azadi (1080p)
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u833/217578005705/413664
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="urdu" tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" tvg-country="UK" tvg-url="" group-title="Religion",Channel WIN INDIA
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="urdu" tvg-logo=""tvg-url="https://shiachannel.in/livetv/img/channels/zainabia.jpg" tvg-country="UK" tvg-url="" group-title="Religion",Zainabia Channel INDIA
+https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="urdu" tvg-logo="https://shiachannel.in/livetv/img/channels/alitv.jpg" tvg-country="UK" tvg-url="" group-title="Religion",Ali TV INDIA
+https://amigofx.com:1936/alitv/alitv/chunklist_w228503596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="urdu" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hidayat-tv-uk.png" tvg-country="UK" tvg-url="" group-title="Religion",Hidayat TV
+https://hidayat.wpbond.com/live/hidayat1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="urdu" tvg-logo="https://shiachannel.in/livetv/img/channels/ahlebait.jpg" tvg-country="UK" tvg-url="" group-title="Religion",Ahlebait TV UK
+https://stream.wpbond.com/live/ahlebaittv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="urdu" tvg-logo="https://shiachannel.in/livetv/img/channels/hyder.jpg" tvg-country="UK" tvg-url="" group-title="Religion",
+https://cdn.live247stream.com/hyder/tv/hyder/stream1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Imam Ali 1 FA TV" tvg-logo="http://phomar.sbs:80/images/marvel/1730033119235.jpg" group-title="IRAQ CHANNELS",Imam Ali 1 FA TV
 http://marveliptv.life:80/HUSSEIN5050/Hussein6060/322409
 #EXTINF:-1 tvg-id="" tvg-name="AL RABIAA MOVIES" tvg-logo="" group-title="IRAQ CHANNELS",AL RABIAA MOVIES
