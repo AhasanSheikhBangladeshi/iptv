@@ -294,7 +294,7 @@ https://5c75277727cd1.streamlock.net/iplustv/iplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Huda Tv" tvg-logo="http://2.bp.blogspot.com/-cSfP2QGNX28/VYv3Az7jdqI/AAAAAAAAARo/IfXNZKE0_Fk/s1600/Huda%2BLogo%2BSMALL.jpg" group-title="En-Religious",EN- Huda Tv
 http://bestsave.ltd:80/live/2233445566/6655443322/139967.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Yemen Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxGY7_yuYYzSh1-EAbphivlU-EFuxe3bO6jQ&usqp=CAU" group-title="General",Yemen TV
-http://qwerty65.xyz/live/my6k64GK/yz85CsX/195474.ts
+http://4kgood.org/live/9680723188/kyft6ks0g7gr7uw0xio6/1265.ts
 #EXTINF:-1 tvg-id="OmanTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C7kfubs.png" group-title="General",Oman TV (1080p)
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b250000.m3u8 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlraiTV-200x150.png" ,Al Rai 
@@ -341,7 +341,7 @@ http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/OoONVyI.png" group-title="None",TRT 1 (720p)
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="",Al Fallujah Tv
-http://darplayer.xyz:8080/live/21628870567a/Bu4K6lyZBzp5OG/142764.ts
+http://4kgood.org/live/9680723188/kyft6ks0g7gr7uw0xio6/231317.ts
 #EXTINF:-1 tvg-id="IslamChannel.uk" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png" group-title="Religious",Islam Channel Urdu 
 https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg",Al Iraqiya News
@@ -390,13 +390,13 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT Arabi (1080p)
 https://tv-trtarabi.live.trt.com.tr:443/master_720.m3u8
 #EXTINF:0 tvg-id="" group-title="ARAB",Yemen Shabab [100]
-http://qwerty65.xyz/live/my6k64GK/yz85CsX/195475.ts
+http://4kgood.org/live/9680723188/kyft6ks0g7gr7uw0xio6/10079.ts
 #EXTINF: group-title="ARAB" tvg-id="SuhailTV.ye" tvg-name="Suhail TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtJwlD-ms5DKPuh6PAu45IK9_H5-vN-oPpxg&usqp=CAU" group-tile="Relegious",Suhail TV
-http://qwerty65.xyz/live/my6k64GK/yz85CsX/195472.ts
+http://4kgood.org/live/9680723188/kyft6ks0g7gr7uw0xio6/152048.ts
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id= "Karbala Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Relegious",Karbala Tv Channel
-http://darplayer.xyz:8080/live/21628870567a/Bu4K6lyZBzp5OG/142741.ts
+http://4kgood.org/live/9680723188/kyft6ks0g7gr7uw0xio6/14532.ts
 #EXTINF:-1 tvg-id= "Al Resalah Tv" tvg-logo="https://www.thematv.com/images/channels/al-resalah.png" group-title="Relegious",Al Resalah TV
 http://iptvtree.net:8080/Vladisergeevic/2f71144da3/225180
 #EXTINF:-1 tvg-id="AlAqsaChannel.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" group-title="Arab",Al Aqsa Channel (416p) [Not 24/7]
