@@ -327,9 +327,9 @@ https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/
 #EXTINF:-1 tvg-id="ToloTV.af" tvg-country="AF" tvg-language="Pashto" tvg-logo="https://pbs.twimg.com/profile_images/579001245697908737/bSnXEBFo_400x400.jpeg" group-title="AFGHANISTAN",Tolo TV (720p)
 https://spf-cors-aprt-9og.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/IR%20-%20Tolo%20TV/chunks.m3u8
 #EXTINF:1 tvg-country="IR" tvg-logo="https://shialivetv.com/shialive/assets/img/velayatiran.jpg"group-title="Religiouhttps://shialivetv.com/shialive/assets/img/velayatiran.jpg" group-title="Relegious",Al Velayat TV
-https://nl2.livekadeh.com/hls2/velayattv_high.m3u8
+https://nl.livekadeh.com/hls2/velayattv.m3u8
 #EXTINF:1 tvg-country="IR" tvg-logo="https://www.altkia.com/wp-content/uploads/2015/04/Al-Wilayah-TV.jpg"group-title="Religious",Alwilayah Velayat Tv Arabic
-http://starshare.org/live/lauren87/lauren87/309123.ts
+https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
 #EXTINF:-1 tvg-id="TV1.my@SD" tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="Malaysia",TV1 (1080p)
 https://live.mana2.my/Tv1/index.m3u8?auth_key=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047&token=1745177809-03fbff3dfc194161829ff0dbf94a205a-0-c6dcdd3499b8b5488b7de0f6613b8047
 #EXTINF:-1 tvg-id="TV3.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3 (720p) [Timeout]
