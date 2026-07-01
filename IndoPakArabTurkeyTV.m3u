@@ -214,6 +214,10 @@ https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8
 https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
 #EXTINF:-1 tvg-id="AlAlam.ir@SD" tvg-logo="https://i.imgur.com/Zdi31dy.png" group-title="Iran",Al Alam (360p)
 https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-logo="https://shialivetv.com/shialive/assets/img/saharurdu.jpg" group-title="Iran",Sahar Urdu
+https://lb-cdn.sepehrtv.ir/securelive3/saharurdusd/576p.m3u8
+#EXTINF:-1 tvg-logo="https://shialivetv.com/shialive/assets/img/saharurdu.jpg" group-title="Iran",Sahar Azeri TV
+https://nl1-cdn.sepehrtv.org/securelive3/saharazarsd/576p.m3u8
 #EXTINF:-1 tvg-id="IranNationalRevolutionTV.us@HD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iran-national-revolution-tv-us.png" group-title="Iran",Iran National Revolution TV
 https://hls.irannrtv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="IranPress.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg/960px-%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg" group-title="Iran",Iran Press
