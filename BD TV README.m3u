@@ -345,7 +345,7 @@ http://4kgood.org/live/9680723188/kyft6ks0g7gr7uw0xio6/231317.ts
 #EXTINF:-1 tvg-id="IslamChannel.uk" tvg-country="UK" tvg-language="Urdu" tvg-logo="https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png" group-title="Religious",Islam Channel Urdu 
 https://live-islamtv-urdu.simplestreamcdn.com/live7/islamtv_urdu/bitrate1.isml/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg",Al Iraqiya News
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+https://imn-live.esite-lab.com/hls/iraqia-news.m3u8
 #EXTINF:0 tvg-id="" group-title="ARAB",Palestine/Quds Today TV 
 http://62.171.146.44:8080/hls/alqudstv/alqudstv.m3u8?v=1778398403
 #EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="Arab",Qatar TV
@@ -402,12 +402,11 @@ http://iptvtree.net:8080/Vladisergeevic/2f71144da3/225180
 #EXTINF:-1 tvg-id="AlAqsaChannel.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" group-title="Arab",Al Aqsa Channel (416p) [Not 24/7]
 http://4ksuper.live:80/Michael88/Michael88/826877
 #EXTINF:-1 tvg-id="AlIraqiyaAl3ama.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya Al 3ama (720p) [Not 24/7]
-https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
 #EXTINF:-1 tvg-id="Yemen Today.Ye" tvg-country="YE" tvg-language="Arabic" tvg-logo="" group-title=" ",Yemen.Today (576p)
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-country="IQ" tvg-language="Arabic" tvg-logo="none" group-title="General",Al Sharqiya (1080p)
-http://ns8.indexforce.com:1935/home/mystream/gmswf.m3u8
-
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="HaditvDua" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Dua Channel Hadi TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/dua-channel.jpg",Dua Channel (1080)
 https://bucharest.zeuscdn724.com/lb0/H9/index.m3u8
 #EXTINF:-1 tvg-id="Haditv1" tvg-country=" " tvg-language=" i" group-title="Relegious " tvg-name="Hadi TV 1" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 1
