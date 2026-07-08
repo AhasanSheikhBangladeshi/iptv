@@ -396,7 +396,7 @@ http://4kgood.org/live/9680723188/kyft6ks0g7gr7uw0xio6/152048.ts
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (540p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id= "Karbala Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Relegious",Karbala Tv Channel
-http://4kgood.org/live/9680723188/kyft6ks0g7gr7uw0xio6/14532.ts
+http://line.ottcst.com:80/live/Abeassokar1/RCJQekvGT5aHhwM/9809.ts
 #EXTINF:-1 tvg-id= "Al Resalah Tv" tvg-logo="https://www.thematv.com/images/channels/al-resalah.png" group-title="Relegious",Al Resalah TV
 http://iptvtree.net:8080/Vladisergeevic/2f71144da3/225180
 #EXTINF:-1 tvg-id="AlAqsaChannel.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" group-title="Arab",Al Aqsa Channel (416p) [Not 24/7]
