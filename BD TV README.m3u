@@ -439,7 +439,7 @@ https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 tvg-id="KalemehTV.us" tvg-name="Kalemeh TV" tvg-country="US" tvg-language="Farsi" tvg-logo="https://i.imgur.com/j4VjHWN.jpg" group-title="Religious",Kalemeh TV (1080p) [Not 24/7]
 http://51.210.199.37/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="IRIB Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News",Al Alam (576p)
-https://live2.alalam.ir/alalam.m3u8
+https://s5-cdn.sepehrtv.ir/securelive3/alalamhd/576p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/m8cS74j.png" tvg-country="PK" tvg-url="" group-title="",Minhaj TV
 https://playback2.akamaized.net/streams/263040_10099734_lsi9h68hsfa2gnjerkc_1/exp=1649832175~acl=%2f*~data=hdntl~hmac=219c2d325f72e7a38728de106e5913a51168067dba8b5cb0f425347704d6f96a/media/263040_10099734_lsi9h68hsfa2gnjerkc_1@248000bb.m3u8?dw=80&ts=1649743200
 #EXTINF:-1 tvg-id="IIPCTV.ca" tvg-name="IIPC TV" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="Religious",IIPC TV (480p)
