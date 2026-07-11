@@ -416,15 +416,15 @@ https://bucharest.zeuscdn724.com/lb0/H2/index.m3u8
 #EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious " tvg-name="Hadi TV 3" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 3
 https://bucharest.zeuscdn724.com/lb0/H3/index.m3u8
 #EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious " tvg-name="Hadi TV 4" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 4
-https://g.decdn.net/haditv.co.uk/haditv4.m3u8
+https://bucharest.zeuscdn724.com/lb0/H4/index.m3u8
 #EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious " tvg-name="Hadi TV 5" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 5
-https://g.decdn.net/haditv.co.uk/haditv5.m3u8
+https://bucharest.zeuscdn724.com/lb0/H5/index.m3u8
 #EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious" tvg-name="Hadi TV 6" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 6
-http://iptvtree.net:8080/Isidorchait/ea940f8fd1/299680
+https://bucharest.zeuscdn724.com/lb0/H6/index.m3u8
 #EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious" tvg-name="Hadi TV 7" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 7
-https://live.ishiacloud.com:443/hls/37166b77-128d-425c-91bf-8195071c217d_480p.m3u8
+https://bucharest.zeuscdn724.com/lb0/H7/index.m3u8
 #EXTINF:-1 tvg-id="101" tvg-country=" " tvg-language=" i" group-title="Relegious" tvg-name="Hadi TV 8" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 8
-https://live.ishiacloud.com:443/hls/059e5e40-1165-4e0e-b592-038e3804d082_720p.m3u8     
+https://bucharest.zeuscdn724.com/lb0/H8/index.m3u8     
 #EXTINF:-1 tvg-id="BahrainQuran.ir" tvg-name="Bahrain Qura." tvg-country="BA" tvg-language="Arabic" tvg-logo=" " group-title="Religious",Bahrain Quran(480p)
 https://5c7b683162943.streamlock.net:443/live/ngrp:bahrainquran_all/chunklist_w1461721754_b978000.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraArabic.qa" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/DBJTZaS.png" group-title="News",Al Jazeera Arabic (480p)
