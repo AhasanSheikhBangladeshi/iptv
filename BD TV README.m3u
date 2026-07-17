@@ -202,7 +202,7 @@ https://cdn149.anystream.uk:8082/app/iq53la/chunks.m3u8?nimblesessionid=25278712
 #EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="RELIGIOUS",Madani TV Bangla
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-name="Ahlulbayt TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ahlulbayt.jpg",Ahlulbayt TV (1080p)
-https://cd198.anystream.uk:8082/hls/abtv3ng/1_2/index.m3u8?tkn=2626026394
+https://cd198.anystream.uk:8082/hls/abtv3ng/1_2/index.m3u8?tkn=3469014828
 
 #EXTINF:-1 tvg-id="30" tvg-country="Uk" tvg-language="English" group-title="Relegious" tvg-name="Safeer TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/safeer-tv.jpg",Safeer TV (1080)
 https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
@@ -229,7 +229,7 @@ https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 #EXTINF:-1 tvg-id="20" tvg-country="Iran" tvg-language="Farsi" group-title="Iran Fars" tvg-name="IRIB IRINN" tvg-logo=" ",IRIB IRINN(1080)
 https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TakbeerTv.uk" tvg-name="Takbeer TV(UK)" tvg-country="UK" tvg-language"Urdj" tvg-logo="https://www.lyngsat.com/logo/tv/tt/takbeer-tv-uk.png" group-title="Religious",Takbeer TV(UK)
-https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
+https://cd198.anystream.uk:9092/iqapp/t5kb86tv/chunks.m3u8?nimblesessionid=55663201
 #EXTINF:-1 tvg-id="MTA1Bangla.uk" tvg-country="UK" tvg-language="English,Bangla" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Bangladeshi",MTA 1 Bangla (1080p)
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 
@@ -268,9 +268,9 @@ https://durbinlive.com/live3/live/jio/guvugggufuuf.php?l0=Discovery_Channel_Beng
 #EXTINF:-1 tvg-id="IranInternational.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/gUzGZK7.png" group-title="Iran",Iran International
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-name="ATN Europe" tvg-logo="https://i.imgur.com/m6tBPia.png" group-title="AFGHANISTAN",ATN Europe
-https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Lemar TV" tvg-logo="https://i.imgur.com/6l9YYEs.png" group-title="AFGHANISTAN",Lemar TV
-http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
+
 #EXTINF:-1 tvg-name="ATN National" tvg-logo="https://i.imgur.com/m6tBPia.png" group-title="AFGHANISTAN",ATN National
 https://spf-cors-aprt-9og.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/Ariana%20Afghan/chunks.m3u8
 #EXTINF:1 tvg-country="PK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png"https://upload.wikimedia.org/wikipedia/en/thumb/3/38/ARY_Qtv_logo.png/190px-ARY_Qtv_logo.png group-title="Religious",ARY QTV
