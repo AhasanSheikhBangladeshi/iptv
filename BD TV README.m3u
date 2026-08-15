@@ -84,14 +84,14 @@ https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA TV Afghan
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/variant.m3u8
+https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1-avc1_1000000=10000.m3u8
 #EXTINF:-1 tvg-id="RTANews.af",RTA News (1080p)
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GK5BlnN.jpg" group-title="Religious",Iqra Bangla (576p)
 https://cdn149.anystream.uk:8082/app/iq53la/chunks.m3u8?nimblesessionid=25278712
 #EXTINF:-1 tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="RELIGIOUS",Madani TV Bangla
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/2.m3u8
 #EXTINF:-1 tvg-name="Ahlulbayt TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ahlulbayt.jpg",Ahlulbayt TV (1080p)
 https://cd198.anystream.uk:8082/hls/abtv3ng/1_2/index.m3u8?tkn=3469014828
 
@@ -192,7 +192,7 @@ https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist_b25000
 
 
 #EXTINF:-1 tvg-id="92News.pk" tvg-name="92 News" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/OifwcrE.png" group-title="News",92 News (720p)
-http://filex.tv:8080/live/3668695194/3176396562/52035.ts
+
 #EXTINF:-1 tvg-name="Paigham TV.pk" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1362d353158267.592a758924700.jpg"group-title="Religious",Paigham TV
 http://162.250.201.58:8032/pk/paighamtv/index.fmp4.m3u8
 #EXTINF:-1 tvg-name="Al Majd TV" tvg-logo="https://cdn.dribbble.com/users/2577708/screenshots/11585878/media/d96e40ca882560b9aa3639df8f2361b9.jpg" group-title="Relegious",Almajd TV
@@ -244,7 +244,7 @@ https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
 #EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/nKIlaRg.png" group-title="Pakistani",PTV World
 http://starshare.live:8080/live/Sam123/Sam123/111.ts 
 #EXTINF:-1 tvg-id="PTVHome.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/mJxpdBU.png" group-title="Pakistani",PTV Home (238p)
-http://xlion.net:8080/live/70099774357/477532111257/379172.ts 
+https://cdn24lhr.tamashaweb.com:8087/jazzauth/PTVHome-abr/live/vsat-Ptv-Home-M/chunks.m3u8?nimblesessionid=40631549&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDI2IDM6NTE6NTkgUE0maGFzaF92YWx1ZT1EMVRxaGZEbzRhbTlBY1BFUktvMDhBPT0mdmFsaWRtaW51dGVzPTYw:8087/jazzauth/PTVHome-abr/playlist.m3u8 
 #EXTINF:-1 tvg-id="PTVNews.pk" tvg-country="PK" tvg-language="Urdu" tvg-logo="https://i.imgur.com/LyqGxwv.jpg" group-title="News",PTV News (1080p) [Not 24/7]
 http://xtv.ooo:8080/Keyurbipin123/Strawberrychocolate123/25988
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber (720p)
