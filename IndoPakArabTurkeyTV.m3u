@@ -59,6 +59,36 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/in
 #EXTINF:-1 tvg-id="DDUttarPradesh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142807_ld_h9_ab.png?lock=720x540" group-title="India",DD Uttar Pradesh (720p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index_3.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="PK: AAJ ENTERTAINMENT HD" tvg-logo="" group-title="PAKISTAN - باكستان",PK: AAJ ENTERTAINMENT HD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652490
+#EXTINF:-1 tvg-id="" tvg-name="PK: AAJ NEWS HD" tvg-logo="" group-title="PAKISTAN - باكستان",PK: AAJ NEWS HD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652489
+#EXTINF:-1 tvg-id="" tvg-name="PK: AAP News HD PK" tvg-logo="" group-title="PAKISTAN - باكستان",PK: AAP News HD PK
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652399
+#EXTINF:-1 tvg-id="" tvg-name="PK: ABB TAK HD" tvg-logo="" group-title="PAKISTAN - باكستان",PK: ABB TAK HD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652354
+#EXTINF:-1 tvg-id="" tvg-name="PK: ABN NEWS" tvg-logo="" group-title="PAKISTAN - باكستان",PK: ABN NEWS
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652425
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY DIGITAL" tvg-logo="" group-title="PAKISTAN - باكستان",PK: ARY DIGITAL
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652487
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY FAMILY" tvg-logo="" group-title="PAKISTAN - باكستان",PK: ARY FAMILY
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652486
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY MUSIC" tvg-logo="" group-title="PAKISTAN - باكستان",PK: ARY MUSIC
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652485
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY MUSIK" tvg-logo="" group-title="PAKISTAN - باكستان",PK: ARY MUSIK
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652412
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY NEWS" tvg-logo="s:1:/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZjsyDHtZiJDK9wLM212tx1ly_K8WBjdS80mqtbNgqKXMw.png" group-title="PAKISTAN - باكستان",PK: ARY NEWS
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652484
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY NEWS WORLD" tvg-logo="" group-title="PAKISTAN - باكستان",PK: ARY NEWS WORLD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652483
+#EXTINF:-1 tvg-id="" tvg-name="PK: ARY QTV" tvg-logo="" group-title="PAKISTAN - باكستان",PK: ARY QTV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652482
+#EXTINF:-1 tvg-id="" tvg-name="PK: BOL ENTERTAINMENT HD" tvg-logo="" group-title="PAKISTAN - باكستان",PK: BOL ENTERTAINMENT HD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652477
+#EXTINF:-1 tvg-id="" tvg-name="PK: CAPITAL NEWS" tvg-logo="" group-title="PAKISTAN - باكستان",PK: CAPITAL NEWS
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652476
+#EXTINF:-1 tvg-id="" tvg-name="PK: DUNYA NEWS" tvg-logo="" group-title="PAKISTAN - باكستان",PK: DUNYA NEWS
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652471
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="urdu" tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" tvg-country="UK" tvg-url="" group-title="Religion",Channel WIN INDIA
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunks.m3u8
@@ -141,17 +171,79 @@ https://hls.iranfarda.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SimayeAzadi.uk@SD" tvg-logo="https://i.imgur.com/yXcczMq.png" group-title="Iran",Simaye Azadi (1080p)
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u833/217578005705/413664
 
-http://asmr4k.pro:8080/STdYbUVoVkVFanM0ckxPSldFKzNDdzhKUFpFMnVYcERuUlRaSFNxV0ZiOD0
-#EXTINF:-1 tvg-id="" tvg-name="IRQ: DiwanTV" tvg-logo="https://seeklogo.com/images/D/Diwan-logo-7E48B8159F-seeklogo.com.png" group-title="عراق",IRQ: DiwanTV
-http://asmr4k.pro:8080/STdYbUVoVkVFanM0ckxPSldFKzNDeGh4S0RuZVNUd0VKQnBpM2dMZytKMD0
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.Iraqia Syriac" tvg-logo="http://go4.pw/ASIA/IRAQ/iraqia-syriac.png" group-title="عراق",IRQ.Iraqia Syriac
-http://asmr4k.pro:8080/STdYbUVoVkVFanM0ckxPSldFKzNDeS93VG5KaFdPUlFpMXExSzZlNnNrND0
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.IRAQIA TURKUMAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag-map_of_Iraq.svg/1046px-Flag-map_of_Iraq.svg.png" group-title="عراق",IRQ.IRAQIA TURKUMAN
-http://asmr4k.pro:8080/STdYbUVoVkVFanM0ckxPSldFKzNDenlzdFJvZ1MrMnpuS0d4V3QvVkI5OD0
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.IMAM ALI TV" tvg-logo="https://w7.pngwing.com/pngs/725/929/png-transparent-imam-ali-mosque-shia-islam-rajab-graphy-others-text-photography-logo.png" group-title="عراق",IRQ.IMAM ALI TV
-http://asmr4k.pro:8080/STdYbUVoVkVFanM0ckxPSldFKzNDOVc5a2VrWGJvT0NOc1lVNXVFbjRWaz0
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.ALGHADEER" tvg-logo="http://go4.pw/ASIA/IRAQ/ALGHADEER.png" group-title="عراق",IRQ.ALGHADEER
-http://asmr4k.pro:8080/STdYbUVoVkVFanM0ckxPSldFKzNDNERpczcvcW5XV0lBWnVkUHJMQ3ZSZz0
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: AFAQ TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: AFAQ TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498638
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Al Ahd" tvg-logo="" group-title="Iraq - العراق",IRAQ: Al Ahd
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498637
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: AL Anbar" tvg-logo="" group-title="Iraq - العراق",IRAQ: AL Anbar
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498636
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: AL ANWAR" tvg-logo="" group-title="Iraq - العراق",IRAQ: AL ANWAR
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498616
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: AL AQILA TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: AL AQILA TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498659
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: AL AYAM TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: AL AYAM TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498635
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Al baghdadia NOW" tvg-logo="" group-title="Iraq - العراق",IRAQ: Al baghdadia NOW
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498634
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: AL ESHRAQ TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: AL ESHRAQ TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498633
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: ALESRAA TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: ALESRAA TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498621
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Al Etejah TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: Al Etejah TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498650
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Al Fourat" tvg-logo="" group-title="Iraq - العراق",IRAQ: Al Fourat
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498651
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Al Ghadeer" tvg-logo="" group-title="Iraq - العراق",IRAQ: Al Ghadeer
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498632
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Al Mawsleya" tvg-logo="" group-title="Iraq - العراق",IRAQ: Al Mawsleya
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498648
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Al Noujaba" tvg-logo="" group-title="Iraq - العراق",IRAQ: Al Noujaba
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498629
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Al Rabiaa TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: Al Rabiaa TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498657
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Al Shaer TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: Al Shaer TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498649
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Al Sumaria TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: Al Sumaria TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498626
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Altaghier" tvg-logo="" group-title="Iraq - العراق",IRAQ: Altaghier
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498618
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: AL TALEAA TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: AL TALEAA TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498625
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Al Turkmenia TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: Al Turkmenia TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498624
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Baghdad TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: Baghdad TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498627
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Dijlah TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: Dijlah TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498615
+
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: FALLUJAH TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: FALLUJAH TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/662036
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Hona Baghdad" tvg-logo="" group-title="Iraq - العراق",IRAQ: Hona Baghdad
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498640
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: IMAM ALI FHD" tvg-logo="" group-title="Iraq - العراق",IRAQ: IMAM ALI FHD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498617
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: iNews" tvg-logo="" group-title="Iraq - العراق",IRAQ: iNews
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498643
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: IRAQ" tvg-logo="" group-title="Iraq - العراق",IRAQ: IRAQ
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498647
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Iraqia News" tvg-logo="" group-title="Iraq - العراق",IRAQ: Iraqia News
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498646
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Iraqia Sport" tvg-logo="" group-title="Iraq - العراق",IRAQ: Iraqia Sport
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498645
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Iraqia TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: Iraqia TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498644
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: Iraq Now" tvg-logo="" group-title="Iraq - العراق",IRAQ: Iraq Now
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498613
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: KARBALA TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: KARBALA TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498623
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: NABA TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: NABA TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498642
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: SAMARRA TV" tvg-logo="" group-title="Iraq - العراق",IRAQ: SAMARRA TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498641
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: SHARQIYA" tvg-logo="" group-title="Iraq - العراق",IRAQ: SHARQIYA
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498639
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ: UTV" tvg-logo="" group-title="Iraq - العراق",IRAQ: UTV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498652
 
 
 
@@ -220,19 +312,135 @@ https://aloula-redirect.vercel.app/1/playlist.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="Maraya.sa@HD" tvg-logo="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png" group-title="Saudi Arabia",Maraya (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KSA: AlwesamTV" tvg-logo="https://pbs.twimg.com/profile_images/1350856336754552834/ZVv3PiOo_400x400.jpg" group-title="KSA - السعودية",KSA: AlwesamTV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/735642
+#EXTINF:-1 tvg-id="" tvg-name="KSA: Saudi ALSahraa TV" tvg-logo="https://cp.slaati.com/wp-content/uploads/2019/09/%D8%B4%D8%B9%D8%A7%D8%B1-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-1.jpg" group-title="KSA - السعودية",KSA: Saudi ALSahraa TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/35368
 
-#EXTINF:-1 tvg-id="" tvg-name="|YE| YEMEN TV" tvg-logo="http://logo.ottcst.info/YEMENTV.png" group-title="YEMEN",|YE| YEMEN TV
-http://line.ottcst.com:80/Abeassokar1/RCJQekvGT5aHhwM/10386
-#EXTINF:-1 tvg-id="" tvg-name="|YE| YEMEN TODAY" tvg-logo="http://logo.ottcst.info/YEMENTODAY.png" group-title="YEMEN",|YE| YEMEN TODAY
-http://line.ottcst.com:80/Abeassokar1/RCJQekvGT5aHhwM/10382
-#EXTINF:-1 tvg-id="" tvg-name="[Yemen.] : ADEN TV" tvg-logo="http://asmr4k.pro:8080/images/1pignoN2oF_cXhdHAZmvZyNL4U-XKjBoxqNqaDrkmJePVWzbDXT6LfvLiJ_KB1gV.png" group-title="YEMEN",[Yemen.] : ADEN TV
-http://asmr4k.pro:8080/STdYbUVoVkVFanM0ckxPSldFKzNDeHVXYzFLTldmN3J1VEZCKzRGQ3NFUT0
-#EXTINF:-1 tvg-id="" tvg-name="[Yemen.] : Shabab" tvg-logo="http://asmr4k.pro:8080/images/1pignoN2oF_cXhdHAZmvZ4Q79cHBnSNeYs7-rGo-j_Q1CXtRUd4-VqN0lxbQ2S2P.png" group-title="YEMEN",[Yemen.] : Shabab
-http://asmr4k.pro:8080/STdYbUVoVkVFanM0ckxPSldFKzNDK2FqUm92ZjFHTWVlMFd5ek1oWURHcz0
-#EXTINF:-1 tvg-id="" tvg-name="[Yemen.] : Suhail TV" tvg-logo="http://asmr4k.pro:8080/images/1pignoN2oF_cXhdHAZmvZ5Bz9DpCvFCbM8jH3cF9-EEbWhru1awB0duaS9gp-CXm.png" group-title="YEMEN",[Yemen.] : Suhail TV
-http://asmr4k.pro:8080/STdYbUVoVkVFanM0ckxPSldFKzNDMWFsd2t6MjZNNS9zUHltTlVidUk0Zz0
+#EXTINF:-1 tvg-id="" tvg-name="YEN: Yemen TV" tvg-logo="https://yt3.googleusercontent.com/R23tjfCwGSoPxgvbV2tlRCnEtFW223_D60olipZrK0bTbYsBOctgAk7UmNCQOLkDj0kJrZV-=s900-c-k-c0x00ffffff-no-rj" group-title="Yemen - اليمن",YEN: Yemen TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/56166
+#EXTINF:-1 tvg-id="" tvg-name="YEN: Yemen Today" tvg-logo="http://bit.ly/2MViIFP" group-title="Yemen - اليمن",YEN: Yemen Today
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/40623
+#EXTINF:-1 tvg-id="" tvg-name="YEN: Aden TV" tvg-logo="http://bit.ly/2MMBpPz" group-title="Yemen - اليمن",YEN: Aden TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/35706
+#EXTINF:-1 tvg-id="" tvg-name="YEN: Aden TV AL Mustaqila" tvg-logo="https://yt3.googleusercontent.com/fqpEmDB_C23nUBKg_QMLuDFpDbCfZ8kZWfgEVS2NDbxijrleqUjxWtO1quXNbzORhP-WposWqf8=s900-c-k-c0x00ffffff-no-rj" group-title="Yemen - اليمن",YEN: Aden TV AL Mustaqila
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/753678
+#EXTINF:-1 tvg-id="" tvg-name="YEN: Al Ghad Almushreq" tvg-logo="https://yt3.googleusercontent.com/m5aApIyfQrgqkmWRhO8znS4pD90A6qopE7pjG61YpCys2ygG4rh0DjQc8CMvyHGHYURQ9Gto-g=s900-c-k-c0x00ffffff-no-rj" group-title="Yemen - اليمن",YEN: Al Ghad Almushreq
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/35782
+#EXTINF:-1 tvg-id="" tvg-name="YEN: AL Haweya TV" tvg-logo="https://safa.ps/thumb/830x506/uploads/images/2022/11/vHLj9.jpg" group-title="Yemen - اليمن",YEN: AL Haweya TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/753680
+#EXTINF:-1 tvg-id="" tvg-name="YEN: AL JoumhourIya Yemen" tvg-logo="https://yt3.googleusercontent.com/N44At9HVAHc8oIBu-Iv5o9aXiyE_spjjGkA2A9jaH_K-EHjPjmuLoHeTT-uy0y7W5h0SdpuU=s900-c-k-c0x00ffffff-no-rj" group-title="Yemen - اليمن",YEN: AL JoumhourIya Yemen
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/753677
+#EXTINF:-1 tvg-id="" tvg-name="YEN: AL MAHRIAH" tvg-logo="" group-title="Yemen - اليمن",YEN: AL MAHRIAH
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/117393
+#EXTINF:-1 tvg-id="" tvg-name="YEN: AL Sahat" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt_EYN9rssBzWIh16W5Peew4A0HbC3_nidhQ&s" group-title="Yemen - اليمن",YEN: AL Sahat
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/753679
+#EXTINF:-1 tvg-id="" tvg-name="YEN: Hadramout TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mJU8t6TxFQc-he6TY-EX30QJ_bQCaa1rBDaYsaU8HbH8c=s900-c-k-c0x00ffffff-no-rj" group-title="Yemen - اليمن",YEN: Hadramout TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/161721
+#EXTINF:-1 tvg-id="" tvg-name="YEN: Suhail TV" tvg-logo="http://bit.ly/2KEAFMg" group-title="Yemen - اليمن",YEN: Suhail TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/35431
+#EXTINF:-1 tvg-id="" tvg-name="YEN: Yemen AL Masirah" tvg-logo="http://bit.ly/2J1DBwV" group-title="Yemen - اليمن",YEN: Yemen AL Masirah
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/40621
+#EXTINF:-1 tvg-id="" tvg-name="YEN: Yemen AlSaeedah" tvg-logo="https://yt3.googleusercontent.com/Welvr3_2j6XDx5f-JLKEpRME5OWuqWQf1CRhR2L7OPA2yheYO18c8xGeXWDEkieD5WNXEPAKAg=s160-c-k-c0x00ffffff-no-rj" group-title="Yemen - اليمن",YEN: Yemen AlSaeedah
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/40620
+#EXTINF:-1 tvg-id="" tvg-name="YEN: YEMEN SHABAB" tvg-logo="" group-title="Yemen - اليمن",YEN: YEMEN SHABAB
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/35983
 
+#EXTINF:-1 tvg-id="" tvg-name="SYR: Alqanat 9 TV" tvg-logo="https://3.bp.blogspot.com/-NmX5QZE2Los/XLb6ESr3X3I/AAAAAAAACzU/YJwZ9a-3bogfgYvrNmP_LWRHqrdvkNabwCLcBGAs/s1600/alqanat9.jpg" group-title="Syria - سوريا",SYR: Alqanat 9 TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/57113
+#EXTINF:-1 tvg-id="" tvg-name="SYR: Al Yawm" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQABjDiqdi1zogkb2jvUGhlBqk999kY_IDgHXj1=s900-c-k-c0x00ffffff-no-rj" group-title="Syria - سوريا",SYR: Al Yawm
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/378612
+#EXTINF:-1 tvg-id="" tvg-name="SYR: Halab Todey" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSEt6Bl-i2Pl5OqTJ52sX3nZs1XamKC7dZxNENG7Q=s900-c-k-c0x00ffffff-no-rj" group-title="Syria - سوريا",SYR: Halab Todey
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/378613
+#EXTINF:-1 tvg-id="" tvg-name="SYR: Minbij TV" tvg-logo="https://pbs.twimg.com/profile_images/3587972752/06a24835d990bee8f13b4e7a599ca4a2_400x400.jpeg" group-title="Syria - سوريا",SYR: Minbij TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/378608
+#EXTINF:-1 tvg-id="" tvg-name="SYR: Syria 2 TV" tvg-logo="https://media.licdn.com/dms/image/v2/D4E05AQGw4jRNH8p-7g/feedshare-thumbnail_720_1280/B4EZVGyRaCHMBA-/0/1740649341792?e=2147483647&v=beta&t=a8h7tpGjDi5HZ3maixNWYu-MVK8NxWDaINRmBkyJwUs" group-title="Syria - سوريا",SYR: Syria 2 TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/378611
+#EXTINF:-1 tvg-id="" tvg-name="SYR: Syria Al Ekhbarea" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/Syrian_News_Logo.png" group-title="Syria - سوريا",SYR: Syria Al Ekhbarea
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/35321
+#EXTINF:-1 tvg-id="" tvg-name="SYR: Syria TV" tvg-logo="https://www.syria.tv/sites/default/files/field/image/23130739_722852874576936_6716548669954231046_n.png" group-title="Syria - سوريا",SYR: Syria TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/36103
+#EXTINF:-1 tvg-id="" tvg-name="JOR: Almamlaka TV" tvg-logo="" group-title="Jordan - الأردن",JOR: Almamlaka TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/577086
+#EXTINF:-1 tvg-id="" tvg-name="JOR: Amman Tv" tvg-logo="" group-title="Jordan - الأردن",JOR: Amman Tv
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/577093
+#EXTINF:-1 tvg-id="" tvg-name="JOR: Jordan TV" tvg-logo="" group-title="Jordan - الأردن",JOR: Jordan TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/577094
+#EXTINF:-1 tvg-id="" tvg-name="JOR: ROYA TV" tvg-logo="" group-title="Jordan - الأردن",JOR: ROYA TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/577095
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al-Fajer TV 1" tvg-logo="https://www.almowaten.net/wp-content/uploads/2020/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D9%81%D8%AC%D8%B1-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9.png" group-title="Palestine - فلسطين",AR: Al-Fajer TV 1
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/660922
 
+#EXTINF:-1 tvg-id="" tvg-name="PLS: MUSAWA TV" tvg-logo="http://falconiptv.online/logo/Palestine/MUSAWA.png" group-title="Palestine - فلسطين",PLS: MUSAWA TV
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/36105
+#EXTINF:-1 tvg-id="" tvg-name="PLS: Palestine Mubasher" tvg-logo="http://falconiptv.online/logo/Palestine/Palestine%20TV.png" group-title="Palestine - فلسطين",PLS: Palestine Mubasher
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/35701
+#EXTINF:-1 tvg-id="" tvg-name="PLS: Palestine News" tvg-logo="" group-title="Palestine - فلسطين",PLS: Palestine News
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/76645
+#EXTINF:-1 tvg-id="" tvg-name="PLS: Palestine Sport" tvg-logo="" group-title="Palestine - فلسطين",PLS: Palestine Sport
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/76646
+#EXTINF:-1 tvg-id="" tvg-name="PLS: Palestine Today" tvg-logo="" group-title="Palestine - فلسطين",PLS: Palestine Today
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/240826
+#EXTINF:-1 tvg-id="palestinetv.sa" tvg-name="PLS: Palestine Tv" tvg-logo="" group-title="Palestine - فلسطين",PLS: Palestine Tv
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/40810
+#EXTINF:-1 tvg-id="" tvg-name="PLS: QUDS" tvg-logo="" group-title="Palestine - فلسطين",PLS: QUDS
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/35700
+
+#EXTINF:-1 tvg-id="" tvg-name="LBN: TELE TV HD" tvg-logo="https://egypt.mom-rsf.org/uploads/_processed_/5/e/csm_14121-1409_company_import_99ca94dc1d.jpg" group-title="Lebanon - لبنان",LBN: TELE TV HD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/35299
+#EXTINF:-1 tvg-id="lbcinternational.lb" tvg-name="LBN: LBC International FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_LBC_International_%28Lebanon%29.png" group-title="Lebanon - لبنان",LBN: LBC International FHD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/57122
+#EXTINF:-1 tvg-id="mtvlebanon.lb" tvg-name="LBN: MTV Lebanon FHD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kNQdNqRizW6h6oD33y7QJ2VXKja4sqBPXu3iBEYaWB2QY=s900-c-k-c0x00ffffff-no-rj" group-title="Lebanon - لبنان",LBN: MTV Lebanon FHD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/65848
+#EXTINF:-1 tvg-id="almanar.lb" tvg-name="LBN: Almanar HD" tvg-logo="https://egypt.mom-rsf.org/uploads/tx_lfrogmom/media/14028-1409_import.jpg" group-title="Lebanon - لبنان",LBN: Almanar HD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/65852
+#EXTINF:-1 tvg-id="" tvg-name="LBN: Al Itihad" tvg-logo="https://live.multies.net/wp-content/uploads/2021/06/alittihadtv.png" group-title="Lebanon - لبنان",LBN: Al Itihad
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/678363
+#EXTINF:-1 tvg-id="aljadeed.lb" tvg-name="LBN: Al Jadeed FHD" tvg-logo="https://egypt.mom-rsf.org/uploads/_processed_/e/e/csm_14126-1409_company_import_fb5f7ad1e4.jpg" group-title="Lebanon - لبنان",LBN: Al Jadeed FHD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/35291
+
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Al Oula FHD" tvg-logo="" group-title="Egypt - مصر",EGY: Al Oula FHD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/128885
+#EXTINF:-1 tvg-id="alkaherawalnas.eg" tvg-name="EGY: Al Qahira Wa Al Nass 1" tvg-logo="http://bit.ly/2MFQp1D" group-title="Egypt - مصر",EGY: Al Qahira Wa Al Nass 1
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/51665
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Al Qahira Wa Al Nass 2" tvg-logo="http://bit.ly/2MKAaQU" group-title="Egypt - مصر",EGY: Al Qahira Wa Al Nass 2
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/35389
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Al Masriya FHD" tvg-logo="" group-title="Egypt - مصر",EGY: Al Masriya FHD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/128905
+#EXTINF:-1 tvg-id="" tvg-name="EGY: AlHadath Alyoum" tvg-logo="" group-title="Egypt - مصر",EGY: AlHadath Alyoum
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/158597
+#EXTINF:-1 tvg-id="alhayat.eg" tvg-name="EGY: ALHAYAT FHD" tvg-logo="" group-title="Egypt - مصر",EGY: ALHAYAT FHD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/128883
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Al Hayat Drama FHD" tvg-logo="https://media.elcinema.com/tvguide/1138_1.png" group-title="Egypt - مصر",EGY: Al Hayat Drama FHD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/36012
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Almasriah" tvg-logo="" group-title="Egypt - مصر",EGY: Almasriah
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/128892
+#EXTINF:-1 tvg-id="" tvg-name="EGY: Al mehwar" tvg-logo="" group-title="Egypt - مصر",EGY: Al mehwar
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/35340
+#EXTINF:-1 tvg-id="alnahardrama.eg" tvg-name="EGY: Al Nahar Drama" tvg-logo="" group-title="Egypt - مصر",EGY: Al Nahar Drama
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/35297
+#EXTINF:-1 tvg-id="alnaharone.eg" tvg-name="EGY: Al Nahar One" tvg-logo="http://bit.ly/2MZ5yb8" group-title="Egypt - مصر",EGY: Al Nahar One
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/35296
+#EXTINF:-1 tvg-id="cbc.eg" tvg-name="EGY: CBC" tvg-logo="http://bit.ly/2nVaqn8" group-title="Egypt - مصر",EGY: CBC
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/35377
+#EXTINF:-1 tvg-id="dmc.eg" tvg-name="EGY: dmc FHD" tvg-logo="http://bit.ly/2Mo2hGv" group-title="Egypt - مصر",EGY: dmc FHD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/35374
+#EXTINF:-1 tvg-id="nilelife.eg" tvg-name="EGY: Nile Life" tvg-logo="" group-title="Egypt - مصر",EGY: Nile Life
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/128951
+#EXTINF:-1 tvg-id="nilelife.eg" tvg-name="EGY: NILE LIFE" tvg-logo="" group-title="Egypt - مصر",EGY: NILE LIFE
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/128880
+#EXTINF:-1 tvg-id="nilenews.eg" tvg-name="EGY: NILE NEWS" tvg-logo="" group-title="Egypt - مصر",EGY: NILE NEWS
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/128881
+#EXTINF:-1 tvg-id="" tvg-name="SUN: SUDAN TV HD" tvg-logo="" group-title="Sudan - السودان",SUN: SUDAN TV HD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498701
+#EXTINF:-1 tvg-id="" tvg-name="SUN: KHARTOUM TV HD" tvg-logo="" group-title="Sudan - السودان",SUN: KHARTOUM TV HD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498681
+#EXTINF:-1 tvg-id="" tvg-name="SUN: SOUTH SUDAN SD" tvg-logo="" group-title="Sudan - السودان",SUN: SOUTH SUDAN SD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498699
+#EXTINF:-1 tvg-id="" tvg-name="SUN: Sudan Now 24" tvg-logo="" group-title="Sudan - السودان",SUN: Sudan Now 24
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498694
+#EXTINF:-1 tvg-id="" tvg-name="SUN: SUDAN NOW 24 SD" tvg-logo="" group-title="Sudan - السودان",SUN: SUDAN NOW 24 SD
+http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/498686
 
 
 #EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1080p)
