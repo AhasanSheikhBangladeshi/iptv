@@ -59,36 +59,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/in
 #EXTINF:-1 tvg-id="DDUttarPradesh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142807_ld_h9_ab.png?lock=720x540" group-title="India",DD Uttar Pradesh (720p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index_3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PK: AAJ ENTERTAINMENT HD" tvg-logo="" group-title="PAKISTAN - باكستان",PK: AAJ ENTERTAINMENT HD
-http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652490
-#EXTINF:-1 tvg-id="" tvg-name="PK: AAJ NEWS HD" tvg-logo="" group-title="PAKISTAN - باكستان",PK: AAJ NEWS HD
-http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652489
-#EXTINF:-1 tvg-id="" tvg-name="PK: AAP News HD PK" tvg-logo="" group-title="PAKISTAN - باكستان",PK: AAP News HD PK
-http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652399
-#EXTINF:-1 tvg-id="" tvg-name="PK: ABB TAK HD" tvg-logo="" group-title="PAKISTAN - باكستان",PK: ABB TAK HD
-http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652354
-#EXTINF:-1 tvg-id="" tvg-name="PK: ABN NEWS" tvg-logo="" group-title="PAKISTAN - باكستان",PK: ABN NEWS
-http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652425
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY DIGITAL" tvg-logo="" group-title="PAKISTAN - باكستان",PK: ARY DIGITAL
-http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652487
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY FAMILY" tvg-logo="" group-title="PAKISTAN - باكستان",PK: ARY FAMILY
-http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652486
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY MUSIC" tvg-logo="" group-title="PAKISTAN - باكستان",PK: ARY MUSIC
-http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652485
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY MUSIK" tvg-logo="" group-title="PAKISTAN - باكستان",PK: ARY MUSIK
-http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652412
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY NEWS" tvg-logo="s:1:/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZjsyDHtZiJDK9wLM212tx1ly_K8WBjdS80mqtbNgqKXMw.png" group-title="PAKISTAN - باكستان",PK: ARY NEWS
-http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652484
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY NEWS WORLD" tvg-logo="" group-title="PAKISTAN - باكستان",PK: ARY NEWS WORLD
-http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652483
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY QTV" tvg-logo="" group-title="PAKISTAN - باكستان",PK: ARY QTV
-http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652482
-#EXTINF:-1 tvg-id="" tvg-name="PK: BOL ENTERTAINMENT HD" tvg-logo="" group-title="PAKISTAN - باكستان",PK: BOL ENTERTAINMENT HD
-http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652477
-#EXTINF:-1 tvg-id="" tvg-name="PK: CAPITAL NEWS" tvg-logo="" group-title="PAKISTAN - باكستان",PK: CAPITAL NEWS
-http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652476
-#EXTINF:-1 tvg-id="" tvg-name="PK: DUNYA NEWS" tvg-logo="" group-title="PAKISTAN - باكستان",PK: DUNYA NEWS
-http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/652471
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="urdu" tvg-logo="https://shiachannel.in/livetv/img/channels/win.png" tvg-country="UK" tvg-url="" group-title="Religion",Channel WIN INDIA
 https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunks.m3u8
@@ -170,6 +140,59 @@ https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 https://hls.iranfarda.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SimayeAzadi.uk@SD" tvg-logo="https://i.imgur.com/yXcczMq.png" group-title="Iran",Simaye Azadi (1080p)
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u833/217578005705/413664
+
+#EXTINF:-1,IQ | AR:   Al Rabiaa Iraq
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675805.ts
+#EXTINF:-1,IQ | AR:   UTV Iraq HD
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675806.ts
+#EXTINF:-1,IQ | AR:   OWS TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675807.ts
+#EXTINF:-1,IQ | AR:   Al Sharqiya HD
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675808.ts
+#EXTINF:-1,IQ | AR:   Iraq Future TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675812.ts
+#EXTINF:-1,IQ | AR:   Iraqia Turkuman
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675813.ts
+#EXTINF:-1,IQ | AR:   Al Hurra HD
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675815.ts
+#EXTINF:-1,IQ | AR:   Al Ahd Iraq TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675816.ts
+#EXTINF:-1,IQ | AR:   Iraqi Education
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675817.ts
+#EXTINF:-1,IQ | AR:   ANB Iraq
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675818.ts
+#EXTINF:-1,IQ | AR:   Karbala TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675819.ts
+#EXTINF:-1,IQ | AR:   Al Forat TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675824.ts
+#EXTINF:-1,IQ | AR:   Al Baghdadia TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675825.ts
+#EXTINF:-1,IQ | AR:   Al Rasheed TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675827.ts
+#EXTINF:-1,IQ | AR:   Al Rafidain TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675828.ts
+#EXTINF:-1,IQ | AR:   Al Qamar
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675830.ts
+#EXTINF:-1,IQ | AR:   Salahaden TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675835.ts
+#EXTINF:-1,IQ | AR:   Al Etejah TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675842.ts
+#EXTINF:-1,IQ | AR:   Al Awhad TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675843.ts
+#EXTINF:-1,IQ | AR:   Altaghier
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675844.ts
+#EXTINF:-1,IQ | AR:   Al Anwar 1
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675845.ts
+#EXTINF:-1,IQ | AR:   Al Anwar 2
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675850.ts
+#EXTINF:-1,IQ | AR:   Al Ghadeer TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675859.ts
+#EXTINF:-1,IQ | AR:   Diwan TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85675860.ts
+#EXTINF:-1,IQ | AR:  Afaq
+http://1009-2026.world:8089/live/4176753645984/8207019373015/8939.ts
+#EXTINF:-1,IQ | AR:  Al Sumaria TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/8930.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Om: Oman TV Culture" tvg-logo="http://tv.asc.vg/oman.culture.om.png" group-title="OMAN",Om: Oman TV Culture
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
