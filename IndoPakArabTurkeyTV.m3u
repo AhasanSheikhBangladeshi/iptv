@@ -258,35 +258,9 @@ https://aloula-redirect.vercel.app/1/playlist.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="Maraya.sa@HD" tvg-logo="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png" group-title="Saudi Arabia",Maraya (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KSA: AlwesamTV" tvg-logo="https://pbs.twimg.com/profile_images/1350856336754552834/ZVv3PiOo_400x400.jpg" group-title="KSA - السعودية",KSA: AlwesamTV
-http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/735642
-#EXTINF:-1 tvg-id="" tvg-name="KSA: Saudi ALSahraa TV" tvg-logo="https://cp.slaati.com/wp-content/uploads/2019/09/%D8%B4%D8%B9%D8%A7%D8%B1-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-1.jpg" group-title="KSA - السعودية",KSA: Saudi ALSahraa TV
-http://sharkiptvpro.xyz:80/gs72cd991v3/bd75veo92b3/35368
 
-#EXTINF:-1 tvg-id="" tvg-name="[Yemen.] : Al Saeedah" tvg-logo="http://asmr4k.pro:8080/images/1pignoN2oF_cXhdHAZmvZzsYKdosIUKiTFGZoUSWXKsw48F7tEM8Lh6PmDiyWs_d.png" group-title="اليمن",[Yemen.] : Al Saeedah
-http://asmr4k.pro:8080/67389201934/0572884955/440748
-#EXTINF:-1 tvg-id="" tvg-name="[Yemen.] : ADEN TV" tvg-logo="http://asmr4k.pro:8080/images/1pignoN2oF_cXhdHAZmvZyNL4U-XKjBoxqNqaDrkmJePVWzbDXT6LfvLiJ_KB1gV.png" group-title="اليمن",[Yemen.] : ADEN TV
+
 http://asmr4k.pro:8080/67389201934/0572884955/440762
-#EXTINF:-1 tvg-id="" tvg-name="[Yemen.] : Shabab" tvg-logo="http://asmr4k.pro:8080/images/1pignoN2oF_cXhdHAZmvZ4Q79cHBnSNeYs7-rGo-j_Q1CXtRUd4-VqN0lxbQ2S2P.png" group-title="اليمن",[Yemen.] : Shabab
-http://asmr4k.pro:8080/67389201934/0572884955/440751
-#EXTINF:-1 tvg-id="" tvg-name="[Yemen.] : Suhail TV" tvg-logo="http://asmr4k.pro:8080/images/1pignoN2oF_cXhdHAZmvZ5Bz9DpCvFCbM8jH3cF9-EEbWhru1awB0duaS9gp-CXm.png" group-title="اليمن",[Yemen.] : Suhail TV
-http://asmr4k.pro:8080/67389201934/0572884955/440752
-#EXTINF:-1 tvg-id="" tvg-name="[Yemen.] : Sheba TV" tvg-logo="http://asmr4k.pro:8080/images/1pignoN2oF_cXhdHAZmvZ6Doo5-aC6_-996vU47qKPIbQnzpRvpa0BgZKLzMAm-l.png" group-title="اليمن",[Yemen.] : Sheba TV
-http://asmr4k.pro:8080/67389201934/0572884955/440753
-#EXTINF:-1 tvg-id="" tvg-name="[Yemen.] : Hadramout" tvg-logo="http://asmr4k.pro:8080/images/Bh_KsKKmAFbCbf59m4eiZEnccidNRRgqyAPGgRXzyKuRsO5i2zLiP_qZEf8zGGjJ4vyDczkXsEVvWYwaMynGlw.png" group-title="اليمن",[Yemen.] : Hadramout
-http://asmr4k.pro:8080/67389201934/0572884955/440754
-#EXTINF:-1 tvg-id="" tvg-name="[Yemen.] : Education" tvg-logo="http://asmr4k.pro:8080/images/1pignoN2oF_cXhdHAZmvZ1ZFRe1-1oXGVZ-5snJTal91Phtr4adLjto8FMSL2SHF.png" group-title="اليمن",[Yemen.] : Education
-http://asmr4k.pro:8080/67389201934/0572884955/440755
-#EXTINF:-1 tvg-id="" tvg-name="[Yemen.] : Almahriah TV" tvg-logo="http://asmr4k.pro:8080/images/Rhij6q-3csozZFXtyjn34So7GvlFOv1qq0HF268zXkgabcAmd2cz5NqYuWJtB28e.png" group-title="اليمن",[Yemen.] : Almahriah TV
-http://asmr4k.pro:8080/67389201934/0572884955/440756
-#EXTINF:-1 tvg-id="" tvg-name="[Yemen.] : Yemen Today" tvg-logo="http://asmr4k.pro:8080/images/1pignoN2oF_cXhdHAZmvZ6Doo5-aC6_-996vU47qKPIbQnzpRvpa0BgZKLzMAm-l.png" group-title="اليمن",[Yemen.] : Yemen Today
-http://asmr4k.pro:8080/67389201934/0572884955/440757
-#EXTINF:-1 tvg-id="" tvg-name="[Yemen.] : YEMEN TV" tvg-logo="http://asmr4k.pro:8080/images/1pignoN2oF_cXhdHAZmvZy78qIaPixpoEFqPm5cY87-10WW8Y-f4OUSFg--GYXfO.png" group-title="اليمن",[Yemen.] : YEMEN TV
-http://asmr4k.pro:8080/67389201934/0572884955/440758
-#EXTINF:-1 tvg-id="" tvg-name="[Yemen.] : SHAREYYAH CHANNEL" tvg-logo="http://asmr4k.pro:8080/images/Bh_KsKKmAFbCbf59m4eiZEnccidNRRgqyAPGgRXzyKuRsO5i2zLiP_qZEf8zGGjJ4vyDczkXsEVvWYwaMynGlw.png" group-title="اليمن",[Yemen.] : SHAREYYAH CHANNEL
-http://asmr4k.pro:8080/67389201934/0572884955/440759
-#EXTINF:-1 tvg-id="" tvg-name="[Yemen.] : ALSAHAT" tvg-logo="http://asmr4k.pro:8080/images/Bh_KsKKmAFbCbf59m4eiZEnccidNRRgqyAPGgRXzyKuRsO5i2zLiP_qZEf8zGGjJ4vyDczkXsEVvWYwaMynGlw.png" group-title="اليمن",[Yemen.] : ALSAHAT
-http://asmr4k.pro:8080/67389201934/0572884955/440760
 
 
 #EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1080p)
