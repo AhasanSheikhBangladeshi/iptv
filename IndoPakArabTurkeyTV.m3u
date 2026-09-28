@@ -12,16 +12,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/in
 https://d2lk5u59tns74c.cloudfront.net/out/v1/380b0765f87741a4812bc952ec6fbf21/index_3.m3u8
 #EXTINF:-1 tvg-id="DDChandana.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_CHANDANA/images/LOGO_HD/image.png" group-title="India",DD Chandana (504p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index_3.m3u8
-#EXTINF:-1 tvg-id="DDChhattisgarh.in@SD" tvg-logo="https://i.imgur.com/zBg6Iuv.png" group-title="India",DD Chhattisgarh (720p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index_3.m3u8
-#EXTINF:-1 tvg-id="DDGirnar.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142782_ld_h15_aa.png?lock=720x540" group-title="India",DD Girnar (576p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index_3.m3u8
-#EXTINF:-1 tvg-id="DDGoa.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Goa-Logo_2000_X_1125_Transpharent.png" group-title="India",DD Goa (504p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index_3.m3u8
-#EXTINF:-1 tvg-id="DDHaryana.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD-Haryana-Logo_2000_X_1125_Transpharent.png" group-title="India",DD Haryana (504p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index_3.m3u8
-#EXTINF:-1 tvg-id="DDHimachalPradesh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142785_ld_h9_aa.png?lock=720x540" group-title="India",DD Himachal Pradesh (504p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index_3.m3u8
 #EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" group-title="India",DD India (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index_6.m3u8
 #EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png" group-title="India",DD National HD (1080p)
@@ -277,6 +267,14 @@ http://1009-2026.world:8089/live/4176753645984/8207019373015/85676638.ts
 http://1009-2026.world:8089/live/4176753645984/8207019373015/85676628.ts
 #EXTINF:-1 tvg-id="YemenTodayHothia.ye@SD" tvg-logo="https://sabanew.net/image-resizer/w850/upload/thumbs/151249011961278000.jpg" group-title="Yemen",Yemen Today Hothia
 http://crystalott.net:80/live/TarekDubai/ERIVZPADVD/10382.ts
+#EXTINF:-1 tvg-id="AlJunoubAlYoum.ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-janoub-al-youm.png" group-title="Yemen",Al Junoub Youm TV
+https://customer-h6nlsim38t0xocdo.cloudflarestream.com/9d3f1954fb91f9ecd1ba475dc0f154d7/manifest/video.m3u8
+#EXTINF:-1 tvg-id="AICTV.ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aic-tv-ye.png" group-title="Yemen",AIC TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85676636.ts
+#EXTINF:-1 tvg-id="AlSaeedah.Ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-saeedah-eg.png" group-title="Yemen",Al  Saeedah TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85676637.ts
+#EXTINF:-1 tvg-id="AlerthTV.ye@SD" tvg-logo=" " group-title="Yemen",Al Erth TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85676645.ts
 #EXTINF:-1 tvg-id="ShebaTV.ye@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBt9xKVxPihBqoHYx0GjGpLa3RzR6yX3b7s67ANStTKw&s" group-title="Yemen",Sheba TV
 http://crystalott.net:80/live/TarekDubai/ERIVZPADVD/10383.ts
 #EXTINF:-1 tvg-id="AlEmanTV.ye@SD" tvg-logo="https://pbs.twimg.com/profile_images/1476921500980629507/pKz-b470_400x400.jpg" group-title="Yemen",Al Eman TV
@@ -285,6 +283,18 @@ http://crystalott.net:80/live/TarekDubai/ERIVZPADVD/10377.ts
 http://1009-2026.world:8089/live/4176753645984/8207019373015/85676630.ts
 #EXTINF:-1 tvg-id="AlMasirahTV.ye@SD" tvg-logo="https://cdn-radiotime-logos.tunein.com/s279946g.png" group-title="Yemen",Al Masirah TV
 http://1009-2026.world:8089/live/4176753645984/8207019373015/85676642.ts
+#EXTINF:-1 tvg-id="AlHawyahTV.ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-hawyah-ye.png" group-title="Yemen",Al Hawyah TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85676647.ts
+#EXTINF:-1 tvg-id="AlLahdahTV.ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/allahdhah-tv-ye.png" group-title="Yemen",Al Lahdah TV
+http://1009-2026.world:8089/live/4176753645984/8207019373015/85676648.ts
+
+
+#EXTINF:-1 tvg-id="UniversalTV.so@SD" tvg-logo=" " group-title="Somalia",Universal TV (576p)
+http://crystalott.net:80/live/TarekDubai/ERIVZPADVD/96616.ts
+#EXTINF:-1 tvg-id="KalsanTV.uk@SD" tvg-logo="https://i.imgur.com/AqyY1bR.png" group-title="Somalia",Kalsan TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
+#EXTINF:-1 tvg-id="SomaliNationalTV.so@SD" tvg-logo="https://i.imgur.com/2y8gv7V.png" group-title="Somalia",Somali National TV (576p)
+http://crystalott.net:80/live/TarekDubai/ERIVZPADVD/10181.ts
 
 #EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1080p)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
