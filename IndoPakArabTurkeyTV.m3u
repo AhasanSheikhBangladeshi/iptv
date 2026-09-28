@@ -259,31 +259,31 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="Maraya.sa@HD" tvg-logo="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png" group-title="Saudi Arabia",Maraya (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AdenTV1.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="Yemen",Aden TV Hothia
+#EXTINF:-1 tvg-id="AdenTV1.ye@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4sW6Jt-0UDCgSDZi3NGkdQo4EVJR22fLdHui5-KrVM90r6LgN2n6IOZY&s=10" group-title="Yemen",Aden TV Hothia
 http://asmr4k.pro:8080/67389201934/0572884955/440762
-#EXTINF:-1 tvg-id="AdenTV2.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="Yemen",Aden TV
+#EXTINF:-1 tvg-id="AdenTV2.ye@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Aden_tv.jpg" group-title="Yemen",Aden TV
 http://1009-2026.world:8089/live/4176753645984/8207019373015/85676634.ts
-#EXTINF:-1 tvg-id="YemenTV.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="Yemen",Yemen TV
+#EXTINF:-1 tvg-id="YemenTV.ye@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmVc2eNl6tskAYzznSmhTx-u24cuKN62utZkYO9R65Mg&s" group-title="Yemen",Yemen TV
 http://1009-2026.world:8089/live/4176753645984/8207019373015/85676626.ts
-#EXTINF:-1 tvg-id="AlmahriahTV.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="Yemen",Al Mahriah TV
+#EXTINF:-1 tvg-id="AlmahriahTV.ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/almahriah-tv-ye.png" group-title="Yemen",Al Mahriah TV
 http://1009-2026.world:8089/live/4176753645984/8207019373015/85676646.ts
-#EXTINF:-1 tvg-id="YemenShabab.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="Yemen",Yemen Shabab
+#EXTINF:-1 tvg-id="YemenShabab.ye@SD" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/khtfvdhsktjl.png" group-title="Yemen",Yemen Shabab
 http://cname1.elg-26.com:8080/live/Abdo20250505/hze7pmru27/10079.ts
-#EXTINF:-1 tvg-id="SuhailTV.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="Yemen", Suhail TV
+#EXTINF:-1 tvg-id="SuhailTV.ye@SD" tvg-logo="https://alasimahonline.com/upimages/news/Alasimahonline2021-03-25-530264.jpg" group-title="Yemen", Suhail TV
 http://cname1.elg-26.com:8080/live/Abdo20250505/hze7pmru27/152048.ts
-#EXTINF:-1 tvg-id="HadhramautTV.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="Yemen",Hadramaut TV
+#EXTINF:-1 tvg-id="HadhramautTV.ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hadhramaut-tv-ye.png" group-title="Yemen",Hadramaut TV
 http://1009-2026.world:8089/live/4176753645984/8207019373015/85676638.ts
-#EXTINF:-1 tvg-id="YemenTodayTV.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="Yemen",Yemen Today TV
+#EXTINF:-1 tvg-id="YemenTodayTV.ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yemen-today-tv-ye.png" group-title="Yemen",Yemen Today TV
 http://1009-2026.world:8089/live/4176753645984/8207019373015/85676628.ts
-#EXTINF:-1 tvg-id="YemenTodayHothia.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="Yemen",Yemen Today Hothia
+#EXTINF:-1 tvg-id="YemenTodayHothia.ye@SD" tvg-logo="https://sabanew.net/image-resizer/w850/upload/thumbs/151249011961278000.jpg" group-title="Yemen",Yemen Today Hothia
 http://crystalott.net:80/live/TarekDubai/ERIVZPADVD/10382.ts
-#EXTINF:-1 tvg-id="ShebaTV.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="Yemen",Sheba TV
+#EXTINF:-1 tvg-id="ShebaTV.ye@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBt9xKVxPihBqoHYx0GjGpLa3RzR6yX3b7s67ANStTKw&s" group-title="Yemen",Sheba TV
 http://crystalott.net:80/live/TarekDubai/ERIVZPADVD/10383.ts
-#EXTINF:-1 tvg-id="AlEmanTV.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="Yemen",Al Eman TV
+#EXTINF:-1 tvg-id="AlEmanTV.ye@SD" tvg-logo="https://pbs.twimg.com/profile_images/1476921500980629507/pKz-b470_400x400.jpg" group-title="Yemen",Al Eman TV
 http://crystalott.net:80/live/TarekDubai/ERIVZPADVD/10377.ts
-#EXTINF:-1 tvg-id="YemenEducationTV.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="Yemen",Yemen Education TV
+#EXTINF:-1 tvg-id="YemenEducationTV.ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yemen_education_tv_ye.png" group-title="Yemen",Yemen Education TV
 http://1009-2026.world:8089/live/4176753645984/8207019373015/85676630.ts
-#EXTINF:-1 tvg-id="AlMasirahTV.ye@SD" tvg-logo="https://i.imgur.com/UVndAta.png" group-title="Yemen",Al Masirah TV
+#EXTINF:-1 tvg-id="AlMasirahTV.ye@SD" tvg-logo="https://cdn-radiotime-logos.tunein.com/s279946g.png" group-title="Yemen",Al Masirah TV
 http://1009-2026.world:8089/live/4176753645984/8207019373015/85676642.ts
 
 #EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1080p)
