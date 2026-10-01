@@ -131,58 +131,48 @@ https://hls.iranfarda.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SimayeAzadi.uk@SD" tvg-logo="https://i.imgur.com/yXcczMq.png" group-title="Iran",Simaye Azadi (1080p)
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u833/217578005705/413664
 
-#EXTINF:-1,IQ | AR:   Al Rabiaa Iraq
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675805.ts
-#EXTINF:-1,IQ | AR:   UTV Iraq HD
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675806.ts
-#EXTINF:-1,IQ | AR:   OWS TV
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675807.ts
-#EXTINF:-1,IQ | AR:   Al Sharqiya HD
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675808.ts
-#EXTINF:-1,IQ | AR:   Iraq Future TV
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675812.ts
-#EXTINF:-1,IQ | AR:   Iraqia Turkuman
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675813.ts
-#EXTINF:-1,IQ | AR:   Al Hurra HD
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675815.ts
-#EXTINF:-1,IQ | AR:   Al Ahd Iraq TV
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675816.ts
-#EXTINF:-1,IQ | AR:   Iraqi Education
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675817.ts
-#EXTINF:-1,IQ | AR:   ANB Iraq
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675818.ts
-#EXTINF:-1,IQ | AR:   Karbala TV
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675819.ts
-#EXTINF:-1,IQ | AR:   Al Forat TV
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675824.ts
-#EXTINF:-1,IQ | AR:   Al Baghdadia TV
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675825.ts
-#EXTINF:-1,IQ | AR:   Al Rasheed TV
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675827.ts
-#EXTINF:-1,IQ | AR:   Al Rafidain TV
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675828.ts
-#EXTINF:-1,IQ | AR:   Al Qamar
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675830.ts
-#EXTINF:-1,IQ | AR:   Salahaden TV
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675835.ts
-#EXTINF:-1,IQ | AR:   Al Etejah TV
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675842.ts
-#EXTINF:-1,IQ | AR:   Al Awhad TV
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675843.ts
-#EXTINF:-1,IQ | AR:   Altaghier
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675844.ts
-#EXTINF:-1,IQ | AR:   Al Anwar 1
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675845.ts
-#EXTINF:-1,IQ | AR:   Al Anwar 2
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675850.ts
-#EXTINF:-1,IQ | AR:   Al Ghadeer TV
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675859.ts
-#EXTINF:-1,IQ | AR:   Diwan TV
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85675860.ts
-#EXTINF:-1,IQ | AR:  Afaq
-http://1009-2026.world:8089/live/4176753645984/8207019373015/8939.ts
-#EXTINF:-1,IQ | AR:  Al Sumaria TV
-http://1009-2026.world:8089/live/4176753645984/8207019373015/8930.ts
+#EXTINF:-1 tvg-id="" tvg-name="IRQ : MBC IRAQ 4K" tvg-logo="http://go4.pw/MBCGROUP/MBCIRAQ-1.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ : MBC IRAQ 4K
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544193
+#EXTINF:-1 tvg-id="" tvg-name="IRQ.AL SHARQIYA HD" tvg-logo="" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.AL SHARQIYA HD
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544194
+#EXTINF:-1 tvg-id="" tvg-name="IRQ.AL SHARQIYA FHD" tvg-logo="http://go4.pw/ASIA/IRAQ/ALSHARQIANEWSHD.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.AL SHARQIYA FHD
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544195
+#EXTINF:-1 tvg-id="" tvg-name="IRQ: AL SHARQIYA NEWS" tvg-logo="http://go4.pw/ASIA/IRAQ/ALSHARQIANEWSHD.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ: AL SHARQIYA NEWS
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544196
+#EXTINF:-1 tvg-id="" tvg-name="IRQ: AL SHARQIYA NEWS FHD" tvg-logo="http://go4.pw/ASIA/IRAQ/ALSHARQIANEWSHD.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ: AL SHARQIYA NEWS FHD
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544197
+#EXTINF:-1 tvg-id="" tvg-name="IRQ : ALJANOUBIA IRAQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPrD2rM0BLOu8wG8F3DxrkeASGvl8ABXHXmiSjhvSzhg&s" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ : ALJANOUBIA IRAQ
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544198
+#EXTINF:-1 tvg-id="" tvg-name="IRQ: Albaghdadiya" tvg-logo="http://go4.pw/ASIA/IRAQ/ALBAGHDADIYA.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ: Albaghdadiya
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544199
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IRQ : ANB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3k7ILV1mrdZcVu4DS2hD8fFxUVlHZOgryynonsDjr&s" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ : ANB
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544200
+#EXTINF:-1 tvg-id="" tvg-name="IRQ : IRAQIA NEWS" tvg-logo="http://go4.pw/ASIA/IRAQ/ALIRAQIASPORT.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ : IRAQIA NEWS
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544212
+#EXTINF:-1 tvg-id="" tvg-name="IRQ.Iraqia News HD" tvg-logo="http://go4.pw/ASIA/IRAQ/ALIRAQIASPORT.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.Iraqia News HD
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544213
+#EXTINF:-1 tvg-id="" tvg-name="IRQ.AL ANWAR" tvg-logo="http://go4.pw/ASIA/IRAQ/ALANWAR.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.AL ANWAR
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544218
+#EXTINF:-1 tvg-id="" tvg-name="IRQ.AL ANWAR 2" tvg-logo="http://go4.pw/ASIA/IRAQ/ALANWAR2.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.AL ANWAR 2
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544219
+#EXTINF:-1 tvg-id="" tvg-name="IRQ.AL AHED" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRofwhJBGUPmRtnxl6PqEFkORPHWR_w5Iupl-xQGonKpA&s" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.AL AHED
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544220
+#EXTINF:-1 tvg-id="" tvg-name="IRQ : Karbala TV" tvg-logo="http://go4.pw/ASIA/IRAQ/KARBALATV.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ : Karbala TV
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544221
+#EXTINF:-1 tvg-id="" tvg-name="IRQ.AL TAGHIER" tvg-logo="http://go4.pw/IRAQ/AL-TAGHIER.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.AL TAGHIER
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544223
+#EXTINF:-1 tvg-id="" tvg-name="IRQ.W.TV" tvg-logo="https://www.marefa.org/w/images/thumb/4/44/Wwtv.png/1200px-Wwtv.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.W.TV
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544224
+#EXTINF:-1 tvg-id="" tvg-name="IRQ.Al FALLUJA" tvg-logo="http://go4.pw/ASIA/IRAQ/ALFALOUJA.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.Al FALLUJA
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544225
+#EXTINF:-1 tvg-id="" tvg-name="IRQ.HONA BAGHDAD" tvg-logo="http://go4.pw/ASIA/IRAQ/HONABAGHDAD.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.HONA BAGHDAD
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544226
+#EXTINF:-1 tvg-id="" tvg-name="IRQ.AL FORAT TV" tvg-logo="http://go4.pw/ASIA/IRAQ/ALFORATTV.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.AL FORAT TV
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544227
+#EXTINF:-1 tvg-id="" tvg-name="IRQ.ALGHADEER" tvg-logo="http://go4.pw/ASIA/IRAQ/ALGHADEER.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.ALGHADEER
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544232
 
 #EXTINF:-1 tvg-id="" tvg-name="Om: Oman TV Culture" tvg-logo="http://tv.asc.vg/oman.culture.om.png" group-title="OMAN",Om: Oman TV Culture
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
@@ -246,8 +236,12 @@ https://aloula-redirect.vercel.app/17/playlist.m3u8
 https://aloula-redirect.vercel.app/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MakkahTV.sa@SD" tvg-logo="https://i.ibb.co/r2k71w5N/download.png" group-title="Saudi Arabia",Makkah TV (576p)
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-id="Maraya.sa@HD" tvg-logo="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png" group-title="Saudi Arabia",Maraya (1080p)
-https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALWAQIE TV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12969.png?ver=49458" group-title="Saudi Arabia",AR: ALWAQIE TV 4K
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/337840
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALMERGAB TV" tvg-logo="https://i.ibb.co/27WRvzTs/337839-ar-almergab-tv.png" group-title="Saudi Arabia",AR: ALMERGAB TV
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/337839
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALWESAM TV" tvg-logo="https://i.ibb.co/ksG4bbYr/337838-ar-alwesam-tv.png" group-title="Saudi Arabia",AR: ALWESAM TV
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/337838
 
 #EXTINF:-1 tvg-id="AdenTV1.ye@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4sW6Jt-0UDCgSDZi3NGkdQo4EVJR22fLdHui5-KrVM90r6LgN2n6IOZY&s=10" group-title="Yemen",Aden TV Hothia
 http://asmr4k.pro:8080/67389201934/0572884955/440762
@@ -262,17 +256,17 @@ http://bbangwbv.supraf.xyz:80/live/ValonVishaj/B7N632U/586.ts
 #EXTINF:-1 tvg-id="SuhailTV.ye@SD" tvg-logo="https://alasimahonline.com/upimages/news/Alasimahonline2021-03-25-530264.jpg" group-title="Yemen", Suhail TV
 http://bbangwbv.supraf.xyz:80/live/ValonVishaj/B7N632U/309484.ts
 #EXTINF:-1 tvg-id="HadhramautTV.ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hadhramaut-tv-ye.png" group-title="Yemen",Hadramaut TV
-
+http://dana8kone.com:8080/live/Sbhanmansor/01g2f8070/301304.ts
 #EXTINF:-1 tvg-id="YemenTodayTV.ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yemen-today-tv-ye.png" group-title="Yemen",Yemen Today TV
-
+http://dana8kone.com:8080/live/Sbhanmansor/01g2f8070/301296.ts
 #EXTINF:-1 tvg-id="YemenTodayHothia.ye@SD" tvg-logo="https://sabanew.net/image-resizer/w850/upload/thumbs/151249011961278000.jpg" group-title="Yemen",Yemen Today Hothia
 http://crystalott.net:80/live/TarekDubai/ERIVZPADVD/10382.ts
 #EXTINF:-1 tvg-id="AlJunoubAlYoum.ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-janoub-al-youm.png" group-title="Yemen",Al Junoub Youm TV
 https://customer-h6nlsim38t0xocdo.cloudflarestream.com/9d3f1954fb91f9ecd1ba475dc0f154d7/manifest/video.m3u8
 #EXTINF:-1 tvg-id="AICTV.ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aic-tv-ye.png" group-title="Yemen",AIC TV
-
+http://dana8kone.com:8080/live/Sbhanmansor/01g2f8070/301321.ts
 #EXTINF:-1 tvg-id="AlSaeedah.Ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-saeedah-eg.png" group-title="Yemen",Al  Saeedah TV
-
+http://dana8kone.com:8080/live/Sbhanmansor/01g2f8070/301311.ts
 #EXTINF:-1 tvg-id="AlerthTV.ye@SD" tvg-logo=" " group-title="Yemen",Al Erth TV
 http://1009-2026.world:8089/live/4176753645984/8207019373015/85676645.ts
 #EXTINF:-1 tvg-id="ShebaTV.ye@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBt9xKVxPihBqoHYx0GjGpLa3RzR6yX3b7s67ANStTKw&s" group-title="Yemen",Sheba TV
@@ -286,15 +280,8 @@ http://1009-2026.world:8089/live/4176753645984/8207019373015/85676642.ts
 #EXTINF:-1 tvg-id="AlHawyahTV.ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-hawyah-ye.png" group-title="Yemen",Al Hawyah TV
 http://1009-2026.world:8089/live/4176753645984/8207019373015/85676647.ts
 #EXTINF:-1 tvg-id="AlLahdahTV.ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/allahdhah-tv-ye.png" group-title="Yemen",Al Lahdah TV
-http://1009-2026.world:8089/live/4176753645984/8207019373015/85676648.ts
+http://dana8kone.com:8080/live/Sbhanmansor/01g2f8070/301316.ts
 
-
-#EXTINF:-1 tvg-id="UniversalTV.so@SD" tvg-logo=" " group-title="Somalia",Universal TV (576p)
-http://crystalott.net:80/live/TarekDubai/ERIVZPADVD/96616.ts
-#EXTINF:-1 tvg-id="KalsanTV.uk@SD" tvg-logo="https://i.imgur.com/AqyY1bR.png" group-title="Somalia",Kalsan TV (576p)
-https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
-#EXTINF:-1 tvg-id="SomaliNationalTV.so@SD" tvg-logo="https://i.imgur.com/2y8gv7V.png" group-title="Somalia",Somali National TV (576p)
-http://crystalott.net:80/live/TarekDubai/ERIVZPADVD/10181.ts
 
 #EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1080p)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
