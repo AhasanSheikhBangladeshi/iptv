@@ -331,6 +331,16 @@ http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301473
 #EXTINF:-1 tvg-id="" tvg-name="AR: AWDEH 4K" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/PALASTINE%20/AWDEH%204K.png" group-title="AR  | PALESTINE ◉ فـلـسـطـيـن",AR: AWDEH 4K
 http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301472
 
+#EXTINF:-1 tvg-id="" tvg-name="AR: JORDAN HD" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/JORDON/jordan-tv-jo.png" group-title="AR  | JORDAN ◉ الأردن",AR: JORDAN HD
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301438
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALMAMLAKA 4K" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/JORDON/al-mamlaka-tv-jo.png" group-title="AR  | JORDAN ◉ الأردن",AR: ALMAMLAKA 4K
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301441
+#EXTINF:-1 tvg-id="" tvg-name="AR: AMMAN TV" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/JORDON/AMMAN-TV.PNG" group-title="AR  | JORDAN ◉ الأردن",AR: AMMAN TV
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301440
+#EXTINF:-1 tvg-id="" tvg-name="AR: ROYA 4K" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/JORDON/ROYA-4K.PNG" group-title="AR  | JORDAN ◉ الأردن",AR: ROYA 4K
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301444
+#EXTINF:-1 tvg-id="" tvg-name="AR: YARMOUK TV" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/JORDON/YARMOUK.PNG" group-title="AR  | JORDAN ◉ الأردن",AR: YARMOUK TV
+http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301443
 
 #EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1080p)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
