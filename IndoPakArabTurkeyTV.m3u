@@ -285,6 +285,8 @@ http://dana8kone.com:8080/live/Sbhanmansor/01g2f8070/301311.ts
 http://1009-2026.world:8089/live/4176753645984/8207019373015/85676645.ts
 #EXTINF:-1 tvg-id="ShebaTV.ye@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBt9xKVxPihBqoHYx0GjGpLa3RzR6yX3b7s67ANStTKw&s" group-title="Yemen",Sheba TV
 http://crystalott.net:80/live/TarekDubai/ERIVZPADVD/10383.ts
+#EXTINF:-1 tvg-id="Yementv2.ye@SD" tvg-logo=" " group-title="Yemen",Yemen TV 2
+https://meyon.com.ye/static/streaming-playlists/hls/b77b5b7a-4767-4317-b139-5e32b46fd7d3/master.m3u8
 #EXTINF:-1 tvg-id="AlEmanTV.ye@SD" tvg-logo="https://pbs.twimg.com/profile_images/1476921500980629507/pKz-b470_400x400.jpg" group-title="Yemen",Al Eman TV
 http://crystalott.net:80/live/TarekDubai/ERIVZPADVD/10377.ts
 #EXTINF:-1 tvg-id="YemenEducationTV.ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/yy/yemen_education_tv_ye.png" group-title="Yemen",Yemen Education TV
