@@ -1,8 +1,12 @@
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GdTIOJgWg5_BCr3ZDvEzBOMt6gt0QoybcQ&usqp=CAU"group-title="Bangla",BTV News
-#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
-https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GdTIOJgWg5_BCr3ZDvEzBOMt6gt0QoybcQ&usqp=CAU"group-title="Bangladesh & General",BTV News
+https://go.skym3u.dev/live/6c796/1b150d30105557104857524c07011a482f0a150f6d000719514446484c181c01472501125724061957514f54574c0240061463000a002d501a565b4f55.m3u8?s=32bd&id=4cxy.m3u
+#EXTINF:-1 tvg-id="channel24.bd" tvg-name="Channel 24" tvg-logo="https://s3.aynaott.com/storage/129b0d0a02566999a0c164cd7d506e55" group-title="Bangladesh & General",Channel 24 News
+https://go.skym3u.dev/live/6c796/1b150d30105557104e514f541702435a281d4f1e30000b16114446504d031a05496f1009182e0d0a146018177b030d015c452e1704016e0e5c0d0709504f1b02400602241617.m3u8?s=32bd&id=4cxy.m3u
+#EXTINF:-1 tvg-id="jamunatv.bd" tvg-name="Jamuna TV" tvg-logo="https://s3.aynaott.com/storage/aac6488b68844e5756ab46eb79659de8" group-title="Bangladesh & General",Jamuna TV
+https://go.skym3u.dev/live/6c796/1b150d30105557104353501442030143380a4f18280e0a1c124847090d1d145d5b2f010a1c3210411c5a5c0c4e0302061d4d6d071756290d0b1d47044e171757500047391e520c6e070a0e.m3u8?s=32bd&id=4cxy.m3u
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA TV Afghan
 https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1-avc1_1000000=10000.m3u8
 #EXTINF:-1 tvg-id="RTANews.af",RTA News (1080p)
