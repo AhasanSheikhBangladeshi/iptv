@@ -1,5 +1,8 @@
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GdTIOJgWg5_BCr3ZDvEzBOMt6gt0QoybcQ&usqp=CAU"group-title="Bangla",BTV News
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA TV Afghan
 https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1-avc1_1000000=10000.m3u8
 #EXTINF:-1 tvg-id="RTANews.af",RTA News (1080p)
@@ -52,6 +55,8 @@ https://customer-h6nlsim38t0xocdo.cloudflarestream.com/ed483a974c7ccc6274e7776b7
 https://live.yementv.tv/memfs/c79810a8-85f6-414f-980b-0ae14ad5228d.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Yemen Saba Tv" tvg-logo="" group-title="General",Yemen Saba TV
 https://sabatv.net/live/saba.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Yemen Hadhramaut Tv" tvg-logo="" group-title="General",Yemen Hadhramaut TV
+https://usher.ttvnw.net/api/channel/hls/hadramout1.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiNzZhYzI4MWEtOTk3NC00NjdkLWJmMzAtYmEyZWE4MWVlYzQ3IiwiQ2xpZW50QXBwIjoidHdpbGlnaHQiLCJVUkwiOiJodHRwczovL3BsYXllci50d2l0Y2gudHYvIn0%3D&allow_source=true&browser_family=chrome&browser_version=154.0&cdm=wv&device_model=V2120&enable_score=true&fast_bread=true&include_unavailable=true&lang=en&os_name=Android&os_version=12&p=4897279&parent_domains=twitchplayer&platform=androidtv_web_tv&play_session_id=c4e8b60d415e4322b20c0f002c942f65&player_backend=mediaplayer&player_version=1.57.0-rc.2&playlist_include_framerate=true&reassignments_supported=true&sig=7cb132ceccf22047d61865b528d0c18648951df5&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22hadramout1%22%2C%22channel_id%22%3A743030529%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22fe2d3961fec35770%22%2C%22expires%22%3A1791816239%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22106.0.55.138%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_GEO%22%2C%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_GEO%22%2C%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
 #EXTINF:0 tvg-id="" tvg-name="Al Mahriah Tv" tvg-logo="" group-title="General",Al Mahriah TV
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1,tvg-logo="http://www.arirang.com/images/index/arirang.png" group-title="General",Arirang Korea
