@@ -6,9 +6,11 @@ https://go.skym3u.dev/live/6c796/1b150d30105557104857524c07011a482f0a150f6d00071
 https://go.skym3u.dev/live/6c796/1b150d30105557104e514f541702435a281d4f1e30000b16114446504d031a05496f1009182e0d0a146018177b030d015c452e1704016e0e5c0d0709504f1b02400602241617.m3u8?s=32bd&id=4cxy.m3u
 #EXTINF:-1 tvg-id="jamunatv.bd" tvg-name="Jamuna TV" tvg-logo="https://s3.aynaott.com/storage/aac6488b68844e5756ab46eb79659de8" group-title="Bangladesh & General",Jamuna TV
 https://go.skym3u.dev/live/6c796/1b150d30105557104353501442030143380a4f18280e0a1c124847090d1d145d5b2f010a1c3210411c5a5c0c4e0302061d4d6d071756290d0b1d47044e171757500047391e520c6e070a0e.m3u8?s=32bd&id=4cxy.m3u
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-1.png?ref=skym3u.dev" provider="skym3u.dev",Channel 1
+#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/somoy-tv.png?ref=skym3u.dev" group-title="Bangladesh & General",Somoy TV
+https://go.skym3u.dev/live/6c796/1b150d30105557104e514f541702435a281d4f1e30000b16114446504d031a05496f000e142f1a300c4975424610401a1d48250b4f147316575b4c415a49511a5d174936.m3u8?s=32bd&id=4cxy.m3u
+#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-1.png?ref=skym3u.dev" group-title="Bangladesh & General",Channel 1
 https://go.skym3u.dev/live/6c796/1b150d30105557104e514f541702435a281d4f1e30000b16114446504d031a05496f1009182e0d0a14601b7c4c063012115e6f1a0f1d251b41150c5f1b0711040a1e1f355d051c36.m3u8?s=32bd&id=4cxy.m3u
-#EXTINF:-1 tvg-name="Channel 16" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-16.png?ref=skym3u.dev" provider="skym3u.dev",Channel 16
+#EXTINF:-1 tvg-name="Channel 16" tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-16.png?ref=skym3u.dev" group-title="Bangladesh & General",Channel 16
 https://go.skym3u.dev/live/6c796/1b150d305940575e5a5316564119124b2f110557230c02565d4e0c4751390a1741160a394112130d3d6a136e4d5a173d0a14393e273d0526273f5c4c7143183e453d780114053c2f020a3e4548651d5036240b651a272e4915530a02711b6a5e2f1615054f0517123c26062b1d74436d4f34214023780f1e053f3306382a4b4b7411530e1a23442e233530724c0c105e444d410e5e4511486e00150b250202574b584247091c5e051d21424e142f0d00565219561c411c180a4173064f1d2515.m3u8?s=32bd&id=4cxy.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9O8smRc.png" group-title="AFGHANISTAN",RTA TV Afghan
