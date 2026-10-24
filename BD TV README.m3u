@@ -66,7 +66,7 @@ https://live.yementv.tv/memfs/c79810a8-85f6-414f-980b-0ae14ad5228d.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Yemen Saba Tv" tvg-logo="" group-title="General",Yemen Saba TV
 https://sabatv.net/live/saba.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Yemen Hadhramaut Tv" tvg-logo="" group-title="General",Yemen Hadhramaut TV
-https://usher.ttvnw.net/api/channel/hls/hadramout1.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiM2I5NDdkZWUtOTM4Mi00NzFmLTgzYzUtYWZlZDc2NjUwMTlmIiwiQ2xpZW50QXBwIjoidHdpbGlnaHQiLCJVUkwiOiJodHRwczovL3BsYXllci50d2l0Y2gudHYvIn0%3D&allow_source=true&browser_family=chrome&browser_version=155.0&cdm=wv&device_model=V2120&enable_score=true&fast_bread=true&include_unavailable=true&lang=en&os_name=Android&os_version=12&p=9237088&parent_domains=twitchplayer&platform=androidtv_web_tv&play_session_id=54117d1fb32449b48ef504785980c3b6&player_backend=mediaplayer&player_version=1.58.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=163f8e883a66ecbe5e5fac95e241d6274239b6be&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22hadramout1%22%2C%22channel_id%22%3A743030529%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22fe2d3961fec35770%22%2C%22expires%22%3A1792268778%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22103.72.137.113%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_GEO%22%2C%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_GEO%22%2C%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
+http://cdnten.com:8080/live/391127133096/633622290793/9504.ts
 #EXTINF:0 tvg-id="" tvg-name="Al Mahriah Tv" tvg-logo="" group-title="General",Al Mahriah TV
 https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1,tvg-logo="http://www.arirang.com/images/index/arirang.png" group-title="General",Arirang Korea
@@ -87,9 +87,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index_3.m3u8
 #EXTINF:-1 tvg-id="DDMalayalam.in@SD" tvg-logo="https://i.postimg.cc/BZjmjJJs/DD-Malayalam.png" group-title="India",DD Malayalam (576p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index_3.m3u8
-#EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_TAMIL/images/LOGO_HD/image.png" group-title="India",DD Tamil (1080p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index_6.m3u8
-#EXTINF:1 tvg-id="" tvg-name="Zee Salaam "  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Salaam_2017.jpg" group-title="India-pakistani",Zee Salaam
+#EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.inaam_2017.jpg" group-title="India-pakistani",Zee Salaam
 https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1029591304936804357/roi5qldX_400x400.jpg" group-title="News",Samaa News TV
 http://bes5.alphatx.me/live/2cb7cafc1a/4dc367b458/281147.ts 
