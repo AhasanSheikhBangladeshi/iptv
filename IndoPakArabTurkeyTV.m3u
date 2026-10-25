@@ -131,60 +131,56 @@ https://hls.iranfarda.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SimayeAzadi.uk@SD" tvg-logo="https://i.imgur.com/yXcczMq.png" group-title="Iran",Simaye Azadi (1080p)
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u833/217578005705/413664
 
-#EXTINF:-1 tvg-id="" tvg-name="IRQ : MBC IRAQ 4K" tvg-logo="http://go4.pw/MBCGROUP/MBCIRAQ-1.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ : MBC IRAQ 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544193
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.AL SHARQIYA HD" tvg-logo="" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.AL SHARQIYA HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544194
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.AL SHARQIYA FHD" tvg-logo="http://go4.pw/ASIA/IRAQ/ALSHARQIANEWSHD.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.AL SHARQIYA FHD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544195
-#EXTINF:-1 tvg-id="" tvg-name="IRQ: AL SHARQIYA NEWS" tvg-logo="http://go4.pw/ASIA/IRAQ/ALSHARQIANEWSHD.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ: AL SHARQIYA NEWS
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544196
-#EXTINF:-1 tvg-id="" tvg-name="IRQ: AL SHARQIYA NEWS FHD" tvg-logo="http://go4.pw/ASIA/IRAQ/ALSHARQIANEWSHD.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ: AL SHARQIYA NEWS FHD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544197
-#EXTINF:-1 tvg-id="" tvg-name="IRQ : ALJANOUBIA IRAQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPrD2rM0BLOu8wG8F3DxrkeASGvl8ABXHXmiSjhvSzhg&s" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ : ALJANOUBIA IRAQ
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544198
-#EXTINF:-1 tvg-id="" tvg-name="IRQ: Albaghdadiya" tvg-logo="http://go4.pw/ASIA/IRAQ/ALBAGHDADIYA.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ: Albaghdadiya
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544199
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IRQ : ANB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3k7ILV1mrdZcVu4DS2hD8fFxUVlHZOgryynonsDjr&s" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ : ANB
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544200
-#EXTINF:-1 tvg-id="" tvg-name="IRQ : IRAQIA NEWS" tvg-logo="http://go4.pw/ASIA/IRAQ/ALIRAQIASPORT.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ : IRAQIA NEWS
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544212
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.Iraqia News HD" tvg-logo="http://go4.pw/ASIA/IRAQ/ALIRAQIASPORT.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.Iraqia News HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544213
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.IRAQIA TURKUMAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag-map_of_Iraq.svg/1046px-Flag-map_of_Iraq.svg.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.IRAQIA TURKUMAN
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544267
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.Iraqia Syriac" tvg-logo="http://go4.pw/ASIA/IRAQ/iraqia-syriac.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.Iraqia Syriac
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544268
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.Iraqia Sport HD" tvg-logo="http://go4.pw/ASIA/IRAQ/ALIRAQIASPORT.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.Iraqia Sport HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544269
-#EXTINF:-1 tvg-id="" tvg-name="AR: IRAQIA ENTERTAIMENT 4K" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/AFRICANENTERTAIMENT.png" group-title="AR  | IRAQ⁴ᴷ ◉ الــــــعــــــراق",AR: IRAQIA ENTERTAIMENT 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265566
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.AL ANWAR" tvg-logo="http://go4.pw/ASIA/IRAQ/ALANWAR.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.AL ANWAR
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544218
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.AL ANWAR 2" tvg-logo="http://go4.pw/ASIA/IRAQ/ALANWAR2.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.AL ANWAR 2
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544219
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.AL AHED" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRofwhJBGUPmRtnxl6PqEFkORPHWR_w5Iupl-xQGonKpA&s" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.AL AHED
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544220
-#EXTINF:-1 tvg-id="" tvg-name="IRQ : Karbala TV" tvg-logo="http://go4.pw/ASIA/IRAQ/KARBALATV.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ : Karbala TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544221
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.AL TAGHIER" tvg-logo="http://go4.pw/IRAQ/AL-TAGHIER.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.AL TAGHIER
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544223
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.W.TV" tvg-logo="https://www.marefa.org/w/images/thumb/4/44/Wwtv.png/1200px-Wwtv.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.W.TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544224
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.Al FALLUJA" tvg-logo="http://go4.pw/ASIA/IRAQ/ALFALOUJA.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.Al FALLUJA
-http://dana8kone.com:8080/live/Sbhanmansor/01g2f8070/265549.ts
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.HONA BAGHDAD" tvg-logo="http://go4.pw/ASIA/IRAQ/HONABAGHDAD.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.HONA BAGHDAD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544226
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.AL FORAT TV" tvg-logo="http://go4.pw/ASIA/IRAQ/ALFORATTV.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.AL FORAT TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544227
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.ALGHADEER" tvg-logo="http://go4.pw/ASIA/IRAQ/ALGHADEER.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.ALGHADEER
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544232
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.AL MAWSLEYA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag-map_of_Iraq.svg/1046px-Flag-map_of_Iraq.svg.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.AL MAWSLEYA
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544277
-#EXTINF:-1 tvg-id="" tvg-name="IRQ.AL RASHEED" tvg-logo="http://go4.pw/ASIA/IRAQ/ALRASHEEDTV.png" group-title="AR | IRAQ⁴ᴷ ◉ الــــــعــــــراق 2",IRQ.AL RASHEED
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/544278
+#EXTINF:-1 tvg-id="" tvg-name="Al Rabiaa Iraq HD" tvg-logo="https://i.ibb.co/rcqk5t9/download.png" group-title="IRAQ",Al Rabiaa Iraq HD
+http://portal.alliptvapp.com:8080/391127133096/633622290793/47150
+#EXTINF:-1 tvg-id="Iraq 24 HD" tvg-name="Iraq 24 News HD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iraq-24.png" group-title="IRAQ",Iraq 24 News HD
+http://portal.alliptvapp.com:8080/391127133096/633622290793/7768
+#EXTINF:-1 tvg-id="" tvg-name="i News TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inews-iq.png" group-title="IRAQ",i News TV HD
+http://portal.alliptvapp.com:8080/391127133096/633622290793/72710
+#EXTINF:-1 tvg-id="" tvg-name="i News TV SD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inews-iq.png" group-title="IRAQ",i News TV SD
+http://portal.alliptvapp.com:8080/391127133096/633622290793/25588
+#EXTINF:-1 tvg-id="Al Iraqiya News HD" tvg-name="AL IRAQIA NEWS FHD" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_al_iraqya_2.png" group-title="IRAQ",AL IRAQIA NEWS FHD
+http://portal.alliptvapp.com:8080/391127133096/633622290793/46528
+#EXTINF:-1 tvg-id="Al Iraqiya News HD" tvg-name="AL IRAQIA NEWS HD" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_al_iraqya_2.png" group-title="IRAQ",AL IRAQIA NEWS HD
+http://portal.alliptvapp.com:8080/391127133096/633622290793/457
+#EXTINF:-1 tvg-id="Al sharqiya News HD" tvg-name="AL SHARQIA NEWS HD" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_alsharqiya-news-ae.png" group-title="IRAQ",AL SHARQIA NEWS HD
+http://portal.alliptvapp.com:8080/391127133096/633622290793/456
+#EXTINF:-1 tvg-id="丕賱卮乇賯賷丞" tvg-name="AL SHARQIYA HD" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_alsharqiya-tv-ae.png" group-title="IRAQ",AL SHARQIYA HD
+http://portal.alliptvapp.com:8080/391127133096/633622290793/458
+#EXTINF:-1 tvg-id="丕賱毓乇丕賯賷丞" tvg-name="AL IRAQIA HD" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_al_iraqya_2.png" group-title="IRAQ",AL IRAQIA HD
+http://portal.alliptvapp.com:8080/391127133096/633622290793/459
+#EXTINF:-1 tvg-id="Al Baghdadia Now" tvg-name="Al Baghdadiah HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/albaghdadia-iq.png" group-title="IRAQ",Al Baghdadiah HD
+http://portal.alliptvapp.com:8080/391127133096/633622290793/7765
+#EXTINF:-1 tvg-id="丕賱乇卮賷丿" tvg-name="AL RASHEED HD" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_al_rasheed_tv.png" group-title="IRAQ",AL RASHEED HD
+http://portal.alliptvapp.com:8080/391127133096/633622290793/461
+#EXTINF:-1 tvg-id="Al Fallujah TV" tvg-name="Al Fallujah TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_al_fallujah_tv_iq.png" group-title="IRAQ",Al Fallujah TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/468
+#EXTINF:-1 tvg-id="丕賱爻賵賲乇賷丞" tvg-name="AL SUMARIA TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_al_sumaria.png" group-title="IRAQ",AL SUMARIA TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/471
+#EXTINF:-1 tvg-id="Dijlah TV" tvg-name="DIJLAH TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_dd_dijlah_tv_iq.png" group-title="IRAQ",DIJLAH TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/464
+#EXTINF:-1 tvg-id="Dijlah Zaman" tvg-name="DIJLAH ZAMAN TV" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/zaman.png" group-title="IRAQ",DIJLAH ZAMAN TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/67540
+#EXTINF:-1 tvg-id="" tvg-name="Al Mawsleya TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84%D9%8A%D8%A9.jpg/250px-%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84%D9%8A%D8%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="IRAQ",Al Mawsleya TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/467
+#EXTINF:-1 tvg-id="Hona Baghdad TV" tvg-name="HONA BAGHDAD" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_hh_hona-baghdad-satellite-channel-iq.png" group-title="IRAQ",HONA BAGHDAD
+http://portal.alliptvapp.com:8080/391127133096/633622290793/465
+#EXTINF:-1 tvg-id="Alghadeer TV" tvg-name="Alghadeer TV" tvg-logo="https://alghadeertv.iq/wp-content/uploads/2023/06/273004456_108377488421433_644848522691506410_n-Copy.png" group-title="IRAQ",Alghadeer TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/479
+#EXTINF:-1 tvg-id="Altaghier TV HD" tvg-name="Al Taghayer TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_al-nujaba-tv-iq.png" group-title="IRAQ",Al Taghayer TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/486
+#EXTINF:-1 tvg-id="" tvg-name="Salah Alddin TV" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/01/salahalddin-tv-iq.jpg" group-title="IRAQ",Salah Alddin TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/7782
+#EXTINF:-1 tvg-id="" tvg-name="IRAQ FUTURE" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_ii_iraq_now_iq.png" group-title="IRAQ",IRAQ FUTURE
+http://portal.alliptvapp.com:8080/391127133096/633622290793/7763
+#EXTINF:-1 tvg-id="" tvg-name="Al Awhad TV." tvg-logo="https://i.imgur.com/VLbg3uQ.png" group-title="IRAQ",Al Awhad TV.
+http://portal.alliptvapp.com:8080/391127133096/633622290793/472
+#EXTINF:-1 tvg-id="" tvg-name="AL FORAT TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_alforat_iq_news.png" group-title="IRAQ",AL FORAT TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/473
+#EXTINF:-1 tvg-id="" tvg-name="Al Wilayah TV" tvg-logo="https://shiachannel.in/livetv/img/channels/wilayah-tv.jpg" group-title="IRAQ",Al Wilayah TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/47151
+#EXTINF:-1 tvg-id="" tvg-name="AL ANBAR TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_alanbar-satellite-channel-iq.png" group-title="IRAQ",AL ANBAR TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/469
 
 #EXTINF:-1 tvg-id="" tvg-name="Om: Oman TV Culture" tvg-logo="http://tv.asc.vg/oman.culture.om.png" group-title="OMAN",Om: Oman TV Culture
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
