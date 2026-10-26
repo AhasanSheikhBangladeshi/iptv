@@ -143,6 +143,12 @@ http://portal.alliptvapp.com:8080/391127133096/633622290793/25588
 http://portal.alliptvapp.com:8080/391127133096/633622290793/46528
 #EXTINF:-1 tvg-id="Al Iraqiya News HD" tvg-name="AL IRAQIA NEWS HD" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_al_iraqya_2.png" group-title="IRAQ",AL IRAQIA NEWS HD
 http://portal.alliptvapp.com:8080/391127133096/633622290793/457
+#EXTINF:-1 tvg-id="Al Iraqiya Kurd" tvg-name="Iraqia Kurdish TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_al-iraqiya-news-iq.png" group-title="IRAQ",Iraqia Kurdish TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/4569
+#EXTINF:-1 tvg-id="" tvg-name="Alhujja TV" tvg-logo="https://i.imgur.com/UeWAG30.png" group-title="IRAQ",Alhujja TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/47153
+#EXTINF:-1 tvg-id="" tvg-name="Al Eshraq TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_eshraq_tv_iq.png" group-title="IRAQ",Al Eshraq TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/50484
 #EXTINF:-1 tvg-id="Al sharqiya News HD" tvg-name="AL SHARQIA NEWS HD" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_alsharqiya-news-ae.png" group-title="IRAQ",AL SHARQIA NEWS HD
 http://portal.alliptvapp.com:8080/391127133096/633622290793/456
 #EXTINF:-1 tvg-id="丕賱卮乇賯賷丞" tvg-name="AL SHARQIYA HD" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_alsharqiya-tv-ae.png" group-title="IRAQ",AL SHARQIYA HD
@@ -181,7 +187,20 @@ http://portal.alliptvapp.com:8080/391127133096/633622290793/473
 http://portal.alliptvapp.com:8080/391127133096/633622290793/47151
 #EXTINF:-1 tvg-id="" tvg-name="AL ANBAR TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_alanbar-satellite-channel-iq.png" group-title="IRAQ",AL ANBAR TV
 http://portal.alliptvapp.com:8080/391127133096/633622290793/469
-
+#EXTINF:-1 tvg-id="" tvg-name="Afaq TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_afaq_tv.png" group-title="IRAQ",Afaq TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/478
+#EXTINF:-1 tvg-id="" tvg-name="Al Anwar 1 TV" tvg-logo="https://i.imgur.com/wVKyLYU.png" group-title="IRAQ",Al Anwar 1 TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/4566
+#EXTINF:-1 tvg-id="" tvg-name="Al Anwar 2 TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_alanwar_tv2.png" group-title="IRAQ",Al Anwar 2 TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/480
+#EXTINF:-1 tvg-id="" tvg-name="Al Taleaa TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_altalea-tv.png" group-title="IRAQ",Al Taleaa TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/7756
+#EXTINF:-1 tvg-id="" tvg-name="Al Shaayer TV" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/01/Alshaayer-TV.jpg" group-title="IRAQ",Al Shaayer TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/463
+#EXTINF:-1 tvg-id="" tvg-name="KARBALA TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/250px-Karbala_tv.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="IRAQ",KARBALA TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/476
+#EXTINF:-1 tvg-id="" tvg-name="KARBALA Quran TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Karbala_tv.jpg/250px-Karbala_tv.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="IRAQ",KARBALA Quran TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/4563
 #EXTINF:-1 tvg-id="" tvg-name="Om: Oman TV Culture" tvg-logo="http://tv.asc.vg/oman.culture.om.png" group-title="OMAN",Om: Oman TV Culture
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist_b2000000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Om: Oman TV General" tvg-logo="http://tv.asc.vg/oman.general.om.png" group-title="OMAN",Om: Oman TV General
@@ -244,12 +263,16 @@ https://aloula-redirect.vercel.app/17/playlist.m3u8
 https://aloula-redirect.vercel.app/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MakkahTV.sa@SD" tvg-logo="https://i.ibb.co/r2k71w5N/download.png" group-title="Saudi Arabia",Makkah TV (576p)
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALWAQIE TV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12969.png?ver=49458" group-title="Saudi Arabia",AR: ALWAQIE TV 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/337840
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALMERGAB TV" tvg-logo="https://i.ibb.co/27WRvzTs/337839-ar-almergab-tv.png" group-title="Saudi Arabia",AR: ALMERGAB TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/337839
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALWESAM TV" tvg-logo="https://i.ibb.co/ksG4bbYr/337838-ar-alwesam-tv.png" group-title="Saudi Arabia",AR: ALWESAM TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/337838
+#EXTINF:-1 tvg-id="" tvg-name="Al Khalij Saudi TV" tvg-logo="https://www.greattvbox.com/wp-content/uploads/2020/06/Alkhalij-tv-saudi-arabia.png" group-title="KSA",Al Khalij Saudi TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/545
+#EXTINF:-1 tvg-id="" tvg-name="KSA ALSAHRA TV" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_aa_al_sahraa_tv.png" group-title="KSA",KSA ALSAHRA TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/546
+#EXTINF:-1 tvg-id="" tvg-name="Al Wesam TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alwesam-tv-sa.png" group-title="KSA",Al Wesam TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/533
+#EXTINF:-1 tvg-id="saudisport1.sa" tvg-name="KSA Sport 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ksa-sports-1-sa.png" group-title="KSA",KSA Sport 1 HD
+http://portal.alliptvapp.com:8080/391127133096/633622290793/534
+#EXTINF:-1 tvg-id="" tvg-name="Al Waqe3 TV" tvg-logo="https://www.lyngsat.com/logo/tv/ww/waqie-tv-sa.png" group-title="KSA",Al Waqe3 TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/67641
 
 #EXTINF:-1 tvg-id="AdenTV1.ye@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4sW6Jt-0UDCgSDZi3NGkdQo4EVJR22fLdHui5-KrVM90r6LgN2n6IOZY&s=10" group-title="Yemen",Aden TV Hothia
 http://56317169.sleekbeen.com/live/P52Z96K7/20834582/2430.ts
@@ -294,165 +317,48 @@ http://1009-2026.world:8089/live/4176753645984/8207019373015/85676647.ts
 #EXTINF:-1 tvg-id="AlLahdahTV.ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/allahdhah-tv-ye.png" group-title="Yemen",Al Lahdah TV
 http://56317169.sleekbeen.com/live/P52Z96K7/20834582/2437.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA 2 HD" tvg-logo="https://i.postimg.cc/mrJrBdvw/24SYRIA.png" group-title="AR  | SYRIA ◉ سـوريا",AR: SYRIA 2 HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/282871
-#EXTINF:-1 tvg-id="" tvg-name="SY : ANA SYRIA 4K" tvg-logo="https://i.postimg.cc/4y2FfqSC/7jgh-ETLR.jpg" group-title="AR  | SYRIA ◉ سـوريا",SY : ANA SYRIA 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/457845
-#EXTINF:-1 tvg-id="" tvg-name="ANA SYRIA" tvg-logo="https://i.postimg.cc/4y2FfqSC/7jgh-ETLR.jpg" group-title="AR  | SYRIA ◉ سـوريا",ANA SYRIA
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/422694
-#EXTINF:-1 tvg-id="" tvg-name="SY :  ALSOURIYA TV 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Emblem_of_Syria_%282025%E2%80%93present%29.svg/2560px-Emblem_of_Syria_%282025%E2%80%93present%29.svg.png" group-title="AR  | SYRIA ◉ سـوريا",SY :  ALSOURIYA TV 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/457848
-#EXTINF:-1 tvg-id="" tvg-name="SY :  ALSOURIYA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Emblem_of_Syria_%282025%E2%80%93present%29.svg/2560px-Emblem_of_Syria_%282025%E2%80%93present%29.svg.png" group-title="AR  | SYRIA ◉ سـوريا",SY :  ALSOURIYA TV FHD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/457847
-#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA NEWS TV" tvg-logo="http://pic.apkdt.co/pic/Syria/NewsS.png" group-title="AR  | SYRIA ◉ سـوريا",AR: SYRIA NEWS TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/263641
-#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA NEWS 4K" tvg-logo="http://pic.apkdt.co/pic/Syria/NewsS.png" group-title="AR  | SYRIA ◉ سـوريا",AR: SYRIA NEWS 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/263642
-#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA HD" tvg-logo="http://pic.apkdt.co/pic/Syria/SriaFree.png" group-title="AR  | SYRIA ◉ سـوريا",AR: SYRIA HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/263648
-#EXTINF:-1 tvg-id="" tvg-name="AR: HALAB TODAY HD" tvg-logo="http://pic.apkdt.co/pic/Syria/HalabToday.png" group-title="AR  | SYRIA ◉ سـوريا",AR: HALAB TODAY HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/263646
-#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA MISK TV" tvg-logo="http://pic.apkdt.co/pic/MiddleEast/Syria/SYRIADRAMA24.png" group-title="AR  | SYRIA ◉ سـوريا",AR: SYRIA MISK TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/263650
-#EXTINF:-1 tvg-id="" tvg-name="AR: PALASTINE 4K" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/PALASTINE%20/palestinian-satellite-channel-ps.png" group-title="AR  | PALESTINE ◉ فـلـسـطـيـن",AR: PALASTINE 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301483
-#EXTINF:-1 tvg-id="" tvg-name="AR: PALASTINE HD" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/PALASTINE%20/palestinian-satellite-channel-ps.png" group-title="AR  | PALESTINE ◉ فـلـسـطـيـن",AR: PALASTINE HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301482
-#EXTINF:-1 tvg-id="" tvg-name="AR: PALASTINE TODAY" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/PALASTINE%20/PALASTINE%20TODAY.png" group-title="AR  | PALESTINE ◉ فـلـسـطـيـن",AR: PALASTINE TODAY
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301477
-#EXTINF:-1 tvg-id="" tvg-name="AR: FALASTINI TV" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/PALASTINE%20/FALASTINI-TV.png" group-title="AR  | PALESTINE ◉ فـلـسـطـيـن",AR: FALASTINI TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301476
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALQUDS TODAY TV" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/PALASTINE%20/ALQUDS-TODAY.PNG" group-title="AR  | PALESTINE ◉ فـلـسـطـيـن",AR: ALQUDS TODAY TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301475
-#EXTINF:-1 tvg-id="" tvg-name="AR: MUSAWA 4K" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/PALASTINE%20/musawa-ps.png" group-title="AR  | PALESTINE ◉ فـلـسـطـيـن",AR: MUSAWA 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301474
-#EXTINF:-1 tvg-id="" tvg-name="AR: MUSAWA" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/PALASTINE%20/musawa-ps.png" group-title="AR  | PALESTINE ◉ فـلـسـطـيـن",AR: MUSAWA
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301473
-#EXTINF:-1 tvg-id="" tvg-name="AR: AWDEH 4K" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/PALASTINE%20/AWDEH%204K.png" group-title="AR  | PALESTINE ◉ فـلـسـطـيـن",AR: AWDEH 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301472
+#EXTINF:-1 tvg-id="" tvg-name="Syria News" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/05/%D9%84%D9%88%D8%BA%D9%88.jpg" group-title="SYRIA",Syria News
+http://portal.alliptvapp.com:8080/391127133096/633622290793/363
+#EXTINF:-1 tvg-id="鬲賱賮夭賷賵賳 爻賵乇賷丕" tvg-name="Syria 1 TV" tvg-logo="https://www.syria.tv/themes/custom/syriatv/images/defimage.png" group-title="SYRIA",Syria 1 TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/361
+#EXTINF:-1 tvg-id="" tvg-name="Syria 2 TV" tvg-logo="https://www.fadaatmedia.com/sites/default/files/styles/news_image_full_view_880x495/public/2025-03/amman%20image%20edited_.png?itok=gaa2co5E" group-title="SYRIA",Syria 2 TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/7753
+#EXTINF:-1 tvg-id="Syria TV HD" tvg-name="AlSouria TV" tvg-logo="https://www.syria.tv/sites/default/files/styles/thumb_/public/2026-02/637668959_1442508397620742_4263312088479355882_n.jpg?h=8e592bf4&itok=BbzimV91" group-title="SYRIA",AlSouria TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/362
+#EXTINF:-1 tvg-id="" tvg-name="Ana Syria TV" tvg-logo="https://www.annahar.com/Assets/ContentPhotos/Photos/images_153215.webp?width=1416&height=805&mode=crop&scale=both" group-title="SYRIA",Ana Syria TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/366
+#EXTINF:-1 tvg-id="" tvg-name="Prime TV" tvg-logo="https://www.arabisklondon.com/wp-content/uploads/2025/12/G8b5y5_XAAAIjJf.jpg" group-title="SYRIA",Prime TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/364
+#EXTINF:-1 tvg-id="" tvg-name="Lana TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwS6heXp9Mo_HAcAK50K7_X1pH_tKgAFo2vJL7g-tEQNOO94e6OWSey-ej&s=10" group-title="SYRIA",Lana TV HD
+http://portal.alliptvapp.com:8080/391127133096/633622290793/359
+#EXTINF:-1 tvg-id="" tvg-name="Syria Al Youm" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/%D9%81%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%8A%D9%88%D9%85.jpg/250px-%D9%81%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%8A%D9%88%D9%85.jpg?utm_source=www.wikidata.org&utm_campaign=index&utm_content=thumbnail" group-title="SYRIA",Syria Al Youm
+http://portal.alliptvapp.com:8080/391127133096/633622290793/70457
+#EXTINF:-1 tvg-id="" tvg-name="Misk Syria TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_RRef86vxC5c8OHKvb-Qo14JeancmUmYZwOVBYZSnJQ&s=10" group-title="SYRIA",Misk Syria TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/57202
 
-#EXTINF:-1 tvg-id="" tvg-name="AR: JORDAN HD" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/JORDON/jordan-tv-jo.png" group-title="AR  | JORDAN ◉ الأردن",AR: JORDAN HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301438
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALMAMLAKA 4K" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/JORDON/al-mamlaka-tv-jo.png" group-title="AR  | JORDAN ◉ الأردن",AR: ALMAMLAKA 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301441
-#EXTINF:-1 tvg-id="" tvg-name="AR: AMMAN TV" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/JORDON/AMMAN-TV.PNG" group-title="AR  | JORDAN ◉ الأردن",AR: AMMAN TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301440
-#EXTINF:-1 tvg-id="" tvg-name="AR: ROYA 4K" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/JORDON/ROYA-4K.PNG" group-title="AR  | JORDAN ◉ الأردن",AR: ROYA 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301444
-#EXTINF:-1 tvg-id="" tvg-name="AR: YARMOUK TV" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/JORDON/YARMOUK.PNG" group-title="AR  | JORDAN ◉ الأردن",AR: YARMOUK TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/301443
+#EXTINF:-1 tvg-id="" tvg-name="Palestine TV" tvg-logo="https://www.lyngsat.com/logo/tv/pp/palestinian-satellite-channel-ps.png" group-title="PALESTINE",Palestine TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/507
+#EXTINF:-1 tvg-id="" tvg-name="Palestine Mubasher TV" tvg-logo="https://alliptv.tv/wp-content/uploads/2021/03/Plaestine-Mubasher-TV.jpg" group-title="PALESTINE",Palestine Mubasher TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/508
+#EXTINF:-1 tvg-id="" tvg-name="Palestine Today" tvg-logo="https://imemc.org/wp-content/uploads/mar2016/palestinetoday.jpg" group-title="PALESTINE",Palestine Today
+http://portal.alliptvapp.com:8080/391127133096/633622290793/511
+#EXTINF:-1 tvg-id="" tvg-name="Al Quds Al Youm TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-quds-today-tv-ps.png" group-title="PALESTINE",Al Quds Al Youm TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/516
+#EXTINF:-1 tvg-id="" tvg-name="Falestinina TV" tvg-logo="https://palsawa.com/uploads/images/cPIfR.png" group-title="PALESTINE",Falestinina TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/522
+#EXTINF:-1 tvg-id="" tvg-name="Al Kofiah TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alkofiya-tv-ps.png" group-title="PALESTINE",Al Kofiah TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/524
+#EXTINF:-1 tvg-id="" tvg-name="Rajeen TV" tvg-logo="https://www.rajeen.tv/logo.png" group-title="PALESTINE",Rajeen TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/77484
+#EXTINF:-1 tvg-id="" tvg-name="Hala TV" tvg-logo="https://www.adalah.org/uploads/uploads/a61a3f7e9c58663a74b22faf74ce377a.jpg" group-title="PALESTINE",Hala TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/513
+#EXTINF:-1 tvg-id="" tvg-name="Oudeh TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/awdeh-ps.png" group-title="PALESTINE",Oudeh TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/520
+#EXTINF:-1 tvg-id="" tvg-name="Al Etihad TV" tvg-logo="https://treatmeglutenfree.com/wp-content/uploads/2023/05/1-1.png" group-title="PALESTINE",Al Etihad TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/510
+#EXTINF:-1 tvg-id="" tvg-name="Musawah TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/musawa-ps.png" group-title="PALESTINE",Musawah TV
+http://portal.alliptvapp.com:8080/391127133096/633622290793/517
 
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALMANAR TV" tvg-logo="http://pic.apkdt.co/pic/Lebanon/Almanar.png" group-title="AR  | LEBANON ◉ لـبـنـان",AR: ALMANAR TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/263686
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALMAYADEEN TV" tvg-logo="http://pic.apkdt.co/pic/Logo/News/31.png" group-title="AR  | LEBANON ◉ لـبـنـان",AR: ALMAYADEEN TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/263679
-#EXTINF:-1 tvg-id="" tvg-name="AR: MTV LEBANON HD" tvg-logo="http://pic.apkdt.co/pic/Lebanon/Mtv.png" group-title="AR  | LEBANON ◉ لـبـنـان",AR: MTV LEBANON HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/263706
-#EXTINF:-1 tvg-id="" tvg-name="AR: LBC HD" tvg-logo="http://pic.apkdt.co/pic/Lebanon/LBC.png" group-title="AR  | LEBANON ◉ لـبـنـان",AR: LBC HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/263704
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALJADEED TV 4K" tvg-logo="http://pic.apkdt.co/pic/Lebanon/Aljadeed.png" group-title="AR  | LEBANON ◉ لـبـنـان",AR: ALJADEED TV 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/263709
-#EXTINF:-1 tvg-id="" tvg-name="AR: MTV LEBANON 4K" tvg-logo="http://pic.apkdt.co/pic/Lebanon/Mtv.png" group-title="AR  | LEBANON ◉ لـبـنـان",AR: MTV LEBANON 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/263707
-#EXTINF:-1 tvg-id="" tvg-name="AR: TELELIBAN 4K" tvg-logo="http://pic.apkdt.co/pic/Lebanon/TVLEB.png" group-title="AR  | LEBANON ◉ لـبـنـان",AR: TELELIBAN 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/263693
-
-#EXTINF:-1 tvg-id="" tvg-name="AR: ON E HD" tvg-logo="https://media0043.elcinema.com/tvguide/1203_1.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ON E HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265333
-#EXTINF:-1 tvg-id="" tvg-name="AR: MBC MASR" tvg-logo="https://i.postimg.cc/x1qzv4fk/MBC-Masr-Logo-svg.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: MBC MASR
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265343
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALOULA 4K" tvg-logo="https://media0101.elcinema.com/tvguide/1101_1.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALOULA 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265337
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALOULA HD" tvg-logo="https://media0101.elcinema.com/tvguide/1101_1.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALOULA HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265336
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALTHANYA HD" tvg-logo="http://go4.pw/AFRICA/EGYPT/ALTHANYA.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALTHANYA HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265335
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALMASRYIA 4K" tvg-logo="http://go4.pw/AFRICA/EGYPT/ALMASRIYA.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALMASRYIA 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265339
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALKAHERA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/183.jpg?65394" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALKAHERA
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265330
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALKANAL" tvg-logo="https://i.ibb.co/Tq2Z6s5V/265329-ar-alkanal.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALKANAL
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265329
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALASKANDRIA" tvg-logo="https://i.ibb.co/fzfPGzn0/265328-ar-alaskandria.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALASKANDRIA
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265328
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALDELTA" tvg-logo="https://toppng.com/uploads/preview/delta-air-lines-logo-11530965020d6fvxjfoom.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALDELTA
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265327
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALSA3EED" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12776.png?16355" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALSA3EED
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265326
-#EXTINF:-1 tvg-id="" tvg-name="AR: TEBA" tvg-logo="https://i.ibb.co/kZrjkw1/265325-ar-teba.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: TEBA
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265325
-#EXTINF:-1 tvg-id="" tvg-name="AR: EXTRA NEWS 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/262.jpg" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: EXTRA NEWS 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265320
-
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALQAHERA NEWS 4K" tvg-logo="http://go4.pw/EGYPT/ALQAHERA-NEWS.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALQAHERA NEWS 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265318
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALQAHERA NEWS HD" tvg-logo="http://go4.pw/EGYPT/ALQAHERA-NEWS.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALQAHERA NEWS HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265317
-#EXTINF:-1 tvg-id="" tvg-name="AR: CBC" tvg-logo="http://go4.pw/AFRICA/EGYPT/CBC.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: CBC
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265312
-#EXTINF:-1 tvg-id="" tvg-name="AR: CBC DRAMA" tvg-logo="http://go4.pw/AFRICA/EGYPT/CBCDRAMA.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: CBC DRAMA
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265311
-#EXTINF:-1 tvg-id="" tvg-name="AR: CBC SOFRA" tvg-logo="http://go4.pw/AFRICA/EGYPT/CBCSOFRA.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: CBC SOFRA
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265310
-#EXTINF:-1 tvg-id="" tvg-name="AR: AL HAYAT 4K" tvg-logo="http://go4.pw/AFRICA/EGYPT/ALHAYATRED.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: AL HAYAT 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265309
-#EXTINF:-1 tvg-id="" tvg-name="AR: AL HAYAT HD" tvg-logo="http://go4.pw/AFRICA/EGYPT/ALHAYATRED.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: AL HAYAT HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265308
-#EXTINF:-1 tvg-id="" tvg-name="AR: AL HAYAT MUSALSALAT HD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6707.jpg" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: AL HAYAT MUSALSALAT HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265307
-#EXTINF:-1 tvg-id="" tvg-name="AR: AL HAYAT 2 HD" tvg-logo="http://go4.pw/AFRICA/EGYPT/ALHAYATRED.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: AL HAYAT 2 HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265306
-#EXTINF:-1 tvg-id="" tvg-name="AR: DMC 4K" tvg-logo="http://go4.pw/AFRICA/EGYPT/DMC.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: DMC 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265304
-#EXTINF:-1 tvg-id="" tvg-name="AR: DMC HD" tvg-logo="http://go4.pw/AFRICA/EGYPT/DMC.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: DMC HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265303
-#EXTINF:-1 tvg-id="" tvg-name="AR: NILE CULTURE" tvg-logo="http://go4.pw/AFRICA/EGYPT/NILE.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: NILE CULTURE
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265287
-#EXTINF:-1 tvg-id="" tvg-name="AR: NILE NEWS HD" tvg-logo="http://go4.pw/AFRICA/EGYPT/NILE.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: NILE NEWS HD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265286
-#EXTINF:-1 tvg-id="" tvg-name="AR: MEKAMEKEEN TV" tvg-logo="http://go4.pw/AFRICA/EGYPT/MEKAMELEEN.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: MEKAMEKEEN TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265268
-#EXTINF:-1 tvg-id="" tvg-name="AR: WATAN TV" tvg-logo="http://go4.pw/AFRICA/EGYPT/WATANTV.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: WATAN TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/265267
-
-#EXTINF:-1 tvg-id="" tvg-name="AR: SUDAN MUSIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Animated-Flag-Russia.gif" group-title="AR  | MAURITANIA & SUDAN 4K ◉  الـسـودان - مـوريـتـانـيـا",AR: SUDAN MUSIC
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/282495
-#EXTINF:-1 tvg-id="" tvg-name="AR: KHARTOUM TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1136.jpg" group-title="AR  | MAURITANIA & SUDAN 4K ◉  الـسـودان - مـوريـتـانـيـا",AR: KHARTOUM TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/277805
-#EXTINF:-1 tvg-id="" tvg-name="AR: SUDAN TV" tvg-logo="https://s12.gifyu.com/images/SVAjg.png" group-title="AR  | MAURITANIA & SUDAN 4K ◉  الـسـودان - مـوريـتـانـيـا",AR: SUDAN TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/277803
-#EXTINF:-1 tvg-id="" tvg-name="AR: TAYBA TV" tvg-logo="https://i.ibb.co/wNr2ZxM5/277801-ar-tayba-tv.png" group-title="AR  | MAURITANIA & SUDAN 4K ◉  الـسـودان - مـوريـتـانـيـا",AR: TAYBA TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/277801
-#EXTINF:-1 tvg-id="" tvg-name="LIBYA Al YOUM" tvg-logo="" group-title="AR  | LIBYA ◉ لـيـبـيـا",LIBYA Al YOUM
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/548717
-#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA WTV 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7700.jpg?50306" group-title="AR  | LIBYA ◉ لـيـبـيـا",AR: LIBYA WTV 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/338579
-#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA WTV SD" tvg-logo="https://s12.gifyu.com/images/SV683.png" group-title="AR  | LIBYA ◉ لـيـبـيـا",AR: LIBYA WTV SD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/338578
-#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA EDUCATION" tvg-logo="https://image.mobazzz.com/?img=http://138.199.27.237:8080/ISLAMIC/TANASOH.png" group-title="AR  | LIBYA ◉ لـيـبـيـا",AR: LIBYA EDUCATION
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/338576
-#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA ALWATANYA 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/186.png" group-title="AR  | LIBYA ◉ لـيـبـيـا",AR: LIBYA ALWATANYA 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/338575
-#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA ALRASMIA" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/LIBYA/LIBYA-ALRASMIA.png" group-title="AR  | LIBYA ◉ لـيـبـيـا",AR: LIBYA ALRASMIA
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/338574
-#EXTINF:-1 tvg-id="" tvg-name="AR: AL JAMAHIRIYA TV" tvg-logo="https://i.ibb.co/Q0XFYDm/338573-ar-al-jamahiriya-tv.png" group-title="AR  | LIBYA ◉ لـيـبـيـا",AR: AL JAMAHIRIYA TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/338573
-#EXTINF:-1 tvg-id="" tvg-name="AR: ALLIBIYA TV" tvg-logo="https://i.ibb.co/whhCqdWh/338572-ar-allibiya-tv.png" group-title="AR  | LIBYA ◉ لـيـبـيـا",AR: ALLIBIYA TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/338572
-#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA ALAHRAR 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/280.jpg" group-title="AR  | LIBYA ◉ لـيـبـيـا",AR: LIBYA ALAHRAR 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/338571
-#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA ABU SURRA TV" tvg-logo="" group-title="AR  | LIBYA ◉ لـيـبـيـا",AR: LIBYA ABU SURRA TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/338570
-#EXTINF:-1 tvg-id="" tvg-name="AR: Libya Alhadath TV" tvg-logo="https://s9.gifyu.com/images/SV6xU.png" group-title="AR  | LIBYA ◉ لـيـبـيـا",AR: Libya Alhadath TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/338569
-#EXTINF:-1 tvg-id="" tvg-name="AR: NEW LIBYA TV" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nlc.png" group-title="AR  | LIBYA ◉ لـيـبـيـا",AR: NEW LIBYA TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/338568
-#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA ALMASAR TV 4K" tvg-logo="" group-title="AR  | LIBYA ◉ لـيـبـيـا",AR: LIBYA ALMASAR TV 4K
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/338567
-#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA ALMASAR SD" tvg-logo="https://s12.gifyu.com/images/SV4Y9.png" group-title="AR  | LIBYA ◉ لـيـبـيـا",AR: LIBYA ALMASAR SD
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/338566
-#EXTINF:-1 tvg-id="" tvg-name="AR: LIBYA IFTA TV" tvg-logo="" group-title="AR  | LIBYA ◉ لـيـبـيـا",AR: LIBYA IFTA TV
-http://dana8kone.com:8080/Sbhanmansor/01g2f8070/338565
 #EXTINF:-1 tvg-id="" tvg-name="AR: TANASUH EDUCATION TV" tvg-logo="https://image.mobazzz.com/?img=http://138.199.27.237:8080/ISLAMIC/TANASOH.png" group-title="AR  | LIBYA ◉ لـيـبـيـا",AR: TANASUH EDUCATION TV
 http://dana8kone.com:8080/Sbhanmansor/01g2f8070/338563
 #EXTINF:-1 tvg-id="" tvg-name="AR: AL ASRAR TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14614.png?61951" group-title="AR  | LIBYA ◉ لـيـبـيـا",AR: AL ASRAR TV
