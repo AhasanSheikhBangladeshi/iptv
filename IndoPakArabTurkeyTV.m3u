@@ -269,3 +269,80 @@ http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/301312.ts
 http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/301318.ts
 #EXTINF:-1 tvg-id="AlLahdahTV.ye@SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/allahdhah-tv-ye.png" group-title="Yemen",Al Lahdah TV
 http://cf-dana.com:8080/live/250abbc3c/8c6afb9de/301316.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA SATELLITE ✦" tvg-logo="https://s9.gifyu.com/images/SV8LP.png" group-title="AR  | SYRIA ◉ سـوريا",AR: SYRIA SATELLITE ✦
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/153989
+#EXTINF:-1 tvg-id="" tvg-name="AR: LANA TV" tvg-logo="http://pic.apkdt.co/pic/Syria/lANATV.png" group-title="AR  | SYRIA ◉ سـوريا",AR: LANA TV
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/263655
+#EXTINF:-1 tvg-id="" tvg-name="AR: HALAB TODAY HD" tvg-logo="http://pic.apkdt.co/pic/Syria/HalabToday.png" group-title="AR  | SYRIA ◉ سـوريا",AR: HALAB TODAY HD
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/263646
+#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA 2 HD" tvg-logo="https://i.postimg.cc/mrJrBdvw/24SYRIA.png" group-title="AR  | SYRIA ◉ سـوريا",AR: SYRIA 2 HD
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/282871
+#EXTINF:-1 tvg-id="" tvg-name="SY : ANA SYRIA 4K" tvg-logo="https://i.postimg.cc/4y2FfqSC/7jgh-ETLR.jpg" group-title="AR  | SYRIA ◉ سـوريا",SY : ANA SYRIA 4K
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/457845
+#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA NEWS 4K" tvg-logo="http://pic.apkdt.co/pic/Syria/NewsS.png" group-title="AR  | SYRIA ◉ سـوريا",AR: SYRIA NEWS 4K
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/263642
+#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA HD" tvg-logo="http://pic.apkdt.co/pic/Syria/SriaFree.png" group-title="AR  | SYRIA ◉ سـوريا",AR: SYRIA HD
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/263648
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: SYRIA MISK TV" tvg-logo="http://pic.apkdt.co/pic/MiddleEast/Syria/SYRIADRAMA24.png" group-title="AR  | SYRIA ◉ سـوريا",AR: SYRIA MISK TV
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/263650
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALASTINE HD" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/PALASTINE%20/palestinian-satellite-channel-ps.png" group-title="AR  | PALESTINE ◉ فـلـسـطـيـن",AR: PALASTINE HD
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/301482
+#EXTINF:-1 tvg-id="" tvg-name="AR: PALASTINE TODAY" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/PALASTINE%20/PALASTINE%20TODAY.png" group-title="AR  | PALESTINE ◉ فـلـسـطـيـن",AR: PALASTINE TODAY
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/301477
+#EXTINF:-1 tvg-id="" tvg-name="AR: FALASTINI TV" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/PALASTINE%20/FALASTINI-TV.png" group-title="AR  | PALESTINE ◉ فـلـسـطـيـن",AR: FALASTINI TV
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/301476
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALQUDS TODAY TV" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/PALASTINE%20/ALQUDS-TODAY.PNG" group-title="AR  | PALESTINE ◉ فـلـسـطـيـن",AR: ALQUDS TODAY TV
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/301475
+#EXTINF:-1 tvg-id="" tvg-name="AR: MUSAWA 4K" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/PALASTINE%20/musawa-ps.png" group-title="AR  | PALESTINE ◉ فـلـسـطـيـن",AR: MUSAWA 4K
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/301474
+#EXTINF:-1 tvg-id="" tvg-name="AR: NABLUS TV" tvg-logo="http://pic.apkdt.co/pic/temu/arabic/PALASTINE%20/NABLUS%20TV.png" group-title="AR  | PALESTINE ◉ فـلـسـطـيـن",AR: NABLUS TV
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/301464
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALOULA HD" tvg-logo="https://media0101.elcinema.com/tvguide/1101_1.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALOULA HD
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/265336
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALTHANYA HD" tvg-logo="http://go4.pw/AFRICA/EGYPT/ALTHANYA.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALTHANYA HD
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/265335
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALMASRYIA 4K" tvg-logo="http://go4.pw/AFRICA/EGYPT/ALMASRIYA.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALMASRYIA 4K
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/265339
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALMASRYIA HD" tvg-logo="http://go4.pw/AFRICA/EGYPT/ALMASRIYA.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALMASRYIA HD
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/265338
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALKAHERA" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/183.jpg?65394" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALKAHERA
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/265330
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALKANAL" tvg-logo="https://i.ibb.co/Tq2Z6s5V/265329-ar-alkanal.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALKANAL
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/265329
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALASKANDRIA" tvg-logo="https://i.ibb.co/fzfPGzn0/265328-ar-alaskandria.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALASKANDRIA
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/265328
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALDELTA" tvg-logo="https://toppng.com/uploads/preview/delta-air-lines-logo-11530965020d6fvxjfoom.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALDELTA
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/265327
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALSA3EED" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12776.png?16355" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALSA3EED
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/265326
+#EXTINF:-1 tvg-id="" tvg-name="AR: TEBA" tvg-logo="https://i.ibb.co/kZrjkw1/265325-ar-teba.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: TEBA
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/265325
+#EXTINF:-1 tvg-id="" tvg-name="AR: EXTRA NEWS 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/262.jpg" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: EXTRA NEWS 4K
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/265320
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALQAHERA NEWS HD" tvg-logo="http://go4.pw/EGYPT/ALQAHERA-NEWS.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALQAHERA NEWS HD
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/265317
+#EXTINF:-1 tvg-id="" tvg-name="AR: ALNAHAR CINEMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-Italy.gif" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: ALNAHAR CINEMA HD
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/265315
+#EXTINF:-1 tvg-id="" tvg-name="AR: CBC" tvg-logo="http://go4.pw/AFRICA/EGYPT/CBC.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: CBC
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/265312
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL HAYAT HD" tvg-logo="http://go4.pw/AFRICA/EGYPT/ALHAYATRED.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: AL HAYAT HD
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/265308
+#EXTINF:-1 tvg-id="" tvg-name="AR: DMC HD" tvg-logo="http://go4.pw/AFRICA/EGYPT/DMC.png" group-title="AR  | EGYPT ◉ مـِــــصـــــر",AR: DMC HD
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/265303
+#EXTINF:-1 tvg-id="" tvg-name="AR: KHARTOUM TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1136.jpg" group-title="AR  | MAURITANIA & SUDAN 4K ◉  الـسـودان - مـوريـتـانـيـا",AR: KHARTOUM TV
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/277805
+#EXTINF:-1 tvg-id="" tvg-name="AR: MEDINA TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13396.png?71850" group-title="AR  | MAURITANIA & SUDAN 4K ◉  الـسـودان - مـوريـتـانـيـا",AR: MEDINA TV
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/266076
+#EXTINF:-1 tvg-id="" tvg-name="AR: Sahara24" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/D24.png" group-title="AR  | MAURITANIA & SUDAN 4K ◉  الـسـودان - مـوريـتـانـيـا",AR: Sahara24
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/266086
+#EXTINF:-1 tvg-id="" tvg-name="AR: SAHEL TV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/343.png?31326" group-title="AR  | MAURITANIA & SUDAN 4K ◉  الـسـودان - مـوريـتـانـيـا",AR: SAHEL TV
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/266074
+#EXTINF:-1 tvg-id="" tvg-name="AR: SUDAN BASIC EDU" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/464.jpg?69112" group-title="AR  | MAURITANIA & SUDAN 4K ◉  الـسـودان - مـوريـتـانـيـا",AR: SUDAN BASIC EDU
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/277800
+#EXTINF:-1 tvg-id="" tvg-name="AR: SUDAN SECONDARY EDU" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/464.jpg?69112" group-title="AR  | MAURITANIA & SUDAN 4K ◉  الـسـودان - مـوريـتـانـيـا",AR: SUDAN SECONDARY EDU
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/277799
+#EXTINF:-1 tvg-id="" tvg-name="AR: SUDAN TV" tvg-logo="https://s12.gifyu.com/images/SVAjg.png" group-title="AR  | MAURITANIA & SUDAN 4K ◉  الـسـودان - مـوريـتـانـيـا",AR: SUDAN TV
+http://cf-dana.com:8080/250abbc3c/8c6afb9de/277803
